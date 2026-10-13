@@ -74,9 +74,10 @@ leiser Vorgriff auf die Flucht-Lösung (→ Kapitel 4).
 
 ### Szenario D · 🔀 Ganz anders: Die Gruppe entdeckt Malrik vor dem Ritual
 
-Belohne das: Sie sehen, wie er in den Keller der Festhalle schlüpft.
-Folgen sie ihm, finden sie den **Ritualkreis in Vorbereitung** – das
-Ritual startet dann sofort (früher als geplant, Malrik ist nervös,
+Belohne das: Sie sehen, wie er auf der noch leeren Tanzfläche
+Silberstaub in die Fugen des Bodens streut. Stellen sie ihn, liegt der
+**Ritualkreis schon bereit** – das Ritual startet dann sofort, mitten
+im Saal (früher als geplant, Malrik ist nervös,
 2 Kultisten weniger als in Kapitel 2 angegeben). Weiter mit Kapitel 2,
 Abschnitt „Ritual unterbrochen?".
 
@@ -85,5 +86,5 @@ Abschnitt „Ritual unterbrochen?".
 ## Übergang
 
 Sobald die Stimmung am Höhepunkt ist (Siegerehrung der Festspiele
-bietet sich an): **Die Lichter flackern. Die Musik stirbt. Aus dem
-Keller steigt violetter Rauch.** → Kapitel 2.
+bietet sich an): **Der graue Pilger tritt in die Mitte der Tanzfläche.
+Die Lichter flackern. Die Musik stirbt.** → Kapitel 2.

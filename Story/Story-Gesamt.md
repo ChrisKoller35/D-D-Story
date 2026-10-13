@@ -22,9 +22,10 @@ fast zu perfekt.
 
 ## Akt 2: Das Ritual und der Dämon
 
-Auf dem Höhepunkt des Fests vollendet der Ritualist **Malrik der
-Aschenpriester** im Keller unbemerkt sein Ritual, und der Dämon wird
-**mitten auf die Party** beschworen. Das Ritual lässt sich **nicht
+Auf dem Höhepunkt des Fests tritt der Ritualist **Malrik der
+Aschenpriester** offen auf die Tanzfläche und wirkt sein Ritual
+**mitten auf der Party**. Der Dämon wird direkt zwischen die Gäste
+beschworen – wenn es eskaliert, gibt es hier das größte Gemetzel. Das Ritual lässt sich **nicht
 aufhalten**: Es bricht das 5.000 Jahre alte
 Siegel unter der Festhalle, und der Dämon **Vorgazhul, der
 Spiegelherr** erscheint – **unendlich stark** und geschützt durch den

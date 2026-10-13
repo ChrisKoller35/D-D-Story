@@ -26,7 +26,7 @@ wartet, bis der Schild 10 Aufladungen hat.*
 | Sprachen | alle (spricht mit der Stimme des Zuhörers) |
 
 **Leylinien-Anker:** Vorgazhul ist an den Ritualort (den alten
-Siegelstein unter der Festhalle bzw. dort, wo das Ritual stattfand)
+Leylinien-Knoten unter der Festhalle bzw. dort, wo das Ritual stattfand)
 gebunden; max. 150 m Entfernung.
 
 **Spiegelschild (Kernmechanik):** 10 Aufladungen, Reflexion, Hunger
@@ -60,7 +60,7 @@ setzt sich am Ende der nächsten Runde mit 95 TP an einem Spiegel neu
 zusammen. Endet erst durch das Siegel-Ritual.
 
 **Leylinien-Anker:** Gebunden an Sommerhall (die Spiegelkuppel ist
-sein Reich). Wird der Ritualkreis im Keller zerstört (→ Finale,
+sein Reich). Wird der Ritualkreis auf der Tanzfläche zerstört (→ Finale,
 Szenario G), verliert er Wahre Sicht und die Rettungswurf-Boni
 (alle Rettungswürfe nur noch mit Attributsmodifikator).
 

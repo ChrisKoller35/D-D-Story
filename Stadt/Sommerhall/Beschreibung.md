@@ -11,10 +11,10 @@ Flüsschen mit drei Mühlen.
 
 **Dunkles Detail (weiß niemand mehr):** Sommerhall wurde auf einem
 **Leylinien-Knoten** erbaut – deshalb gedeiht hier alles. Genau hier
-wurde vor 5.000 Jahren Vorgazhul in den Stein gebannt; der alte
-**Siegelstein** liegt unter dem Keller der Großen Festhalle und reicht
-bis unter den halben Marktplatz. Deshalb hat Malrik diesen Ort
-gewählt.
+wurde vor 5.000 Jahren Vorgazhul gebannt. Der Knoten liegt unter der
+Großen Festhalle und reicht bis unter den halben Marktplatz. Deshalb
+hat Malrik diesen Ort gewählt – und das Fest, weil dort die meisten
+Menschen beisammen sind.
 
 ## Wichtige Personen
 

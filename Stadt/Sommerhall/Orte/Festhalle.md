@@ -1,6 +1,7 @@
 # Die Große Festhalle (Sommerhall)
 
-Schauplatz von Fest (Akt 1), Ritual (Akt 2) und Finale (Akt 7).
+Schauplatz von Fest (Akt 1), Ritual auf der Tanzfläche (Akt 2) und
+Finale (Akt 7).
 
 ## Obergeschoss / Hauptsaal
 
@@ -25,15 +26,19 @@ ihn (+1 Aufladung). Evakuierungs-Regeln →
 
 ## Keller
 
-Bierkeller (Fässer, Rampe) und dahinter ein alter Gewölberaum, von
-dem niemand mehr weiß, wozu er einst diente: **der Leylinien-Knoten**
-mit dem 5.000 Jahre alten **Siegelstein**, in den Vorgazhul einst
-gebannt wurde.
-Hier zeichnet Malrik seinen Kreis aus Asche und geschmolzenem Silber
+Bierkeller (Fässer, Rampe) mit dem Kellerausgang zum Hof. Darunter,
+tief im Boden und von niemandem mehr erinnert: **der Leylinien-Knoten**,
+an dem Vorgazhul vor 5.000 Jahren gebannt wurde.
+
+## Die Tanzfläche (Ritualort)
+
+Mitten im Hauptsaal, direkt über dem Knoten. Hier streut Malrik in den
+Tagen vor dem Fest seinen Kreis aus Asche und Silberstaub in die Fugen
+des Bodens, und hier wirkt er das Ritual **offen auf der Party**
 (→ `Feinde/Ritualist-Malrik/`, `Story/Erzaehler/02-Ritual-und-Daemon.md`).
 
-**Im Finale:** Der Ritualkreis existiert noch und ankert Vorgazhul
-(→ `Feinde/Daemon-Vorgazhul/Stats/Stats.md`, „Leylinien-Anker").
-Ihn zu zerstören (2 Aktionen Scheuern/Weihen) schwächt den Dämon –
-aber der Keller ist im Finale von Spiegelglas überwuchert und
-unheimlich: Wer hineingeht, trennt die Gruppe...
+**Im Finale:** Der Ritualkreis glüht noch im Boden der Tanzfläche und
+ankert Vorgazhul (→ `Feinde/Daemon-Vorgazhul/Stats/Stats.md`,
+„Leylinien-Anker"). Ihn zu zerstören (2 Aktionen Scheuern/Weihen)
+schwächt den Dämon – aber er liegt genau dort, wo Vorgazhul kämpft.
+Wer sich darum kümmert, steht mitten im Kampfgetümmel...

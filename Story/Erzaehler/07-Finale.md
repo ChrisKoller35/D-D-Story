@@ -154,8 +154,8 @@ außerhalb des Weltenspiegels war – oder als einziger Mensch, den
 Vorgazhul verschont hat). Wird er im Kampf bekehrt oder befreit
 (Überzeugen DC 16 mit gutem Rollenspiel), sabotiert er den
 Leylinien-Anker: Das Siegel-Ritual braucht nur noch 2 Aktionen statt
-3. Zerstören sie den Ritualkreis im Keller während des Kampfes
-(Trupp-Teilung!), verliert Vorgazhul seine Ortsbindung-Boni
+3. Zerstören sie den Ritualkreis im Boden der Tanzfläche während
+des Kampfes (mitten im Getümmel!), verliert Vorgazhul seine Ortsbindung-Boni
 (→ Stats, „Leylinien-Anker").
 
 ### Szenario H · 🔀 Ganz anders: Sie wollen Vorgazhul bannen statt töten

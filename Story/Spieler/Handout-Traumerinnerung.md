@@ -12,8 +12,9 @@ Brot. Es ist der Morgen vor dem Fest.
 **Aber du erinnerst dich. An alles.**
 
 - An das Fest, die Spiele, das Lachen.
-- An den grauen Pilger, der im Keller der Festhalle kniete, und an
-  den Riss aus Licht über dem Kreis aus Asche und Silber.
+- An den grauen Pilger, der mitten in der Siegerehrung auf die
+  Tanzfläche trat, an die vier Gäste mit Silbermasken, und an den Riss
+  aus Licht über dem Kreis aus Asche und Silber.
 - An das Ding, das hindurchstieg. Es nannte sich **der Spiegel eurer
   Taten**. Jeder Hieb gegen ihn traf den, der ihn führte. Jeder
   Treffer ließ etwas Furchtbares geschehen. Und mit jedem Treffer
@@ -30,5 +31,5 @@ Dann: Morgenlicht. Vogelgezwitscher. Frisches Brot.
 Niemand sonst scheint sich zu erinnern. Für alle anderen ist heute
 ein ganz normaler, wunderschöner Festtag.
 
-*Du weißt, was heute Abend im Keller der Festhalle beginnt.*
+*Du weißt, was heute Abend mitten auf dem Fest beginnt.*
 *Die Frage ist: Was machst du jetzt damit?*

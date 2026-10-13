@@ -98,8 +98,9 @@ Das Ritual überzeugt sie dann endgültig.
 
 Baldric absagen lassen? Festhalle anzünden? (Abenteurer...) Das Fest
 kann tatsächlich abgesagt werden – **aber Malrik braucht nicht das
-Fest, nur den Ort**: Unter der Festhalle liegt der alte Siegelstein
-(Leylinien-Knoten). Das Ritual passiert dann in einer leeren Halle –
+Fest, nur den Ort**: Unter der Festhalle liegt der Leylinien-Knoten,
+an dem Vorgazhul einst gebannt wurde. Das Ritual passiert dann in
+einer leeren Halle –
 weniger Tote in der Halle (gut!), gleicher Dämon (schlecht). Achtung:
 Die **Stadt** ist damit noch nicht gerettet – der Weltenspiegel reicht
 1 km weit. Die Stadt macht die Helden ggf. für die Panik
@@ -108,7 +109,7 @@ verantwortlich – Drama für später.
 ### Szenario E · ➖ Leichte Abweichung: Sie bewachen die Festhalle, um die Kultisten aufzuhalten
 
 Wachen an allen Eingängen? Die Kultisten suchen sich einfach einen
-anderen Ort über dem Siegelstein: den Hof, den Marktplatz, eine
+anderen Ort über dem Leylinien-Knoten: den Hof, den Marktplatz, eine
 Scheune nebenan, notfalls unter freiem Himmel in der Nacht. Das
 Ritual findet statt. Was die Helden damit gewinnen: Sie können
 Kultisten abfangen (jeder gefangene Kultist = ein Opfergang weniger,

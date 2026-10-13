@@ -4,29 +4,36 @@
 
 ## Das Ritual
 
-**Malrik der Aschenpriester** (→ `Feinde/Ritualist-Malrik/`) wirkt im
-Keller der Festhalle das **Ritual der Spiegelung**, beschützt von
-**4 Kultisten** (→ `Feinde/Kultisten/`). Das Ritual dauert ab
-Entdeckung **3 Runden**.
+**Malrik der Aschenpriester** (→ `Feinde/Ritualist-Malrik/`) wirkt das
+**Ritual der Spiegelung** **offen, mitten auf der Party** im Festsaal
+der Großen Festhalle, beschützt von **4 Kultisten**
+(→ `Feinde/Kultisten/`), die bis dahin als Gäste unter den Feiernden
+saßen. Das Ritual dauert **3 Runden**. Genau dort, wo am meisten los
+ist – denn wenn es eskaliert, gibt es dort das größte Gemetzel.
 
-Was niemand mehr weiß: Unter dem Keller liegt der alte **Siegelstein**,
-mit dem Vorgazhul vor 5.000 Jahren gebannt wurde (→ Kapitel 5). Malriks
-Ritual beschwört ihn nicht neu – es **bricht das alte Siegel**. Der
+**Wie es abläuft:** Auf dem Höhepunkt des Fests (Siegerehrung) tritt
+der graue Pilger auf die Tanzfläche. Den Kreis aus Asche und
+Silberstaub hat er schon in den Tagen davor unauffällig in die Fugen
+des Tanzbodens gestreut. Die Kultisten werfen ihre Umhänge ab und
+setzen die Silbermasken auf. Viele Gäste halten das zuerst für einen
+Teil der Show.
+
+Was niemand mehr weiß: Unter der Festhalle liegt der Leylinien-Knoten,
+an dem Vorgazhul vor 5.000 Jahren gebannt wurde (→ Kapitel 5). Malriks
+Ritual beschwört ihn nicht neu – es **bricht den alten Bann**. Der
 Bann ist seit Wochen rissig (Malriks Vorarbeit); deshalb lässt sich das
 Ritual nicht mehr aufhalten.
 
-**Standard (und das Optimale): Das Ritual passiert mitten im Fest.**
-Malrik wirkt unbemerkt im Keller, aber der Riss öffnet sich **oben im
-Festsaal, mitten auf der Party** – genau über dem Siegelstein. Der
-Dämon wird direkt zwischen die Feiernden beschworen
-(→ Szenario A unten).
+Vorlesetext, wenn das Ritual beginnt:
 
-Vorlesetext, falls die Helden vorher in den Keller kommen:
-
-> In einem Kreis aus Asche und geschmolzenem Silber kniet der graue
-> Pilger. Seine Stimme ist keine Stimme mehr – sie ist ein Spalt in der
-> Welt. Über dem Kreis hängt ein Riss aus Licht, und in diesem Riss
-> bewegt sich etwas. Etwas, das euch bereits ansieht.
+> Mitten in Baldrics Rede tritt der graue Pilger auf die Tanzfläche.
+> Er hebt die Arme, und in den Fugen des Bodens glimmt ein Kreis aus
+> Asche und Silber auf. Vier Gäste an den Tischen stehen auf, werfen
+> ihre Umhänge ab – Masken aus Silber, ohne Augenlöcher. Jemand
+> klatscht, weil er es für eine Vorführung hält. Die Stimme des Pilgers
+> ist keine Stimme mehr – sie ist ein Spalt in der Welt. Über dem Kreis
+> öffnet sich ein Riss aus Licht, und in diesem Riss bewegt sich etwas.
+> Etwas, das euch bereits ansieht.
 
 ### Ritual unterbrochen?
 
@@ -43,11 +50,11 @@ gelingt, dürfen sie beeinflussen:
   bereits verbraucht-Markierung sichtbar** – die Spieler sehen dadurch
   früh, dass der Schild Aufladungen hat (guter Hinweis!).
 - **Niemand greift ein:** Ritual läuft voll durch, Standardversion.
-- **Der Keller wird bewacht oder versperrt:** Die Kultisten weichen aus –
-  der Siegelstein liegt unter der ganzen Festhalle und dem halben
-  Marktplatz. Dann eben im Hof, auf der Bühne oder mitten auf dem Markt.
-  Das Ritual findet statt, nur an einem anderen Ort (der Ritualort ist
-  dann Vorgazhuls Anker).
+- **Die Festhalle wird bewacht oder versperrt:** Die Kultisten weichen
+  aus – der Leylinien-Knoten reicht unter die ganze Festhalle und den
+  halben Marktplatz. Dann eben im Hof, auf dem Markt oder in der
+  Scheune nebenan. Das Ritual findet statt, nur an einem anderen Ort
+  (der Ritualort ist dann Vorgazhuls Anker).
 
 ## Vorgazhul, der Spiegelherr erscheint
 
@@ -143,10 +150,13 @@ wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.
 
 ### Szenario A · ⭐ Optimal: Der Dämon erscheint mitten auf der Party
 
-So ist es gedacht: Die Helden feiern, niemand stört Malrik im Keller,
-und das Ritual vollendet sich auf dem Höhepunkt des Fests (Siegerehrung
-der Festspiele, → Kapitel 1, Übergang). Vorgazhul wird **direkt auf die
-Party** beschworen – zwischen Langtafeln, Musikanten und 600 Gästen.
+So ist es gedacht: Die Helden feiern, und das Ritual findet auf dem
+Höhepunkt des Fests (Siegerehrung der Festspiele, → Kapitel 1,
+Übergang) **offen mitten auf der Party** statt. Die Helden sehen es
+zwar beginnen, aber in den 3 Runden zwischen 600 Gästen kommen sie
+nicht rechtzeitig durch. Vorgazhul wird **direkt auf die Party**
+beschworen – zwischen Langtafeln, Musikanten und Gästen. Hier, wo alle
+dicht gedrängt stehen, gibt es das größte Gemetzel, wenn es eskaliert.
 
 > Die Musik bricht mitten im Takt ab. Die Lichterketten flackern
 > violett. Auf der Tanzfläche, genau dort, wo eben noch Baldric die
@@ -186,9 +196,11 @@ Flucht!) oder „Ich tue euch nichts. Ich muss euch nichts tun."
 gehen." Wahr – er hält sie ja gar nicht fest. Aber der Schlag ist eine
 Aufladung. Wer drauf eingeht, lernt es auf die harte Tour.
 
-### Szenario D · ➖ Leichte Abweichung: Sie stürmen sofort zum Ritual und finden Malrik
+### Szenario D · ➖ Leichte Abweichung: Sie stürmen sofort auf die Tanzfläche zu Malrik
 
-Möglich, wenn sie schnell sind (oder in Kapitel 1 aufgepasst haben).
+Möglich, wenn sie schnell sind und sich durch die Menge kämpfen
+(Athletik oder Akrobatik DC 13, sonst 1 Runde im Gedränge), oder wenn
+sie in Kapitel 1 aufgepasst haben.
 → „Ritual unterbrochen?" oben: Es gelingt trotzdem. Aber ihr Tempo
 wird belohnt: Malrik tot = keine Kultisten = kein Opfergang = mehr
 Zeit für die Evakuierung.
@@ -283,7 +295,7 @@ auch sie fliehen müssen:
 | Ihm einen Spiegel vorhalten | Er betrachtet sich entzückt und hält einen Monolog – 1 Runde versiegelt er keinen Ausgang. Kleiner Bonus für Kreativität. |
 | Die Festhalle anzünden | Feuer auf ihn = Treffer (+1 Aufladung). Und 600 Gäste in einer brennenden Halle. Sehr schlechte Idee. |
 | Sich ihm anschließen / ihn anbeten | Er nimmt an und verlangt einen Beweis: „Schlag mich. Einmal." |
-| Den Siegelstein neu zeichnen (Arkana) | Arkana DC 20 und 3 Runden: Es bremst ihn nicht, aber verrät, dass hier schon einmal ein Siegel lag (Hinweis auf Kapitel 5). |
+| Den alten Bann am Leylinien-Knoten neu zeichnen (Arkana) | Arkana DC 20 und 3 Runden: Es bremst ihn nicht, aber verrät, dass hier schon einmal ein Siegel lag (Hinweis auf Kapitel 5). |
 | Absichtlich sterben, um den Traum zu erzwingen | 1. Durchlauf: geht (alle wachen auf, sobald alle tot sind). 2. Durchlauf: **kein Traum mehr.** |
 | Ihn mit Teleport (*Dimensionstür*) wegbringen | Feindlich → gespiegelt, der Wirker landet irgendwo in der Halle, +1 Aufladung |
 
