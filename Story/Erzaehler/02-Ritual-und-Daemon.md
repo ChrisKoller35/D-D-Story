@@ -129,7 +129,17 @@ wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.
 
 ## Szenarien – was die Spieler tun könnten
 
-### Szenario A: Sie greifen sofort an (am wahrscheinlichsten)
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
+> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Sie greifen an und sterben (der geplante Ablauf)
+
+So ist die Story im ersten Durchlauf gedacht (und es ist auch das
+Wahrscheinlichste): Sie greifen an, lernen die Regeln auf die harte
+Tour und wachen in Kapitel 3 wieder auf.
 
 Lass es eskalieren: 1. Treffer → Reflexion + Ultra-Schlimm-Ereignis.
 Spätestens nach 3–4 Treffern begreifen sie das Muster. Beschreibe die
@@ -138,7 +148,9 @@ hebt nicht einmal die Hand. Er lächelt nur."). Wenn sie nicht
 aufhören → 10 Aufladungen → Weltenspiegel → **alle tot** → Kapitel 3
 (Traum-Erwachen).
 
-### Szenario B: Sie verhandeln oder beleidigen ihn
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Sie verhandeln oder beleidigen ihn
 
 Vorgazhul **redet gern** – arrogant, höflich, grausam. Er beantwortet
 sogar Fragen (wahrheitsgemäß, aber verdreht). Eine Beleidigung →
@@ -151,18 +163,40 @@ Flucht!) oder „Ich tue euch nichts. Ich muss euch nichts tun."
 gehen." Wahr – er hält sie ja gar nicht fest. Aber der Schlag ist eine
 Aufladung. Wer drauf eingeht, lernt es auf die harte Tour.
 
-### Szenario C: Sie versuchen zu fliehen (die richtige Lösung!)
+### Szenario C · ➖ Leichte Abweichung: Sie stürmen sofort zum Ritual und finden Malrik
 
-**Flucht funktioniert** – aber mach es dramatisch: Pro Runde wird ein
-Ausgang zu Glas. Fluchtwege: Fenster, Kellerausgang, Dienstbotentür
-(→ Karte in `Stadt/Sommerhall/Orte/Festhalle.md`). Verfolgt werden sie
-nicht – er greift ja nicht an und ist an den Ritualort gebunden.
-Wichtig: Raus aus der Halle reicht nicht – **raus aus der Stadt**
-(1 km)! Wer entkommt, sieht später den violetten Blitz → Kapitel 4.
-**Beim ersten Durchlauf** fliehen Gruppen selten komplett – stirbt der
-Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
+Möglich, wenn sie schnell sind (oder in Kapitel 1 aufgepasst haben).
+→ „Ritual unterbrochen?" oben: Es gelingt trotzdem. Aber ihr Tempo
+wird belohnt: Malrik tot = keine Kultisten = kein Opfergang = mehr
+Zeit für die Evakuierung.
 
-### Szenario D: Sie verstecken sich / tun gar nichts
+### Szenario D · ➖ Leichte Abweichung: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
+
+Belohne Kreativität, aber halte die Regeln eisern: **Jede
+Schadensquelle**, die jemand verursacht, zählt als Treffer (Regel 1)
+– auch der fallende Kronleuchter. Indirekt bleibt indirekt schlimm.
+Das lehrt: Es gibt hier nichts zu gewinnen. Noch nicht.
+
+### Szenario E · ➖ Leichte Abweichung: NPCs greifen ihn an
+
+Die Stadtwache rückt an, Schmied Grom schwingt seinen Hammer, ein
+betrunkener Festgast wirft einen Krug. **Das zählt alles** (Regel 1).
+Die Helden müssen also nicht nur sich selbst, sondern auch die Stadt
+vom Angreifen abhalten: Überzeugen/Einschüchtern DC 13 pro Gruppe von
+Angreifern, oder sie festhalten (Ringen). Ein schöner Moment für
+Gruppen, die verstanden haben, worum es geht.
+
+### Szenario F · ➖ Leichte Abweichung: Sie jagen die Kultisten, nachdem er erschienen ist
+
+Klug! Jeder gefangene, bewusstlose oder getötete Kultist ist ein
+Opfergang weniger – also bis zu 40 Minuten mehr Zeit. Kultisten im
+Kampf mit den Helden sind normale Gegner (sie zu verletzen lädt
+Vorgazhul nicht auf). Ein gefangener Kultist plaudert unter Druck
+(Einschüchtern DC 14): „Die Vier Reliquien liegen dort, wo die
+Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
+Salzmund und die Grotte.)
+
+### Szenario G · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
 
 Vorgazhul tut ebenfalls nichts – und genau das ist unheimlich. Die Uhr
 tickt trotzdem: Die Kultisten treten einer nach dem anderen vor und
@@ -173,21 +207,36 @@ beschützen → Reflexion, Baldric stirbt an seinem eigenen Schlag,
 W10-Tabelle. Irgendwann schwebt Vorgazhul zu den Helden („Verstecken?
 Vor einem Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
-### Szenario E: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
+**🔀 Ganz andere Verläufe**
 
-Belohne Kreativität, aber halte die Regeln eisern: **Jede
-Schadensquelle**, die jemand verursacht, zählt als Treffer (Regel 1)
-– auch der fallende Kronleuchter. Indirekt bleibt indirekt schlimm.
-Das lehrt: Es gibt hier nichts zu gewinnen. Noch nicht.
+### Szenario H · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
 
-### Szenario F: Sie stürmen sofort zum Ritual und finden Malrik
+**Flucht funktioniert** – aber mach es dramatisch: Pro Runde wird ein
+Ausgang zu Glas. Fluchtwege: Fenster, Kellerausgang, Dienstbotentür
+(→ Karte in `Stadt/Sommerhall/Orte/Festhalle.md`). Verfolgt werden sie
+nicht – er greift ja nicht an und ist an den Ritualort gebunden.
+Wichtig: Raus aus der Halle reicht nicht – **raus aus der Stadt**
+(1 km)! Wer entkommt, sieht später den violetten Blitz → Kapitel 4.
+**Beim ersten Durchlauf** fliehen Gruppen selten komplett – stirbt der
+Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
 
-Möglich, wenn sie schnell sind (oder in Kapitel 1 aufgepasst haben).
-→ „Ritual unterbrochen?" oben: Es gelingt trotzdem. Aber ihr Tempo
-wird belohnt: Malrik tot = keine Kultisten = kein Opfergang = mehr
-Zeit für die Evakuierung.
+### Szenario I · 🔀 Ganz anders: Sie retten einige und fliehen
 
-### Szenario G: Sie evakuieren alle, sofort (unwahrscheinlich, aber genial)
+Der realistische „gute" Ausgang des ersten Durchlaufs. Zähle die
+Geretteten (Evakuierung) – sie sind in Akt 7 im Lager. Weiter mit
+Kapitel 4.
+
+### Szenario J · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
+
+Machbar, weil er nicht angreift – aber schwer, weil die Gruppe ihn
+wahrscheinlich *doch* angreift, die Ultra-Schlimm-Ereignisse Panik
+auslösen und die Ausgänge zufrieren. Spiele es streng nach der
+Evakuierungs-Mechanik oben. Je mehr sie zuschlagen, desto weniger
+kommen raus. Begreifen sie es mitten drin („Hört auf zu schlagen,
+bringt die Leute raus!"), ist das der Moment, in dem die Kampagne
+klickt.
+
+### Szenario K · 🔀 Ganz anders: Sie evakuieren alle, sofort (unwahrscheinlich, aber genial)
 
 Wenn die Gruppe beim ersten violetten Rauch „Alle raus!" brüllt und es
 durchzieht: Alle 600 Gäste gerettet (→ Evakuierung). Dann stehen die
@@ -198,41 +247,6 @@ auch sie fliehen müssen:
 - Greifen sie an und sterben → Kapitel 3. (Im Traum sind dann ohnehin
   wieder alle am Leben – aber sie wissen jetzt, dass Evakuierung
   funktioniert.)
-
-### Szenario H: Sie evakuieren, während er schon da ist
-
-Machbar, weil er nicht angreift – aber schwer, weil die Gruppe ihn
-wahrscheinlich *doch* angreift, die Ultra-Schlimm-Ereignisse Panik
-auslösen und die Ausgänge zufrieren. Spiele es streng nach der
-Evakuierungs-Mechanik oben. Je mehr sie zuschlagen, desto weniger
-kommen raus. Begreifen sie es mitten drin („Hört auf zu schlagen,
-bringt die Leute raus!"), ist das der Moment, in dem die Kampagne
-klickt.
-
-### Szenario I: Sie retten einige und fliehen
-
-Der realistische „gute" Ausgang des ersten Durchlaufs. Zähle die
-Geretteten (Evakuierung) – sie sind in Akt 7 im Lager. Weiter mit
-Kapitel 4.
-
-### Szenario J: NPCs greifen ihn an
-
-Die Stadtwache rückt an, Schmied Grom schwingt seinen Hammer, ein
-betrunkener Festgast wirft einen Krug. **Das zählt alles** (Regel 1).
-Die Helden müssen also nicht nur sich selbst, sondern auch die Stadt
-vom Angreifen abhalten: Überzeugen/Einschüchtern DC 13 pro Gruppe von
-Angreifern, oder sie festhalten (Ringen). Ein schöner Moment für
-Gruppen, die verstanden haben, worum es geht.
-
-### Szenario K: Sie jagen die Kultisten, nachdem er erschienen ist
-
-Klug! Jeder gefangene, bewusstlose oder getötete Kultist ist ein
-Opfergang weniger – also bis zu 40 Minuten mehr Zeit. Kultisten im
-Kampf mit den Helden sind normale Gegner (sie zu verletzen lädt
-Vorgazhul nicht auf). Ein gefangener Kultist plaudert unter Druck
-(Einschüchtern DC 14): „Die Vier Reliquien liegen dort, wo die
-Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
-Salzmund und die Grotte.)
 
 ---
 

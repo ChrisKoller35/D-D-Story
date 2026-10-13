@@ -61,7 +61,7 @@ zusammen. Endet erst durch das Siegel-Ritual.
 
 **Leylinien-Anker:** Gebunden an Sommerhall (die Spiegelkuppel ist
 sein Reich). Wird der Ritualkreis im Keller zerstört (→ Finale,
-Szenario D), verliert er Wahre Sicht und die Rettungswurf-Boni
+Szenario G), verliert er Wahre Sicht und die Rettungswurf-Boni
 (alle Rettungswürfe nur noch mit Attributsmodifikator).
 
 **Legendäre Resistenz (2/Tag):** Misslungenen Rettungswurf in Erfolg

@@ -126,9 +126,9 @@ besiegbar.
 | Ende | Wie es dazu kommt | Wo |
 |---|---|---|
 | **Sieg** | Evakuieren, fliehen, Grotte, zurückkehren, Vorgazhul besiegen. Der optimale Weg. | Kapitel 7 |
-| **Gebannt** | Wie Sieg, aber mit heiliger Magie gebannt statt getötet. Rückkehr-Haken für später. | Kapitel 7, Szenario E |
-| **Die Retter von Sommerhall** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario G |
-| **Einer bleibt wach** | Das Finale geht verloren, nur der Träger des Amuletts der Traumwache überlebt. | Kapitel 7, Szenario C |
+| **Gebannt** | Wie Sieg, aber mit heiliger Magie gebannt statt getötet. Rückkehr-Haken für später. | Kapitel 7, Szenario H |
+| **Die Retter von Sommerhall** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario H |
+| **Einer bleibt wach** | Das Finale geht verloren, nur der Träger des Amuletts der Traumwache überlebt. | Kapitel 7, Szenario I |
 | **Der Spiegel gewinnt** | 2. Durchlauf: Die Helden sterben, ohne die Stadt evakuiert zu haben. Düster. Gib vorher jede Chance. | Kapitel 2/3 |
 
 ---

@@ -30,6 +30,6 @@ Silberschmuck – aber der Lederband-Knoten geht nie wieder auf.
 
 *Erzähler-Hinweis: Diese Fähigkeit ist die eingebaute Absicherung
 des Finales – wenn alles schiefgeht, überlebt eine Person und trägt
-die Geschichte weiter (→ `Story/Erzaehler/07-Finale.md`, Szenario C).
+die Geschichte weiter (→ `Story/Erzaehler/07-Finale.md`, Szenario I).
 Ilwe, die erste Trägerin, hat es nicht gerettet: Sie gab es vor dem
 letzten Schlag an Serenya weiter. Deshalb überlebte Serenya.*

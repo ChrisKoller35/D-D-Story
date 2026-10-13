@@ -15,7 +15,7 @@ reglosem Spiegelglas („Gespiegelte"). Kein Rettungswurf. Kein
 Schaden-Auswürfeln. Es ist vorbei. Wer weiter als 1 km entfernt ist,
 sieht nur einen lautlosen violetten Blitz am Horizont. Einzige
 Ausnahme, falls du sie brauchst: Malrik darf er verschonen, als
-gebrochenen Diener (→ Kapitel 7, Szenario D).
+gebrochenen Diener (→ Kapitel 7, Szenario G).
 
 **Danach ist Vorgazhul in der Welt angekommen.** Der Spiegelschild
 ist verbraucht und kommt nie wieder. Über Sommerhall bildet sich die

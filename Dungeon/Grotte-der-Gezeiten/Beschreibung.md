@@ -73,7 +73,7 @@ Wasserfläche „spiegelt" ihn – ein Wasser-Doppelgänger (nutze
 Gezeitenschlurfer-Werte, aber Aussehen des Helden) greift an, einer
 pro Regelbruch. *Die Prüfung lehrt die Taktik des Finales!*
 In der Deckenkuppel: die **Luftglocke** (Rettungs-Hohlraum bei Flut,
-→ Kapitel 6, Szenario B).
+→ Kapitel 6, Szenario E).
 *Der Überlebende (optional):* In der Luftglocke lebt seit sechs
 Wochen **Jannik**, der jüngste der Kompanie (Grims Neffe) – von
 Muscheln und Regenwasser durch einen Felsspalt. Abgemagert, halb von
@@ -90,7 +90,7 @@ Ketten über dem zentralen Becken. Wachen: **3 Gezeitenschlurfer +
 1 Muränenwächter**. Die Schleusen lassen sich im Kampf nutzen
 (Aktion, Athletik DC 13): Wasserstoß in gerader Linie, 4W10 Wucht,
 STR DC 15 oder weggespült – **funktioniert auch gegen Skarvax**, wenn
-man ihn herlockt (→ Kapitel 6, Szenario C).
+man ihn herlockt (→ Kapitel 6, Szenario D).
 
 ## Raum 6: Der Hort — *Boss*
 

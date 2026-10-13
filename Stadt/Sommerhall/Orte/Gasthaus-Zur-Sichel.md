@@ -12,7 +12,7 @@ Wirtin **Alma**.
   Erwachen exakt dieselben Worte wiederholen – Gänsehaut garantiert.
 - **Malrik wohnt hier ebenfalls**, als unauffälliger grauer Pilger,
   Zimmer 4 (→ `Story/Erzaehler/03-Traum-und-Neustart.md`,
-  Szenario D). In seinem Zimmer (DC 13 Schlösser): Silberstaub,
+  Szenario F). In seinem Zimmer (DC 13 Schlösser): Silberstaub,
   Aschenproben, eine Skizze des Festhallenkellers.
 
 **Alma:** Mütterlich, resolut, nennt alle „Kind", auch den Barbaren.

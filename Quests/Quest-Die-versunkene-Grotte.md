@@ -24,7 +24,7 @@ Spiegelherrn zu bestehen. Schließt dafür den Dungeon vollständig ab
 ## Neridas Warnungen (alle wahr)
 
 1. „Die Gezeiten warten nicht." – Das Zeitfenster ist echt
-   (→ `Story/Erzaehler/06-Dungeon-Grotte.md`, Szenario B).
+   (→ `Story/Erzaehler/06-Dungeon-Grotte.md`, Szenario E).
 2. „Zwanzig gute Leute sind dort unten geblieben. Etwas wohnt darin.
    Die Fischer meiden die Bucht seit Jahrzehnten." – Skarvax
    (→ `Dungeon/Grotte-der-Gezeiten/Feinde/Grottenherr-Skarvax/`).

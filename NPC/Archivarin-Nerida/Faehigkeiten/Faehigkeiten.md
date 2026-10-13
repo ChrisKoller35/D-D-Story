@@ -16,7 +16,7 @@ Suche (→ `Story/Erzaehler/05-Salzmund.md`, Schritt 1).
 
 Sie erstellt den präzisen Gezeitenplan für die Grotte (→ Handout).
 Ohne ihren Plan müssen die Helden die Ebbe selbst abpassen
-(Überlebenskunst DC 15, bei Misserfolg → Kapitel 6, Szenario B).
+(Überlebenskunst DC 15, bei Misserfolg → Kapitel 6, Szenario E).
 
 ## Siegelkunde (Story-Hilfe)
 

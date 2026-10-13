@@ -57,14 +57,22 @@ Eine Nacht nach der Flucht, am Lagerfeuer
 
 ## Szenarien – was die Spieler tun könnten
 
-### Szenario A: Sie vertrauen Phae und reisen nach Salzmund
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
+> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Sie vertrauen Phae und reisen nach Salzmund
 
 Standard. Phae beantwortet 3 Fragen (als Faustregel), weicht bei
 „Was bist du?" poetisch aus, und verschwindet mit dem Morgengrauen.
 Reise nach Salzmund: 4 Tagesreisen, 1 leichte Zufallsbegegnung
 (dein Geschmack). → Kapitel 5.
 
-### Szenario B: Sie misstrauen Phae / halten es für eine Falle
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Sie misstrauen Phae / halten es für eine Falle
 
 Gut mitgedacht – nach einem Dämon völlig berechtigt! Phae besteht
 jeden ehrlichen Test (Magie entdecken: Himmlisch/Fee, kein Teufel;
@@ -72,7 +80,9 @@ Einsicht DC 10: es lügt nicht). Es sagt Sätze wie: „Misstraut mir
 ruhig. Aber vertraut dem Archiv." Gehen sie trotzdem nicht nach
 Salzmund → Szenario D.
 
-### Szenario C: Sie greifen Phae an
+**🔀 Ganz andere Verläufe**
+
+### Szenario C · 🔀 Ganz anders: Sie greifen Phae an
 
 Phae kämpft nicht. Es zerfällt beim ersten Treffer in Funken –
 und hinterlässt im Gras aus Sternenstaub geschrieben: **„SALZMUND.
@@ -80,7 +90,7 @@ DIE ARCHIVE."** Danach ist Phae für den Rest der Kampagne beleidigt
 abwesend (oder taucht EINMAL im Finale auf, wenn du gnädig bist).
 Die Info haben sie trotzdem – die Story bleibt auf Kurs.
 
-### Szenario D: Sie ignorieren alles und gehen woanders hin
+### Szenario D · 🔀 Ganz anders: Sie ignorieren alles und gehen woanders hin
 
 Freiheit lassen, Konsequenzen zeigen: Wohin sie auch gehen, erreichen
 sie Nachrichten über Sommerhall – die Spiegelkuppel **wächst** (ein

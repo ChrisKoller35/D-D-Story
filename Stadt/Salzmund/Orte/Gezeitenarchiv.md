@@ -20,7 +20,7 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
   Wochen stahl und durch den alten **Flutkanal** an seine Komplizen
   im Boot reichte. Heute: aufgebrochen und leer. Spuren für Detektive
   (zersprungene Silbermaske, Kratzspuren am Kanal)
-  → `Story/Erzaehler/05-Salzmund.md`, Szenario E.
+  → `Story/Erzaehler/05-Salzmund.md`, Szenario D.
 - **Edriks Kammer** (2. Stock, Gehilfenzimmer): Tagebuch mit dem
   Hinweis auf „den Meister in den Kornfeldern" (Malrik) und den Plan,
   die Reliquien in Serenyas Grab zu verstecken.

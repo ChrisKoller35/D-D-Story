@@ -104,14 +104,22 @@ die Bucht seit Jahrzehnten meiden (→ Boss Skarvax).
 
 ## Szenarien – was die Spieler tun könnten
 
-### Szenario A: Sie gehen direkt ins Archiv (Standard)
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
+> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Sie gehen direkt ins Archiv
 
 Nerida ist zunächst reserviert („Das Archiv ist kein Ort für
 Schwertträger"), taut auf, sobald sie von Sommerhall hören – ihre
 Schwester lebt dort. Recherche (Schritt 1–2), Schock (Schritt 3),
 Quest (Schritt 4). Sauber → Kapitel 6.
 
-### Szenario B: Sie fragen sich durch Hafen und Taverne
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Sie fragen sich durch Hafen und Taverne
 
 Auch gut – längerer Weg, mehr Farbe: In der Taverne „Zur Salzigen
 Möwe" erzählt der alte Fischer **Grim** für einen Krug Bier von der
@@ -121,7 +129,7 @@ bei der Kompanie der Salzklingen. Alle Spuren zeigen aufs Archiv oder
 direkt zur Grotte. Gehen sie OHNE Neridas Infos zur Grotte, fehlt
 ihnen das Gezeiten-Wissen → Kapitel 6, Szenario „Flut".
 
-### Szenario C: Ärger in der Stadt
+### Szenario C · ➖ Leichte Abweichung: Ärger in der Stadt
 
 Flüchtlingskrise: Ein aufgebrachter Mob will einen „Spiegelgezeichneten"
 (harmloser Flüchtling mit Brandnarbe) aus der Stadt werfen. Greifen die
@@ -131,15 +139,7 @@ eskaliert es nachts; die Stadtwache ist danach misstrauisch gegen alle
 Fremden, auch gegen die Helden (Nachteil auf Charisma-Würfe in
 Salzmund, bis sie es geradebiegen).
 
-### Szenario D: Sie wollen sofort zur Grotte, ohne Vorbereitung
-
-Lass sie – aber die Grotte ist **nur bei Ebbe** zugänglich (das steht
-in Neridas Unterlagen). Ohne dieses Wissen stehen sie vor gefluteten
-Eingängen oder schwimmen hinein (deutlich gefährlicher: Wasser-Kampf
-gegen die Muränenwächter). Ein gescheiterter erster Versuch, gefolgt
-von „vielleicht doch erst ins Archiv", ist völlig okay als Lernkurve.
-
-### Szenario E: Sie untersuchen den Diebstahl selbst
+### Szenario D · ➖ Leichte Abweichung: Sie untersuchen den Diebstahl selbst
 
 Detektiv-Gruppen lieben das. Im **Gewölbe der Vier** (aufgebrochen,
 leer) finden sie: vier leere Halterungen, Kratzspuren am Flutkanal,
@@ -151,7 +151,14 @@ die Stille schläft." – Edrik wollte die Reliquien in Serenyas Grab
 verstecken, wo niemand sie je wieder herausholt. Bringt nichts
 Neues für die Quest, aber jede Menge Gänsehaut.
 
-### Szenario F: Sie zögern – 20 Mann sind nicht zurückgekommen
+### Szenario E · ➖ Leichte Abweichung: Sie verdächtigen Nerida oder das Archiv
+
+Gut aufgepasst, denn es *war* ein Innentäter – nur nicht sie.
+Einsicht DC 12: Neridas Schuldgefühl ist echt. Die Turmwächter
+bestätigen den Schlafmohn und Bruder Edrik. Wer ganz sicher gehen
+will, findet Edriks Kammer (→ Szenario D).
+
+### Szenario F · ➖ Leichte Abweichung: Sie zögern – 20 Mann sind nicht zurückgekommen
 
 Verständlich. Lass Nerida nicht betteln, sondern zeig die Lage: Ein
 Flüchtling erzählt, dass die Kuppel ein weiteres Dorf verschluckt
@@ -160,12 +167,15 @@ heim." Nerida legt 3 große Heiltränke aus dem Notvorrat obendrauf.
 Wer verhandeln will (Überzeugen DC 14): zusätzlich 100 Gold aus der
 Stadtkasse von Salzmund.
 
-### Szenario G: Sie verdächtigen Nerida oder das Archiv
+**🔀 Ganz andere Verläufe**
 
-Gut aufgepasst, denn es *war* ein Innentäter – nur nicht sie.
-Einsicht DC 12: Neridas Schuldgefühl ist echt. Die Turmwächter
-bestätigen den Schlafmohn und Bruder Edrik. Wer ganz sicher gehen
-will, findet Edriks Kammer (→ Szenario E).
+### Szenario G · 🔀 Ganz anders: Sie wollen sofort zur Grotte, ohne Vorbereitung
+
+Lass sie – aber die Grotte ist **nur bei Ebbe** zugänglich (das steht
+in Neridas Unterlagen). Ohne dieses Wissen stehen sie vor gefluteten
+Eingängen oder schwimmen hinein (deutlich gefährlicher: Wasser-Kampf
+gegen die Muränenwächter). Ein gescheiterter erster Versuch, gefolgt
+von „vielleicht doch erst ins Archiv", ist völlig okay als Lernkurve.
 
 ---
 

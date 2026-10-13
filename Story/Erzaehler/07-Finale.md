@@ -86,7 +86,13 @@ Letztes Spiegelbild).
 
 ## Szenarien – was im Finale passieren könnte
 
-### Szenario A: Lehrbuch-Finale
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
+> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Lehrbuch-Finale
 
 Ein Tank bindet ihn, die Klinge der Stille hält die Regeneration
 unten, zwei Helden wechseln sich am Siegel-Ritual ab (das Siegel
@@ -94,7 +100,9 @@ wandert von Hand zu Hand), Kern bricht, Phase 2, Sieg. Belohne
 sauberes Spiel mit filmreifen Beschreibungen – das hier ist ihr
 Moment.
 
-### Szenario B: Sie vergessen/missverstehen die Gegenstände
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Sie vergessen/missverstehen die Gegenstände
 
 Passiert öfter als man denkt. Einbau-Hilfen: Serenyas Geist erscheint
 beim ersten Zerspringen kurz im zersprungenen Glas und flüstert die
@@ -102,18 +110,43 @@ Funktion des Siegels. Oder das Siegel beginnt zu glühen und zieht in
 Richtung Dämon. Niemals die Items „automatisch" wirken lassen –
 Hinweise ja, Autopilot nein.
 
-### Szenario C: Der Kampf kippt – Helden fallen
+### Szenario C · ➖ Leichte Abweichung: Sie beleidigen ihn (aus Gewohnheit oder Trotz)
 
-Jetzt ist es ernst – **kein Traum-Reset mehr**. Wenn es eng wird:
-Vorgazhul wird siegesgewiss, redet, verhöhnt – gib ihnen 1–2 Runden
-Luft durch seine Arroganz (er will, dass sie zusehen, wie er gewinnt).
-Rückzug aus der Festhalle ist möglich (er ist an die Kuppel gebunden,
-verfolgt aber bis zum Kuppelrand). Fallen alle: Das Amulett der
-Traumwache rettet seinen Träger als einzigen Überlebenden („Einer
-bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
-(→ `Story/Story-Gesamt.md`, „Mögliche Enden").
+Kein Schaden mehr – aber er verliert die Fassung und muss seinen
+nächsten Zug gegen den Beleidiger richten (WEI DC 15 für ihn).
+Schlaue Gruppen nutzen das gezielt: Einer beleidigt, während der
+Siegelträger in Ruhe das Ritual wirkt. Belohne das!
 
-### Szenario D: Kreativlösungen gegen Malrik / das Ritualfundament
+### Szenario D · ➖ Leichte Abweichung: Sie bereiten die Festhalle vor
+
+Spiegel verhängen oder zerschlagen, bevor der Kampf beginnt (etwa
+durch einen Schleichtrupp über den Kellerausgang): Vorgazhul hat
+weniger Ziele für Splittersprung und setzt sich nach dem Zerspringen
+an einer der wenigen übrigen Flächen zusammen – die Helden wissen
+dann, wo. Belohne Vorbereitung.
+
+### Szenario E · ➖ Leichte Abweichung: Sie greifen NICHT an (Lektion aus Akt 2 falsch übertragen)
+
+Sehr wahrscheinlich bei vorsichtigen Gruppen! Sie stehen da, reden,
+warten auf die Aufladungs-Marker. Lass ihn diesmal zuschlagen – hart
+und sofort. Lege demonstrativ **keine** Marker auf den Tisch. Wer das
+Siegel trägt, spürt: Das Siegel wird warm und zieht zum Dämon. Spätestens
+nach seinem ersten Spiegelgriff ist allen klar, dass die Regeln andere
+sind.
+
+### Szenario F · ➖ Leichte Abweichung: Sie bringen Verstärkung mit
+
+Die Gruppe wirbt Salzmunder Turmwachen, Flüchtlinge oder Grims
+Fischer an (vielleicht weil die Tafeln von 200 Magiern sprachen).
+Lass es zu, aber klein: Die Kuppel lässt mit dem Mantel nur 6
+Kreaturen pro Durchgang hindurch. Helfer binden die **Glasdiener**
+(je 2 Helfer halten einen Diener auf), gegen Vorgazhul selbst sind sie
+nutzlos – und ein Helfer, der zum Glasdiener wird, ist ein harter
+Moment.
+
+**🔀 Ganz andere Verläufe**
+
+### Szenario G · 🔀 Ganz anders: Kreativlösungen gegen Malrik / das Ritualfundament
 
 Starke Gruppen denken um die Ecke: Malrik lebt evtl. noch als
 Vorgazhuls gebrochener Diener (falls er Akt 2 überlebt hat und
@@ -125,7 +158,7 @@ Leylinien-Anker: Das Siegel-Ritual braucht nur noch 2 Aktionen statt
 (Trupp-Teilung!), verliert Vorgazhul seine Ortsbindung-Boni
 (→ Stats, „Leylinien-Anker").
 
-### Szenario E: Sie wollen Vorgazhul bannen statt töten
+### Szenario H · 🔀 Ganz anders: Sie wollen Vorgazhul bannen statt töten
 
 Vor 5.000 Jahren wurde er versiegelt, nicht getötet – das Archiv sagt
 es klar. Mit dem Siegel + heiliger Magie (jeder Kleriker/Paladin-Slot
@@ -134,39 +167,16 @@ statt getötet**: weniger XP-Gefühl, aber sauberes Ende und ein
 möglicher Rückkehr-Haken für eine spätere Kampagne. Beide Enden sind
 gültig.
 
-### Szenario F: Sie greifen NICHT an (Lektion aus Akt 2 falsch übertragen)
+### Szenario I · 🔀 Ganz anders: Der Kampf kippt – Helden fallen
 
-Sehr wahrscheinlich bei vorsichtigen Gruppen! Sie stehen da, reden,
-warten auf die Aufladungs-Marker. Lass ihn diesmal zuschlagen – hart
-und sofort. Lege demonstrativ **keine** Marker auf den Tisch. Wer das
-Siegel trägt, spürt: Das Siegel wird warm und zieht zum Dämon. Spätestens
-nach seinem ersten Spiegelgriff ist allen klar, dass die Regeln andere
-sind.
-
-### Szenario G: Sie beleidigen ihn (aus Gewohnheit oder Trotz)
-
-Kein Schaden mehr – aber er verliert die Fassung und muss seinen
-nächsten Zug gegen den Beleidiger richten (WEI DC 15 für ihn).
-Schlaue Gruppen nutzen das gezielt: Einer beleidigt, während der
-Siegelträger in Ruhe das Ritual wirkt. Belohne das!
-
-### Szenario H: Sie bringen Verstärkung mit
-
-Die Gruppe wirbt Salzmunder Turmwachen, Flüchtlinge oder Grims
-Fischer an (vielleicht weil die Tafeln von 200 Magiern sprachen).
-Lass es zu, aber klein: Die Kuppel lässt mit dem Mantel nur 6
-Kreaturen pro Durchgang hindurch. Helfer binden die **Glasdiener**
-(je 2 Helfer halten einen Diener auf), gegen Vorgazhul selbst sind sie
-nutzlos – und ein Helfer, der zum Glasdiener wird, ist ein harter
-Moment.
-
-### Szenario I: Sie bereiten die Festhalle vor
-
-Spiegel verhängen oder zerschlagen, bevor der Kampf beginnt (etwa
-durch einen Schleichtrupp über den Kellerausgang): Vorgazhul hat
-weniger Ziele für Splittersprung und setzt sich nach dem Zerspringen
-an einer der wenigen übrigen Flächen zusammen – die Helden wissen
-dann, wo. Belohne Vorbereitung.
+Jetzt ist es ernst – **kein Traum-Reset mehr**. Wenn es eng wird:
+Vorgazhul wird siegesgewiss, redet, verhöhnt – gib ihnen 1–2 Runden
+Luft durch seine Arroganz (er will, dass sie zusehen, wie er gewinnt).
+Rückzug aus der Festhalle ist möglich (er ist an die Kuppel gebunden,
+verfolgt aber bis zum Kuppelrand). Fallen alle: Das Amulett der
+Traumwache rettet seinen Träger als einzigen Überlebenden („Einer
+bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
+(→ `Story/Story-Gesamt.md`, „Mögliche Enden").
 
 ---
 

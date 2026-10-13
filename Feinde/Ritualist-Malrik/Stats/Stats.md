@@ -33,6 +33,6 @@ kampfunfähig: → Kapitel 2, Abschnitt „Ritual unterbrochen?" –
 **Rolle im Finale (optional):** Überlebt Malrik Akt 2, dient er
 Vorgazhul als gebrochene Marionette. Überzeugen DC 16 (mit gutem
 Rollenspiel) kann ihn im Finale umdrehen
-(→ `Story/Erzaehler/07-Finale.md`, Szenario D).
+(→ `Story/Erzaehler/07-Finale.md`, Szenario G).
 
 Fähigkeiten → `../Faehigkeiten/Faehigkeiten.md`
