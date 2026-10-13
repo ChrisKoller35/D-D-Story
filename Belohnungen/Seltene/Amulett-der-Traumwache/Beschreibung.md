@@ -1,0 +1,18 @@
+# Amulett der Traumwache
+
+**Wundersamer Gegenstand, selten (Einstimmung erforderlich).**
+
+Ein ovaler Mondstein in einer Fassung aus verschlungenem Silberdraht,
+an einer einfachen Lederschnur. Im Stein schwimmt ein winziger
+Lichtpunkt – er bewegt sich, wenn der Träger schläft, als liefe dort
+jemand Wache.
+
+Wer es trägt, schläft tief und traumlos-ruhig – und wacht immer
+**eine Minute bevor etwas passiert** auf.
+
+Auf der Fassung, winzig graviert: *„Einer bleibt wach."*
+
+**Herkunft:** Grabkammer der Grotte der Gezeiten
+(→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`, Raum 7).
+
+**Alle Spielwerte und Effekte:** → `Effekte/Effekte.md`
