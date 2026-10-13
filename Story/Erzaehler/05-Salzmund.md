@@ -104,8 +104,8 @@ die Bucht seit Jahrzehnten meiden (→ Boss Skarvax).
 
 ## Szenarien – was die Spieler tun könnten
 
-> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
-> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = so ist dieses
+> Kapitel gedacht · ➖ **Leichte Abweichung** = gleiche Richtung,
 > anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
 
 **⭐ Der optimale Weg**

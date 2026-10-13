@@ -15,7 +15,13 @@ Ritual beschwört ihn nicht neu – es **bricht das alte Siegel**. Der
 Bann ist seit Wochen rissig (Malriks Vorarbeit); deshalb lässt sich das
 Ritual nicht mehr aufhalten.
 
-Vorlesetext, wenn die Helden eintreffen:
+**Standard (und das Optimale): Das Ritual passiert mitten im Fest.**
+Malrik wirkt unbemerkt im Keller, aber der Riss öffnet sich **oben im
+Festsaal, mitten auf der Party** – genau über dem Siegelstein. Der
+Dämon wird direkt zwischen die Feiernden beschworen
+(→ Szenario A unten).
+
+Vorlesetext, falls die Helden vorher in den Keller kommen:
 
 > In einem Kreis aus Asche und geschmolzenem Silber kniet der graue
 > Pilger. Seine Stimme ist keine Stimme mehr – sie ist ein Spalt in der
@@ -129,17 +135,36 @@ wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.
 
 ## Szenarien – was die Spieler tun könnten
 
-> **So sind die Szenarien sortiert:** ⭐ **Optimal** = der Weg, wie ihn
-> die Story-Gesamt vorsieht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = so ist dieses
+> Kapitel gedacht · ➖ **Leichte Abweichung** = gleiche Richtung,
 > anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
 
 **⭐ Der optimale Weg**
 
-### Szenario A · ⭐ Optimal: Sie greifen an und sterben (der geplante Ablauf)
+### Szenario A · ⭐ Optimal: Der Dämon erscheint mitten auf der Party
 
-So ist die Story im ersten Durchlauf gedacht (und es ist auch das
-Wahrscheinlichste): Sie greifen an, lernen die Regeln auf die harte
-Tour und wachen in Kapitel 3 wieder auf.
+So ist es gedacht: Die Helden feiern, niemand stört Malrik im Keller,
+und das Ritual vollendet sich auf dem Höhepunkt des Fests (Siegerehrung
+der Festspiele, → Kapitel 1, Übergang). Vorgazhul wird **direkt auf die
+Party** beschworen – zwischen Langtafeln, Musikanten und 600 Gästen.
+
+> Die Musik bricht mitten im Takt ab. Die Lichterketten flackern
+> violett. Auf der Tanzfläche, genau dort, wo eben noch Baldric die
+> Sieger aufgerufen hat, springt der Holzboden wie dünnes Eis. Aus dem
+> Riss steigt eine Gestalt aus schwarzem, zersprungenem Glas, drei
+> Meter hoch. In ihr spiegelt sich jeder im Saal – und alle
+> Spiegelbilder lächeln. Niemand schreit. Noch nicht.
+
+Ab hier entscheiden die Spieler: Fast alle Gruppen greifen an
+(→ Szenario B), und genau so ist die Story im ersten Durchlauf
+gedacht. Alles andere steht in den Szenarien unten.
+
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Sie greifen an und sterben (am wahrscheinlichsten)
+
+Die erwartete Reaktion auf Szenario A: Sie greifen an, lernen die
+Regeln auf die harte Tour und wachen in Kapitel 3 wieder auf.
 
 Lass es eskalieren: 1. Treffer → Reflexion + Ultra-Schlimm-Ereignis.
 Spätestens nach 3–4 Treffern begreifen sie das Muster. Beschreibe die
@@ -148,9 +173,7 @@ hebt nicht einmal die Hand. Er lächelt nur."). Wenn sie nicht
 aufhören → 10 Aufladungen → Weltenspiegel → **alle tot** → Kapitel 3
 (Traum-Erwachen).
 
-**➖ Leichte Abweichungen**
-
-### Szenario B · ➖ Leichte Abweichung: Sie verhandeln oder beleidigen ihn
+### Szenario C · ➖ Leichte Abweichung: Sie verhandeln oder beleidigen ihn
 
 Vorgazhul **redet gern** – arrogant, höflich, grausam. Er beantwortet
 sogar Fragen (wahrheitsgemäß, aber verdreht). Eine Beleidigung →
@@ -163,21 +186,21 @@ Flucht!) oder „Ich tue euch nichts. Ich muss euch nichts tun."
 gehen." Wahr – er hält sie ja gar nicht fest. Aber der Schlag ist eine
 Aufladung. Wer drauf eingeht, lernt es auf die harte Tour.
 
-### Szenario C · ➖ Leichte Abweichung: Sie stürmen sofort zum Ritual und finden Malrik
+### Szenario D · ➖ Leichte Abweichung: Sie stürmen sofort zum Ritual und finden Malrik
 
 Möglich, wenn sie schnell sind (oder in Kapitel 1 aufgepasst haben).
 → „Ritual unterbrochen?" oben: Es gelingt trotzdem. Aber ihr Tempo
 wird belohnt: Malrik tot = keine Kultisten = kein Opfergang = mehr
 Zeit für die Evakuierung.
 
-### Szenario D · ➖ Leichte Abweichung: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
+### Szenario E · ➖ Leichte Abweichung: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
 
 Belohne Kreativität, aber halte die Regeln eisern: **Jede
 Schadensquelle**, die jemand verursacht, zählt als Treffer (Regel 1)
 – auch der fallende Kronleuchter. Indirekt bleibt indirekt schlimm.
 Das lehrt: Es gibt hier nichts zu gewinnen. Noch nicht.
 
-### Szenario E · ➖ Leichte Abweichung: NPCs greifen ihn an
+### Szenario F · ➖ Leichte Abweichung: NPCs greifen ihn an
 
 Die Stadtwache rückt an, Schmied Grom schwingt seinen Hammer, ein
 betrunkener Festgast wirft einen Krug. **Das zählt alles** (Regel 1).
@@ -186,7 +209,7 @@ vom Angreifen abhalten: Überzeugen/Einschüchtern DC 13 pro Gruppe von
 Angreifern, oder sie festhalten (Ringen). Ein schöner Moment für
 Gruppen, die verstanden haben, worum es geht.
 
-### Szenario F · ➖ Leichte Abweichung: Sie jagen die Kultisten, nachdem er erschienen ist
+### Szenario G · ➖ Leichte Abweichung: Sie jagen die Kultisten, nachdem er erschienen ist
 
 Klug! Jeder gefangene, bewusstlose oder getötete Kultist ist ein
 Opfergang weniger – also bis zu 40 Minuten mehr Zeit. Kultisten im
@@ -196,7 +219,7 @@ Vorgazhul nicht auf). Ein gefangener Kultist plaudert unter Druck
 Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
 Salzmund und die Grotte.)
 
-### Szenario G · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
+### Szenario H · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
 
 Vorgazhul tut ebenfalls nichts – und genau das ist unheimlich. Die Uhr
 tickt trotzdem: Die Kultisten treten einer nach dem anderen vor und
@@ -209,7 +232,7 @@ Vor einem Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
 **🔀 Ganz andere Verläufe**
 
-### Szenario H · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
+### Szenario I · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
 
 **Flucht funktioniert** – aber mach es dramatisch: Pro Runde wird ein
 Ausgang zu Glas. Fluchtwege: Fenster, Kellerausgang, Dienstbotentür
@@ -220,13 +243,13 @@ Wichtig: Raus aus der Halle reicht nicht – **raus aus der Stadt**
 **Beim ersten Durchlauf** fliehen Gruppen selten komplett – stirbt der
 Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
 
-### Szenario I · 🔀 Ganz anders: Sie retten einige und fliehen
+### Szenario J · 🔀 Ganz anders: Sie retten einige und fliehen
 
 Der realistische „gute" Ausgang des ersten Durchlaufs. Zähle die
 Geretteten (Evakuierung) – sie sind in Akt 7 im Lager. Weiter mit
 Kapitel 4.
 
-### Szenario J · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
+### Szenario K · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
 
 Machbar, weil er nicht angreift – aber schwer, weil die Gruppe ihn
 wahrscheinlich *doch* angreift, die Ultra-Schlimm-Ereignisse Panik
@@ -236,7 +259,7 @@ kommen raus. Begreifen sie es mitten drin („Hört auf zu schlagen,
 bringt die Leute raus!"), ist das der Moment, in dem die Kampagne
 klickt.
 
-### Szenario K · 🔀 Ganz anders: Sie evakuieren alle, sofort (unwahrscheinlich, aber genial)
+### Szenario L · 🔀 Ganz anders: Sie evakuieren alle, sofort (unwahrscheinlich, aber genial)
 
 Wenn die Gruppe beim ersten violetten Rauch „Alle raus!" brüllt und es
 durchzieht: Alle 600 Gäste gerettet (→ Evakuierung). Dann stehen die
