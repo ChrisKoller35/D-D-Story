@@ -18,6 +18,9 @@ Brot. Es ist der Morgen vor dem Fest.
   Taten**. Jeder Hieb gegen ihn traf den, der ihn führte. Jeder
   Treffer ließ etwas Furchtbares geschehen. Und mit jedem Treffer
   wuchs das Leuchten seines Schildes – bis es zehnmal glühte.
+- Daran, dass es **nie eine Hand gegen euch erhob**. Es schwebte nur
+  da und lächelte. Alles Schreckliche geschah, weil ihr zugeschlagen
+  habt.
 - An den Satz, den es sagte, bevor alles endete:
   **„Ihr könnt mich nicht schlagen. Ihr könnt mir nur ausweichen."**
 - An das Ende. An alle deine Gefährten. An dich.

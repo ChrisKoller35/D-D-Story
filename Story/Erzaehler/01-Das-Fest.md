@@ -64,8 +64,9 @@ Abschnitt „Ritual unterbrochen?".
 
 Kein Problem: Das Ritual betrifft die ganze Stadt. Wer draußen ist,
 hört die Schreie aus der Festhalle und sieht violettes Licht aus den
-Fenstern. Vorgazhul **versiegelt die Festhalle** erst 3 Runden nach
-seinem Erscheinen – wer schnell ist, kommt noch rein (oder raus...).
+Fenstern. Vorgazhul **versiegelt die Festhalle** Ausgang für Ausgang,
+einen pro Runde (→ `Stadt/Sommerhall/Orte/Festhalle.md`) – wer schnell
+ist, kommt noch rein (oder raus...).
 Hinweis für später: Dass „draußen sein" sich richtig anfühlt, ist ein
 leiser Vorgriff auf die Flucht-Lösung (→ Kapitel 4).
 

@@ -1,7 +1,9 @@
 # Kultisten des Spiegels – Statistiken
 
 Malriks Anhänger: Verzweifelte, denen der „Spiegel" Gerechtigkeit
-versprach. Graue Roben, Silbermasken ohne Augenlöcher.
+versprach. Graue Roben, Silbermasken ohne Augenlöcher. Fünf von ihnen
+(angeführt von Bruder Edrik) stahlen sechs Wochen vor dem Fest die
+Vier Reliquien aus Salzmund (→ `Story/Erzaehler/05-Salzmund.md`).
 
 **Standard-Begegnung:** 4 Kultisten beschützen Malrik während des
 Rituals; 2 Kultisten können die Flucht in Kapitel 4 stören.

@@ -18,12 +18,17 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
    Einheimische – Baldric oder Alma können ihn zeigen)
 
 Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen Weg**
-(Reihenfolge wie oben) – fühlbarer Countdown.
+(Reihenfolge wie oben) – fühlbarer Countdown. Ein versiegelter Weg ist
+Spiegelglas und lässt sich zerschlagen, aber das zählt als Treffer auf
+ihn (+1 Aufladung). Evakuierungs-Regeln →
+`Story/Erzaehler/02-Ritual-und-Daemon.md`, „Evakuierung".
 
 ## Keller
 
 Bierkeller (Fässer, Rampe) und dahinter ein alter Gewölberaum, von
-dem niemand mehr weiß, wozu er einst diente: **der Leylinien-Knoten.**
+dem niemand mehr weiß, wozu er einst diente: **der Leylinien-Knoten**
+mit dem 5.000 Jahre alten **Siegelstein**, in den Vorgazhul einst
+gebannt wurde.
 Hier zeichnet Malrik seinen Kreis aus Asche und geschmolzenem Silber
 (→ `Feinde/Ritualist-Malrik/`, `Story/Erzaehler/02-Ritual-und-Daemon.md`).
 

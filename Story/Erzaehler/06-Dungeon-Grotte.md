@@ -8,12 +8,21 @@
 
 ## Überblick
 
-Serenyas Grabstätte in einer Meereshöhle, nur bei **Ebbe** zugänglich
-(Zeitfenster: ~6 Stunden, dann steigt das Wasser – natürlicher
-Zeitdruck). Der Dungeon muss **vollständig abgeschlossen** werden:
-Die vier Belohnungen liegen in der Grabkammer hinter dem Boss, und
-die Grabkammer öffnet sich erst, wenn die **drei Gezeitensiegel**
+Die Grabstätte der Vier (Serenya und ihre Gefährten) in einer
+Meereshöhle, nur bei **Ebbe** zugänglich (Zeitfenster: ~6 Stunden,
+dann steigt das Wasser – natürlicher Zeitdruck). Der Dungeon muss
+**vollständig abgeschlossen** werden: Die gestohlenen Reliquien
+liegen in der Grabkammer hinter dem Boss (die Diebe haben sie dort
+versteckt und sind darin eingeschlossen gestorben), und die
+Grabkammer öffnet sich erst, wenn die **drei Gezeitensiegel**
 (Raum 2, 3, 5) aktiviert wurden.
+
+**Die verlorene Kompanie:** Überall liegen Spuren der 20 Abenteurer,
+die vor den Helden hier waren (Lager, Tagebuch, Trophäen in Skarvax'
+Hort, ein Überlebender in der Luftglocke) – Details in
+`Dungeon/Grotte-der-Gezeiten/Beschreibung.md`. Nutze sie als
+Warnschilder: Die Spieler sollen spüren, dass hier 20 Leute
+gescheitert sind.
 
 **Gegner-Besetzung (Richtwerte für 4× Level 7):**
 
@@ -64,7 +73,15 @@ oder 5 auslässt, steht vor verschlossener Tür und muss zurück
 Siegel-Mulden an der Grabtür, von Anfang an sichtbar, wenn jemand
 die Tür inspiziert.
 
-### Szenario E: Ein Held fällt im Dungeon
+### Szenario E: Sie finden Jannik, den Überlebenden
+
+Er ist eine Last (langsam, schwach, muss geführt werden) und eine
+Hilfe (kennt Raum 3 und 5, warnt vor Skarvax' Gehör: Vorteil auf
+einen Heimlichkeitswurf der Gruppe). Lässt man ihn zurück, holt ihn
+die nächste Flut nicht – er wartet einfach weiter. Nimmt man ihn mit,
+ist das die schönste Szene in Salzmund (→ Quest, Nebenziel).
+
+### Szenario F: Ein Held fällt im Dungeon
 
 Bei 4 Spielern bitter. Sicherheitsnetz, einmalig: Serenyas Geist
 flackert über der Grabkammer-Schwelle und stabilisiert einen

@@ -1,16 +1,19 @@
 # Belohnungen – Übersicht
 
-## Die vier seltenen Gegenstände (Serenyas Werkzeuge)
+## Die vier seltenen Gegenstände (die Vier Reliquien)
 
-Aus der Grabkammer der Grotte (→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`,
-Raum 7). Jeder hat einen eigenen Ordner mit Beschreibung und
-Unterordner **Effekte/**:
+Die Werkzeuge der vier Kämpfer, die den Spiegelherrn vor 5.000 Jahren
+aufhielten (Serenya, Torvan, Ilwe, Maren). Vom Spiegelkult aus dem
+Gewölbe unter dem Gezeitenturm gestohlen, von den Helden aus der
+Grabkammer der Grotte zurückgeholt
+(→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`, Raum 7). Jeder hat
+einen eigenen Ordner mit Beschreibung und Unterordner **Effekte/**:
 
 | Gegenstand | Kurz | Ordner |
 |---|---|---|
-| Klinge der Stille | Schwert, das der Spiegelschild nicht „hört" | `Seltene/Klinge-der-Stille/` |
-| Siegel des Spiegelbrechers | Zerbricht Vorgazhuls Schild (Ritual) | `Seltene/Siegel-des-Spiegelbrechers/` |
-| Amulett der Traumwache | Wacht über Träume und Leben des Trägers | `Seltene/Amulett-der-Traumwache/` |
+| Klinge der Stille | Schwert, das der Spiegel nicht „hört"; stoppt Regeneration, Zone der Stille | `Seltene/Klinge-der-Stille/` |
+| Siegel des Spiegelbrechers | Zerbricht Vorgazhuls Spiegelkern (Ritual) | `Seltene/Siegel-des-Spiegelbrechers/` |
+| Amulett der Traumwache | Negiert seine Spiegelkünste, schützt 1× vor dem Tod | `Seltene/Amulett-der-Traumwache/` |
 | Mantel der Gezeiten | Bewegung wie Wasser; durchdringt die Kuppel | `Seltene/Mantel-der-Gezeiten/` |
 
 **Verteilungs-Tipp:** Klinge → Nahkämpfer; Siegel → wer im Finale
@@ -30,7 +33,8 @@ die Diskussion am Tisch gehört zur Belohnung.
 
 ## Quest-Belohnungen
 
-- Versunkene Grotte: 3 große Heiltränke, Archivzugang
+- Versunkene Grotte: 3 große Heiltränke, Archivzugang; für Spuren der
+  Kompanie oder Jannik: Grims Boot und Salzmunds Dank
   (→ `Quests/Quest-Die-versunkene-Grotte.md`)
 - Die Gespiegelte: 25 Gold, Priesterinnen-Segen, Jolas Fenster-Blick
   (→ `Quests/Nebenquest-Die-Gespiegelte.md`)

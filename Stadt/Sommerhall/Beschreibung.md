@@ -10,9 +10,11 @@ und das beste Dunkelbier des Nordens. Fachwerk, Lindenalleen, ein
 Flüsschen mit drei Mühlen.
 
 **Dunkles Detail (weiß niemand mehr):** Sommerhall wurde auf einem
-**Leylinien-Knoten** erbaut – deshalb gedeiht hier alles, und deshalb
-hat Malrik diesen Ort gewählt. Der Knoten liegt genau unter dem
-Keller der Großen Festhalle.
+**Leylinien-Knoten** erbaut – deshalb gedeiht hier alles. Genau hier
+wurde vor 5.000 Jahren Vorgazhul in den Stein gebannt; der alte
+**Siegelstein** liegt unter dem Keller der Großen Festhalle und reicht
+bis unter den halben Marktplatz. Deshalb hat Malrik diesen Ort
+gewählt.
 
 ## Wichtige Personen
 
@@ -32,9 +34,10 @@ Keller der Großen Festhalle.
 
 ## Sommerhall unter dem Spiegel (ab Akt 2)
 
-Nach Vorgazhuls Erscheinen liegt die Stadt unter der
-**Spiegelkuppel**: flirrendes, verkehrtes Licht; niemand kommt hinein
-oder heraus (außer mit dem Mantel der Gezeiten). In den Straßen
-stehen „Gespiegelte" – reglose Glasstatuen von Bürgern. Überlebende
-verstecken sich in Kellern. Die Kuppel **wächst** um ein Dorf pro
-Woche – die Sanduhr der Kampagne.
+Sobald Vorgazhul angekommen ist (Weltenspiegel, → Kapitel 2), liegt
+die Stadt unter der **Spiegelkuppel**: flirrendes, verkehrtes Licht;
+niemand kommt hinein oder heraus (außer mit dem Mantel der Gezeiten).
+In den Straßen stehen „Gespiegelte" – reglose Glasstatuen aller, die
+im Umkreis von 1 km waren. Wer evakuiert wurde, lebt in einem Lager
+vor der Kuppel. Die Kuppel **wächst** um ein Dorf pro Woche – die
+Sanduhr der Kampagne.

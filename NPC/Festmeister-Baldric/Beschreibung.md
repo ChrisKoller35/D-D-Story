@@ -13,9 +13,13 @@ Gäste beschützt, statt zu fliehen.
 
 **Funktion in der Story:**
 - Kapitel 1: Gastgeber, Spielleiter der Festspiele, Stimmungsträger.
-- Kapitel 2: Heldenhafter Zivilist – sein möglicher Tod ist der
-  emotionale Preis des ersten Durchlaufs.
-- Kapitel 7: Falls er lebt, Anführer der Überlebenden in den Kellern.
+- Kapitel 2: Heldenhafter Zivilist – greift den Dämon an, um Gäste zu
+  schützen, und stirbt an seinem eigenen, reflektierten Schlag. Sein
+  Tod ist der emotionale Preis des ersten Durchlaufs. Im zweiten
+  Durchlauf ist er der wichtigste Mann, den man für eine Evakuierung
+  überzeugen muss.
+- Kapitel 7: Falls er gerettet wurde, Anführer der Geflüchteten im
+  Lager vor der Kuppel.
 
 **Typische Sätze:**
 - „Ein Fest ist wie ein Schild, Freunde – es hält die Dunkelheit

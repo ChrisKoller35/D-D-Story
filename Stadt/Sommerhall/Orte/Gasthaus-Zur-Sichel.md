@@ -17,4 +17,4 @@ Wirtin **Alma**.
 
 **Alma:** Mütterlich, resolut, nennt alle „Kind", auch den Barbaren.
 Falls Baldric in Akt 2 stirbt, übernimmt sie seine Rolle als
-Anführerin der Überlebenden im Finale.
+Anführerin der Geflüchteten im Lager vor der Kuppel (Finale).
