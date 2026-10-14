@@ -10,13 +10,15 @@ Szenarien pro Abschnitt stehen in den Kapiteln unter `Story/Erzaehler/`.
 
 Die Helden hatten **einen Monat Pause** seit dem letzten Abenteuer und
 sind vollständig erholt (volle HP, alle Slots, ein Inspirationswürfel
-pro Spieler). Sie treffen in **Sommerhall** zum großen Erntefest ein:
+pro Spieler). Bei einer Rast im Dorf **Hirsefurt** drückt ihnen der
+Junge **Tamo** einen Flyer fürs Fest in die Hand, und sie entscheiden
+selbst, hinzugehen. Sie treffen in **Sommerhall** zum großen Erntefest ein:
 Musik, Essen, Wettbewerbe in der großen Festhalle. Alles ist perfekt –
 fast zu perfekt.
 
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`
-- Handout: `Story/Spieler/Handout-Fest-Einladung.md`
+- Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
 - NPC: `NPC/Festmeister-Baldric/`
 
