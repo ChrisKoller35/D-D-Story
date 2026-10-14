@@ -148,15 +148,14 @@ Moment.
 
 ### Szenario G · 🔀 Ganz anders: Kreativlösungen gegen Malrik / das Ritualfundament
 
-Starke Gruppen denken um die Ecke: Malrik lebt evtl. noch als
-Vorgazhuls gebrochener Diener (falls er Akt 2 überlebt hat und
-außerhalb des Weltenspiegels war – oder als einziger Mensch, den
-Vorgazhul verschont hat). Wird er im Kampf bekehrt oder befreit
-(Überzeugen DC 16 mit gutem Rollenspiel), sabotiert er den
-Leylinien-Anker: Das Siegel-Ritual braucht nur noch 2 Aktionen statt
-3. Zerstören sie den Ritualkreis im Boden der Tanzfläche während
-des Kampfes (mitten im Getümmel!), verliert Vorgazhul seine Ortsbindung-Boni
-(→ Stats, „Leylinien-Anker").
+Starke Gruppen denken um die Ecke: Malrik lebt nur noch, wenn die
+Helden ihn im 2. Durchlauf am Morgen bekehrt haben (→ Kapitel 3,
+Szenario G) – sonst ist er im Ritual explodiert. Lebt er und
+begleitet sie (Überzeugen DC 16 mit gutem Rollenspiel, falls er
+zweifelt), sabotiert er den Leylinien-Anker: Das Siegel-Ritual braucht
+nur noch 2 Aktionen statt 3. Zerstören sie den Splitter des schwarzen
+Kristalls im Bühnenboden während des Kampfes (mitten im Getümmel!),
+verliert Vorgazhul seine Ortsbindung-Boni (→ Stats, „Leylinien-Anker").
 
 ### Szenario H · 🔀 Ganz anders: Sie wollen Vorgazhul bannen statt töten
 

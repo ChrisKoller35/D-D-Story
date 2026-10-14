@@ -1,12 +1,15 @@
 # Die Große Festhalle (Sommerhall)
 
-Schauplatz von Fest (Akt 1), Ritual auf der Tanzfläche (Akt 2) und
+Schauplatz von Fest (Akt 1), Ritual im Festsaal (Akt 2) und
 Finale (Akt 7).
 
 ## Obergeschoss / Hauptsaal
 
-Riesiger Fachwerksaal für 600 Gäste: Langtafeln, Bühne,
-Ehren-Empore, ein Kronleuchter aus Hirschgeweihen (ja, der kann
+Riesiger Fachwerksaal für 600 Gäste, ca. 60 × 30 m: vorne (Norden) die
+Bühne, in der Mitte die Tanzfläche, an West- und Ostseite Langtafeln,
+im Osten der Ausschank mit der Kellertreppe, hinten (Süden) das große
+Portal mit Garderobe, in der Nordostecke die Musikanten-Empore, dazu
+die Ehren-Empore und ein Kronleuchter aus Hirschgeweihen (ja, der kann
 fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 Ähren und Lichterketten.
 
@@ -30,15 +33,20 @@ Bierkeller (Fässer, Rampe) mit dem Kellerausgang zum Hof. Darunter,
 tief im Boden und von niemandem mehr erinnert: **der Leylinien-Knoten**,
 an dem Vorgazhul vor 5.000 Jahren gebannt wurde.
 
-## Die Tanzfläche (Ritualort)
+## Der Festsaal als Ritualort
 
-Mitten im Hauptsaal, direkt über dem Knoten. Hier streut Malrik in den
-Tagen vor dem Fest seinen Kreis aus Asche und Silberstaub in die Fugen
-des Bodens, und hier wirkt er das Ritual **offen auf der Party**
-(→ `Feinde/Ritualist-Malrik/`, `Story/Erzaehler/02-Ritual-und-Daemon.md`).
+Der ganze Saal liegt über dem Knoten. Malrik steht beim Ritual **ganz
+vorne an der Bühne** mit dem schwarzen Kristall, seine 4 Kultisten
+**weit verteilt** im Saal: an der Westfensterreihe, am Ausschank neben
+der Kellertreppe, an der Garderobe beim Portal und auf der
+Musikanten-Empore. Bei Ablauf des Timers laufen von ihren Plätzen
+dunkle Strahlen über den Boden zur Bühne, wo sich das Tor öffnet
+(Aufstellung, Timer und Opfer-Sequenz →
+`Story/Erzaehler/02-Ritual-und-Daemon.md`).
 
-**Im Finale:** Der Ritualkreis glüht noch im Boden der Tanzfläche und
-ankert Vorgazhul (→ `Feinde/Daemon-Vorgazhul/Stats/Stats.md`,
-„Leylinien-Anker"). Ihn zu zerstören (2 Aktionen Scheuern/Weihen)
+**Im Finale:** Ein Splitter des schwarzen Kristalls steckt noch im
+Bühnenboden, die dunklen Linien glimmen von dort aus durch den Saal
+und ankern Vorgazhul (→ `Feinde/Daemon-Vorgazhul/Stats/Stats.md`,
+„Leylinien-Anker"). Ihn zu zerstören (2 Aktionen Herausbrechen/Weihen)
 schwächt den Dämon – aber er liegt genau dort, wo Vorgazhul kämpft.
 Wer sich darum kümmert, steht mitten im Kampfgetümmel...

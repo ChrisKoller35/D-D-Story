@@ -97,7 +97,7 @@ man ihn herlockt (→ Kapitel 6, Szenario D).
 Skarvax' Reich: aufgetürmte Schiffswracks, Knochen, Perlmutt – und
 mittendrin die Grabtür mit den drei Siegel-Mulden. Obenauf auf dem
 Hort, wie Trophäen: Schilde und Helme der Kompanie der Salzklingen
-und zwei zerbrochene Silbermasken der Diebe. An der Grabtür:
+und zwei zerbrochene Silbersicheln der Diebe. An der Grabtür:
 Kratzspuren von außen – Skarvax will seit Wochen hinein, weil
 dahinter etwas Magisches liegt, das er nicht erreicht.
 **Grottenherr Skarvax** (→ `Feinde/Grottenherr-Skarvax/`, MIT
@@ -116,13 +116,13 @@ möglich.
 > ein Siegel, ein Amulett, ein Mantel.
 >
 > An der Tür, von innen, sitzen drei Gestalten in grauen Kutten
-> aneinandergelehnt. Ihre Silbermasken sind beschlagen. Einer hat
+> aneinandergelehnt, die Kapuzen tief im Gesicht. Einer hat
 > mit dem Fingernagel etwas in die Tür geritzt: „Es gibt keinen
 > Griff."
 
 Die vier Belohnungen → `Belohnungen/Seltene/` (jede mit eigenem
 Ordner und `Effekte/`). Die drei toten Diebe tragen dieselben
-Silbermasken wie die Kultisten in Sommerhall; bei einem steckt ein
+Silbersicheln wie die Kultisten in Sommerhall; bei einem steckt ein
 Brief „an den Meister in den Kornfeldern" (Malrik). **Serenyas
 Leichnam fehlt** – offener Faden für später (→ Kapitel 7, „Nach dem
 Sieg").

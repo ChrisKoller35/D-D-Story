@@ -19,7 +19,7 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
   Hier lagen die Vier Reliquien, bis Bruder Edrik sie vor sechs
   Wochen stahl und durch den alten **Flutkanal** an seine Komplizen
   im Boot reichte. Heute: aufgebrochen und leer. Spuren für Detektive
-  (zersprungene Silbermaske, Kratzspuren am Kanal)
+  (abgebrochene Silbersichel, Kratzspuren am Kanal)
   → `Story/Erzaehler/05-Salzmund.md`, Szenario D.
 - **Edriks Kammer** (2. Stock, Gehilfenzimmer): Tagebuch mit dem
   Hinweis auf „den Meister in den Kornfeldern" (Malrik) und den Plan,

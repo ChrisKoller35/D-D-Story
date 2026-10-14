@@ -16,16 +16,25 @@ dieses Opfer.
 Wird Malrik in 1,5 m Umkreis eines Kultisten angegriffen, wirft sich
 der Kultist dazwischen: Er wird stattdessen Ziel des Angriffs.
 
-## Opfergang (nur wenn Vorgazhul frisch beschworen ist)
+## Selbstopfer (Ritual, bei Ablauf des Timers)
 
-Alle 10 Minuten tritt ein Kultist vor den Meister und rammt sich die
-eigene Silbersichel in die Brust: Er stirbt, der Spiegelschild erhält
-**+1 Aufladung** (keine W10-Tabelle). So füttern sie den Dämon, wenn
-niemand ihn angreift. Gefangene oder bewusstlose Kultisten können das
-nicht (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`,
-Teil 1, Regel 4).
+Bei 0:00 stößt sich jeder murmelnde Kultist die eigene Silbersichel in
+die Brust. Sein Blut tropft nicht zu Boden, sondern kriecht als
+schwarzer Faden zur Bühne und speist das Siegel. Einer von ihnen
+opfert vorher ein Kind auf der Tanzfläche. Ablauf →
+`Story/Erzaehler/02-Ritual-und-Daemon.md`, Schritt 4.
 
-## Sterbender Fluch
+## Blut für das Siegel
 
-Stirbt ein Kultist, zerspringt seine Silbermaske: Alle Feinde in 3 m
-GES DC 12 oder 4 (1W8) Stichschaden durch Splitter.
+Stirbt ein Kultist während der Timer läuft (auch durch die Hand der
+Helden), zählt sein Tod sofort als Opfer: Der Timer verliert 1 Minute.
+Wer das Ritual schwächen will, muss Kultisten **zum Schweigen
+bringen**, nicht töten.
+
+## Opfergang (nur Überlebende)
+
+Ein Kultist, der vor dem Ritual ausgeschaltet wurde und später wieder
+frei kommt, kriecht zu Vorgazhul und opfert sich: **+1 Aufladung**
+(keine W10-Tabelle,
+→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`, Teil 1,
+Regel 4).

@@ -27,7 +27,10 @@ echte Spielzeit nur Fest und Spiele.
 
 - Ein Hund jault die Festhalle an und weigert sich hineinzugehen.
 - Der Festwein schmeckt für einen Moment nach Asche (DC 18 Wahrnehmung).
-- Ein Kind sagt: „Der Mann in Grau hat gar kein Gesicht."
+- Ein Kind sagt: „Der Mann in Grau hat gar kein Gesicht." (Das ist
+  **Mira**, 7, die den ganzen Abend mit ihrem Holzpferd zwischen den
+  Tischen herumläuft. Lass sie den Spielern ans Herz wachsen – sie ist
+  das Kind, das in Kapitel 2 geopfert wird.)
 - Malrik (→ `Feinde/Ritualist-Malrik/`) ist als grauer Pilger unter
   den Gästen – wer ihn vor dem Ritual bemerkt, siehe Szenario D.
 
@@ -74,17 +77,20 @@ leiser Vorgriff auf die Flucht-Lösung (→ Kapitel 4).
 
 ### Szenario D · 🔀 Ganz anders: Die Gruppe entdeckt Malrik vor dem Ritual
 
-Belohne das: Sie sehen, wie er auf der noch leeren Tanzfläche
-Silberstaub in die Fugen des Bodens streut. Stellen sie ihn, liegt der
-**Ritualkreis schon bereit** – das Ritual startet dann sofort, mitten
-im Saal (früher als geplant, Malrik ist nervös,
-2 Kultisten weniger als in Kapitel 2 angegeben). Weiter mit Kapitel 2,
-Abschnitt „Ritual unterbrochen?".
+Belohne das: Sie sehen den grauen Pilger allein vorne an der Bühne
+stehen, die Hand im Ärmel, in dem etwas Schwarzes glänzt. Ist es schon
+nach dem Höhepunkt des Fests (die Kultisten stehen an ihren Plätzen),
+zählt das als **Entdeckung**: Der 5-Minuten-Timer startet sofort
+(→ Kapitel 2, Schritt 2 und 3). Davor weicht Malrik aus
+(`Aschengestalt`) und taucht unter; der Timer startet dann später wie
+gewohnt.
 
 ---
 
 ## Übergang
 
-Sobald die Stimmung am Höhepunkt ist (Siegerehrung der Festspiele
-bietet sich an): **Der graue Pilger tritt in die Mitte der Tanzfläche.
-Die Lichter flackern. Die Musik stirbt.** → Kapitel 2.
+Nach 45–60 Minuten, auf dem Höhepunkt des Fests, stehen Malrik und
+seine 4 Kapuzen-Kultisten an ihren Plätzen im Festsaal und murmeln.
+**Kapitel 2 beginnt, sobald ein Held in der Nähe eines Kultisten ist
+und ihn entdeckt** – spätestens bei der Siegerehrung, wenn die Helden
+auf die Bühne gerufen werden und an Malrik vorbeigehen. → Kapitel 2.

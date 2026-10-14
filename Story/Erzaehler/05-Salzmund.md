@@ -70,7 +70,7 @@ Archivgehilfe, **Bruder Edrik**, arbeitete über ein Jahr im Turm. In
 der Nacht der tiefsten Ebbe mischte er den Turmwächtern Schlafmohn
 in den Tee, öffnete das Gewölbe und reichte die Reliquien durch den
 alten Flutkanal an vier Komplizen in einem Ruderboot hinaus.
-Zeugen sahen **graue Kutten und Masken aus Silber ohne Augenlöcher**.
+Zeugen sahen **graue Kutten mit tiefen Kapuzen und Sicheln aus Silber**.
 
 > **Aha-Moment für die Spieler:** Das sind die Kultisten aus
 > Sommerhall (→ `Feinde/Kultisten/`)! Der Kult hat die einzigen
@@ -143,8 +143,9 @@ Salzmund, bis sie es geradebiegen).
 
 Detektiv-Gruppen lieben das. Im **Gewölbe der Vier** (aufgebrochen,
 leer) finden sie: vier leere Halterungen, Kratzspuren am Flutkanal,
-und unter einem Regal eine **zersprungene Silbermaske** – exakt wie
-die der Kultisten in Sommerhall (Bestätigung des Aha-Moments). In
+und unter einem Regal eine **abgebrochene Silbersichel** – exakt wie
+die, mit denen sich die Kultisten in Sommerhall geopfert haben
+(Bestätigung des Aha-Moments). In
 Edriks Kammer: Sein Tagebuch endet mit „Der Meister in den
 Kornfeldern wird zufrieden sein. Die Vier gehen dorthin zurück, wo
 die Stille schläft." – Edrik wollte die Reliquien in Serenyas Grab

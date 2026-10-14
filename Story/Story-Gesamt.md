@@ -22,10 +22,16 @@ fast zu perfekt.
 
 ## Akt 2: Das Ritual und der Dämon
 
-Auf dem Höhepunkt des Fests tritt der Ritualist **Malrik der
-Aschenpriester** offen auf die Tanzfläche und wirkt sein Ritual
-**mitten auf der Party**. Der Dämon wird direkt zwischen die Gäste
-beschworen – wenn es eskaliert, gibt es hier das größte Gemetzel. Das Ritual lässt sich **nicht
+Auf dem Höhepunkt des Fests steht der Ritualist **Malrik der
+Aschenpriester** ganz vorne an der Bühne, einen schwarzen Kristall in
+der Hand. Seine 4 Kultisten stehen mit Kapuzen weit verteilt im großen
+Festsaal und murmeln die Ritualformel. Entdeckt ein Held einen von
+ihnen, läuft ein **5-Minuten-Timer** (jeder Wurf, jede Interaktion
+−30 Sekunden). Bei 0:00 opfern sich die Kultisten (einer opfert vorher
+ein Kind), alle Gäste erstarren vor Entsetzen, dunkle Strahlen laufen
+zur Bühne, Malrik explodiert, sein Blut fließt in den Kristall – und
+das Tor öffnet sich **mitten auf der Party**. Wenn es eskaliert, gibt
+es hier das größte Gemetzel. Das Ritual lässt sich **nicht
 aufhalten**: Es bricht das 5.000 Jahre alte
 Siegel unter der Festhalle, und der Dämon **Vorgazhul, der
 Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
@@ -37,7 +43,7 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
   ein zufälliges Ultra-Schlimm-Ereignis aus (W10-Tabelle).
 - Jede **Beleidigung** verursacht sofort massiven Schaden.
 - Der Schild hat **10 Aufladungen**; jeder Treffer lädt ihn um 1 auf,
-  dazu Hunger (+1 pro Stunde) und Opfergänge der Kultisten.
+  dazu Hunger (+1 pro Stunde).
   Bei 10 Aufladungen: **alles im Umkreis von 1 km stirbt** – und er ist
   **in der Welt angekommen**.
 - Die Lösung: nicht angreifen, **Leute evakuieren, fliehen**. Je mehr

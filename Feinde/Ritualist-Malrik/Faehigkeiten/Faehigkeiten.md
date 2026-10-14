@@ -30,9 +30,12 @@ Malrik ruft die „Wahrheit des Spiegels" aus: Jeder Feind in 9 m, der
 ihn hört, WEI DC 14 oder 11 (2W10) psychischer Schaden und Nachteil
 auf den nächsten Rettungswurf (die eigenen Zweifel flüstern mit).
 
-## Das Ritual der Spiegelung (Handlung über 3 Runden)
+## Das Ritual der Spiegelung (Timer + Opfer-Sequenz)
 
-Nur über dem Leylinien-Knoten (Tanzfläche der Festhalle, offen auf der Party). Erfordert den Kreis
-aus Asche und Silber. Malrik ist währenddessen wehrlos (siehe Stats).
+Nur über dem Leylinien-Knoten (Festsaal der Festhalle, offen auf der
+Party). Erfordert den **schwarzen Kristall** und die Stimmen der
+4 Kultisten, die weit verteilt im Saal die Formel murmeln. Ab ihrer
+Entdeckung läuft ein 5-Minuten-Timer, dann folgen die Opfer, die
+dunklen Strahlen zur Bühne, Malriks Explosion und das Tor.
 Ergebnis in jedem Fall: Vorgazhul erscheint – die Umstände variieren
 (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`).

@@ -45,7 +45,7 @@ Küstensprache, die seit Jahrtausenden niemand mehr spricht. Sie
 *Darunter, von Neridas Hand auf einem neuen Zettel:*
 
 > Die Reliquien wurden vor sechs Wochen gestohlen. Die Diebe (graue
-> Kutten, Silbermasken) sind in die Grotte geflohen. Die Kompanie der
+> Kapuzen, Silbersicheln) sind in die Grotte geflohen. Die Kompanie der
 > Salzklingen, 20 Mann, ging hinterher. Niemand kam zurück.
 >
 > Gezeiten morgen: Ebbe ab der sechsten Morgenstunde, etwa sechs
