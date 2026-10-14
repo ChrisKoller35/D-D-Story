@@ -58,7 +58,9 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
 
 Sterben alle, **wachen sie auf**: Es war ein prophetischer Traum – es
 ist wieder der Morgen vor dem Fest. **Nur eine Person erinnert sich**
-an alles. Die Gruppe kann alles noch einmal spielen – **mit Vorteil**,
+an alles: Sie wacht schweißgebadet und schreiend auf, so laut, dass die
+anderen in den Nachbarzimmern sofort hellwach sind und zu ihr laufen.
+Die Gruppe kann alles noch einmal spielen – **mit Vorteil**,
 weil sie (über die eine Person) weiß, was passieren wird. Das beste
 Ergebnis: die ganze Stadt evakuieren, das Ritual laufen lassen, selbst
 fliehen. Einen dritten Versuch gibt es nicht.
