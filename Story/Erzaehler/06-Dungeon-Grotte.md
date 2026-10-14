@@ -8,12 +8,21 @@
 
 ## Überblick
 
-Serenyas Grabstätte in einer Meereshöhle, nur bei **Ebbe** zugänglich
-(Zeitfenster: ~6 Stunden, dann steigt das Wasser – natürlicher
-Zeitdruck). Der Dungeon muss **vollständig abgeschlossen** werden:
-Die vier Belohnungen liegen in der Grabkammer hinter dem Boss, und
-die Grabkammer öffnet sich erst, wenn die **drei Gezeitensiegel**
+Die Grabstätte der Vier (Serenya und ihre Gefährten) in einer
+Meereshöhle, nur bei **Ebbe** zugänglich (Zeitfenster: ~6 Stunden,
+dann steigt das Wasser – natürlicher Zeitdruck). Der Dungeon muss
+**vollständig abgeschlossen** werden: Die gestohlenen Reliquien
+liegen in der Grabkammer hinter dem Boss (die Diebe haben sie dort
+versteckt und sind darin eingeschlossen gestorben), und die
+Grabkammer öffnet sich erst, wenn die **drei Gezeitensiegel**
 (Raum 2, 3, 5) aktiviert wurden.
+
+**Die verlorene Kompanie:** Überall liegen Spuren der 20 Abenteurer,
+die vor den Helden hier waren (Lager, Tagebuch, Trophäen in Skarvax'
+Hort, ein Überlebender in der Luftglocke) – Details in
+`Dungeon/Grotte-der-Gezeiten/Beschreibung.md`. Nutze sie als
+Warnschilder: Die Spieler sollen spüren, dass hier 20 Leute
+gescheitert sind.
 
 **Gegner-Besetzung (Richtwerte für 4× Level 7):**
 
@@ -29,23 +38,38 @@ die Grabkammer öffnet sich erst, wenn die **drei Gezeitensiegel**
 
 ## Szenarien – was die Spieler tun könnten
 
-### Szenario A: Sauberer Durchlauf bei Ebbe (Standard)
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = so ist dieses
+> Kapitel gedacht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Sauberer Durchlauf bei Ebbe
 
 Sie folgen Neridas Gezeitenplan, lösen die Siegel, besiegen Skarvax,
 öffnen die Grabkammer. Rechne 2–3 Stunden Spielzeit. Achte auf das
 Zeitfenster: Baue bei Trödelei hörbar steigendes Wasser ein („Das
 Plätschern in Raum 1 ist jetzt ein Rauschen").
 
-### Szenario B: Die Flut erwischt sie (zu langsam / ohne Gezeitenplan)
+**➖ Leichte Abweichungen**
 
-Kein TPK-Werkzeug, sondern Druck: Räume 1–2 fluten zuerst (schwimmen,
-Rüstung zieht runter – STR-Rettungswürfe DC 12, steigend). Rückzug
-nach draußen ist immer möglich, kostet aber einen Tag UND: Skarvax
-kennt sie jetzt und verstärkt Raum 5 (+2 Gezeitenschlurfer). Alternativ
-finden sie die **Luftglocke** in Raum 4 (Hohlraum in der Decke) und
-warten dort 6 nasse, gruselige Stunden – gute Horror-Szene.
+### Szenario B · ➖ Leichte Abweichung: Sie finden Jannik, den Überlebenden
 
-### Szenario C: Sie versuchen, den Boss zu umgehen oder auszutricksen
+Er ist eine Last (langsam, schwach, muss geführt werden) und eine
+Hilfe (kennt Raum 3 und 5, warnt vor Skarvax' Gehör: Vorteil auf
+einen Heimlichkeitswurf der Gruppe). Lässt man ihn zurück, holt ihn
+die nächste Flut nicht – er wartet einfach weiter. Nimmt man ihn mit,
+ist das die schönste Szene in Salzmund (→ Quest, Nebenziel).
+
+### Szenario C · ➖ Leichte Abweichung: Sie schließen den Dungeon ab, aber überspringen Räume
+
+Die Grabkammer öffnet nur mit **allen drei Siegeln** – wer Raum 3
+oder 5 auslässt, steht vor verschlossener Tür und muss zurück
+(steigendes Wasser!). Sag es über die Architektur an: Drei leere
+Siegel-Mulden an der Grabtür, von Anfang an sichtbar, wenn jemand
+die Tür inspiziert.
+
+### Szenario D · ➖ Leichte Abweichung: Sie versuchen, den Boss zu umgehen oder auszutricksen
 
 Skarvax bewacht die Grabkammer-Tür persönlich – vorbeischleichen ist
 fast unmöglich (sein blindes Echolot, → Stats), ABER: Clevere Gruppen
@@ -56,15 +80,18 @@ ein halber Sieg). Kämpfen muss man ihn trotzdem, aber angeschlagen.
 Verhandeln: Skarvax ist intelligent, aber besessen von seinem „Hort" –
 er gibt die Grabkammer niemals freiwillig frei.
 
-### Szenario D: Sie schließen den Dungeon ab, aber überspringen Räume
+**🔀 Ganz andere Verläufe**
 
-Die Grabkammer öffnet nur mit **allen drei Siegeln** – wer Raum 3
-oder 5 auslässt, steht vor verschlossener Tür und muss zurück
-(steigendes Wasser!). Sag es über die Architektur an: Drei leere
-Siegel-Mulden an der Grabtür, von Anfang an sichtbar, wenn jemand
-die Tür inspiziert.
+### Szenario E · 🔀 Ganz anders: Die Flut erwischt sie (zu langsam / ohne Gezeitenplan)
 
-### Szenario E: Ein Held fällt im Dungeon
+Kein TPK-Werkzeug, sondern Druck: Räume 1–2 fluten zuerst (schwimmen,
+Rüstung zieht runter – STR-Rettungswürfe DC 12, steigend). Rückzug
+nach draußen ist immer möglich, kostet aber einen Tag UND: Skarvax
+kennt sie jetzt und verstärkt Raum 5 (+2 Gezeitenschlurfer). Alternativ
+finden sie die **Luftglocke** in Raum 4 (Hohlraum in der Decke) und
+warten dort 6 nasse, gruselige Stunden – gute Horror-Szene.
+
+### Szenario F · 🔀 Ganz anders: Ein Held fällt im Dungeon
 
 Bei 4 Spielern bitter. Sicherheitsnetz, einmalig: Serenyas Geist
 flackert über der Grabkammer-Schwelle und stabilisiert einen

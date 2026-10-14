@@ -29,50 +29,62 @@ echte Spielzeit nur Fest und Spiele.
 - Der Festwein schmeckt für einen Moment nach Asche (DC 18 Wahrnehmung).
 - Ein Kind sagt: „Der Mann in Grau hat gar kein Gesicht."
 - Malrik (→ `Feinde/Ritualist-Malrik/`) ist als grauer Pilger unter
-  den Gästen – wer ihn vor dem Ritual bemerkt, siehe Szenario C.
+  den Gästen – wer ihn vor dem Ritual bemerkt, siehe Szenario D.
 
 ---
 
 ## Szenarien – was die Spieler tun könnten
 
-### Szenario A: Die Gruppe feiert einfach mit (Standard)
+> **So sind die Szenarien sortiert:** ⭐ **Optimal** = so ist dieses
+> Kapitel gedacht · ➖ **Leichte Abweichung** = gleiche Richtung,
+> anderer Weg · 🔀 **Ganz anders** = die Gruppe verlässt den geplanten Weg.
+
+**⭐ Der optimale Weg**
+
+### Szenario A · ⭐ Optimal: Die Gruppe feiert einfach mit
 
 Sie machen bei den Spielen mit, trinken, gewinnen Preise. Perfekt –
 spiele die Festspiele aus, verteile kleine Preise
 (→ `Belohnungen/Uebersicht.md`, Abschnitt „Festpreise"). Gehe nach
 45–60 Minuten zu Kapitel 2 über.
 
-### Szenario B: Die Gruppe ist misstrauisch und patrouilliert
+**➖ Leichte Abweichungen**
+
+### Szenario B · ➖ Leichte Abweichung: Die Gruppe ist misstrauisch und patrouilliert
 
 Abenteurer-Paranoia. Gib ihnen etwas zu finden, aber nicht zu viel:
 Die Vorzeichen oben, plus bei DC 15 Nachforschung: In den letzten
 Wochen sind in Sommerhall **Kerzen, Salz und eine Ziege** gestohlen
-worden. Das führt zu Szenario C – aber Malrik lässt sich nicht vor
+worden. Das führt zu Szenario D – aber Malrik lässt sich nicht vor
 seiner Zeit erwischen: Falls sie ihm zu früh zu nahe kommen, nutzt er
 `Aschengestalt` (→ `Feinde/Ritualist-Malrik/Faehigkeiten/`) und taucht
 unter. Das Ritual passiert trotzdem.
 
-### Szenario C: Die Gruppe entdeckt Malrik vor dem Ritual
-
-Belohne das: Sie sehen, wie er in den Keller der Festhalle schlüpft.
-Folgen sie ihm, finden sie den **Ritualkreis in Vorbereitung** – das
-Ritual startet dann sofort (früher als geplant, Malrik ist nervös,
-2 Kultisten weniger als in Kapitel 2 angegeben). Weiter mit Kapitel 2,
-Abschnitt „Ritual unterbrochen?".
-
-### Szenario D: Die Gruppe trennt sich / jemand verlässt das Fest
+### Szenario C · ➖ Leichte Abweichung: Die Gruppe trennt sich / jemand verlässt das Fest
 
 Kein Problem: Das Ritual betrifft die ganze Stadt. Wer draußen ist,
 hört die Schreie aus der Festhalle und sieht violettes Licht aus den
-Fenstern. Vorgazhul **versiegelt die Festhalle** erst 3 Runden nach
-seinem Erscheinen – wer schnell ist, kommt noch rein (oder raus...).
+Fenstern. Vorgazhul **versiegelt die Festhalle** Ausgang für Ausgang,
+einen pro Runde (→ `Stadt/Sommerhall/Orte/Festhalle.md`) – wer schnell
+ist, kommt noch rein (oder raus...).
 Hinweis für später: Dass „draußen sein" sich richtig anfühlt, ist ein
 leiser Vorgriff auf die Flucht-Lösung (→ Kapitel 4).
+
+**🔀 Ganz andere Verläufe**
+
+### Szenario D · 🔀 Ganz anders: Die Gruppe entdeckt Malrik vor dem Ritual
+
+Belohne das: Sie sehen, wie er auf der noch leeren Tanzfläche
+Silberstaub in die Fugen des Bodens streut. Stellen sie ihn, liegt der
+**Ritualkreis schon bereit** – das Ritual startet dann sofort, mitten
+im Saal (früher als geplant, Malrik ist nervös,
+2 Kultisten weniger als in Kapitel 2 angegeben). Weiter mit Kapitel 2,
+Abschnitt „Ritual unterbrochen?".
 
 ---
 
 ## Übergang
 
 Sobald die Stimmung am Höhepunkt ist (Siegerehrung der Festspiele
-bietet sich an): **Die Lichter flackern. Die Musik stirbt. Aus dem
-Keller steigt violetter Rauch.** → Kapitel 2.
+bietet sich an): **Der graue Pilger tritt in die Mitte der Tanzfläche.
+Die Lichter flackern. Die Musik stirbt.** → Kapitel 2.

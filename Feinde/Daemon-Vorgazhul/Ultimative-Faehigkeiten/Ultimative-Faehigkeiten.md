@@ -1,6 +1,6 @@
 # Vorgazhul – Ultimative Fähigkeiten
 
-## Phase 1: WELTENSPIEGEL (bei 10 Schild-Aufladungen)
+## Akt 2: WELTENSPIEGEL (bei 10 Schild-Aufladungen) – die Ankunft
 
 *Die „Alle-sterben"-Fähigkeit. Sie ist kein Kampfzug, sie ist ein
 Urteil. Inszeniere sie als Schnitt, nicht als Kampfrunde.*
@@ -10,24 +10,54 @@ Urteil. Inszeniere sie als Schnitt, nicht als Kampfrunde.*
 > in seinem Glas: jede Narbe, jeder Fehler, jedes Versprechen, das
 > ihr nicht gehalten habt. Dann dreht er das Bild um.
 
-**Effekt:** Alle Kreaturen nach Vorgazhuls Wahl im Umkreis von 1 km
-sterben. Kein Rettungswurf. Kein Schaden-Auswürfeln. Es ist vorbei.
+**Effekt:** Alle Kreaturen im Umkreis von 1 km sterben und werden zu
+reglosem Spiegelglas („Gespiegelte"). Kein Rettungswurf. Kein
+Schaden-Auswürfeln. Es ist vorbei. Wer weiter als 1 km entfernt ist,
+sieht nur einen lautlosen violetten Blitz am Horizont. Einzige
+Ausnahme, falls du sie brauchst: Malrik darf er verschonen, als
+gebrochenen Diener (→ Kapitel 7, Szenario G).
 
-- **Erster Durchlauf:** → `Story/Erzaehler/03-Traum-und-Neustart.md`
+**Danach ist Vorgazhul in der Welt angekommen.** Der Spiegelschild
+ist verbraucht und kommt nie wieder. Über Sommerhall bildet sich die
+**Spiegelkuppel**, sein Reich, das wächst (ein Dorf pro Woche).
+
+- **Erster Durchlauf, Helden im Umkreis:** → `Story/Erzaehler/03-Traum-und-Neustart.md`
   (Erwachen aus dem Traum).
-- **Zweiter Durchlauf (Finale):** Es gibt keinen Traum mehr. Einzige
-  Ausnahme: Der Träger des **Amuletts der Traumwache** überlebt
-  (→ `Belohnungen/Seltene/Amulett-der-Traumwache/Effekte/`).
-
-**Mit dem Zerbrechen des Spiegelschilds (Siegel-Ritual) ist der
-Weltenspiegel dauerhaft verloren.** Vorgazhul weiß das – und
-bekommt zum ersten Mal Angst. Spiele das!
+- **Zweiter Durchlauf, Helden im Umkreis:** Es gibt keinen Traum mehr
+  → Ende „Die Retter von Sommerhall" (Stadt evakuiert) bzw. „Der
+  Spiegel gewinnt" (→ `Story/Story-Gesamt.md`, „Mögliche Enden").
+- **Helden sind geflohen (> 1 km):** Sie sehen den Blitz aus der
+  Ferne. → `Story/Erzaehler/04-Flucht-und-Phae.md`.
 
 ---
 
-## Phase 2: Ultimative des Gebrochenen Spiegels
+## Akt 7, Phase 1: SPIEGELKABINETT (1×, Spiegelkern intakt)
 
-### SPLITTERSTURM (1×, bei erstmalig unter 95 TP)
+*Auslöser: wenn die **zweite** Aktion des Siegel-Rituals vollendet
+ist, oder wenn er zum ersten Mal auf 0 TP fällt – was zuerst kommt.
+Er spürt, dass etwas ihn bedroht, und wird zum ersten Mal hektisch.*
+
+> Jede Glasfläche im Saal blitzt gleichzeitig auf. Plötzlich steht ihr
+> in einem Labyrinth aus Spiegeln, und aus jedem Spiegel tritt er
+> heraus. Fünfmal. Alle fünf lächeln.
+
+- Alle Helden werden an zufällige Punkte in der Festhalle teleportiert
+  (würfle für jeden aus).
+- Es erscheinen **4 Spiegelbilder** von Vorgazhul, nicht vom echten zu
+  unterscheiden (RK 19, je 1 TP). Sie bewegen sich und reden, greifen
+  aber nicht an. Wer ein Spiegelbild angreift, zerschlägt es und
+  erleidet 7 (2W6) Stichschaden.
+- Wer das **Siegel des Spiegelbrechers** trägt, erkennt den echten
+  sofort (Spiegelsinn) – das Siegel weitergeben wird plötzlich
+  lebenswichtig.
+- Das Kabinett hält 2 Runden oder bis alle Spiegelbilder zerschlagen
+  sind.
+
+---
+
+## Akt 7, Phase 2: Ultimative des Gebrochenen Spiegels
+
+### SPLITTERSTURM (1×, bei erstmalig unter 95 TP in Phase 2)
 
 > Vorgazhul breitet die Arme aus und zerspringt – tausend Scherben,
 > jede mit eurem Gesicht darin, wirbeln durch den Saal.

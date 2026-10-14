@@ -12,7 +12,11 @@ Wer es trägt, schläft tief und traumlos-ruhig – und wacht immer
 
 Auf der Fassung, winzig graviert: *„Einer bleibt wach."*
 
-**Herkunft:** Grabkammer der Grotte der Gezeiten
+**Herkunft:** Einer der vier Gegenstände, mit denen vor 5.000 Jahren
+der Spiegelherr aufgehalten wurde; getragen von **Ilwe der Wachenden, die beim Siegeln fiel**. Seitdem
+im Gewölbe der Vier unter dem Gezeitenturm von Salzmund verwahrt,
+vor sechs Wochen vom Spiegelkult gestohlen, zu finden in der
+Grabkammer der Grotte der Gezeiten
 (→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`, Raum 7).
 
 **Alle Spielwerte und Effekte:** → `Effekte/Effekte.md`

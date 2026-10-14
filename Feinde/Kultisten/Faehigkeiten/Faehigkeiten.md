@@ -16,6 +16,15 @@ dieses Opfer.
 Wird Malrik in 1,5 m Umkreis eines Kultisten angegriffen, wirft sich
 der Kultist dazwischen: Er wird stattdessen Ziel des Angriffs.
 
+## Opfergang (nur wenn Vorgazhul frisch beschworen ist)
+
+Alle 10 Minuten tritt ein Kultist vor den Meister und rammt sich die
+eigene Silbersichel in die Brust: Er stirbt, der Spiegelschild erhält
+**+1 Aufladung** (keine W10-Tabelle). So füttern sie den Dämon, wenn
+niemand ihn angreift. Gefangene oder bewusstlose Kultisten können das
+nicht (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`,
+Teil 1, Regel 4).
+
 ## Sterbender Fluch
 
 Stirbt ein Kultist, zerspringt seine Silbermaske: Alle Feinde in 3 m

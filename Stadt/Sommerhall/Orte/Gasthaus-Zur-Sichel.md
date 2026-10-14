@@ -12,9 +12,9 @@ Wirtin **Alma**.
   Erwachen exakt dieselben Worte wiederholen – Gänsehaut garantiert.
 - **Malrik wohnt hier ebenfalls**, als unauffälliger grauer Pilger,
   Zimmer 4 (→ `Story/Erzaehler/03-Traum-und-Neustart.md`,
-  Szenario D). In seinem Zimmer (DC 13 Schlösser): Silberstaub,
-  Aschenproben, eine Skizze des Festhallenkellers.
+  Szenario F). In seinem Zimmer (DC 13 Schlösser): Silberstaub,
+  Aschenproben, eine Skizze der Tanzfläche mit eingezeichnetem Kreis.
 
 **Alma:** Mütterlich, resolut, nennt alle „Kind", auch den Barbaren.
 Falls Baldric in Akt 2 stirbt, übernimmt sie seine Rolle als
-Anführerin der Überlebenden im Finale.
+Anführerin der Geflüchteten im Lager vor der Kuppel (Finale).

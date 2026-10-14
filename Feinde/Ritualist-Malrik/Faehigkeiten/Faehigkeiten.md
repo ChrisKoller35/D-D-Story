@@ -32,7 +32,7 @@ auf den nächsten Rettungswurf (die eigenen Zweifel flüstern mit).
 
 ## Das Ritual der Spiegelung (Handlung über 3 Runden)
 
-Nur am Leylinien-Knoten (Keller der Festhalle). Erfordert den Kreis
+Nur über dem Leylinien-Knoten (Tanzfläche der Festhalle, offen auf der Party). Erfordert den Kreis
 aus Asche und Silber. Malrik ist währenddessen wehrlos (siehe Stats).
 Ergebnis in jedem Fall: Vorgazhul erscheint – die Umstände variieren
 (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`).
