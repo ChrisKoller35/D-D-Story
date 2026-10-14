@@ -68,8 +68,7 @@ Fest. Alles wird sich wiederholen – es sei denn, die Helden ändern es.
 
 - **Die erinnernde Person** weiß alles aus dem ersten Durchlauf.
 - **Alle anderen** erhalten, sobald die Erinnernde sie gewarnt hat
-  (oder in Schlüsselmomenten durch Déjà-vu): **Vorteil auf
-  Initiative** beim Ritual-Ereignis sowie Vorteil auf **einen** Wurf
+  (oder in Schlüsselmomenten durch Déjà-vu): Vorteil auf **einen** Wurf
   pro Szene, der direkt mit dem Vorwissen zu tun hat („Du wusstest,
   dass der Kronleuchter fällt").
 - Déjà-vu-Momente frei einstreuen: „Das hast du schon mal gehört."
@@ -88,7 +87,7 @@ kommt nie zweimal durch dieselbe Tür."
 und selbst zu fliehen**. Dann stirbt niemand, Vorgazhul kommt in einer
 leeren Stadt an, und die Helden können mit der Ausrüstung aus der
 Grotte zurückkehren und siegen. Die Evakuierungs-Mechanik steht in
-Kapitel 2 („Evakuierung"); im zweiten Durchlauf haben die Helden dafür
+Kapitel 2b (→ `Story/Erzaehler/02b-Evakuierung.md`); im zweiten Durchlauf haben die Helden dafür
 den ganzen Festtag plus die Stunden nach dem Ritual.
 
 ---
@@ -103,12 +102,13 @@ den ganzen Festtag plus die Stunden nach dem Ritual.
 
 ### Szenario A · ⭐ Optimal: Sie evakuieren die ganze Stadt und lassen das Ritual laufen
 
-Die Königslösung. Spiele die Stadt-Evakuierung aus Kapitel 2 – im
+Die Königslösung. Spiele die Stadt-Evakuierung aus Kapitel 2b – im
 zweiten Durchlauf mit dem ganzen Tag Zeit, aber mit Widerstand:
 Baldric will sein Fest nicht absagen (Überzeugen DC 15, mit einer
 erfüllten Vorhersage DC 10), Hauptmann Rudger hält das für
 Abenteurer-Hysterie, manche Alte wollen ihre Höfe nicht verlassen.
-Jede erfüllte Vorhersage der Erinnernden (Hund, Asche im Wein, Kind)
+Jede erfüllte Vorhersage der Erinnernden (Mira mit dem Holzpferd, der
+Umzug in die Festhalle um 17 Uhr, die Gewinner der Festspiele)
 senkt den SG für den Rest des Tages um 2. Gelingt es: Das Ritual
 findet in einer leeren Stadt statt, der Weltenspiegel trifft
 niemanden. **Dann müssen auch die Helden fliehen** → Kapitel 4.
@@ -129,8 +129,9 @@ Weiter zu Kapitel 4, sobald sie fliehen.
 
 ### Szenario C · ➖ Leichte Abweichung: Niemand glaubt der Erinnernden
 
-Sehr realistisch. Lass die Vorzeichen aus Kapitel 1 diesmal exakt so
-eintreffen, wie die Erinnernde es vorhersagt („Gleich jault der Hund.")
+Sehr realistisch. Lass kleine Details des Festtags diesmal exakt so
+eintreffen, wie die Erinnernde es vorhersagt („Gleich rennt ein
+Mädchen mit einem Holzpferd vorbei.")
 – drei erfüllte Vorhersagen überzeugen jede Gruppe. Falls nicht:
 Das Ritual überzeugt sie dann endgültig.
 
@@ -153,8 +154,7 @@ anderen Ort über dem Leylinien-Knoten: den Hof, den Marktplatz, eine
 Scheune nebenan, notfalls unter freiem Himmel in der Nacht. Das
 Ritual findet statt. Was die Helden damit gewinnen: Sie können
 Kultisten abfangen (jeder gefangene, nicht getötete Kultist = eine
-dunkle Ecke im Siegel: Dort bleibt ein Ausgang offen und die Gäste
-erstarren nicht, → Kapitel 2, „Eingreifen, bevor der Timer abläuft").
+dunkle Ecke im Siegel: Dort bleibt ein Ausgang offen, → Kapitel 2, „Eingreifen, bevor der Timer abläuft").
 
 ### Szenario F · ➖ Leichte Abweichung: Sie jagen Malrik am Morgen
 

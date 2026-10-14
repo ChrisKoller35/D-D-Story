@@ -19,9 +19,9 @@ Der Ablauf in vier Schritten:
    in der Nähe eines Kultisten ist und ihn entdeckt**.
 3. **Der Timer:** Ab der Entdeckung läuft eine Stoppuhr, **5 Minuten**.
    Jeder Wurf und jede Interaktion kostet **30 Sekunden** extra.
-4. **Die Opfer-Sequenz:** Bei 0:00 geht es los. Die Kultisten opfern
-   sich (und ein Kind), dunkle Strahlen laufen zur Bühne, Malrik
-   explodiert, sein Blut fließt in den Kristall, **das Tor öffnet
+4. **Die Opfer-Sequenz:** Bei 0:00 geht es los, ohne Initiative. Die
+   Kultisten opfern sich (und ein Kind), dunkle Strahlen laufen zur
+   Bühne, Malrik explodiert, sein Blut fließt in den Kristall, **das Tor öffnet
    sich** und Vorgazhul erscheint.
 
 Was niemand mehr weiß: Unter der Festhalle liegt der Leylinien-Knoten,
@@ -82,10 +82,12 @@ Die Helden bewegen sich frei auf dem Fest (Festspiele, Tanz, Ausschank,
   Ehrengäste, also die Helden) auf die Bühne
   (→ `Story/Spieler/Festspiele.md`). Auf dem Weg nach vorne gehen sie
   direkt an Malrik vorbei: Entdeckung automatisch.
-- **Zweites Sicherheitsnetz (wenn du es gruselig willst):** Mira, 7,
-  das Mädchen mit dem Holzpferd (→ Kapitel 1, Vorzeichen), zupft einen
-  Helden am Ärmel: „Der Mann da singt komisch." Und zeigt auf einen
-  Kultisten. Es ist dasselbe Kind, das später geopfert wird.
+- **Überleitung mit Mira (früher als die Siegerehrung):** Sind die
+  Helden schon eine Weile in der Halle und entdecken einfach niemanden,
+  zupft Mira, 7, das Mädchen mit dem Holzpferd (→ Kapitel 1), einen
+  Helden am Ärmel, zeigt auf einen Kultisten und flüstert: „Der Mann
+  in Grau hat gar kein Gesicht." Entdeckung automatisch. Es ist
+  dasselbe Kind, das später geopfert wird.
 
 Vorlesetext bei der Entdeckung:
 
@@ -130,9 +132,8 @@ wie viele Menschen hinterher entkommen:
 - **Kultist zum Schweigen gebracht** (bewusstlos geschlagen, geknebelt,
   *Stille*, Mund zugehalten mit Athletik gegen Athletik): Seine Stimme
   fehlt. Bei 0:00 bleibt **seine Ecke des Siegels dunkel**: Von dort
-  läuft kein Strahl zur Bühne. Folgen: Vorgazhul kann den **Ausgang
-  in dieser Ecke nicht versiegeln** (siehe Tabelle oben), und die
-  Gäste in dieser Ecke erstarren nicht (Schritt 4). Gefesselt, aber
+  läuft kein Strahl zur Bühne. Folge: Vorgazhul kann den **Ausgang
+  in dieser Ecke nicht versiegeln** (siehe Tabelle oben). Gefesselt, aber
   wach und ohne Knebel, murmelt er einfach weiter.
 - **Kultist getötet:** Schlechte Idee. Sein Blut läuft sofort als
   dunkler Faden über den Boden zur Bühne – **sein Tod zählt als
@@ -146,8 +147,8 @@ wie viele Menschen hinterher entkommen:
   Fällt Malrik vor 0:00 auf 0 TP (oder verliert die Hand): Sein Blut
   läuft sofort in den Kristall, **der Timer springt auf 0** und die
   Sequenz startet, aber **ohne Explosion** – Malrik ist ja schon tot.
-  Vorteil: Ohne Blutregen erstarren die Gäste nur 1 Runde statt bis
-  zum Tor. Nachteil: Die restliche Zeit ist weg.
+  Vorteil: Ohne Blutregen löst sich die Starre der Gäste schon nach dem
+  Kind (Moment 2) statt erst beim Tor. Nachteil: Die restliche Zeit ist weg.
 - **Der Kristall:** Unzerstörbar. Ein Angriff darauf prallt ab
   (keine Aufladung, Vorgazhul ist ja noch nicht da).
 - **Die Festhalle wird vorher bewacht oder versperrt** (2. Durchlauf):
@@ -157,23 +158,34 @@ wie viele Menschen hinterher entkommen:
 
 ## Schritt 4: Die Opfer-Sequenz
 
-Bei 0:00 **Initiative würfeln**. Ab jetzt läuft alles in Runden, die
-Stoppuhr ist aus. Zwischen den Schritten handeln die Helden normal.
+Bei 0:00 ist die Stoppuhr aus. **Kein Initiative-Wurf.** Du erzählst
+die Sequenz in fünf **Momenten** durch, Schlag auf Schlag. Die Helden
+handeln nur, wenn ein Spieler **von sich aus** sagt, was er tut (siehe
+„Wer kann in der Sequenz was tun?" unten). Wer zögert, hat den Moment
+verpasst.
 
-**Runde 1 – Der erste Kultist.** Der Kultist, den die Helden entdeckt
-haben (oder der ihnen am nächsten steht), hört auf zu murmeln.
+**Moment 1 – Das Messer.** Der Kultist, den die Helden entdeckt haben
+(oder der ihnen am nächsten steht), hört auf zu murmeln. Er zieht ein
+Messer und stößt es sich selbst durch den Kopf. Das ist so grausam,
+dass **alle im Saal dorthin schauen**. Genau das gibt dem Kultisten in
+der Mitte den Raum für Moment 2.
 
 > Das Murmeln bricht ab. Mitten im Satz. Der Mann unter der Kapuze
 > hebt den Kopf, und zum ersten Mal seht ihr sein Gesicht: ein ganz
 > normaler Mann, ein Bauer vielleicht, Tränen auf den Wangen. Er
-> lächelt euch an. Dann zieht er die silberne Sichel und stößt sie
-> sich selbst in die Brust. Er fällt nicht. Er bleibt stehen, während
-> sein Blut nicht zu Boden tropft, sondern in einem dünnen schwarzen
-> Faden über die Dielen kriecht. Nach vorne. Zur Bühne.
+> lächelt euch an. Dann zieht er ein langes Messer aus dem Gürtel,
+> setzt es an seine Schläfe und stößt es sich durch den Kopf. Ein
+> Geräusch wie ein Ast, der bricht. Er fällt nicht. Er bleibt
+> stehen, während sein Blut nicht zu Boden tropft, sondern in einem
+> dünnen schwarzen Faden über die Dielen kriecht. Nach vorne. Zur
+> Bühne. Die Musik verstummt. Jeder im Saal starrt auf ihn.
 
-**Runde 2 – Das Kind.** Der Kultist, der den Helden **am weitesten
-weg** ist, steht plötzlich **mitten auf der Tanzfläche**. Er hält Mira
-(oder ein anderes Kind) vor sich, die Sichel in der Hand.
+**Moment 2 – Das Kind.** Während alle auf den ersten Toten starren,
+steht der Kultist, der den Helden **am weitesten weg** ist, plötzlich
+**mitten auf der Tanzfläche**. Er hält Mira (oder ein anderes Kind)
+vor sich, die Sichel in der Hand. Lies bis „Ihr seht die Sichel." vor, dann
+mach eine kurze Pause: Ruft jetzt ein Spieler „Ich springe hin!",
+gilt „Das Kind retten" (unten). Sonst lies weiter.
 
 > Jemand schreit. Mitten auf der Tanzfläche, zwischen den Paaren, steht
 > ein zweiter Mann mit Kapuze. Vor ihm ein kleines Mädchen mit einem
@@ -184,15 +196,15 @@ weg** ist, steht plötzlich **mitten auf der Tanzfläche**. Er hält Mira
 > dass ihr das Blut hören könnt, wie es über den Boden nach vorne
 > kriecht.
 
-**Panik und Erstarrung.** Jetzt wollen alle schreien und rennen – und
-keiner kann. Das Siegel will Zeugen: **Alle Gäste erstarren** vor
-Entsetzen, wie versteinert, bis das Tor offen ist. Jeder Held macht
-einen **WEI-Rettungswurf DC 13**: Misserfolg = erstarrt bis zum Ende
-seines nächsten Zuges (danach neuer Wurf). Gäste in einer **dunklen
-Ecke** (Kultist vorher ausgeschaltet) erstarren nicht – sie fliehen
-schon jetzt durch den nächsten Ausgang.
+**Erstarrung.** Jetzt müssten alle schreien und rennen – aber
+**niemand flieht, niemand traut sich, irgendetwas zu tun**. Das Siegel
+will Zeugen: **Alle Gäste erstarren** vor Entsetzen, wie versteinert,
+bis das Tor offen ist. Von selbst bewegt sich keiner, auch nicht in
+einer dunklen Ecke. Nur wer von einem Helden aktiv rausgetrieben wird,
+kommt jetzt schon raus (siehe unten). Die Helden selbst erstarren
+nicht.
 
-**Runde 3 – Die letzten beiden.** Die zwei übrigen Kultisten töten sich
+**Moment 3 – Die letzten beiden.** Die zwei übrigen Kultisten töten sich
 gleichzeitig. Das Siegel erwacht:
 
 > An zwei Stellen im Saal sackt je eine Kapuzengestalt zusammen. Und
@@ -202,7 +214,7 @@ gleichzeitig. Das Siegel erwacht:
 > Mädchen auf der Tanzfläche mit allen anderen – und dann laufen sie
 > los, wie Risse in dünnem Eis. Alle nach vorne. Zur Bühne.
 
-**Runde 4 – Malrik.** Die Strahlen treffen den Kristall. Malrik steigt
+**Moment 4 – Malrik.** Die Strahlen treffen den Kristall. Malrik steigt
 auf die Bühne und reckt den Kristall in die Höhe.
 
 > Der graue Pilger steht jetzt auf der Bühne, genau dort, wo eben noch
@@ -215,7 +227,7 @@ auf die Bühne und reckt den Kristall in die Höhe.
 > zurückgerissen, alle auf einmal, in den Kristall, der jetzt allein
 > über der Bühne schwebt.
 
-**Runde 5 – Das Tor.** Der Kristall zerspringt, und über der Bühne
+**Moment 5 – Das Tor.** Der Kristall zerspringt, und über der Bühne
 öffnet sich das Tor. Die Erstarrung endet. Jetzt erst bricht die echte
 Panik aus.
 
@@ -227,22 +239,30 @@ Panik aus.
 
 **Wer kann in der Sequenz was tun?**
 
-- **Das Kind retten:** Wer in Runde 1 handelt, nicht erstarrt ist und
-  die Tanzfläche erreicht (Athletik oder Akrobatik DC 13 durchs
-  Gedränge, sonst nur halbe Bewegung), kann den Kultisten aufhalten
-  (Ringen, *Person festhalten*, umstoßen, töten). Dann **lebt das
-  Kind**. Das Ritual gelingt trotzdem: Ist der Kultist noch bei
-  Bewusstsein, stößt er sich stattdessen selbst die Sichel in die
-  Brust. Im 1. Durchlauf schafft das kaum jemand – im 2. Durchlauf
-  weiß die Erinnernde, wo das Kind sein wird (→ Kapitel 3).
-- **Die letzten beiden Kultisten aufhalten:** Wer sie in Runde 1–2
-  noch erreicht und sie bewusstlos schlägt oder knebelt, macht ihre
-  Ecke dunkel (wie oben). Töten zählt als Opfer.
-- **Malrik in Runde 4 angreifen:** Zwecklos. Er explodiert am Ende
-  der Runde ohnehin. Wer direkt neben ihm steht, bekommt den Blutregen
-  ins Gesicht (keinen Schaden, aber WEI DC 13 oder 1 Runde verängstigt).
-- **Gäste raustreiben:** Erstarrte Gäste bewegen sich nicht, auch nicht
-  mit Gewalt. Nur Gäste aus dunklen Ecken fliehen schon jetzt.
+- **Das Kind retten (extrem schwer):** Nur direkt nach Moment 1, wenn
+  alle auf den Toten starren. Ein Spieler muss **von sich aus** sagen:
+  „Ich springe blitzschnell hin und versuche, sie zu retten." Dann
+  würfelt er **Akrobatik oder Athletik**, Ziel: **19 plus sein eigener
+  Modifikator**. Bei +4 also 23, bei +7 also 26. Praktisch braucht er
+  eine **natürliche 19 oder 20**. Gelingt es, reißt er Mira weg, und
+  **das Kind lebt**. Das Ritual gelingt trotzdem: Der Kultist stößt
+  sich stattdessen selbst die Sichel in die Brust. Sagt niemand etwas,
+  gibt es keinen Wurf. Im 1. Durchlauf schafft das kaum jemand – im
+  2. Durchlauf weiß die Erinnernde, wo Mira sein wird, und kann sie
+  schon vor 0:00 aus dem Saal bringen (→ Kapitel 3).
+- **Kultisten und Malrik aufhalten:** Geht ab Moment 1 nicht mehr.
+  Sie opfern sich ohnehin gleich selbst, und jeder Angriff kommt zu
+  spät. Wer direkt neben Malrik steht, bekommt in Moment 4 den
+  Blutregen ins Gesicht (keinen Schaden, aber WEI DC 13 oder 1 Runde
+  verängstigt).
+- **Gäste raustreiben (sehr wichtig!):** Das geht und ist das
+  Wertvollste, was die Helden jetzt tun können. Die Gäste trauen sich
+  nicht von selbst, aber ein Held kann sie anschreien, schubsen,
+  mitziehen. Pro Moment und Held: Überzeugen, Einschüchtern oder
+  Auftreten **DC 12**. Erfolg = **2 Gruppen** (100 Gäste) raus durch
+  den nächsten Ausgang, Misserfolg = 1 Gruppe. Noch ist kein Ausgang
+  versiegelt – das beginnt erst, wenn Vorgazhul da ist
+  (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
 ---
 
@@ -269,75 +289,29 @@ angreift**.
 2. **Jede Beleidigung** → sofort **10W10 psychischer Schaden** auf den
    Beleidiger (WEI-Rettungswurf DC 18 halbiert). Keine Aufladung.
 3. **Hunger:** Jede volle Stunde ohne Aufladung → **+1 Aufladung** von
-   selbst. **Überlebende Kultisten:** Ein Kultist, den die Helden vor
-   dem Ritual ausgeschaltet haben, der aber wieder frei kommt, kriecht
-   zu Vorgazhul und opfert sich → **+1 Aufladung**.
+   selbst.
 4. **Bei 10 Aufladungen** → **„Weltenspiegel"**: Alles im Umkreis von
    **1 km stirbt**, Vorgazhul ist **angekommen**. (Beim ersten
    Durchlauf mit Helden im Umkreis führt das zu Kapitel 3 – dem
    Erwachen.)
 
-**Zeige die Aufladungen!** Lege 10 Münzen/Marker offen auf den Tisch
-und drehe pro Treffer eine um. Die Spieler müssen die tickende Uhr
-SEHEN, sonst funktioniert die Drohung nicht.
+**Die Aufladungen zählen:** Im **1. Durchlauf** zählst du verdeckt mit
+und beschreibst nur in der Fiktion, wie der Spiegel sich füllt (Risse,
+die sich schließen, ein Leuchten, das stärker wird). **Erst im
+2. Durchlauf** (→ Kapitel 3) legst du 10 Münzen/Marker offen auf den
+Tisch und drehst pro Aufladung eine um. Dann wissen die Spieler, was
+die Uhr bedeutet, und müssen sie SEHEN.
 
 **Zeitgefühl:** Greift niemand an, hat die Stadt bis zu **10 Stunden**
-(nur der Hunger). Jeder Treffer kostet eine Stunde. Ausgeschaltete
-Kultisten gut bewachen, sonst kostet jeder, der frei kommt, eine
-weitere Stunde.
+(nur der Hunger). Jeder Treffer kostet eine Stunde.
 
 ---
 
-## Evakuierung (wenn die Helden Leute retten wollen)
+## Evakuierung
 
-### Die Festhalle (600 Gäste = 12 Gruppen à 50)
-
-- Bis das Tor offen ist, sind alle Gäste erstarrt (Schritt 4). Nur
-  Gäste aus **dunklen Ecken** fliehen schon während der Sequenz
-  (1 Gruppe pro dunkler Ecke).
-- Pro Runde versiegelt Vorgazhul **einen Ausgang** (Reihenfolge:
-  Portal → Dienstbotentür → Westfenster,
-  → `Stadt/Sommerhall/Orte/Festhalle.md`). **Ausgänge in einer
-  dunklen Ecke kann er nicht versiegeln** – sie bleiben offen, er
-  überspringt sie. **Den Kellerausgang versiegelt er nie** – den
-  letzten Weg lässt er immer offen („Lauft ruhig. Erzählt von mir.").
-  Wer fliehen will, kommt also immer raus; die Frage ist nur, wie
-  schnell die Menge durch diese eine Tür passt.
-- **Ausgang mit Held, der die Menge lenkt** (Aktion; Überzeugen,
-  Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
-  Misserfolg = 1 Gruppe. Baldric oder Alma zählen wie ein Held
-  (mit +4), wenn man sie darum bittet.
-- **Ausgang ohne Held:** Panik, Gedränge – nur **1 Gruppe alle
-  2 Runden**.
-- **Panik-Regel:** Jedes Ultra-Schlimm-Ereignis, das die Gäste sehen,
-  kostet in dieser Runde **1 Gruppe** (sie bleiben schreiend stehen).
-  Je mehr die Helden angreifen, desto schlimmer wird es.
-- **Versiegelter Ausgang:** Lässt sich zerschlagen (RK 10) – aber das
-  Glas ist ein Teil von ihm: **zählt als Treffer** (+1 Aufladung,
-  W10-Tabelle). Ein echtes Dilemma: Eine Tür für 100 Menschen gegen
-  eine Aufladung.
-
-### Die Stadt (ca. 3.000 Einwohner, 6 Viertel)
-
-Wer weiter als 1 km weg ist, überlebt den Weltenspiegel. **Verstecken
-in Kellern rettet niemanden.**
-Viertel: Marktviertel, Mühlenviertel, Lindenallee, Gerbergasse,
-Unterstadt, Höfe am Stadtrand.
-
-- Pro Stunde kann jeder Held **ein Viertel** zum Aufbruch bringen
-  (Überzeugen oder Einschüchtern DC 13; DC 10, wenn man auf das
-  violette Licht über der Festhalle zeigen kann). Misserfolg: Das
-  halbe Viertel geht.
-- Glocke läuten, Stadtwache überzeugen (Hauptmann **Rudger**, skeptisch,
-  aber ehrlich): Danach gehen alle Viertel ohne Held in 2 Stunden
-  von selbst.
-- Ohne jede Hilfe flieht pro Stunde etwa ein halbes Viertel von selbst
-  (Gerüchte, Schreie).
-
-**Notiere, wie viele Menschen sterben.** Das zählt später: Im Finale
-erweckt Vorgazhul pro 100 Tote einen Glasdiener
-(→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`, Teil 2), und
-wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.
+Die Regeln, wie die Helden die Festhalle räumen und die Stadt retten,
+stehen im Zusatzkapitel **`Story/Erzaehler/02b-Evakuierung.md`**
+(Unterkapitel „Die Festhalle" und „Die Stadt").
 
 ---
 
@@ -401,7 +375,7 @@ weit; jeder Wurf kostet 30 Sekunden). → „Eingreifen, bevor der Timer
 abläuft": Malrik weicht per *Aschengestalt* aus, der Kristall ist mit
 seiner Hand verwachsen. Fällt er, startet die Sequenz sofort, aber
 ohne Explosion und mit kürzerer Erstarrung. Ein harter Tausch: weniger
-Zeit, dafür kommen die Gäste eine Runde früher in Bewegung.
+Zeit, dafür kommen die Gäste früher in Bewegung.
 
 ### Szenario E · ➖ Leichte Abweichung: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
 
@@ -422,19 +396,20 @@ Gruppen, die verstanden haben, worum es geht.
 ### Szenario G · ➖ Leichte Abweichung: Sie schalten Kultisten aus, bevor der Timer abläuft
 
 Klug! Jeder Kultist, der **bewusstlos oder geknebelt** ist, lässt
-seine Ecke des Siegels dunkel: Der Ausgang dort bleibt offen, die Gäste
-dort erstarren nicht und fliehen schon während der Sequenz. Wer einen
+seine Ecke des Siegels dunkel: Den Ausgang dort kann Vorgazhul nicht
+versiegeln. (Erstarren tun die Gäste dort trotzdem, raus kommen sie
+nur, wenn ein Held sie treibt.) Wer einen
 Kultisten **tötet**, füttert dagegen das Ritual (zählt als Opfer, −1
-Minute). Ausgeschaltete Kultisten müssen bewacht werden (Regel 3:
-Wer frei kommt, opfert sich später). Ein gefangener Kultist plaudert
+Minute). Ein gefangener Kultist plaudert
 unter Druck (Einschüchtern DC 14): „Die Vier Reliquien liegen dort, wo
 die Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
 Salzmund und die Grotte.)
 
 ### Szenario H · ➖ Leichte Abweichung: Sie retten das Kind
 
-Ein Held erreicht in Runde 2 die Tanzfläche und hält den Kultisten
-auf (→ Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
+Ein Spieler sagt direkt nach dem Messer-Moment, dass er blitzschnell
+hinspringt, und schafft den extrem schweren Wurf (19 plus eigener
+Modifikator, → Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
 trotzdem, aber dieser eine Moment wird den Spielern ewig bleiben.
 Belohne ihn: Miras Mutter ist die Frau, die später eine ganze Gruppe
 Gäste zum Kellerausgang führt (zählt wie Baldric, +4), oder Mira
@@ -469,7 +444,7 @@ Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
 ### Szenario K · 🔀 Ganz anders: Sie retten einige und fliehen
 
 Der realistische „gute" Ausgang des ersten Durchlaufs. Zähle die
-Geretteten (Evakuierung) – sie sind in Akt 7 im Lager. Weiter mit
+Geretteten (→ `Story/Erzaehler/02b-Evakuierung.md`) – sie sind in Akt 7 im Lager. Weiter mit
 Kapitel 4.
 
 ### Szenario L · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
@@ -477,7 +452,7 @@ Kapitel 4.
 Machbar, weil er nicht angreift – aber schwer, weil die Gruppe ihn
 wahrscheinlich *doch* angreift, die Ultra-Schlimm-Ereignisse Panik
 auslösen und die Ausgänge zufrieren. Spiele es streng nach der
-Evakuierungs-Mechanik oben. Je mehr sie zuschlagen, desto weniger
+Evakuierungs-Mechanik (→ `Story/Erzaehler/02b-Evakuierung.md`). Je mehr sie zuschlagen, desto weniger
 kommen raus. Begreifen sie es mitten drin („Hört auf zu schlagen,
 bringt die Leute raus!"), ist das der Moment, in dem die Kampagne
 klickt.

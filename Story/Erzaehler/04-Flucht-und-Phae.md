@@ -24,7 +24,7 @@ fragen):**
 | Durch die Stadt, bis man **mehr als 1 km** von der Festhalle weg ist | ca. **20 Minuten** zu Fuß, **1 Stunde** im Strom der Flüchtenden oder mit Alten und Kindern |
 | Zeit, die Vorgazhul lässt | **10 Stunden** minus 1 Stunde pro Aufladung (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
 
-Alles dazwischen ist **Zeit zum Retten** (→ Kapitel 2, „Evakuierung").
+Alles dazwischen ist **Zeit zum Retten** (→ Kapitel 2b, `Story/Erzaehler/02b-Evakuierung.md`).
 Die eigentliche Entscheidung der Spieler lautet also nicht „Schaffen
 wir es raus?", sondern **„Wie lange bleiben wir noch, um Leute zu
 holen?"** Faustregel für dich: Wer bei **8 Aufladungen** noch in der
@@ -35,7 +35,7 @@ Was die Flucht trotzdem lebendig macht (kostet nur Zeit, nie Leben):
 
 - **Gedränge:** Die Menge drückt zum Kellerausgang. Wer sich
   durchschiebt, ist sofort draußen; wer die Menge lenkt, bringt Gäste
-  mit raus (→ Kapitel 2, „Evakuierung").
+  mit raus (→ Kapitel 2b, `Story/Erzaehler/02b-Evakuierung.md`).
 - **Herzmoment:** Ein NPC (Mira, Baldric, die Wirtin Alma, ein alter
   Bauer, der nicht ohne seine Ziege geht) braucht Hilfe. Wer hilft,
   verliert **etwa eine halbe Stunde** – und rettet ein Leben.

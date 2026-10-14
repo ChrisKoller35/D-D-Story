@@ -2,6 +2,8 @@
 
 **Spieler-Material** – diese Spiele könnt ihr auf dem Fest spielen.
 Jede Teilnahme kostet 1 Silber Einsatz. Preise → Siegerehrung!
+Die Spiele 1–4 laufen tagsüber draußen auf dem Marktplatz, ab 17 Uhr
+zieht das Fest in die Große Festhalle um.
 
 ## 1. Axtwerfen „Der Spalter"
 
@@ -41,5 +43,5 @@ hört zwischen den Liedern die besten Gerüchte des Abends...
 
 ---
 
-*Siegerehrung bei Sonnenuntergang in der Großen Festhalle. Der
+*Siegerehrung am Abend in der Großen Festhalle. Der
 Festmeister bittet alle Gewinner auf die Bühne.*

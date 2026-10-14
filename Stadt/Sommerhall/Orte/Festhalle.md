@@ -1,6 +1,6 @@
 # Die Große Festhalle (Sommerhall)
 
-Schauplatz von Fest (Akt 1), Ritual im Festsaal (Akt 2) und
+Schauplatz des Fests ab dem Abend (Akt 1; tagsüber wird draußen in der Stadt gefeiert, ab 17–18 Uhr zieht alles hier herein), Ritual im Festsaal (Akt 2) und
 Finale (Akt 7).
 
 ## Obergeschoss / Hauptsaal
@@ -30,7 +30,7 @@ der Helden heißt das: Raus kommen sie immer, es geht nur um Zeit
 (→ `Story/Erzaehler/04-Flucht-und-Phae.md`). Ein versiegelter Weg ist
 Spiegelglas und lässt sich zerschlagen, aber das zählt als Treffer auf
 ihn (+1 Aufladung). Evakuierungs-Regeln →
-`Story/Erzaehler/02-Ritual-und-Daemon.md`, „Evakuierung".
+`Story/Erzaehler/02b-Evakuierung.md`.
 
 ## Keller
 

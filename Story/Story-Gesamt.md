@@ -6,19 +6,29 @@ Szenarien pro Abschnitt stehen in den Kapiteln unter `Story/Erzaehler/`.
 
 ---
 
-## Akt 1: Das Fest der Goldenen Ähre (Sommerhall)
+## Vorspiel: Rast in Hirsefurt
 
 Die Helden hatten **einen Monat Pause** seit dem letzten Abenteuer und
 sind vollständig erholt (volle HP, alle Slots, ein Inspirationswürfel
 pro Spieler). Bei einer Rast im Dorf **Hirsefurt** drückt ihnen der
-Junge **Tamo** einen Flyer fürs Fest in die Hand, und sie entscheiden
-selbst, hinzugehen. Sie treffen in **Sommerhall** zum großen Erntefest ein:
-Musik, Essen, Wettbewerbe in der großen Festhalle. Alles ist perfekt –
-fast zu perfekt.
+Junge **Tamo** einen Flyer fürs Fest in die Hand und erzählt nebenbei
+von kleinen Überfällen in letzter Zeit. Die Helden entscheiden selbst,
+zum Fest zu gehen.
+
+- Erzähler-Kapitel: `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`
+- Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
+
+## Akt 1: Das Fest der Goldenen Ähre (Sommerhall)
+
+Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
+wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele auf dem
+Marktplatz), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
+Alles ist perfekt – fast zu perfekt. Wer lieber den Räubern aus Tamos
+Geschichte nachjagt, findet ein Räuberlager: harmlose Tagelöhner, die
+sich nach den ersten Toten ergeben.
 
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`
-- Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
 - NPC: `NPC/Festmeister-Baldric/`
 
@@ -29,8 +39,9 @@ Aschenpriester** ganz vorne an der Bühne, einen schwarzen Kristall in
 der Hand. Seine 4 Kultisten stehen mit Kapuzen weit verteilt im großen
 Festsaal und murmeln die Ritualformel. Entdeckt ein Held einen von
 ihnen, läuft ein **5-Minuten-Timer** (jeder Wurf, jede Interaktion
-−30 Sekunden). Bei 0:00 opfern sich die Kultisten (einer opfert vorher
-ein Kind), alle Gäste erstarren vor Entsetzen, dunkle Strahlen laufen
+−30 Sekunden). Bei 0:00 opfern sich die Kultisten (der erste sticht
+sich ein Messer durch den Kopf, einer opfert vorher ein Kind), alle
+Gäste erstarren vor Entsetzen, niemand flieht von selbst, dunkle Strahlen laufen
 zur Bühne, Malrik explodiert, sein Blut fließt in den Kristall – und
 das Tor öffnet sich **mitten auf der Party**. Wenn es eskaliert, gibt
 es hier das größte Gemetzel. Das Ritual lässt sich **nicht
@@ -52,6 +63,7 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
   angegriffen wird, desto schlimmer und panischer wird es.
 
 - Erzähler-Kapitel: `Story/Erzaehler/02-Ritual-und-Daemon.md`
+- Zusatzkapitel Evakuierung (Festhalle und Stadt): `Story/Erzaehler/02b-Evakuierung.md`
 - Dämon: `Feinde/Daemon-Vorgazhul/` (Stats, Faehigkeiten, Ultimative-Faehigkeiten)
 - Ritualist: `Feinde/Ritualist-Malrik/` (Stats, Faehigkeiten)
 - Kultisten (Handlanger): `Feinde/Kultisten/`

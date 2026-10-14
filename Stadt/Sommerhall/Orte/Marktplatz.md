@@ -1,6 +1,6 @@
 # Der Marktplatz (Sommerhall)
 
-Herz der Stadt, während des Fests voller Stände und Spielbuden
+Herz der Stadt, während des Fests **tagsüber** voller Stände und Spielbuden (ab 17–18 Uhr zieht das Fest in die Festhalle um)
 (Axtwerfen, Fassrollen → `Story/Spieler/Festspiele.md`).
 
 - **Erntealtar** mit der Goldenen Ähre (Wanderpokal des Fests)
