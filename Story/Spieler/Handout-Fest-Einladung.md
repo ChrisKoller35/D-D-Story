@@ -1,23 +1,26 @@
-# Handout: Die Einladung
+# Handout: Der Fest-Flyer
 
-*Ein Pergament mit goldenem Ährensiegel, überbracht von einem
-berittenen Boten:*
+*Ein grob gedruckter Zettel auf gelbem Papier, an den Ecken schon
+etwas zerknittert. Tamo, ein Junge auf einem Esel, verteilt ihn in
+Hirsefurt (→ Kapitel 1, Vorspiel). Oben ein Holzschnitt: eine
+goldene Ähre, darunter ein tanzendes Paar.*
 
-> An die Helden, deren Namen man inzwischen auch in Sommerhall singt –
+> ### ✦ FEST DER GOLDENEN ÄHRE ✦
+> **Sommerhall · morgen Abend · ab Sonnenuntergang**
 >
-> Die Stadt Sommerhall lädt Euch als **Ehrengäste** zum **Fest der
-> Goldenen Ähre**, am Vollmondtag der Erntezeit.
+> Die Ernte ist eingebracht, die Fässer sind voll!
+> Ganz Sommerhall lädt **jedermann** zum größten Fest des Nordens:
 >
-> Ein Monat ist vergangen seit Eurer letzten Großtat, und man sagt,
-> selbst Helden brauchen Bier, Braten und ein Bett, das nicht aus
-> Waldboden besteht. All das haben wir. Dazu: die Festspiele, den
-> Großen Festtanz und das beste Dunkelbier des Nordens.
+> - 🍺 **Freibier** (das beste Dunkelbier des Nordens) beim ersten Krug
+> - 🏆 **Die Festspiele:** Wettkämpfe für Starke, Flinke und Kluge,
+>   **Preise in Gold und Wunderdingen!**
+> - 💃 **Der Große Festtanz** um Mitternacht in der Großen Festhalle
+> - 🍖 Braten, Honigkuchen, Musikanten aus drei Städten
 >
-> Die Stadt zahlt Kost und Logis. Kommt gerüstet mit nichts als
-> gutem Appetit.
+> *Fremde Reisende sind herzlich willkommen.
+> Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
 >
-> In Vorfreude,
-> **Festmeister Baldric Immergrün**
+> Gezeichnet: **Festmeister Baldric Immergrün**
 
-*Auf der Rückseite, in Kinderschrift hingekritzelt: „Bitte bringt
-eure Schwerter trotzdem mit. Nur falls. – T."*
+*Auf der Rückseite eines der Flyer, in Kinderschrift hingekritzelt:
+„Bitte bringt eure Schwerter trotzdem mit. Nur falls. – T."*
