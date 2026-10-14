@@ -11,15 +11,17 @@
    alles schlimmer. Retten und fliehen! → `Story/Erzaehler/02-Ritual-und-Daemon.md`
 3. **Der Traum** – TPK → Erwachen; eine Person erinnert sich;
    zweiter Durchlauf mit Vorteil → `Story/Erzaehler/03-Traum-und-Neustart.md`
-4. **Die Flucht** – der einzige Ausweg; Phae weist den Weg nach
-   Salzmund → `Story/Erzaehler/04-Flucht-und-Phae.md`
+4. **Die Flucht** – der einzige Ausweg → `Story/Erzaehler/04-Die-Flucht.md`;
+   danach weist Phae den Weg nach Salzmund (und holt notfalls einen
+   Gefallenen zurück) → `Story/Erzaehler/04b-Phae.md`
 5. **Die Legende** – Nerida recherchiert: vor 5.000 Jahren nur knapp
    versiegelt (200 Magier, 4 Kämpfer mit vier Gegenständen); die
-   Gegenstände wurden gestohlen, die Diebe flohen in die Grotte, eine
-   20-Mann-Kompanie kam nie zurück → `Story/Erzaehler/05-Salzmund.md`,
-   Unterquest: `Quests/Quest-Die-versunkene-Grotte.md`
-6. **Die Grotte** – Dungeon abschließen, die gestohlenen Reliquien bergen
-   → `Story/Erzaehler/06-Dungeon-Grotte.md`
+   Gegenstände lagen bei den Gräbern der Vier unter dem Gezeitenturm,
+   wurden gestohlen, die Diebe flohen in die Hammerfeste im Grauhorn,
+   eine 20-Mann-Kompanie kam nie zurück → `Story/Erzaehler/05-Salzmund.md`,
+   Unterquest: `Quests/Quest-Die-Hammerfeste.md`
+6. **Die Hammerfeste** – Dungeon abschließen, die gestohlenen Reliquien bergen
+   → `Story/Erzaehler/06-Dungeon-Hammerfeste.md`
 7. **Das Finale** – Rückkehr; Vorgazhul ist angekommen und greift
    an; Siegel-Ritual bricht seinen Spiegelkern, Phase 2, Sieg
    → `Story/Erzaehler/07-Finale.md`
@@ -36,7 +38,7 @@
 Die Spiegelkuppel wächst um **ein Dorf pro Woche** – und mit ihr
 Vorgazhuls Macht (vor 5.000 Jahren brauchte es 200 Magier, weil er zu
 lange in der Welt war). Rechne mit:
-Flucht + Reise (4 Tage) + Salzmund (1–2 Tage) + Grotte (1 Tag) +
+Flucht + Reise (4 Tage) + Salzmund (1–2 Tage) + Hammerfeste (1 Tag) +
 Rückreise (4 Tage) ≈ **zwei Wochen = zwei geschluckte Dörfer**.
 Trödelt die Gruppe wochenlang, lass sie die Folgen sehen (leere,
 verspiegelte Dörfer auf der Rückreise) – kein hartes Fail, aber

@@ -27,7 +27,7 @@ Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen Weg**
 **Kellerausgang lässt er immer offen**: Den letzten Weg versiegelt er
 nie, er will, dass man flieht und von ihm erzählt. Für die Flucht
 der Helden heißt das: Raus kommen sie immer, es geht nur um Zeit
-(→ `Story/Erzaehler/04-Flucht-und-Phae.md`). Ein versiegelter Weg ist
+(→ `Story/Erzaehler/04-Die-Flucht.md`). Ein versiegelter Weg ist
 Spiegelglas und lässt sich zerschlagen, aber das zählt als Treffer auf
 ihn (+1 Aufladung). Evakuierungs-Regeln →
 `Story/Erzaehler/02b-Evakuierung.md`.

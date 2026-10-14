@@ -4,9 +4,9 @@
 
 Die Werkzeuge der vier Kämpfer, die den Spiegelherrn vor 5.000 Jahren
 aufhielten (Serenya, Torvan, Ilwe, Maren). Vom Spiegelkult aus dem
-Gewölbe unter dem Gezeitenturm gestohlen, von den Helden aus der
-Grabkammer der Grotte zurückgeholt
-(→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`, Raum 7). Jeder hat
+Gewölbe der Vier unter dem Gezeitenturm gestohlen (wo die Vier auch
+begraben liegen), von den Helden aus der Tresorkammer der Hammerfeste
+zurückgeholt (→ `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`, Raum 7). Jeder hat
 einen eigenen Ordner mit Beschreibung und Unterordner **Effekte/**:
 
 | Gegenstand | Kurz | Ordner |
@@ -21,6 +21,15 @@ Aktionen opfern kann (Ritual!); Amulett → der/die Verwundbarste;
 Mantel → der/die Beweglichste. Aber lass die Gruppe selbst wählen –
 die Diskussion am Tisch gehört zur Belohnung.
 
+## Spezialausrüstung (Akt 5, nur auf Nachfrage)
+
+Vier Gegenstände aus Salzmund, die genau auf die Hammerfeste
+zugeschnitten sind: Feuerfässchen (Troll), Runenlaterne (Schlüssel,
+Geheimtüren), Steinhaut-Tränke (Steinschlag, Wyrm), Hakenseil
+(Klamm). Die Helden bekommen sie nur, wenn sie nachdrücklich danach
+fragen → `Spezialausruestung/Uebersicht.md` (je eigener Ordner mit
+`Effekte/`).
+
 ## Festpreise (Akt 1, Festspiele)
 
 - **Axtwerfen:** die „Silberne Ähre" (Anstecknadel, 10 Gold wert,
@@ -33,12 +42,12 @@ die Diskussion am Tisch gehört zur Belohnung.
 
 ## Quest-Belohnungen
 
-- Versunkene Grotte: 3 große Heiltränke, Archivzugang; für Spuren der
-  Kompanie oder Jannik: Grims Boot und Salzmunds Dank
-  (→ `Quests/Quest-Die-versunkene-Grotte.md`)
+- Hammerfeste: 3 große Heiltränke, Archivzugang; für Spuren der
+  Kompanie oder Jannik: Grims Boot, das Hakenseil und Salzmunds Dank
+  (→ `Quests/Quest-Die-Hammerfeste.md`)
 - Die Gespiegelte: 25 Gold, Priesterinnen-Segen, Jolas Fenster-Blick
   (→ `Quests/Nebenquest-Die-Gespiegelte.md`)
-- Schmuggler: 50 Gold, 2 Heiltränke, Seilrolle, Lenes Notizbuch
+- Schmuggler: 50 Gold, 2 Heiltränke, 2 Flaschen Brandöl, Lenes Notizbuch
   (→ `Quests/Nebenquest-Schmuggler.md`)
 
 ## Nach dem Finale

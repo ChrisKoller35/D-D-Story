@@ -36,23 +36,24 @@ Küstensprache, die seit Jahrtausenden niemand mehr spricht. Sie
 
 > Die vier Werkzeuge verwahre man unter dem Turm der Gezeiten, auf
 > dass niemand sie missbrauche und sie bereit seien, falls der Stein
-> je bricht. Die Vier aber ruhen in der **Grotte der Gezeiten**, und
-> ihr Grab öffnet sich nur dem, der **alle drei Gezeitensiegel**
-> erweckt – und es schließt sich wieder, ehe eine Kerze um einen
-> Finger herabgebrannt ist.
+> je bricht. Und die Vier selbst bette man daneben, Wächter bei ihren
+> Waffen, auf dass, wer die einen holt, die anderen grüße.
 
 ---
 
 *Darunter, von Neridas Hand auf einem neuen Zettel:*
 
-> Die Reliquien wurden vor sechs Wochen gestohlen. Die Diebe (graue
-> Kapuzen, Silbersicheln) sind in die Grotte geflohen. Die Kompanie der
-> Salzklingen, 20 Mann, ging hinterher. Niemand kam zurück.
+> Die Reliquien wurden vor sechs Wochen aus dem Gewölbe der Vier
+> gestohlen, direkt neben ihren Gräbern. Die Diebe (graue Kapuzen,
+> Silbersicheln) sind in die Hammerfeste im Grauhorn geflohen, die
+> alte Zwergenfeste im Berg. Die Kompanie der Salzklingen, 20 Mann,
+> ging hinterher. Niemand kam zurück.
 >
-> Die Grotte liegt drei Meilen südlich, hoch über der Brandung. Die
-> alten Pilger stiegen über eine Treppe im Kliff hinab; der Eingang
-> ist offen, bei Tag und bei Nacht. Den Pilgerplan lege ich bei.
-> Seid leise da unten. – N.
+> Der Grauhorn liegt drei Meilen südlich. Von der Bucht führt der
+> alte Zwergenpfad hinauf zum Bergtor; es steht offen, bei Tag und bei
+> Nacht. Den Festungsplan der Zwerge lege ich bei – die drei
+> Schlüsselräume sind markiert. Die Zwerge haben ihre Feste nicht
+> verlassen, weil sie wollten. – N.
 
-*Beigelegt: eine Küstenkarte mit markiertem Grotteneingang und ein
-vergilbter Pilgerplan der Grotte.*
+*Beigelegt: eine Küstenkarte mit markierter Bucht und ein vergilbter
+Festungsplan der Hammerfeste.*

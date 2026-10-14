@@ -80,19 +80,28 @@ Ergebnis: die ganze Stadt evakuieren, das Ritual laufen lassen, selbst
 fliehen. Einen dritten Versuch gibt es nicht.
 
 - Erzähler-Kapitel: `Story/Erzaehler/03-Traum-und-Neustart.md`
-- Handout für die erinnernde Person: `Story/Spieler/Handout-Traumerinnerung.md`
+  (der Spielleiter erzählt Schrei und Erinnerung offen, kein
+  Geheim-Handout)
 
-## Akt 4: Die Flucht und das magische Wesen
+## Akt 4: Die Flucht
 
 Der **einzige Weg zu überleben ist die Flucht vom Fest** – das wissen
 die Helden aber noch nicht. Die Flucht selbst ist **nicht schwer**:
 Es gibt keine Gegner, und Vorgazhul kann in dieser Phase nicht
 angreifen. Es muss nur **zeitlich aufgehen** – mehr als 1 km weg sein,
-bevor der Schild 10 Aufladungen hat. Gelingt die Flucht, erscheint ihnen das
-magische Wesen **Phae, das Sternenlicht**, und gibt den Hinweis: In der
-**Stadt am Meer (Salzmund)** gibt es Aufzeichnungen über das Monster.
+bevor der Schild 10 Aufladungen hat.
 
-- Erzähler-Kapitel: `Story/Erzaehler/04-Flucht-und-Phae.md`
+- Erzähler-Kapitel: `Story/Erzaehler/04-Die-Flucht.md`
+
+## Akt 4b: Das magische Wesen
+
+Nach der Flucht erscheint den Helden am Lagerfeuer das magische Wesen
+**Phae, das Sternenlicht**, und gibt den Hinweis: In der **Stadt am
+Meer (Salzmund)** gibt es Aufzeichnungen über das Monster. Ist ein
+Held gestorben, holt Phae ihn **einmal** zurück – der Spieler glaubt
+bis dahin, er sei tot und raus.
+
+- Erzähler-Kapitel: `Story/Erzaehler/04b-Phae.md`
 - Magisches Wesen: `NPC/Phae/` (Stats, Faehigkeiten)
 
 ## Akt 5: Salzmund, die Stadt am Meer
@@ -102,33 +111,40 @@ für ein Wesen ist. Sie findet uralte Steintafeln: Vor etwa **5.000
 Jahren** wurde der Spiegelherr schon einmal versiegelt – mit **200
 Magiern** und **vier Kämpfern**, die mit vier magischen Gegenständen
 an vorderster Front standen. Es gelang nur knapp. Die Gegenstände
-wurden unter dem Gezeitenturm verwahrt – bis der Spiegelkult sie vor
-sechs Wochen **stahl**. Die Diebe wurden verfolgt, fast gefasst und
-flohen im letzten Moment in die **Grotte der Gezeiten**. Ein
-Abenteurertrupp von **20 Mann** ging hinterher; keiner kam zurück.
-Nerida bittet die Helden, die Gegenstände zurückzuholen – nur mit
-ihnen haben sie die Kraft, gegen das Wesen zu kämpfen.
+wurden unter dem Gezeitenturm verwahrt, im **Gewölbe der Vier**, das
+zugleich die Grabstätte der vier Kämpfer ist – bis der Spiegelkult sie
+vor sechs Wochen **stahl**. Die Diebe ruderten nach Süden, die
+Turmwache jagte sie über Land, sah sie in der Bucht unter dem Grauhorn
+anlanden und verlor sie am Tor der **Hammerfeste**, einer verlassenen
+Zwergenfeste im Berg. Ein Abenteurertrupp von **20 Mann** ging
+hinterher; keiner kam zurück. Nerida bittet die Helden, die Gegenstände
+zurückzuholen – nur mit ihnen haben sie die Kraft, gegen das Wesen zu
+kämpfen. Wer nachdrücklich nach Hilfsmitteln fragt, bekommt
+**Spezialausrüstung** für den Berg.
 
 - Erzähler-Kapitel: `Story/Erzaehler/05-Salzmund.md`
 - Stadt: `Stadt/Salzmund/` (Orte unter `Stadt/Salzmund/Orte/`)
 - NPC: `NPC/Archivarin-Nerida/`
-- Quest: `Quests/Quest-Die-versunkene-Grotte.md`
+- Quest: `Quests/Quest-Die-Hammerfeste.md`
 - Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
+- Spezialausrüstung: `Belohnungen/Spezialausruestung/`
 
-## Akt 6: Die Grotte der Gezeiten (Dungeon)
+## Akt 6: Die Hammerfeste im Grauhorn (Dungeon)
 
-Der einzige Dungeon der Kampagne, **jederzeit zugänglich** (keine
-Gezeiten-Abhängigkeit). Die Helden müssen ihn **vollständig
-abschließen**, um die Ausrüstung zu erhalten: Räume, Rätsel, Fallen
-und Gegner, am Ende der Boss **Grottenherr Skarvax**. Spannung statt
-Zeitfenster: Die **Lärm-Leiste** (der blinde Skarvax hört alles und
-kommt, wenn es zu laut wird) und die Grabtür, die nur **10 Minuten**
-offen bleibt.
+Der einzige Dungeon der Kampagne: eine verlassene Zwergenfeste im
+Berg, **jederzeit zugänglich** und **ohne Timer**. Die Helden müssen
+ihn **vollständig abschließen**, um die Ausrüstung zu erhalten: drei
+Runenschlüssel, Galerien voller **Steinschleicher** (Goblin-Gruppen),
+der angekettete Höhlentroll **Brecher** an der Hängebrücke (stark,
+aber clever zu schlagen: Feuer, Brücke, Futter), die Echohalle, und am
+Ende der Boss **Gorrum, der Steinwyrm**, vor der Tresortür. Den Boss
+muss man bekämpfen, aber die Feste selbst (Fallgitter, Blasebälge,
+Kran) lässt sich gegen ihre Bewohner benutzen.
 
-- Erzähler-Kapitel: `Story/Erzaehler/06-Dungeon-Grotte.md`
-- Dungeon-Beschreibung: `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`
-- Dungeon-Gegner: `Dungeon/Grotte-der-Gezeiten/Feinde/`
-  (Gezeitenschlurfer, Muraenenwaechter, Boss Grottenherr-Skarvax mit
+- Erzähler-Kapitel: `Story/Erzaehler/06-Dungeon-Hammerfeste.md`
+- Dungeon-Beschreibung: `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`
+- Dungeon-Gegner: `Dungeon/Hammerfeste-Grauhorn/Feinde/`
+  (Steinschleicher, Hoehlentroll-Brecher, Boss Steinwyrm-Gorrum mit
   Ultimative-Faehigkeiten)
 - Belohnungen aus dem Dungeon: `Belohnungen/Seltene/`
   (Klinge-der-Stille, Siegel-des-Spiegelbrechers, Amulett-der-Traumwache,
@@ -156,7 +172,7 @@ besiegbar.
 
 | Ende | Wie es dazu kommt | Wo |
 |---|---|---|
-| **Sieg** | Evakuieren, fliehen, Grotte, zurückkehren, Vorgazhul besiegen. Der optimale Weg. | Kapitel 7 |
+| **Sieg** | Evakuieren, fliehen, Hammerfeste, zurückkehren, Vorgazhul besiegen. Der optimale Weg. | Kapitel 7 |
 | **Gebannt** | Wie Sieg, aber mit heiliger Magie gebannt statt getötet. Rückkehr-Haken für später. | Kapitel 7, Szenario H |
 | **Die Retter von Sommerhall** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario H |
 | **Einer bleibt wach** | Das Finale geht verloren, nur der Träger des Amuletts der Traumwache überlebt. | Kapitel 7, Szenario I |

@@ -104,9 +104,9 @@ Moment.
 
 ### Szenario B · ➖ Leichte Abweichung: Sie vergessen/missverstehen die Gegenstände
 
-Passiert öfter als man denkt. Einbau-Hilfen: Serenyas Geist erscheint
-beim ersten Zerspringen kurz im zersprungenen Glas und flüstert die
-Funktion des Siegels. Oder das Siegel beginnt zu glühen und zieht in
+Passiert öfter als man denkt. Einbau-Hilfen: Serenyas Geist (ihr Bett
+im Gewölbe der Vier war leer) erscheint beim ersten Zerspringen kurz
+im zersprungenen Glas und flüstert die Funktion des Siegels. Oder das Siegel beginnt zu glühen und zieht in
 Richtung Dämon. Niemals die Items „automatisch" wirken lassen –
 Hinweise ja, Autopilot nein.
 
@@ -172,8 +172,8 @@ Jetzt ist es ernst – **kein Traum-Reset mehr**. Wenn es eng wird:
 Vorgazhul wird siegesgewiss, redet, verhöhnt – gib ihnen 1–2 Runden
 Luft durch seine Arroganz (er will, dass sie zusehen, wie er gewinnt).
 Rückzug aus der Festhalle ist möglich (er ist an die Kuppel gebunden,
-verfolgt aber bis zum Kuppelrand). Fallen alle: Das Amulett der
-Traumwache rettet seinen Träger als einzigen Überlebenden („Einer
+verfolgt aber bis zum Kuppelrand). Phaes Funke ist verbraucht (→ Kapitel 4b). Fallen alle: Das Amulett
+der Traumwache rettet seinen Träger als einzigen Überlebenden („Einer
 bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
 (→ `Story/Story-Gesamt.md`, „Mögliche Enden").
 
@@ -189,4 +189,5 @@ bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
   Geschmack (→ `Belohnungen/Uebersicht.md`, „Phaes Abschied").
 - Level-Up auf 8 (oder 9, wenn du Meilenstein-großzügig bist).
 - Offene Fäden für später: Wer hat Malrik das Ritual gelehrt? Was ist
-  Phae wirklich? Serenyas leeres Grab...
+  Phae wirklich? Serenyas leeres Grab unter dem Gezeitenturm... Und
+  Gorrum, falls er noch im Grauhorn grollt.

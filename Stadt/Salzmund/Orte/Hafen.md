@@ -9,10 +9,13 @@ Möwengeschrei. Morgens Fischmarkt (laut, glitschig, großartig).
   Hier können die Helden Berichte über die wachsende Spiegelkuppel
   hören (Stimmungs- und Dringlichkeits-Barometer; auch Startpunkt für
   `Quests/Nebenquest-Die-Gespiegelte.md`).
-- **Bootsverleih:** Ruderboot zur Grotte (schneller als der
-  Kliffpfad, aber: Muränenwächter jagen auch außerhalb der Grotte...
-  nur als Drohung einsetzen, nicht ausspielen).
+- **Bootsverleih:** Ruderboot zur Bucht unter dem Grauhorn (schneller
+  als die Küstenstraße; das Boot der Diebe liegt dort noch, halb
+  versandet).
+- **Die Turmwache** hat ihre Wachstube am Hafenkai: Hier gibt es auf
+  nachdrückliche Nachfrage die **Feuerfässchen**
+  (→ `Belohnungen/Spezialausruestung/`).
 
-**Gerücht am Kai (wahr):** „Südlich bei den Kliffen leuchtet es
-nachts grün aus dem Wasser. Seit Jahren schon. Kein Fischer wirft
-dort die Netze."
+**Gerücht am Kai (wahr):** „Im Grauhorn grollt es nachts. Seit Jahren
+schon. Kein Hirte treibt dort hinauf, und wer's doch tut, kommt
+stumm zurück."

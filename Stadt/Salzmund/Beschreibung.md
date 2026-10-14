@@ -19,7 +19,8 @@ panisch – noch.
 
 - **Archivarin Nerida** → `NPC/Archivarin-Nerida/` (Questgeberin)
 - Fischer **Grim** – Stammgast in der „Salzigen Möwe", kennt die
-  Grotte von außen (→ `Story/Erzaehler/05-Salzmund.md`, Szenario B)
+  Bucht unter dem Grauhorn (→ `Story/Erzaehler/05-Salzmund.md`,
+  Szenario B); hat Janniks Hakenseil
 - **Hafenmeisterin Brenka** – pragmatisch, bestechlich mit gutem
   Tabak, weiß alles über ein- und auslaufende Schiffe
 
@@ -29,8 +30,10 @@ panisch – noch.
 → `Orte/Hafen.md`
 → `Orte/Taverne-Zur-Salzigen-Moewe.md`
 
-## Die Grotte der Gezeiten
+## Das Grauhorn und die Hammerfeste
 
-Drei Meilen südlich, in den Kliffen hoch über der Brandung, jederzeit
-zugänglich (über die alte Pilgerstiege oder per Boot)
-→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`
+Drei Meilen südlich erhebt sich der **Grauhorn**, ein grauer
+Bergrücken über der Küste. Von der Bucht darunter (per Boot oder über
+die Küstenstraße) führt der alte Zwergenpfad hinauf zum Bergtor der
+**Hammerfeste**, einer verlassenen Zwergenfeste. Jederzeit zugänglich,
+kein Timer → `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`

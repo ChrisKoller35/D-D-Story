@@ -21,4 +21,4 @@ nicht die ganze." Höher hilft nicht – mehr gibt es nicht zu sehen.
 
 **Funkenzerfall:** Nimmt Phae Schaden, zerfällt es in Sternenfunken
 und ist fort. Es kann an einem späteren Tag zurückkehren – muss aber
-nicht (→ Kapitel 4, Szenario C).
+nicht (→ Kapitel 4b, Szenario D).

@@ -15,16 +15,20 @@ Wähle die Person, die sich erinnert (Vorschlag in dieser Reihenfolge):
 2. ein Charakter mit Verbindung zu Träumen/Göttern/Magie, oder
 3. würfle offen aus – auch spannend.
 
-Gib dieser Person das Handout
-(→ `Story/Spieler/Handout-Traumerinnerung.md`) **heimlich** (Zettel
-oder Nachricht). Alle anderen Spieler wissen NICHTS – ihre Charaktere
-haben höchstens ein mulmiges Déjà-vu (siehe Vorteile unten).
+Es braucht **keinen versteckten Zettel** und kein Geheimnis am
+Tisch: Du erzählst die Szene offen vor allen Spielern (siehe „Der
+Schrei"), und danach sagst du der erinnernden Person **laut und vor
+allen**, woran sie sich erinnert („Was sie weiß"). Die anderen Spieler
+hören es mit – ihre **Charaktere** wissen trotzdem nichts, bis die
+Erinnernde es ihnen erzählt. Das funktioniert, weil die Spieler es
+ohnehin alle erlebt haben; geheim bleibt nur, ob man ihr glaubt.
 
 Die Helden schlafen im Gasthaus „Zur Sichel", **jeder in seinem
 eigenen Zimmer**, Tür an Tür.
 
 ### Der Schrei (vorlesen)
 
+**Das erzählst du als Spielleiter**, die Spieler spielen es nicht.
 Setze den Namen der erinnernden Person ein und lies vor:
 
 > Dunkelheit. Dann ein Schrei.
@@ -58,8 +62,34 @@ Nachthemd über den Flur rennt. Hilfreiche Details, falls sie fragen:
 - Für die anderen war es eine ganz normale Nacht. Wer will, spürt
   beim Anblick des Zimmers ein kurzes, kaltes Déjà-vu.
 
-Ab hier ist es Sache der erinnernden Person, was sie erzählt (und ob
-man ihr glaubt).
+### Was sie weiß (der erinnernden Person vor allen sagen)
+
+Sobald die erste Aufregung vorbei ist (oder sofort, wenn die
+Spieler fragen, warum geschrien wurde), wendest du dich an die
+erinnernde Person und sagst ihr vor allen:
+
+> Du erinnerst dich. An alles. An das Fest, die Spiele, das Lachen.
+> An die Männer mit den grauen Kapuzen, verteilt im Saal, die immer
+> dieselben Silben murmelten. An das Messer, das sich einer durch den
+> Kopf stieß. An das kleine Mädchen mit dem Holzpferd auf der
+> Tanzfläche, und an das Holzpferd, das über den Boden rollte. Daran,
+> dass niemand weglief, alle standen da wie aus Stein. An die dunklen
+> Linien im Boden, die zur Bühne liefen, an den grauen Pilger mit dem
+> schwarzen Kristall, wie er zerplatzte, wie sein Blut in der Luft
+> stehen blieb. An das Tor. An das Ding, das hindurchstieg und sich
+> „der Spiegel eurer Taten" nannte: Jeder Hieb gegen ihn traf den,
+> der ihn führte, und mit jedem Treffer glühte sein Schild heller –
+> bis es zehnmal glühte. Es hat nie eine Hand gegen euch erhoben. Es
+> hat nur gelächelt. Und es hat gesagt: „Ihr könnt mich nicht schlagen.
+> Ihr könnt mir nur ausweichen." Dann: Morgenlicht. Vögel. Frisches
+> Brot. Und du weißt, was heute Abend beginnt.
+
+Du weißt außerdem: wo die vier Kapuzenmänner standen (Westfenster,
+Ausschank bei der Kellertreppe, hinten beim Portal, oben bei den
+Musikanten) und wo Mira sein wird. Mehr musst du nicht vorgeben.
+
+Ab hier ist es Sache der erinnernden Person, was sie ihren Gefährten
+erzählt (und ob man ihr glaubt).
 
 **Es war ein prophetischer Traum.** Es ist wieder der Morgen vor dem
 Fest. Alles wird sich wiederholen – es sei denn, die Helden ändern es.
@@ -75,7 +105,7 @@ Fest. Alles wird sich wiederholen – es sei denn, die Helden ändern es.
 
 **Zweiter Durchlauf = ernst.** Mach den Spielern (über die Fiktion)
 klar: Dieses Mal gibt es **kein Aufwachen** mehr. Phae bestätigt das
-später (→ Kapitel 4): „Der Traum war ein Geschenk. Es gibt kein
+später (→ Kapitel 4b): „Der Traum war ein Geschenk. Es gibt kein
 zweites." Schon vorher, damit niemand „Zeitschleife!" denkt und
 leichtsinnig wird: Der erinnernden Person blutet beim Aufwachen die
 Nase, und eine Stimme flüstert „Nur einmal." (siehe „Der Schrei").
@@ -86,7 +116,7 @@ kommt nie zweimal durch dieselbe Tür."
 **die ganze Stadt zu evakuieren, das Ritual einfach laufen zu lassen
 und selbst zu fliehen**. Dann stirbt niemand, Vorgazhul kommt in einer
 leeren Stadt an, und die Helden können mit der Ausrüstung aus der
-Grotte zurückkehren und siegen. Die Evakuierungs-Mechanik steht in
+Hammerfeste zurückkehren und siegen. Die Evakuierungs-Mechanik steht in
 Kapitel 2b (→ `Story/Erzaehler/02b-Evakuierung.md`); im zweiten Durchlauf haben die Helden dafür
 den ganzen Festtag plus die Stunden nach dem Ritual.
 
@@ -161,8 +191,8 @@ dunkle Ecke im Siegel: Dort bleibt ein Ausgang offen, → Kapitel 2, „Eingreif
 Clever! Malrik ist am Morgen im Gasthaus „Zur Sichel" als Pilger
 untergebracht (DC 13 Nachforschung). In seinem Zimmer: ein sechs Wochen
 alter Brief von „Bruder E." aus Salzmund – „In der Nacht der tiefsten
-Ebbe hole ich die Vier. Dann bringen wir sie dorthin, wo die Stille
-schläft." (Früher Hinweis auf Kapitel 5.) Konfrontation: Er leugnet, dann
+Ebbe hole ich die Vier. Dann bringen wir sie in den Berg, wo kein
+Licht hinkommt." (Früher Hinweis auf Kapitel 5 und 6.) Konfrontation: Er leugnet, dann
 flieht er per `Aschengestalt`. Töten sie ihn tatsächlich vorher:
 **Das Ritual passiert trotzdem** – in der Nacht reißt der Riss von
 selbst auf (Malriks Vorbereitung war abgeschlossen; sein Tod auf
@@ -194,14 +224,16 @@ ein gültiges Ende: **„Die Retter von Sommerhall"** – jeder Mensch der
 Stadt lebt, weil die Helden ihn gerettet haben
 (→ `Story/Story-Gesamt.md`, „Mögliche Enden"). Gib ihnen vorher alle
 Chancen: Vorgazhul selbst sagt „Ihr könnt mir nur ausweichen", die
-Erinnernde hat dieses Lächeln schon einmal gesehen.
+Erinnernde hat dieses Lächeln schon einmal gesehen. Und bedenke:
+Phae kann **einen** Gefallenen zurückholen (→ Kapitel 4b), nicht die
+ganze Gruppe.
 
 ### Szenario I · 🔀 Ganz anders: Sie reisen einfach ab, ohne jemanden zu warnen
 
 Hart, aber möglich. Die Helden überleben, die Stadt nicht: Der
 Weltenspiegel trifft alle 3.000 Menschen. Spiele Kapitel 4 normal,
 aber lass es wirken: Flüchtlinge gibt es kaum, und im Finale
-erwecken sechs Glasdiener mit bekannten Gesichtern.
+erwachen sechs Glasdiener mit bekannten Gesichtern.
 
 ### Kasten: Was, wenn die Gruppe schon im 1. Durchlauf komplett floh?
 
@@ -214,4 +246,4 @@ und die Spieler haben sich die harte Lektion gespart. Fair ist fair.
 ## Übergang
 
 Sobald die Gruppe (mit Vorwissen) vom Fest flieht oder dem Ritual
-entkommt → **Kapitel 4: Flucht und Phae**.
+entkommt → **Kapitel 4: Die Flucht** (und danach Kapitel 4b: Phae).

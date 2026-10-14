@@ -12,12 +12,20 @@ weil die Quelle 5.000 Jahre alt ist (Steintafeln in einer toten
 Küstensprache, die nur sie lesen kann). Helfende Helden verkürzen die
 Suche (→ `Story/Erzaehler/05-Salzmund.md`, Schritt 1).
 
-## Der Pilgerplan
+## Der Festungsplan
 
-Sie findet im Archiv den alten Pilgerplan der Grotte (→ Handout):
-Lage der drei Siegel-Räume und der Grabkammer. Ohne ihn müssen die
-Helden die Siegel durch Herumirren finden (mehr Räume, mehr Lärm,
-→ Kapitel 6, Lärm-Leiste und Szenario E).
+Sie findet im Archiv den alten Festungsplan der Hammerfeste aus den
+Zwergen-Unterlagen (→ Handout): Lage der drei Schlüsselräume, der
+Tresorkammer und der Geheimtüren. Ohne ihn müssen die Helden die
+Runenschlüssel durch Herumirren finden (mehr Räume, mehr Goblins,
+→ Kapitel 6, Szenario D).
+
+## Der Notvorrat
+
+Auf nachdrückliche Nachfrage gibt sie aus dem Keller die
+**Runenlaterne der Zwerge** und zwei **Steinhaut-Tränke** heraus
+(→ `Belohnungen/Spezialausruestung/`). Von sich aus bietet sie nur
+die drei Heiltränke an.
 
 ## Siegelkunde (Story-Hilfe)
 
