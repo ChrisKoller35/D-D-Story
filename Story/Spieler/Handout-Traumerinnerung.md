@@ -6,8 +6,10 @@ erzählst – und ob man dir glaubt, ist eine andere Frage.)
 
 ---
 
-Du wachst auf. Morgenlicht, Vogelgezwitscher, der Geruch von frischem
-Brot. Es ist der Morgen vor dem Fest.
+Du wachst schreiend auf. So laut hast du noch nie geschrien. Dein
+Laken ist nass vom Schweiß, dein Herz rast. Morgenlicht,
+Vogelgezwitscher, der Geruch von frischem Brot. Es ist der Morgen vor
+dem Fest.
 
 **Aber du erinnerst dich. An alles.**
 
