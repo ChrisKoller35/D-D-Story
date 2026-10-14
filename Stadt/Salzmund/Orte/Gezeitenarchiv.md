@@ -12,8 +12,8 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
   Steintafeln, ca. 5.000 Jahre alt): Quelle der Legende vom
   Spiegelherrn → Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
 - **Das Gezeitenorakel** (7. Stock): Messing-Mechanik aus Pendeln und
-  Mondrädern, berechnet Ebbe und Flut auf die Stunde genau – Grundlage
-  für Neridas Gezeitenplan (→ Quest). Es gibt außerdem einmal im Jahr,
+  Mondrädern, berechnet Ebbe und Flut auf die Stunde genau (für die
+  Fischer und den Hafen). Es gibt außerdem einmal im Jahr,
   in der Nacht der tiefsten Ebbe, den Riegel des Gewölbes frei.
 - **Das Gewölbe der Vier** (unter dem Turm, älter als die Stadt):
   Hier lagen die Vier Reliquien, bis Bruder Edrik sie vor sechs

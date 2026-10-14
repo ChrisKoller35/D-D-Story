@@ -12,11 +12,12 @@ weil die Quelle 5.000 Jahre alt ist (Steintafeln in einer toten
 Küstensprache, die nur sie lesen kann). Helfende Helden verkürzen die
 Suche (→ `Story/Erzaehler/05-Salzmund.md`, Schritt 1).
 
-## Gezeitenrechnung
+## Der Pilgerplan
 
-Sie erstellt den präzisen Gezeitenplan für die Grotte (→ Handout).
-Ohne ihren Plan müssen die Helden die Ebbe selbst abpassen
-(Überlebenskunst DC 15, bei Misserfolg → Kapitel 6, Szenario E).
+Sie findet im Archiv den alten Pilgerplan der Grotte (→ Handout):
+Lage der drei Siegel-Räume und der Grabkammer. Ohne ihn müssen die
+Helden die Siegel durch Herumirren finden (mehr Räume, mehr Lärm,
+→ Kapitel 6, Lärm-Leiste und Szenario E).
 
 ## Siegelkunde (Story-Hilfe)
 

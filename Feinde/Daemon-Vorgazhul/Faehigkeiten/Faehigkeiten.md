@@ -103,7 +103,8 @@ Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
   „gehen lassen" kostet ihn nichts, weil er sowieso niemanden
   festhält. Wahr, aber verdreht.
 - **Versiegeln:** Pro Runde verwandelt er einen Ausgang der Festhalle
-  in Spiegelglas (→ `Stadt/Sommerhall/Orte/Festhalle.md`). Ein
+  in Spiegelglas (→ `Stadt/Sommerhall/Orte/Festhalle.md`) – außer
+  dem **Kellerausgang**: Den letzten Weg lässt er immer offen. Ein
   versiegelter Ausgang lässt sich zerschlagen – aber das Glas ist ein
   Teil von ihm: **Zerschlagen zählt als Treffer** (Regel 1).
 - **Schweben:** 9 m schwebend, nie weiter als 150 m vom Ritualort.
@@ -113,7 +114,9 @@ Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
 In Akt 2 **keine**. Die Reliquien wurden sechs Wochen vor dem Fest
 gestohlen (→ `Story/Erzaehler/05-Salzmund.md`) – die Helden können sie
 zu diesem Zeitpunkt gar nicht haben. Die einzige Lösung in Akt 2 heißt:
-nicht angreifen, retten, fliehen.
+nicht angreifen, retten, fliehen. Die Flucht selbst ist leicht (keine
+Gegner, er greift nicht an) – sie muss nur rechtzeitig passieren
+(→ `Story/Erzaehler/04-Flucht-und-Phae.md`).
 
 ---
 

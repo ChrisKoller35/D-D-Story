@@ -38,7 +38,8 @@ Küstensprache, die seit Jahrtausenden niemand mehr spricht. Sie
 > dass niemand sie missbrauche und sie bereit seien, falls der Stein
 > je bricht. Die Vier aber ruhen in der **Grotte der Gezeiten**, und
 > ihr Grab öffnet sich nur dem, der **alle drei Gezeitensiegel**
-> erweckt.
+> erweckt – und es schließt sich wieder, ehe eine Kerze um einen
+> Finger herabgebrannt ist.
 
 ---
 
@@ -48,7 +49,10 @@ Küstensprache, die seit Jahrtausenden niemand mehr spricht. Sie
 > Kapuzen, Silbersicheln) sind in die Grotte geflohen. Die Kompanie der
 > Salzklingen, 20 Mann, ging hinterher. Niemand kam zurück.
 >
-> Gezeiten morgen: Ebbe ab der sechsten Morgenstunde, etwa sechs
-> Stunden lang. Danach kommt das Meer zurück. Es wartet nicht. – N.
+> Die Grotte liegt drei Meilen südlich, hoch über der Brandung. Die
+> alten Pilger stiegen über eine Treppe im Kliff hinab; der Eingang
+> ist offen, bei Tag und bei Nacht. Den Pilgerplan lege ich bei.
+> Seid leise da unten. – N.
 
-*Beigelegt: eine Küstenkarte mit markiertem Grotteneingang.*
+*Beigelegt: eine Küstenkarte mit markiertem Grotteneingang und ein
+vergilbter Pilgerplan der Grotte.*

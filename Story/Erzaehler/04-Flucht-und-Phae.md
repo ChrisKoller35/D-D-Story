@@ -8,19 +8,45 @@ Die Flucht vom Fest ist **der einzige Weg zu überleben** – die Helden
 wissen das zu Beginn nicht. Spätestens im zweiten Durchlauf (mit
 Traum-Vorwissen) sollte die Gruppe fliehen.
 
-Gestalte die Flucht als kurze, knackige Verfolgungs-Szene (3–4 Würfe):
+**Die Flucht ist nicht schwer – sie muss nur zeitlich aufgehen.**
+Es gibt **keine Gegner**: Die Kultisten im Saal sind tot (sie haben
+sich geopfert), draußen wartet niemand. Und **Vorgazhul kann in dieser
+Phase nicht angreifen** – er verfolgt sie nicht, er hält niemanden
+fest, er ist an den Ritualort gebunden. Kein Kampf, kein Schaden,
+keine Rettungswürfe gegen den Tod. Die einzige Gegnerin ist die Uhr.
 
-- Durch die Panik der Menge (STR oder DEX DC 12, sonst 1 Runde verloren)
-- Versiegelnde Türen (Fenster DC 10 Akrobatik; ein zu Glas gewordener
-  Ausgang lässt sich zerschlagen, zählt aber als Treffer auf Vorgazhul!)
-- Optional: 2 Kultisten (→ `Feinde/Kultisten/`) stellen sich in den Weg
-- Herzmoment: Ein NPC (Kind, Baldric, Wirtin) braucht Hilfe – wer
-  hilft, riskiert etwas, rettet aber ein Leben
+**Die Fluchtrechnung (offen auf den Tisch legen, wenn die Spieler
+fragen):**
 
-**Wichtig:** Vorgazhul verfolgt sie NICHT – er greift ja noch nicht an
-und ist an den Ritualort gebunden. Aber **raus aus der Halle reicht
-nicht**: Wer überleben will, muss mehr als **1 km** weg sein, bevor
-der Schild 10 Aufladungen hat (→ Kapitel 2, Regel 3 und 4).
+| Was | Dauer |
+|---|---|
+| Raus aus der Festhalle | 1–3 Runden. Der **Kellerausgang bleibt immer offen** (den letzten Weg versiegelt Vorgazhul nie, → `Stadt/Sommerhall/Orte/Festhalle.md`). |
+| Durch die Stadt, bis man **mehr als 1 km** von der Festhalle weg ist | ca. **20 Minuten** zu Fuß, **1 Stunde** im Strom der Flüchtenden oder mit Alten und Kindern |
+| Zeit, die Vorgazhul lässt | **10 Stunden** minus 1 Stunde pro Aufladung (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
+
+Alles dazwischen ist **Zeit zum Retten** (→ Kapitel 2, „Evakuierung").
+Die eigentliche Entscheidung der Spieler lautet also nicht „Schaffen
+wir es raus?", sondern **„Wie lange bleiben wir noch, um Leute zu
+holen?"** Faustregel für dich: Wer bei **8 Aufladungen** noch in der
+Stadt ist, sollte jetzt gehen. Sag das ruhig an („Der achte Marker
+dreht sich. Euer Bauch sagt: jetzt oder nie.").
+
+Was die Flucht trotzdem lebendig macht (kostet nur Zeit, nie Leben):
+
+- **Gedränge:** Die Menge drückt zum Kellerausgang. Wer sich
+  durchschiebt, ist sofort draußen; wer die Menge lenkt, bringt Gäste
+  mit raus (→ Kapitel 2, „Evakuierung").
+- **Herzmoment:** Ein NPC (Mira, Baldric, die Wirtin Alma, ein alter
+  Bauer, der nicht ohne seine Ziege geht) braucht Hilfe. Wer hilft,
+  verliert **etwa eine halbe Stunde** – und rettet ein Leben.
+- **Abkürzung:** Wer Sommerhall kennt oder fragt (Baldric, Alma), kennt
+  den Weg über die Mühlenbrücke: halbe Zeit bis zur 1-km-Grenze.
+
+**Wichtig:** Der einzige Fehler, den die Helden machen können, ist,
+**zu lange zu bleiben** (oder ihn doch anzugreifen und so die Uhr
+selbst zu beschleunigen). Raus aus der Halle reicht nicht: Wer
+überleben will, muss mehr als **1 km** weg sein, bevor der Schild
+10 Aufladungen hat (→ Kapitel 2, Regel 3 und 4).
 
 Ein paar Stunden später, von einem Hügel aus: ein **lautloser
 violetter Blitz** über Sommerhall. Der Weltenspiegel. Vorgazhul ist

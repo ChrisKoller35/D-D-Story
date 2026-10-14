@@ -30,6 +30,6 @@ Treppe der Stadt).
 
 **Belohnung:** 50 Gold (Brenka), im Schmugglerlager zusätzlich:
 2 Heiltränke, eine wasserdichte Seilrolle (15 m, nützlich in der
-Grotte!) und Lenes Gezeiten-Notizbuch (Vorteil auf den
-Überlebenskunst-Wurf, falls die Gruppe ohne Neridas Plan zur Grotte
-will).
+Grotte!) und Lenes Notizbuch mit einer Skizze der vorderen
+Grottenräume (ersetzt Neridas Pilgerplan für Raum 1–3, falls die
+Gruppe ohne ihn zur Grotte will).

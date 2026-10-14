@@ -22,7 +22,7 @@ dem sie vertraut hat (Bruder Edrik).
 - Erkennt dabei, dass die gestohlenen Reliquien genau die vier
   Waffen gegen den Spiegelherrn sind.
 - Erzählt von Diebstahl, Verfolgung und der verschollenen Kompanie
-  (20 Mann) und gibt die Quest zur Grotte samt Gezeitenplan und
+  (20 Mann) und gibt die Quest zur Grotte samt Pilgerplan und
   Küstenkarte.
 - Weiß NICHT, was heute in der Grotte haust (Skarvax) – sie warnt nur
   vor „etwas, das die Fischer meiden".
@@ -32,7 +32,7 @@ dem sie vertraut hat (Bruder Edrik).
   ihr? Setzt euch."
 - „Ich habe sie mein halbes Leben lang bewacht und nie gewusst,
   wofür."
-- „Die Gezeiten warten nicht. Auf niemanden. Das ist das Erste, was
-  man am Meer lernt."
+- „Das Meer gibt selten etwas zurück. Und wenn, dann nur denen, die
+  leise fragen."
 
 Werte → `Stats/Stats.md` · Fähigkeiten → `Faehigkeiten/Faehigkeiten.md`
