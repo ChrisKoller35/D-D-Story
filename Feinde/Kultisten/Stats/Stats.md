@@ -8,9 +8,8 @@ Vier Reliquien aus Salzmund (→ `Story/Erzaehler/05-Salzmund.md`).
 
 **Standard-Begegnung:** 4 Kultisten stehen beim Ritual weit verteilt
 im Festsaal, murmeln die Ritualformel und opfern sich bei Ablauf des
-Timers selbst (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`). Dazu
-halten 2 weitere Kultisten draußen Wache und können die Flucht in
-Kapitel 4 stören.
+Timers selbst (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`). Draußen
+wartet niemand: Die Flucht in Kapitel 4 hat **keine Gegner**.
 
 | | |
 |---|---|

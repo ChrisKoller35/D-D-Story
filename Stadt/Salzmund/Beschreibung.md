@@ -31,5 +31,6 @@ panisch – noch.
 
 ## Die Grotte der Gezeiten
 
-Drei Meilen südlich, am Fuß der Kliffe, nur bei Ebbe zugänglich
+Drei Meilen südlich, in den Kliffen hoch über der Brandung, jederzeit
+zugänglich (über die alte Pilgerstiege oder per Boot)
 → `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`

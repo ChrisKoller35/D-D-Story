@@ -19,10 +19,15 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 2. Dienstbotentür hinter der Bühne → Gasse
 3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
 4. Kellerausgang → Bierkeller → Rampe zum Hof (den kennen nur
-   Einheimische – Baldric oder Alma können ihn zeigen)
+   Einheimische – Baldric oder Alma können ihn zeigen) – **wird nie
+   versiegelt**
 
 Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen Weg**
-(Reihenfolge wie oben) – fühlbarer Countdown. Ein versiegelter Weg ist
+(Reihenfolge wie oben, Portal zuerst) – fühlbarer Countdown. Den
+**Kellerausgang lässt er immer offen**: Den letzten Weg versiegelt er
+nie, er will, dass man flieht und von ihm erzählt. Für die Flucht
+der Helden heißt das: Raus kommen sie immer, es geht nur um Zeit
+(→ `Story/Erzaehler/04-Flucht-und-Phae.md`). Ein versiegelter Weg ist
 Spiegelglas und lässt sich zerschlagen, aber das zählt als Treffer auf
 ihn (+1 Aufladung). Evakuierungs-Regeln →
 `Story/Erzaehler/02-Ritual-und-Daemon.md`, „Evakuierung".

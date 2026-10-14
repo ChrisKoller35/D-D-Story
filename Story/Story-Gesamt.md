@@ -71,7 +71,10 @@ fliehen. Einen dritten Versuch gibt es nicht.
 ## Akt 4: Die Flucht und das magische Wesen
 
 Der **einzige Weg zu überleben ist die Flucht vom Fest** – das wissen
-die Helden aber noch nicht. Gelingt die Flucht, erscheint ihnen das
+die Helden aber noch nicht. Die Flucht selbst ist **nicht schwer**:
+Es gibt keine Gegner, und Vorgazhul kann in dieser Phase nicht
+angreifen. Es muss nur **zeitlich aufgehen** – mehr als 1 km weg sein,
+bevor der Schild 10 Aufladungen hat. Gelingt die Flucht, erscheint ihnen das
 magische Wesen **Phae, das Sternenlicht**, und gibt den Hinweis: In der
 **Stadt am Meer (Salzmund)** gibt es Aufzeichnungen über das Monster.
 
@@ -100,9 +103,13 @@ ihnen haben sie die Kraft, gegen das Wesen zu kämpfen.
 
 ## Akt 6: Die Grotte der Gezeiten (Dungeon)
 
-Der einzige Dungeon der Kampagne. Die Helden müssen ihn **vollständig
+Der einzige Dungeon der Kampagne, **jederzeit zugänglich** (keine
+Gezeiten-Abhängigkeit). Die Helden müssen ihn **vollständig
 abschließen**, um die Ausrüstung zu erhalten: Räume, Rätsel, Fallen
-und Gegner, am Ende der Boss **Grottenherr Skarvax**.
+und Gegner, am Ende der Boss **Grottenherr Skarvax**. Spannung statt
+Zeitfenster: Die **Lärm-Leiste** (der blinde Skarvax hört alles und
+kommt, wenn es zu laut wird) und die Grabtür, die nur **10 Minuten**
+offen bleibt.
 
 - Erzähler-Kapitel: `Story/Erzaehler/06-Dungeon-Grotte.md`
 - Dungeon-Beschreibung: `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`

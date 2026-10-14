@@ -17,14 +17,16 @@ Spiegelherrn zu bestehen. Schließt dafür den Dungeon vollständig ab
 
 ## Was die Helden bekommen
 
-- **Gezeitenplan** (Ebbe ab 6. Morgenstunde, ~6 Stunden Fenster)
+- **Pilgerplan** der Grotte aus dem Archiv (Lage der drei Siegel-Räume
+  und der Grabkammer; der Eingang ist jederzeit offen)
 - **Küstenkarte** mit markiertem Grotteneingang (3 Meilen südlich)
 - Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
 
 ## Neridas Warnungen (alle wahr)
 
-1. „Die Gezeiten warten nicht." – Das Zeitfenster ist echt
-   (→ `Story/Erzaehler/06-Dungeon-Grotte.md`, Szenario E).
+1. „Das Grab schließt sich wieder. Wer drinnen trödelt, bleibt
+   drinnen." – Der 10-Minuten-Timer der Grabtür ist echt
+   (→ `Story/Erzaehler/06-Dungeon-Grotte.md`, Szenario G).
 2. „Zwanzig gute Leute sind dort unten geblieben. Etwas wohnt darin.
    Die Fischer meiden die Bucht seit Jahrzehnten." – Skarvax
    (→ `Dungeon/Grotte-der-Gezeiten/Feinde/Grottenherr-Skarvax/`).

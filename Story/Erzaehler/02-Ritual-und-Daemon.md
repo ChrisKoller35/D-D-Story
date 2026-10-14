@@ -296,10 +296,13 @@ weitere Stunde.
   Gäste aus **dunklen Ecken** fliehen schon während der Sequenz
   (1 Gruppe pro dunkler Ecke).
 - Pro Runde versiegelt Vorgazhul **einen Ausgang** (Reihenfolge:
-  Portal → Dienstbotentür → Westfenster → Kellerausgang,
+  Portal → Dienstbotentür → Westfenster,
   → `Stadt/Sommerhall/Orte/Festhalle.md`). **Ausgänge in einer
   dunklen Ecke kann er nicht versiegeln** – sie bleiben offen, er
-  überspringt sie.
+  überspringt sie. **Den Kellerausgang versiegelt er nie** – den
+  letzten Weg lässt er immer offen („Lauft ruhig. Erzählt von mir.").
+  Wer fliehen will, kommt also immer raus; die Frage ist nur, wie
+  schnell die Menge durch diese eine Tür passt.
 - **Ausgang mit Held, der die Menge lenkt** (Aktion; Überzeugen,
   Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
   Misserfolg = 1 Gruppe. Baldric oder Alma zählen wie ein Held
@@ -451,12 +454,15 @@ Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
 ### Szenario J · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
 
-**Flucht funktioniert** – aber mach es dramatisch: Pro Runde wird ein
-Ausgang zu Glas. Fluchtwege: Fenster, Kellerausgang, Dienstbotentür
-(→ Karte in `Stadt/Sommerhall/Orte/Festhalle.md`). Verfolgt werden sie
-nicht – er greift ja nicht an und ist an den Ritualort gebunden.
-Wichtig: Raus aus der Halle reicht nicht – **raus aus der Stadt**
-(1 km)! Wer entkommt, sieht später den violetten Blitz → Kapitel 4.
+**Flucht funktioniert – und sie ist nicht schwer.** Keine Gegner,
+kein Kampf: Vorgazhul kann in diesem Zustand nicht angreifen, er
+verfolgt sie nicht und ist an den Ritualort gebunden. Die Ausgänge
+werden nacheinander zu Glas, aber der **Kellerausgang bleibt immer
+offen** (→ Karte in `Stadt/Sommerhall/Orte/Festhalle.md`). Es geht
+nur darum, dass es **zeitlich aufgeht**: Raus aus der Halle reicht
+nicht – **raus aus der Stadt** (1 km), bevor der Schild 10 Aufladungen
+hat (→ Kapitel 4, „Die Fluchtrechnung"). Wer entkommt, sieht später
+den violetten Blitz → Kapitel 4.
 **Beim ersten Durchlauf** fliehen Gruppen selten komplett – stirbt der
 Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
 

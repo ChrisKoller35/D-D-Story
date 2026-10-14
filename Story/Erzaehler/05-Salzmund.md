@@ -80,10 +80,13 @@ Zeugen sahen **graue Kutten mit tiefen Kapuzen und Sicheln aus Silber**.
 **Die Verfolgung:** Die Turmwache jagte das Boot die Küste entlang
 nach Süden. In der Bucht vor der **Grotte der Gezeiten** hatten sie
 die Diebe fast – die Wachen standen schon knietief im Wasser –, da
-sprangen die Diebe im letzten Moment in den Grotteneingang. Hinter
-ihnen kam die Flut und schloss den Eingang.
+sprangen die Diebe im letzten Moment an Land und hasteten die
+Pilgerstiege hinauf in den Grotteneingang. Die Wachen folgten nicht:
+Aus der Höhle kam ein Klicken wie von riesigen Scheren, und die
+Fischer meiden diese Bucht seit Jahrzehnten. Drei Tage bewachten sie
+den Eingang. Niemand kam heraus.
 
-**Die verlorene Kompanie:** Bei der nächsten Ebbe schickte die Stadt
+**Die verlorene Kompanie:** Danach schickte die Stadt
 einen Abenteurertrupp von **20 Mann** hinein, die „Kompanie der
 Salzklingen" unter **Hauptfrau Varis Dorn**. **Keiner kam zurück.**
 Seitdem wagt sich niemand mehr in die Grotte.
@@ -96,7 +99,8 @@ Seitdem wagt sich niemand mehr in die Grotte.
 > zu bestehen. Meine Schwester lebt in Sommerhall."
 
 → Quest: `Quests/Quest-Die-versunkene-Grotte.md`
-Sie gibt Gezeitenplan, Küstenkarte und ihre Warnungen mit. Sie weiß
+Sie gibt den alten **Pilgerplan** der Grotte (Lage der drei
+Siegel-Räume), Küstenkarte und ihre Warnungen mit. Sie weiß
 nicht, was die Diebe und die Kompanie getötet hat – nur, dass Fischer
 die Bucht seit Jahrzehnten meiden (→ Boss Skarvax).
 
@@ -126,8 +130,8 @@ Möwe" erzählt der alte Fischer **Grim** für einen Krug Bier von der
 Grotte („Da leuchtet es nachts grün, und mein Bruder kam ohne sein
 Boot zurück – und ohne seine Stimme"). Und: Sein Neffe **Jannik** war
 bei der Kompanie der Salzklingen. Alle Spuren zeigen aufs Archiv oder
-direkt zur Grotte. Gehen sie OHNE Neridas Infos zur Grotte, fehlt
-ihnen das Gezeiten-Wissen → Kapitel 6, Szenario „Flut".
+direkt zur Grotte. Gehen sie OHNE Neridas Infos zur Grotte, fehlen
+ihnen Pilgerplan und Warnungen (→ Szenario G).
 
 ### Szenario C · ➖ Leichte Abweichung: Ärger in der Stadt
 
@@ -172,15 +176,18 @@ Stadtkasse von Salzmund.
 
 ### Szenario G · 🔀 Ganz anders: Sie wollen sofort zur Grotte, ohne Vorbereitung
 
-Lass sie – aber die Grotte ist **nur bei Ebbe** zugänglich (das steht
-in Neridas Unterlagen). Ohne dieses Wissen stehen sie vor gefluteten
-Eingängen oder schwimmen hinein (deutlich gefährlicher: Wasser-Kampf
-gegen die Muränenwächter). Ein gescheiterter erster Versuch, gefolgt
+Lass sie – die Grotte ist jederzeit offen. Aber ohne Neridas
+Recherche wissen sie nicht, was sie dort suchen (vier Reliquien),
+kennen die drei Siegel nicht und haben keine Warnungen („Serenya
+mochte keine lauten Gäste"). Sie finden den Weg trotzdem (Grim zeigt
+die Bucht für ein Bier), stehen aber am Ende vor einer Tür mit drei
+leeren Mulden und laufen laut und ahnungslos in Skarvax' Gehör
+(→ Kapitel 6, Szenario E). Ein gescheiterter erster Versuch, gefolgt
 von „vielleicht doch erst ins Archiv", ist völlig okay als Lernkurve.
 
 ---
 
 ## Übergang
 
-Mit Quest, Karte und Gezeitenplan → **Kapitel 6: Die Grotte der
+Mit Quest, Karte und Pilgerplan → **Kapitel 6: Die Grotte der
 Gezeiten**.

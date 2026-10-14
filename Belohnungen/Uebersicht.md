@@ -38,7 +38,7 @@ die Diskussion am Tisch gehört zur Belohnung.
   (→ `Quests/Quest-Die-versunkene-Grotte.md`)
 - Die Gespiegelte: 25 Gold, Priesterinnen-Segen, Jolas Fenster-Blick
   (→ `Quests/Nebenquest-Die-Gespiegelte.md`)
-- Schmuggler: 50 Gold, 2 Heiltränke, Seilrolle, Gezeiten-Notizbuch
+- Schmuggler: 50 Gold, 2 Heiltränke, Seilrolle, Lenes Notizbuch
   (→ `Quests/Nebenquest-Schmuggler.md`)
 
 ## Nach dem Finale

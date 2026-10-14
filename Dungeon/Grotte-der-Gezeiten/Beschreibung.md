@@ -1,8 +1,11 @@
 # Die Grotte der Gezeiten – Raum für Raum
 
 Die versunkene Grabstätte der Vier (Serenya und ihre drei Gefährten,
-→ `Story/Spieler/Handout-Hinweise-Salzmund.md`). Nur bei **Ebbe**
-begehbar (~6 Stunden).
+→ `Story/Spieler/Handout-Hinweise-Salzmund.md`). **Jederzeit
+zugänglich** – kein Gezeitenfenster: Der Eingang liegt über der
+Wasserlinie und ist über die alte **Pilgerstiege** im Kliff oder per
+Boot erreichbar. Wer sich zurückziehen muss, kann rausgehen, rasten
+und wiederkommen.
 Erzähler-Kapitel mit Szenarien: `Story/Erzaehler/06-Dungeon-Grotte.md`.
 Gegner-Werte: `Feinde/` (in diesem Ordner).
 
@@ -10,20 +13,37 @@ Gegner-Werte: `Feinde/` (in diesem Ordner).
 (schwieriges Gelände nur dort, wo angegeben). Geräusche tragen weit –
 Heimlichkeit hat Nachteil, außer man bewegt sich halbe Geschwindigkeit.
 
+**Die Lärm-Leiste (Spannung statt Gezeiten):** Lege **6 Marker** offen
+auf den Tisch. Die Grotte trägt jedes Geräusch zu Skarvax, der blind
+ist und nur hört (→ `Feinde/Grottenherr-Skarvax/`).
+- **+1 Marker** für jede laute Kampfrunde (Donner- und Feuerzauber,
+  Gebrüll, Metall auf Stein), für aufgebrochene Türen oder zerschlagene
+  Muscheln, für jeden Wasser-Doppelgänger in Raum 4.
+- Leise Kämpfe (*Stille*, Hinterhalt, Ringen ohne Geschrei) und
+  vorsichtiges Schleichen kosten **nichts**.
+- **Bei 6 Markern** verlässt Skarvax seinen Hort und jagt das
+  Geräusch: Er taucht am Ende der nächsten Runde im aktuellen Raum
+  auf. Danach zurück auf 0. Fliehen die Helden aus der Grotte oder
+  bleiben sie 10 Minuten völlig still, kehrt er in den Hort zurück.
+- Zeig die Marker! Die Spieler sollen spüren, dass in dieser Grotte
+  Lärm tödlicher ist als Zeit (und lernen dabei die Taktik des
+  Finales).
+
 **Grabkammer-Schloss:** Die Tür zu Raum 7 hat drei Mulden für die
 **Gezeitensiegel** aus Raum 2, 3 und 5. Alle drei nötig! Die Tür
-lässt sich **nur von außen** öffnen. Mit jeder Flut schließt sie sich
-wieder, und die Siegel kehren an ihre Plätze zurück (die Grotte
-„setzt sich zurück") – deshalb muss jeder Besucher alle drei neu
-holen.
+lässt sich **nur von außen** öffnen. Ist sie offen, bleibt sie es nur
+**10 Minuten** (Echtzeit-Timer am Tisch, wie beim Ritual in Kapitel 2).
+Dann schließt sie sich, und die Siegel kehren an ihre Plätze zurück
+(die Grotte „setzt sich zurück") – wer dann noch drinnen ist, kommt
+nur heraus, wenn jemand draußen alle drei Siegel neu holt.
 
 **Was seit dem Diebstahl hier geschah (für dich):** Die fünf Diebe
 des Spiegelkults kannten den Weg aus den Archiv-Unterlagen von Bruder
 Edrik. Skarvax erwischte zwei von ihnen, die anderen drei holten die
 Siegel, schlüpften in die Grabkammer und legten die Reliquien auf
-Serenyas Steinbett, „wo die Stille schläft". Dann kam die Flut, die
-Tür schloss sich – und von innen gibt es keinen Weg hinaus. Eine Ebbe
-später kam die **Kompanie der Salzklingen** (20 Mann). Die Grotte und
+Serenyas Steinbett, „wo die Stille schläft". Sie beteten zu lange,
+die Tür schloss sich – und von innen gibt es keinen Weg hinaus. Drei
+Tage später kam die **Kompanie der Salzklingen** (20 Mann). Die Grotte und
 Skarvax haben sie aufgerieben. Ihre Spuren findet man überall
 (siehe „Spuren der Kompanie" in den Räumen).
 
@@ -31,9 +51,11 @@ Skarvax haben sie aufgerieben. Ihre Spuren findet man überall
 
 ## Raum 1: Der Schlund (Eingang)
 
-Meereshöhle, Wände voller Seepocken, eine alte, grün verwitterte
-Bronzetür mit Gezeitenmotiv am Ende. Bei Flut komplett unter Wasser
-(Tangreste an der Decke verraten das – Wahrnehmung DC 12).
+Meereshöhle hoch über der Brandung, Wände voller Seepocken, eine
+alte, grün verwitterte Bronzetür mit Gezeitenmotiv am Ende, die seit
+Jahrhunderten offen steht. Unten in der Bucht schlägt das Meer gegen
+die Felsen; hier oben kommt es nie hin. Die Pilgerstiege endet direkt
+vor dem Schlund, ein Bootsanleger aus Stein liegt darunter.
 **Kein Kampf.** Stimmung aufbauen: irgendwo tropft es im Takt eines
 Herzschlags.
 *Spuren der Kompanie:* ein zerschlagenes Beiboot, an einem
@@ -72,11 +94,13 @@ passiert ungehindert. Wer spricht oder mit Waffe eintritt: Die
 Wasserfläche „spiegelt" ihn – ein Wasser-Doppelgänger (nutze
 Gezeitenschlurfer-Werte, aber Aussehen des Helden) greift an, einer
 pro Regelbruch. *Die Prüfung lehrt die Taktik des Finales!*
-In der Deckenkuppel: die **Luftglocke** (Rettungs-Hohlraum bei Flut,
+In der Deckenkuppel: die **Luftglocke** (ein Hohlraum, in den man nur
+tauchend gelangt – Skarvax passt nicht hinein; ein sicheres Versteck,
 → Kapitel 6, Szenario E).
 *Der Überlebende (optional):* In der Luftglocke lebt seit sechs
 Wochen **Jannik**, der jüngste der Kompanie (Grims Neffe) – von
-Muscheln und Regenwasser durch einen Felsspalt. Abgemagert, halb von
+Muscheln und Regenwasser durch einen Felsspalt. Zweimal hat er
+versucht, hinauszukommen; beide Male hörte ihn Skarvax. Abgemagert, halb von
 Sinnen, flüstert er nur noch („Nicht laut. Nie laut."). Er weiß, wo
 die Kompanie starb, und dass „der Krebs" alles in Raum 6 zusammenträgt.
 Ihn lebend nach Salzmund zu bringen ist ein starker Herzmoment
@@ -126,5 +150,11 @@ Silbersicheln wie die Kultisten in Sommerhall; bei einem steckt ein
 Brief „an den Meister in den Kornfeldern" (Malrik). **Serenyas
 Leichnam fehlt** – offener Faden für später (→ Kapitel 7, „Nach dem
 Sieg").
-Beim Verlassen: Die Flut kommt. Die Grotte versiegelt sich hinter
-ihnen für immer (sauberer Story-Abschluss, kein Rückweg-Farming).
+**Achtung, Tür-Timer!** Ab dem Öffnen laufen 10 Minuten (siehe
+„Grabkammer-Schloss" oben). Lies den Vorlesetext, lass die Spieler
+die Gegenstände nehmen – und erinnere sie nicht an die Zeit. Die
+Kratzspur „Es gibt keinen Griff" ist Warnung genug.
+Beim Verlassen: Die Grabtür fällt hinter ihnen zu, die drei Siegel
+zerfallen zu grünem Staub, und die Grabkammer bleibt für immer
+verschlossen (sauberer Story-Abschluss, kein Rückweg-Farming). Die
+Grotte selbst bleibt offen – nur leer.
