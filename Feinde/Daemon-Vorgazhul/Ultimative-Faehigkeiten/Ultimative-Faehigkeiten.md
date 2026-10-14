@@ -13,9 +13,8 @@ Urteil. Inszeniere sie als Schnitt, nicht als Kampfrunde.*
 **Effekt:** Alle Kreaturen im Umkreis von 1 km sterben und werden zu
 reglosem Spiegelglas („Gespiegelte"). Kein Rettungswurf. Kein
 Schaden-Auswürfeln. Es ist vorbei. Wer weiter als 1 km entfernt ist,
-sieht nur einen lautlosen violetten Blitz am Horizont. Einzige
-Ausnahme, falls du sie brauchst: Malrik darf er verschonen, als
-gebrochenen Diener (→ Kapitel 7, Szenario G).
+sieht nur einen lautlosen violetten Blitz am Horizont. (Malrik ist zu
+diesem Zeitpunkt schon tot: Er war das letzte Opfer des Rituals.)
 
 **Danach ist Vorgazhul in der Welt angekommen.** Der Spiegelschild
 ist verbraucht und kommt nie wieder. Über Sommerhall bildet sich die

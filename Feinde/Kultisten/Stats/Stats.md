@@ -1,12 +1,16 @@
 # Kultisten des Spiegels – Statistiken
 
 Malriks Anhänger: Verzweifelte, denen der „Spiegel" Gerechtigkeit
-versprach. Graue Roben, Silbermasken ohne Augenlöcher. Fünf von ihnen
+versprach. Graue Umhänge mit tiefen Kapuzen (keine Masken), unter dem
+Umhang eine Sichel aus Silber. Fünf von ihnen
 (angeführt von Bruder Edrik) stahlen sechs Wochen vor dem Fest die
 Vier Reliquien aus Salzmund (→ `Story/Erzaehler/05-Salzmund.md`).
 
-**Standard-Begegnung:** 4 Kultisten beschützen Malrik während des
-Rituals; 2 Kultisten können die Flucht in Kapitel 4 stören.
+**Standard-Begegnung:** 4 Kultisten stehen beim Ritual weit verteilt
+im Festsaal, murmeln die Ritualformel und opfern sich bei Ablauf des
+Timers selbst (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`). Dazu
+halten 2 weitere Kultisten draußen Wache und können die Flucht in
+Kapitel 4 stören.
 
 | | |
 |---|---|
@@ -23,8 +27,10 @@ Rituals; 2 Kultisten können die Flucht in Kapitel 4 stören.
 **Fanatische Hingabe:** Solange Malrik lebt und sichtbar ist, haben
 Kultisten Vorteil auf Rettungswürfe gegen Bezauberung und Furcht.
 
-**Blind Maskiert:** Kultisten sind immun gegen Blendung und
-Sichteffekte (sie sehen „durch den Spiegel") – aber Wahrnehmung nur
-passiv 10.
+**Trance der Formel:** Während des Rituals stehen die Kultisten still
+und murmeln. Sie reagieren auf nichts, wehren sich nicht und sind
+immun gegen Bezauberung und Furcht – aber Wahrnehmung nur passiv 10.
+Nur Bewusstlosigkeit, ein Knebel oder *Stille* bringt sie zum
+Schweigen.
 
 Fähigkeiten → `../Faehigkeiten/Faehigkeiten.md`

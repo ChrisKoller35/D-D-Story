@@ -61,12 +61,13 @@ zieht die Angst aller Lebenden im Umkreis ein. Dreh den Marker
 sichtbar „von selbst" um. Ohne jede Hilfe ist er also spätestens nach
 10 Stunden voll. *(Das ist die Evakuierungs-Uhr für Kapitel 2/3.)*
 
-**Regel 4 – Opfergang der Kultisten:** Bekommt der Meister keine
-Treffer, helfen seine Kultisten nach: Alle 10 Minuten tritt einer vor
-ihn, ruft „Für den Spiegel!" und rammt sich die eigene Silbersichel
-in die Brust → stirbt, **+1 Aufladung** (keine W10-Tabelle).
-Gefangene, bewusstlose oder getötete Kultisten können das nicht mehr –
-wer die Kultisten aufhält, gewinnt Zeit.
+**Regel 4 – Opfergang überlebender Kultisten:** Die 4 Kultisten
+sterben normalerweise schon im Ritual. Hat die Gruppe einen vorher
+ausgeschaltet und er kommt später frei (schlecht bewacht, aufgewacht,
+Fesseln gelöst), kriecht er zu Vorgazhul, ruft „Für den Spiegel!" und
+rammt sich die eigene Silbersichel in die Brust → stirbt, **+1
+Aufladung** (keine W10-Tabelle). Wer Kultisten gefangen hält, muss sie
+also bewachen.
 
 **Regel 5 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
 → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`. Alles im

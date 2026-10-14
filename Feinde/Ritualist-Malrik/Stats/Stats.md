@@ -24,15 +24,20 @@ Kleriker der Stufe 9. Vorbereitet u. a.: *Flammenschlag, Stille,
 Schutz vor Energie, Geistliche Waffe (Aschensichel), Verderben,
 Einflüsterung.*
 
-**Während des Rituals:** Malrik kann NUR das Ritual aufrechterhalten
-(keine Zauber, keine Reaktionen). Seine 4 Kultisten
-(→ `Feinde/Kultisten/`) beschützen ihn. Wird er vor Abschluss
-kampfunfähig: → Kapitel 2, Abschnitt „Ritual unterbrochen?" –
-**das Ritual gelingt trotzdem**, der Riss frisst seine Seele.
+**Während des Rituals:** Malrik steht ganz vorne an der Bühne, den
+**schwarzen Kristall** in der Hand (mit ihr verwachsen, nicht
+wegzunehmen). Er wirkt keine Zauber, kann aber noch *Schild der Asche*
+und *Aschengestalt* nutzen. Fällt er, bevor der Timer abläuft, startet
+die Opfer-Sequenz sofort (→ Kapitel 2, „Eingreifen, bevor der Timer
+abläuft") – **das Ritual gelingt trotzdem**.
 
-**Rolle im Finale (optional):** Überlebt Malrik Akt 2, dient er
-Vorgazhul als gebrochene Marionette. Überzeugen DC 16 (mit gutem
-Rollenspiel) kann ihn im Finale umdrehen
+**Malriks Ende:** Am Ende der Opfer-Sequenz explodiert Malrik auf der
+Bühne, sein Blut fließt in den Kristall und öffnet das Tor. Er ist
+**immer das letzte Opfer**.
+
+**Rolle im Finale (optional):** Nur wenn die Helden ihn im 2. Durchlauf
+am Morgen bekehrt haben (→ `Story/Erzaehler/03-Traum-und-Neustart.md`,
+Szenario G), lebt er noch und kann im Finale helfen
 (→ `Story/Erzaehler/07-Finale.md`, Szenario G).
 
 Fähigkeiten → `../Faehigkeiten/Faehigkeiten.md`

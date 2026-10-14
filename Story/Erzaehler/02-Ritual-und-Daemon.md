@@ -2,59 +2,249 @@
 
 **Nur für den Erzähler.**
 
-## Das Ritual
+## Das Ritual – der Grundablauf
 
 **Malrik der Aschenpriester** (→ `Feinde/Ritualist-Malrik/`) wirkt das
-**Ritual der Spiegelung** **offen, mitten auf der Party** im Festsaal
-der Großen Festhalle, beschützt von **4 Kultisten**
-(→ `Feinde/Kultisten/`), die bis dahin als Gäste unter den Feiernden
-saßen. Das Ritual dauert **3 Runden**. Genau dort, wo am meisten los
-ist – denn wenn es eskaliert, gibt es dort das größte Gemetzel.
+**Ritual der Spiegelung** offen im großen Festsaal der Festhalle,
+mitten in der Party. Er steht **ganz vorne an der Bühne**, in der Hand
+einen **schwarzen Kristall**. Seine **4 Kultisten**
+(→ `Feinde/Kultisten/`) stehen **weit verteilt im Saal**, jeder in
+einer anderen Ecke, und murmeln unter ihren Kapuzen die Ritualformel.
 
-**Wie es abläuft:** Auf dem Höhepunkt des Fests (Siegerehrung) tritt
-der graue Pilger auf die Tanzfläche. Den Kreis aus Asche und
-Silberstaub hat er schon in den Tagen davor unauffällig in die Fugen
-des Tanzbodens gestreut. Die Kultisten werfen ihre Umhänge ab und
-setzen die Silbermasken auf. Viele Gäste halten das zuerst für einen
-Teil der Show.
+Der Ablauf in vier Schritten:
+
+1. **Aufstellung:** Ab dem Höhepunkt des Fests stehen Malrik und die
+   4 Kultisten an ihren Plätzen. Niemand achtet auf sie.
+2. **Entdeckung:** Das Ritual-Ereignis startet erst, **wenn ein Held
+   in der Nähe eines Kultisten ist und ihn entdeckt**.
+3. **Der Timer:** Ab der Entdeckung läuft eine Stoppuhr, **5 Minuten**.
+   Jeder Wurf und jede Interaktion kostet **30 Sekunden** extra.
+4. **Die Opfer-Sequenz:** Bei 0:00 geht es los. Die Kultisten opfern
+   sich (und ein Kind), dunkle Strahlen laufen zur Bühne, Malrik
+   explodiert, sein Blut fließt in den Kristall, **das Tor öffnet
+   sich** und Vorgazhul erscheint.
 
 Was niemand mehr weiß: Unter der Festhalle liegt der Leylinien-Knoten,
 an dem Vorgazhul vor 5.000 Jahren gebannt wurde (→ Kapitel 5). Malriks
 Ritual beschwört ihn nicht neu – es **bricht den alten Bann**. Der
-Bann ist seit Wochen rissig (Malriks Vorarbeit); deshalb lässt sich das
-Ritual nicht mehr aufhalten.
+Bann ist seit Wochen rissig (Malriks Vorarbeit); deshalb **gelingt das
+Ritual immer**. Die Helden können beeinflussen, *wie* es gelingt und
+wie viele Menschen danach noch rauskommen – aber nicht, *ob*.
 
-Vorlesetext, wenn das Ritual beginnt:
+> **Vorab am Tisch:** Die Opfer-Sequenz ist bewusst brutal (ein Kind
+> wird geopfert). Kläre vorher kurz, ob das für alle am Tisch okay
+> ist. Wenn nicht: Das Kind wird im letzten Moment von seiner Mutter
+> weggerissen, und der Kultist opfert sich stattdessen selbst.
 
-> Mitten in Baldrics Rede tritt der graue Pilger auf die Tanzfläche.
-> Er hebt die Arme, und in den Fugen des Bodens glimmt ein Kreis aus
-> Asche und Silber auf. Vier Gäste an den Tischen stehen auf, werfen
-> ihre Umhänge ab – Masken aus Silber, ohne Augenlöcher. Jemand
-> klatscht, weil er es für eine Vorführung hält. Die Stimme des Pilgers
-> ist keine Stimme mehr – sie ist ein Spalt in der Welt. Über dem Kreis
-> öffnet sich ein Riss aus Licht, und in diesem Riss bewegt sich etwas.
-> Etwas, das euch bereits ansieht.
+---
 
-### Ritual unterbrochen?
+## Schritt 1: Der Festsaal und die Aufstellung
 
-Egal was die Helden tun: **Das Ritual gelingt immer** – aber *wie* es
-gelingt, dürfen sie beeinflussen:
+Der große Festsaal ist **riesig** (ca. 60 × 30 m, 600 Gäste,
+→ `Stadt/Sommerhall/Orte/Festhalle.md`). Musik, Lachen, Gedränge: Wer
+nicht direkt neben einem Kultisten steht, hört und sieht nichts.
 
-- **Malrik wird getötet/kampfunfähig:** Der Riss reißt trotzdem auf –
-  Malriks Seele wird als Brennstoff hineingezogen (gruselige Szene).
-  Bonus: Vorgazhul erscheint **ohne seine Kultisten-Leibwache** (der
-  Riss reißt sie mit) – damit fällt der **Opfergang** weg, die
-  Evakuierungs-Uhr läuft langsamer.
-- **Ritualkreis beschädigt (z. B. Asche verwischt):** Vorgazhul
-  erscheint „instabil": Der Spiegelschild startet mit **2 Aufladungen
-  bereits verbraucht-Markierung sichtbar** – die Spieler sehen dadurch
-  früh, dass der Schild Aufladungen hat (guter Hinweis!).
-- **Niemand greift ein:** Ritual läuft voll durch, Standardversion.
-- **Die Festhalle wird bewacht oder versperrt:** Die Kultisten weichen
-  aus – der Leylinien-Knoten reicht unter die ganze Festhalle und den
-  halben Marktplatz. Dann eben im Hof, auf dem Markt oder in der
-  Scheune nebenan. Das Ritual findet statt, nur an einem anderen Ort
-  (der Ritualort ist dann Vorgazhuls Anker).
+| Wer | Wo | Nächster Ausgang |
+|---|---|---|
+| **Malrik** | Ganz vorne (Norden), direkt vor der Bühne, links neben den Stufen. Grauer Pilgermantel, die Hand mit dem Kristall im Ärmel. | Dienstbotentür hinter der Bühne |
+| **Kultist 1** | Westseite, an der Fensterreihe zwischen den Langtafeln | Westfenster |
+| **Kultist 2** | Ostseite, am Ausschank neben der Kellertreppe | Kellerausgang |
+| **Kultist 3** | Ganz hinten (Süden), an der Garderobe neben dem großen Portal | Großes Doppelportal |
+| **Kultist 4** | Auf der Musikanten-Empore in der Nordostecke | Dienstbotentür |
+
+Die Kultisten tragen **graue Umhänge mit tiefen Kapuzen** (keine
+Masken), die Silbersichel unter dem Umhang. Sie stehen still, den
+Blick zur Bühne, und murmeln ohne Pause dieselbe Formel. Zwischen
+ihnen liegt (unsichtbar) ein riesiges **Siegel**, das den ganzen
+Saalboden überspannt und an der Bühne zusammenläuft.
+
+**Die Ritualformel** (klingt so, wenn ein Spieler fragt):
+*„Ves'ra oth Vorgazhul, kael minnath. Ves'ra dûn, ves'ra dûn."*
+Übersetzt (nur mit Arkana/Religion, siehe unten): „Herr der tausend
+Gesichter, sieh uns an. Wir sind dein Spiegel. Nimm, was wir sind."
+
+## Schritt 2: Die Entdeckung
+
+Die Helden bewegen sich frei auf dem Fest (Festspiele, Tanz, Ausschank,
+→ Kapitel 1). Notiere grob, wo sie gerade sind.
+
+- **Nur in der Nähe:** Ein Held ist in der Nähe eines Kultisten, wenn
+  er höchstens **6 m** entfernt ist (gleicher Tisch, Nachbartisch,
+  gleiche Ecke). Weiter weg gibt es **keine Wahrnehmungsprobe** – die
+  Musik ist zu laut, der Saal zu voll.
+- **Probe:** In der Nähe würfelt der Held **Wahrnehmung DC 13** (oder
+  passive Wahrnehmung 13+ reicht automatisch). Erfolg = er bemerkt den
+  murmelnden Mann unter der Kapuze. **Ab jetzt läuft der Timer.**
+- **Malrik zählt auch:** Wer Malrik an der Bühne bemerkt (DC 15, er
+  ist vorsichtiger), startet den Timer genauso.
+- **Sicherheitsnetz:** Entdeckt bis zur **Siegerehrung** niemand
+  etwas, ruft Baldric die Gewinner der Festspiele (oder die
+  Ehrengäste, also die Helden) auf die Bühne
+  (→ `Story/Spieler/Festspiele.md`). Auf dem Weg nach vorne gehen sie
+  direkt an Malrik vorbei: Entdeckung automatisch.
+- **Zweites Sicherheitsnetz (wenn du es gruselig willst):** Mira, 7,
+  das Mädchen mit dem Holzpferd (→ Kapitel 1, Vorzeichen), zupft einen
+  Helden am Ärmel: „Der Mann da singt komisch." Und zeigt auf einen
+  Kultisten. Es ist dasselbe Kind, das später geopfert wird.
+
+Vorlesetext bei der Entdeckung:
+
+> Zwischen zwei Langtafeln steht ein Mann, der nicht mitfeiert. Grauer
+> Umhang, die Kapuze tief ins Gesicht gezogen. Er hält keinen Becher,
+> er tanzt nicht, er schaut nur nach vorne zur Bühne. Und seine Lippen
+> bewegen sich. Ganz leise, immer dieselben Silben, wie ein Gebet, das
+> nie zu Ende geht. Um ihn herum lachen die Leute. Niemand außer euch
+> scheint ihn zu sehen.
+
+## Schritt 3: Der Timer (5 Minuten)
+
+Stelle eine **echte Stoppuhr** auf **5:00** und leg sie sichtbar auf
+den Tisch (Handy reicht). Sie läuft in **Echtzeit** – auch wenn die
+Spieler nur diskutieren.
+
+- **Jeder Wurf** (Probe, Angriff, Rettungswurf) → **−30 Sekunden**.
+- **Jede Interaktion** (jemanden ansprechen, den Kultisten anfassen,
+  einen Zauber wirken, Baldric holen) → **−30 Sekunden**.
+- Ein Wurf, der aus einer Interaktion entsteht, kostet nur einmal 30
+  Sekunden, nicht doppelt.
+- **Bei 0:00** startet sofort die Opfer-Sequenz (Schritt 4).
+
+**Was die Helden herausfinden können** (je −30 Sekunden):
+
+| Aktion | Ergebnis |
+|---|---|
+| Genauer hinsehen (Wahrnehmung DC 10) | Glasige Augen, Schweiß auf der Stirn. Unter dem Umhang blitzt eine **Sichel aus Silber**. |
+| Ansprechen, antippen, schütteln | Keine Reaktion. Er murmelt weiter. Wird er heftig gepackt, lächelt er nur: „Gleich seht ihr euch selbst." |
+| Motiv erkennen (DC 12) | Er ist nicht betrunken, er ist in **Trance**. Er hat Todesangst – und freut sich trotzdem. |
+| Arkana oder Religion (DC 14) | Eine Beschwörungsformel in einer uralten Sprache. Sie ist nur **ein Teil** – irgendwo im Saal müssen weitere Stimmen sein. |
+| Arkana oder Religion (DC 18) | Es ist eine **Opferformel**. Der Sprecher bietet sich selbst an. „Nimm, was wir sind." |
+| Saal absuchen (Wahrnehmung DC 15) | Der Held entdeckt einen **weiteren Kultisten** (du wählst, welchen) oder **Malrik an der Bühne**, in dessen Ärmel etwas Schwarzes glänzt. |
+| Baldric oder Stadtwache holen (Überzeugen DC 13) | Sie kommen mit. Baldric hält das zuerst für eine Theatergruppe. Die Wache packt den Kultisten, wenn man sie darum bittet (er wehrt sich nicht). |
+| „Alle raus!" rufen (Überzeugen oder Einschüchtern DC 15) | Erfolg: **1 Gruppe (50 Gäste)** verlässt den Saal, bevor es losgeht. Misserfolg: Gelächter, „Noch ein Lied!". Mit Baldric an der Seite DC 10. |
+
+### Eingreifen, bevor der Timer abläuft
+
+**Das Ritual gelingt immer.** Aber was die Helden vorher tun, ändert,
+wie viele Menschen hinterher entkommen:
+
+- **Kultist zum Schweigen gebracht** (bewusstlos geschlagen, geknebelt,
+  *Stille*, Mund zugehalten mit Athletik gegen Athletik): Seine Stimme
+  fehlt. Bei 0:00 bleibt **seine Ecke des Siegels dunkel**: Von dort
+  läuft kein Strahl zur Bühne. Folgen: Vorgazhul kann den **Ausgang
+  in dieser Ecke nicht versiegeln** (siehe Tabelle oben), und die
+  Gäste in dieser Ecke erstarren nicht (Schritt 4). Gefesselt, aber
+  wach und ohne Knebel, murmelt er einfach weiter.
+- **Kultist getötet:** Schlechte Idee. Sein Blut läuft sofort als
+  dunkler Faden über den Boden zur Bühne – **sein Tod zählt als
+  Opfer**, und der Timer verliert zusätzlich **1 Minute**. Die Gäste
+  ringsum sehen nur, dass ein Held einen Festgast ermordet hat
+  (Schreie, die Wache will den Helden festnehmen).
+- **Malrik angreifen:** Er ist in Trance, kann aber reagieren:
+  *Schild der Asche* und *Aschengestalt* (2/Tag, er taucht wieder an
+  der Bühne auf). Der Kristall ist **mit seiner Hand verwachsen**
+  (schwarze Adern bis zum Ellbogen) und lässt sich nicht wegnehmen.
+  Fällt Malrik vor 0:00 auf 0 TP (oder verliert die Hand): Sein Blut
+  läuft sofort in den Kristall, **der Timer springt auf 0** und die
+  Sequenz startet, aber **ohne Explosion** – Malrik ist ja schon tot.
+  Vorteil: Ohne Blutregen erstarren die Gäste nur 1 Runde statt bis
+  zum Tor. Nachteil: Die restliche Zeit ist weg.
+- **Der Kristall:** Unzerstörbar. Ein Angriff darauf prallt ab
+  (keine Aufladung, Vorgazhul ist ja noch nicht da).
+- **Die Festhalle wird vorher bewacht oder versperrt** (2. Durchlauf):
+  Die Kultisten weichen aus – der Leylinien-Knoten reicht unter die
+  ganze Festhalle und den halben Marktplatz. Dann eben im Hof, auf dem
+  Markt oder in der Scheune nebenan. Der Ablauf bleibt gleich.
+
+## Schritt 4: Die Opfer-Sequenz
+
+Bei 0:00 **Initiative würfeln**. Ab jetzt läuft alles in Runden, die
+Stoppuhr ist aus. Zwischen den Schritten handeln die Helden normal.
+
+**Runde 1 – Der erste Kultist.** Der Kultist, den die Helden entdeckt
+haben (oder der ihnen am nächsten steht), hört auf zu murmeln.
+
+> Das Murmeln bricht ab. Mitten im Satz. Der Mann unter der Kapuze
+> hebt den Kopf, und zum ersten Mal seht ihr sein Gesicht: ein ganz
+> normaler Mann, ein Bauer vielleicht, Tränen auf den Wangen. Er
+> lächelt euch an. Dann zieht er die silberne Sichel und stößt sie
+> sich selbst in die Brust. Er fällt nicht. Er bleibt stehen, während
+> sein Blut nicht zu Boden tropft, sondern in einem dünnen schwarzen
+> Faden über die Dielen kriecht. Nach vorne. Zur Bühne.
+
+**Runde 2 – Das Kind.** Der Kultist, der den Helden **am weitesten
+weg** ist, steht plötzlich **mitten auf der Tanzfläche**. Er hält Mira
+(oder ein anderes Kind) vor sich, die Sichel in der Hand.
+
+> Jemand schreit. Mitten auf der Tanzfläche, zwischen den Paaren, steht
+> ein zweiter Mann mit Kapuze. Vor ihm ein kleines Mädchen mit einem
+> Holzpferd im Arm. Sie versteht nicht, was los ist. Sie dreht sich zu
+> ihm um und will etwas sagen. Ihr seht die Sichel. Ihr seht nicht
+> mehr, was danach kommt – nur die Tänzer, die zurückweichen, und das
+> Holzpferd, das über die Dielen rollt. Dann ist es still. So still,
+> dass ihr das Blut hören könnt, wie es über den Boden nach vorne
+> kriecht.
+
+**Panik und Erstarrung.** Jetzt wollen alle schreien und rennen – und
+keiner kann. Das Siegel will Zeugen: **Alle Gäste erstarren** vor
+Entsetzen, wie versteinert, bis das Tor offen ist. Jeder Held macht
+einen **WEI-Rettungswurf DC 13**: Misserfolg = erstarrt bis zum Ende
+seines nächsten Zuges (danach neuer Wurf). Gäste in einer **dunklen
+Ecke** (Kultist vorher ausgeschaltet) erstarren nicht – sie fliehen
+schon jetzt durch den nächsten Ausgang.
+
+**Runde 3 – Die letzten beiden.** Die zwei übrigen Kultisten töten sich
+gleichzeitig. Das Siegel erwacht:
+
+> An zwei Stellen im Saal sackt je eine Kapuzengestalt zusammen. Und
+> dann seht ihr es: Unter euren Füßen, unter den Füßen aller Gäste,
+> leuchten Linien im Holz auf. Dunkel leuchtend, wie Licht, das falsch
+> herum brennt. Sie verbinden die Toten miteinander, sie verbinden das
+> Mädchen auf der Tanzfläche mit allen anderen – und dann laufen sie
+> los, wie Risse in dünnem Eis. Alle nach vorne. Zur Bühne.
+
+**Runde 4 – Malrik.** Die Strahlen treffen den Kristall. Malrik steigt
+auf die Bühne und reckt den Kristall in die Höhe.
+
+> Der graue Pilger steht jetzt auf der Bühne, genau dort, wo eben noch
+> die Sieger geehrt wurden. In seiner erhobenen Hand pulsiert ein
+> schwarzer Kristall, und alle dunklen Strahlen enden darin. Er lacht.
+> Oder weint. Sein Körper bläht sich, seine Haut reißt wie altes
+> Pergament, und dann zerplatzt er. Ein Schwall Blut spritzt in die
+> erstarrte Menge – und bleibt in der Luft stehen. Tausend rote
+> Tropfen, eine Handbreit vor euren Gesichtern. Dann werden sie
+> zurückgerissen, alle auf einmal, in den Kristall, der jetzt allein
+> über der Bühne schwebt.
+
+**Runde 5 – Das Tor.** Der Kristall zerspringt, und über der Bühne
+öffnet sich das Tor. Die Erstarrung endet. Jetzt erst bricht die echte
+Panik aus.
+
+> Der Kristall zerspringt ohne einen Laut. Aus den Splittern wächst
+> ein Riss, senkrecht, drei Meter hoch, wie ein Spalt in einem Spiegel.
+> Durch ihn steigt eine Gestalt aus schwarzem, zersprungenem Glas. In
+> ihr spiegelt sich jeder im Saal – und alle Spiegelbilder lächeln.
+> Dann löst sich die Starre. Und 600 Menschen schreien gleichzeitig.
+
+**Wer kann in der Sequenz was tun?**
+
+- **Das Kind retten:** Wer in Runde 1 handelt, nicht erstarrt ist und
+  die Tanzfläche erreicht (Athletik oder Akrobatik DC 13 durchs
+  Gedränge, sonst nur halbe Bewegung), kann den Kultisten aufhalten
+  (Ringen, *Person festhalten*, umstoßen, töten). Dann **lebt das
+  Kind**. Das Ritual gelingt trotzdem: Ist der Kultist noch bei
+  Bewusstsein, stößt er sich stattdessen selbst die Sichel in die
+  Brust. Im 1. Durchlauf schafft das kaum jemand – im 2. Durchlauf
+  weiß die Erinnernde, wo das Kind sein wird (→ Kapitel 3).
+- **Die letzten beiden Kultisten aufhalten:** Wer sie in Runde 1–2
+  noch erreicht und sie bewusstlos schlägt oder knebelt, macht ihre
+  Ecke dunkel (wie oben). Töten zählt als Opfer.
+- **Malrik in Runde 4 angreifen:** Zwecklos. Er explodiert am Ende
+  der Runde ohnehin. Wer direkt neben ihm steht, bekommt den Blutregen
+  ins Gesicht (keinen Schaden, aber WEI DC 13 oder 1 Runde verängstigt).
+- **Gäste raustreiben:** Erstarrte Gäste bewegen sich nicht, auch nicht
+  mit Gewalt. Nur Gäste aus dunklen Ecken fliehen schon jetzt.
+
+---
 
 ## Vorgazhul, der Spiegelherr erscheint
 
@@ -64,7 +254,8 @@ gelingt, dürfen sie beeinflussen:
 
 **Er greift nicht an.** Frisch beschworen ist Vorgazhul noch nicht ganz
 in der Welt angekommen. Er kann niemandem etwas tun – er braucht die
-10 Aufladungen. Also wartet er, redet, lächelt und lockt. Alles
+10 Aufladungen. Also schwebt er langsam von der Bühne herab, mitten
+zwischen die Gäste, wartet, redet, lächelt und lockt. Alles
 Schreckliche, was jetzt passiert, passiert, **weil jemand ihn
 angreift**.
 
@@ -78,8 +269,9 @@ angreift**.
 2. **Jede Beleidigung** → sofort **10W10 psychischer Schaden** auf den
    Beleidiger (WEI-Rettungswurf DC 18 halbiert). Keine Aufladung.
 3. **Hunger:** Jede volle Stunde ohne Aufladung → **+1 Aufladung** von
-   selbst. **Opfergang:** Alle 10 Minuten opfert sich ein Kultist vor
-   ihm → **+1 Aufladung**.
+   selbst. **Überlebende Kultisten:** Ein Kultist, den die Helden vor
+   dem Ritual ausgeschaltet haben, der aber wieder frei kommt, kriecht
+   zu Vorgazhul und opfert sich → **+1 Aufladung**.
 4. **Bei 10 Aufladungen** → **„Weltenspiegel"**: Alles im Umkreis von
    **1 km stirbt**, Vorgazhul ist **angekommen**. (Beim ersten
    Durchlauf mit Helden im Umkreis führt das zu Kapitel 3 – dem
@@ -89,9 +281,10 @@ angreift**.
 und drehe pro Treffer eine um. Die Spieler müssen die tickende Uhr
 SEHEN, sonst funktioniert die Drohung nicht.
 
-**Zeitgefühl:** Greift niemand an und sind die Kultisten ausgeschaltet,
-hat die Stadt bis zu **10 Stunden**. Mit Kultisten (4 Opfergänge in
-40 Minuten) noch etwa 6. Jeder Treffer kostet eine Stunde.
+**Zeitgefühl:** Greift niemand an, hat die Stadt bis zu **10 Stunden**
+(nur der Hunger). Jeder Treffer kostet eine Stunde. Ausgeschaltete
+Kultisten gut bewachen, sonst kostet jeder, der frei kommt, eine
+weitere Stunde.
 
 ---
 
@@ -99,9 +292,14 @@ hat die Stadt bis zu **10 Stunden**. Mit Kultisten (4 Opfergänge in
 
 ### Die Festhalle (600 Gäste = 12 Gruppen à 50)
 
+- Bis das Tor offen ist, sind alle Gäste erstarrt (Schritt 4). Nur
+  Gäste aus **dunklen Ecken** fliehen schon während der Sequenz
+  (1 Gruppe pro dunkler Ecke).
 - Pro Runde versiegelt Vorgazhul **einen Ausgang** (Reihenfolge:
   Portal → Dienstbotentür → Westfenster → Kellerausgang,
-  → `Stadt/Sommerhall/Orte/Festhalle.md`).
+  → `Stadt/Sommerhall/Orte/Festhalle.md`). **Ausgänge in einer
+  dunklen Ecke kann er nicht versiegeln** – sie bleiben offen, er
+  überspringt sie.
 - **Ausgang mit Held, der die Menge lenkt** (Aktion; Überzeugen,
   Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
   Misserfolg = 1 Gruppe. Baldric oder Alma zählen wie ein Held
@@ -148,22 +346,18 @@ wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.
 
 **⭐ Der optimale Weg**
 
-### Szenario A · ⭐ Optimal: Der Dämon erscheint mitten auf der Party
+### Szenario A · ⭐ Optimal: Sie entdecken einen Kultisten, der Timer läuft ab, das Tor öffnet sich
 
-So ist es gedacht: Die Helden feiern, und das Ritual findet auf dem
-Höhepunkt des Fests (Siegerehrung der Festspiele, → Kapitel 1,
-Übergang) **offen mitten auf der Party** statt. Die Helden sehen es
-zwar beginnen, aber in den 3 Runden zwischen 600 Gästen kommen sie
-nicht rechtzeitig durch. Vorgazhul wird **direkt auf die Party**
-beschworen – zwischen Langtafeln, Musikanten und Gästen. Hier, wo alle
-dicht gedrängt stehen, gibt es das größte Gemetzel, wenn es eskaliert.
-
-> Die Musik bricht mitten im Takt ab. Die Lichterketten flackern
-> violett. Auf der Tanzfläche, genau dort, wo eben noch Baldric die
-> Sieger aufgerufen hat, springt der Holzboden wie dünnes Eis. Aus dem
-> Riss steigt eine Gestalt aus schwarzem, zersprungenem Glas, drei
-> Meter hoch. In ihr spiegelt sich jeder im Saal – und alle
-> Spiegelbilder lächeln. Niemand schreit. Noch nicht.
+So ist es gedacht: Die Helden feiern, und irgendwann steht einer von
+ihnen zufällig neben einem murmelnden Kapuzenmann. Der Timer startet.
+Die Spieler rätseln, würfeln, sprechen ihn an, suchen vielleicht die
+anderen – und jede Probe frisst 30 Sekunden. Sie verstehen nicht
+rechtzeitig, was hier passiert. Bei 0:00 läuft die Opfer-Sequenz
+komplett durch (Schritt 4): der Kultist vor ihren Augen, das Kind auf
+der Tanzfläche, die Erstarrung, die letzten beiden, die Strahlen,
+Malriks Explosion, das Tor über der Bühne. Vorgazhul steht **mitten
+auf der Party**, zwischen 600 Gästen. Wenn es jetzt eskaliert, gibt es
+hier das größte Gemetzel.
 
 Ab hier entscheiden die Spieler: Fast alle Gruppen greifen an
 (→ Szenario B), und genau so ist die Story im ersten Durchlauf
@@ -196,14 +390,15 @@ Flucht!) oder „Ich tue euch nichts. Ich muss euch nichts tun."
 gehen." Wahr – er hält sie ja gar nicht fest. Aber der Schlag ist eine
 Aufladung. Wer drauf eingeht, lernt es auf die harte Tour.
 
-### Szenario D · ➖ Leichte Abweichung: Sie stürmen sofort auf die Tanzfläche zu Malrik
+### Szenario D · ➖ Leichte Abweichung: Sie stürmen während des Timers zu Malrik an die Bühne
 
-Möglich, wenn sie schnell sind und sich durch die Menge kämpfen
-(Athletik oder Akrobatik DC 13, sonst 1 Runde im Gedränge), oder wenn
-sie in Kapitel 1 aufgepasst haben.
-→ „Ritual unterbrochen?" oben: Es gelingt trotzdem. Aber ihr Tempo
-wird belohnt: Malrik tot = keine Kultisten = kein Opfergang = mehr
-Zeit für die Evakuierung.
+Möglich, wenn sie Malrik entdeckt haben und sich durch die Menge
+kämpfen (Athletik oder Akrobatik DC 13, sonst kommen sie nur halb so
+weit; jeder Wurf kostet 30 Sekunden). → „Eingreifen, bevor der Timer
+abläuft": Malrik weicht per *Aschengestalt* aus, der Kristall ist mit
+seiner Hand verwachsen. Fällt er, startet die Sequenz sofort, aber
+ohne Explosion und mit kürzerer Erstarrung. Ein harter Tausch: weniger
+Zeit, dafür kommen die Gäste eine Runde früher in Bewegung.
 
 ### Szenario E · ➖ Leichte Abweichung: Jemand wirft NPCs/Objekte auf ihn, kreative Tricks
 
@@ -221,30 +416,40 @@ vom Angreifen abhalten: Überzeugen/Einschüchtern DC 13 pro Gruppe von
 Angreifern, oder sie festhalten (Ringen). Ein schöner Moment für
 Gruppen, die verstanden haben, worum es geht.
 
-### Szenario G · ➖ Leichte Abweichung: Sie jagen die Kultisten, nachdem er erschienen ist
+### Szenario G · ➖ Leichte Abweichung: Sie schalten Kultisten aus, bevor der Timer abläuft
 
-Klug! Jeder gefangene, bewusstlose oder getötete Kultist ist ein
-Opfergang weniger – also bis zu 40 Minuten mehr Zeit. Kultisten im
-Kampf mit den Helden sind normale Gegner (sie zu verletzen lädt
-Vorgazhul nicht auf). Ein gefangener Kultist plaudert unter Druck
-(Einschüchtern DC 14): „Die Vier Reliquien liegen dort, wo die
-Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
+Klug! Jeder Kultist, der **bewusstlos oder geknebelt** ist, lässt
+seine Ecke des Siegels dunkel: Der Ausgang dort bleibt offen, die Gäste
+dort erstarren nicht und fliehen schon während der Sequenz. Wer einen
+Kultisten **tötet**, füttert dagegen das Ritual (zählt als Opfer, −1
+Minute). Ausgeschaltete Kultisten müssen bewacht werden (Regel 3:
+Wer frei kommt, opfert sich später). Ein gefangener Kultist plaudert
+unter Druck (Einschüchtern DC 14): „Die Vier Reliquien liegen dort, wo
+die Stille schläft. Niemand wird sie je holen." (Früher Hinweis auf
 Salzmund und die Grotte.)
 
-### Szenario H · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
+### Szenario H · ➖ Leichte Abweichung: Sie retten das Kind
+
+Ein Held erreicht in Runde 2 die Tanzfläche und hält den Kultisten
+auf (→ Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
+trotzdem, aber dieser eine Moment wird den Spielern ewig bleiben.
+Belohne ihn: Miras Mutter ist die Frau, die später eine ganze Gruppe
+Gäste zum Kellerausgang führt (zählt wie Baldric, +4), oder Mira
+selbst taucht im Finale im Lager vor der Kuppel wieder auf.
+
+### Szenario I · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
 
 Vorgazhul tut ebenfalls nichts – und genau das ist unheimlich. Die Uhr
-tickt trotzdem: Die Kultisten treten einer nach dem anderen vor und
-opfern sich (Opfergang), der Hunger dreht stündlich einen Marker um.
-Und dann der emotionale Anker: **Baldric** (oder Schmied Grom) greift
-den Dämon heldenhaft mit einem Stuhlbein an, um die Gäste zu
-beschützen → Reflexion, Baldric stirbt an seinem eigenen Schlag,
-W10-Tabelle. Irgendwann schwebt Vorgazhul zu den Helden („Verstecken?
-Vor einem Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
+tickt trotzdem: Der Hunger dreht stündlich einen Marker um. Und dann
+der emotionale Anker: **Baldric** (oder Schmied Grom) greift den Dämon
+heldenhaft mit einem Stuhlbein an, um die Gäste zu beschützen →
+Reflexion, Baldric stirbt an seinem eigenen Schlag, W10-Tabelle.
+Irgendwann schwebt Vorgazhul zu den Helden („Verstecken? Vor einem
+Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
 **🔀 Ganz andere Verläufe**
 
-### Szenario I · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
+### Szenario J · 🔀 Ganz anders: Sie fliehen sofort (klug, aber ohne Traum)
 
 **Flucht funktioniert** – aber mach es dramatisch: Pro Runde wird ein
 Ausgang zu Glas. Fluchtwege: Fenster, Kellerausgang, Dienstbotentür
@@ -255,13 +460,13 @@ Wichtig: Raus aus der Halle reicht nicht – **raus aus der Stadt**
 **Beim ersten Durchlauf** fliehen Gruppen selten komplett – stirbt der
 Rest, wachen ALLE gemeinsam auf (Kapitel 3), auch die Geflohenen.
 
-### Szenario J · 🔀 Ganz anders: Sie retten einige und fliehen
+### Szenario K · 🔀 Ganz anders: Sie retten einige und fliehen
 
 Der realistische „gute" Ausgang des ersten Durchlaufs. Zähle die
 Geretteten (Evakuierung) – sie sind in Akt 7 im Lager. Weiter mit
 Kapitel 4.
 
-### Szenario K · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
+### Szenario L · 🔀 Ganz anders: Sie evakuieren, während er schon da ist
 
 Machbar, weil er nicht angreift – aber schwer, weil die Gruppe ihn
 wahrscheinlich *doch* angreift, die Ultra-Schlimm-Ereignisse Panik
@@ -271,12 +476,13 @@ kommen raus. Begreifen sie es mitten drin („Hört auf zu schlagen,
 bringt die Leute raus!"), ist das der Moment, in dem die Kampagne
 klickt.
 
-### Szenario L · 🔀 Ganz anders: Sie evakuieren alle, sofort (unwahrscheinlich, aber genial)
+### Szenario M · 🔀 Ganz anders: Sie evakuieren schon während des Timers (unwahrscheinlich, aber genial)
 
-Wenn die Gruppe beim ersten violetten Rauch „Alle raus!" brüllt und es
-durchzieht: Alle 600 Gäste gerettet (→ Evakuierung). Dann stehen die
-Helden allein mit dem Dämon. Jetzt müssen sie noch begreifen, dass
-auch sie fliehen müssen:
+Wenn die Gruppe beim ersten murmelnden Kapuzenmann „Alle raus!" brüllt
+und es durchzieht (→ Timer-Tabelle, „Alle raus!" rufen; mit Baldric
+DC 10): Jede gelungene Probe bringt 50 Gäste raus, bevor es losgeht.
+Dann stehen die Helden am Ende allein (oder fast allein) mit dem
+Dämon. Jetzt müssen sie noch begreifen, dass auch sie fliehen müssen:
 - Fliehen sie mit (raus aus der Stadt) → kein TPK, kein Traum, direkt
   Kapitel 4. Bestes mögliches Ergebnis im 1. Durchlauf.
 - Greifen sie an und sterben → Kapitel 3. (Im Traum sind dann ohnehin
@@ -289,6 +495,10 @@ auch sie fliehen müssen:
 
 | Idee | Was passiert |
 |---|---|
+| *Stille* auf einen Kultisten (vor 0:00) | Funktioniert: Seine Stimme fehlt, seine Ecke bleibt dunkel (wie geknebelt). Kostet 30 Sekunden. |
+| Den Kristall aus Malriks Hand reißen | Geht nicht: Er ist mit der Hand verwachsen. Hand abschlagen = Malrik fällt (→ Szenario D). |
+| Einem Kultisten die Sichel wegnehmen | Er stirbt bei 0:00 trotzdem: Er beißt sich die Zunge durch, oder sein Herz bleibt einfach stehen. Die Sichel ist nur Show. |
+| Die Formel stören, laut dagegen singen (Auftreten) | Lustig, aber zu schwach. Die Kultisten hören nur sich selbst. Kostet 30 Sekunden. |
 | *Verbannung* / *Magie bannen* auf ihn | Gespiegelt: Der Wirker wird 1 Minute in eine Spiegelwelt verbannt, +1 Aufladung, W10 |
 | Ihn heilen, segnen, *Schutz vor Gut und Böse* auf Verbündete | Nichts Feindliches → nichts passiert. Er bedankt sich höflich. |
 | Ihn einmauern, Türen verbarrikadieren | Kein Angriff → keine Aufladung, aber nutzlos: Er gleitet durch jede Glasfläche. |

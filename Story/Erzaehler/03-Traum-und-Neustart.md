@@ -85,6 +85,10 @@ Idealfall. Die Gruppe plant: Fest meiden? Malrik abfangen? Evakuieren?
 Lass sie planen – aber denk an die Regel aus Kapitel 2: **Das Ritual
 gelingt immer.** Ihr Vorwissen macht die Flucht leicht und rettet
 NPC-Leben (das zählt emotional!), verhindert aber Vorgazhul nicht.
+Die Erinnernde weiß, **wo die 4 Kapuzen-Kultisten stehen** (keine
+Wahrnehmungsprobe nötig) und **wo Mira auf der Tanzfläche sein wird**.
+Jetzt können sie Kultisten vor Ablauf des Timers zum Schweigen bringen
+und das Kind retten (→ Kapitel 2, Szenario G und H).
 Weiter zu Kapitel 4, sobald sie fliehen.
 
 ### Szenario C · ➖ Leichte Abweichung: Niemand glaubt der Erinnernden
@@ -112,8 +116,9 @@ Wachen an allen Eingängen? Die Kultisten suchen sich einfach einen
 anderen Ort über dem Leylinien-Knoten: den Hof, den Marktplatz, eine
 Scheune nebenan, notfalls unter freiem Himmel in der Nacht. Das
 Ritual findet statt. Was die Helden damit gewinnen: Sie können
-Kultisten abfangen (jeder gefangene Kultist = ein Opfergang weniger,
-also mehr Zeit für die Evakuierung, → Kapitel 2, Regel 3).
+Kultisten abfangen (jeder gefangene, nicht getötete Kultist = eine
+dunkle Ecke im Siegel: Dort bleibt ein Ausgang offen und die Gäste
+erstarren nicht, → Kapitel 2, „Eingreifen, bevor der Timer abläuft").
 
 ### Szenario F · ➖ Leichte Abweichung: Sie jagen Malrik am Morgen
 
@@ -133,8 +138,8 @@ nicht verhindern, nur besiegen – mit der richtigen Ausrüstung.**
 
 ### Szenario G · 🔀 Ganz anders: Sie versuchen, Malrik zu bekehren
 
-Mit dem Wissen aus dem Traum (die Erinnernde hat ihn knien sehen und
-weiß, was er beschwört) kann man ihn am Morgen erschüttern:
+Mit dem Wissen aus dem Traum (die Erinnernde hat ihn auf der Bühne
+zerplatzen sehen und weiß, was er beschwört) kann man ihn am Morgen erschüttern:
 Überzeugen DC 18 (DC 15 mit gutem Rollenspiel über seine
 Vergangenheit als Priester). Gelingt es: Er bricht zusammen – aber das
 Ritual kann er **nicht mehr aufhalten**; das alte Siegel ist durch

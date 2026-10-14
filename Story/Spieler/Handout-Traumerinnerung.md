@@ -12,9 +12,19 @@ Brot. Es ist der Morgen vor dem Fest.
 **Aber du erinnerst dich. An alles.**
 
 - An das Fest, die Spiele, das Lachen.
-- An den grauen Pilger, der mitten in der Siegerehrung auf die
-  Tanzfläche trat, an die vier Gäste mit Silbermasken, und an den Riss
-  aus Licht über dem Kreis aus Asche und Silber.
+- An die Männer mit den grauen Kapuzen, verteilt im ganzen Saal, die
+  immer dieselben Silben murmelten. Niemand außer euch hat sie gesehen.
+- Daran, wie sie sich selbst die silbernen Sicheln in die Brust
+  stießen. An das kleine Mädchen mit dem Holzpferd auf der Tanzfläche.
+  An das Holzpferd, das über den Boden rollte.
+- Daran, dass niemand weglief. Alle standen da wie aus Stein.
+- An die dunklen Linien im Boden, die alle zur Bühne liefen. An den
+  grauen Pilger dort oben mit dem schwarzen Kristall. Wie er
+  zerplatzte, und wie sein Blut in der Luft stehen blieb und in den
+  Kristall zurückfloss. Und an das Tor, das sich danach öffnete.
+- Du weißt noch, wo die Kapuzenmänner standen: an den Westfenstern,
+  am Ausschank bei der Kellertreppe, hinten beim großen Portal und
+  oben bei den Musikanten.
 - An das Ding, das hindurchstieg. Es nannte sich **der Spiegel eurer
   Taten**. Jeder Hieb gegen ihn traf den, der ihn führte. Jeder
   Treffer ließ etwas Furchtbares geschehen. Und mit jedem Treffer
