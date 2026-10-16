@@ -12,6 +12,30 @@ Gasthaus „Zur Sichel" auf (→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`)
 Beschreibe diesen Morgen liebevoll und merke dir deine Worte: Genau
 dieser Morgen kehrt in Kapitel 3 zurück.
 
+## Karte: Sommerhall von oben
+
+![Karte von Sommerhall](Karten/Karte-Sommerhall.svg)
+
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (zum Ausdrucken oder
+Herzeigen am Tisch: `Karte-Sommerhall.png` im selben Ordner).
+
+**Legende:**
+1. **Stadttor** im Norden, Straße nach Hirsefurt: Hier empfängt Baldric die Helden am Abend vor dem Fest.
+2. **Lindenallee**: die Prachtstraße vom Tor zum Markt, tagsüber spielen hier die Musikanten.
+3. **Marktplatz** mit Erntealtar (Norden) und Brunnen der Drei Mühlen (Mitte): tagsüber Buden, Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
+4. **Große Festhalle** (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen zum Markt, Dienstbotentür hinter der Bühne in die Gasse. Der gestrichelte Ring drumherum ist die Strecke des Fassrollen-Rennens (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
+5. **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+6. **Gasthaus „Zur Sichel"** am Markt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
+7. **Die drei Mühlen** am Flüsschen im Mühlenviertel.
+8. **Wald hinter den Mühlen**, westlich vor der Stadt: 2–3 Stunden hinein liegt das Räuberlager (→ Szenario E).
+
+**Violett gestrichelt:** der Leylinien-Knoten, tief unter Festhalle und
+halbem Marktplatz. Niemand in Sommerhall weiß davon; er ist nur für dich.
+
+Die sechs Viertel (Lindenallee, Marktviertel, Mühlenviertel, Gerbergasse,
+Unterstadt, Höfe am Stadtrand) stehen kursiv auf der Karte; sie zählen
+bei der Evakuierung der Stadt (→ `Story/Erzaehler/02b-Evakuierung.md`).
+
 ## Stimmung & Ablauf
 
 Das Fest hat zwei Hälften:
