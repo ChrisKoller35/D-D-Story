@@ -14,10 +14,23 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 
 ## Karte: Sommerhall von oben
 
-![Karte von Sommerhall](Karten/Karte-Sommerhall.svg)
+**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
 
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (zum Ausdrucken oder
-Herzeigen am Tisch: `Karte-Sommerhall.png` im selben Ordner).
+![Bildkarte von Sommerhall](Karten/Karte-Sommerhall-KI.png)
+
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Stadttor im Norden,
+Marktplatz mit Brunnen in der Mitte, Festhalle östlich davon, Mühlen am
+Flüsschen im Westen, dahinter der Wald. Der violette Ring ist der
+Leylinien-Knoten; den Spielern musst du ihn nicht erklären (oder du zeigst
+ihnen nur den Lageplan). Die Bildkarte hat absichtlich keine Nummern; die
+Nummern der Legende beziehen sich auf den Lageplan darunter.
+
+**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
+
+![Lageplan von Sommerhall](Karten/Karte-Sommerhall.svg)
+
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
+`Karte-Sommerhall.png` im selben Ordner).
 
 **Legende:**
 1. **Stadttor** im Norden, Straße nach Hirsefurt: Hier empfängt Baldric die Helden am Abend vor dem Fest.
