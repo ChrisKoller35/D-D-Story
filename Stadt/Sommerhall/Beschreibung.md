@@ -28,6 +28,8 @@ Menschen beisammen sind.
 
 ## Orte
 
+→ Karte der Stadt von oben: `Story/Erzaehler/Karten/Karte-Sommerhall.svg`
+(mit Legende in Kapitel 1, `Story/Erzaehler/01-Das-Fest.md`)
 → `Orte/Festhalle.md` – Zentrum von Fest, Ritual und Finale
 → `Orte/Marktplatz.md`
 → `Orte/Gasthaus-Zur-Sichel.md`
