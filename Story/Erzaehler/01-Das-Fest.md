@@ -18,12 +18,14 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 
 ![Bildkarte von Sommerhall](Karten/Karte-Sommerhall-KI.png)
 
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Stadttor im Norden,
-Marktplatz mit Brunnen in der Mitte, Festhalle östlich davon, Mühlen am
-Flüsschen im Westen, dahinter der Wald. Der violette Ring ist der
-Leylinien-Knoten; den Spielern musst du ihn nicht erklären (oder du zeigst
-ihnen nur den Lageplan). Die Bildkarte hat absichtlich keine Nummern; die
-Nummern der Legende beziehen sich auf den Lageplan darunter.
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Die Bildkarte zeigt
+die ganze Stadt: Haupttor im Norden, die Lindenallee bis zum großen
+Marktplatz mit Brunnen und Buden, östlich davon die riesige Festhalle mit
+der Rennstrecke, im Süden ein zweiter großer Platz als Spielfeld für die
+Festspiele, Marktgassen voller Stände, Mühlen am Fluss im Westen und
+dahinter der Wald. Die Bildkarte hat absichtlich keine Nummern; die
+Nummern der Legende beziehen sich auf den Lageplan darunter, der die
+Stadt nur grob vereinfacht zeigt.
 
 **Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
 
