@@ -22,6 +22,3 @@ goldene Ähre, darunter ein tanzendes Paar.*
 > Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
 >
 > Gezeichnet: **Festmeister Baldric Immergrün**
-
-*Auf der Rückseite eines der Flyer, in Kinderschrift hingekritzelt:
-„Bitte bringt eure Schwerter trotzdem mit. Nur falls. – T."*

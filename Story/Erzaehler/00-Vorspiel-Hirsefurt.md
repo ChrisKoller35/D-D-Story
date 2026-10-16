@@ -5,12 +5,27 @@ Fest (→ danach Kapitel 1).
 
 ## Ausgangslage
 
-Die Helden hatten einen Monat Pause und sind **vollständig erholt**:
-volle HP, alle Zauberslots, Zustände geheilt, plus **1 Inspiration**
-pro Spieler als „Erholungsbonus". Sie sind wieder unterwegs, ohne
-festes Ziel, und haben vom Fest in **Sommerhall** noch nichts gehört.
-Davon erfahren sie erst hier, in einem kleinen Dorf am Wegrand
-(Handout: `Story/Spieler/Handout-Fest-Einladung.md`).
+**Vorgeschichte:** Vor einem Monat stand die Gruppe in der **Schlacht
+am Rabenpass**, hoch im Norden: Drei Tage lang hielten die Freien
+Städte des Nordens den Pass gegen die Eishorde der **Grauen Khane**,
+und am Ende hielten sie ihn. Die Helden waren mittendrin. Was genau
+sie dort getan haben, dürfen die Spieler selbst erzählen (wer hat
+wen gerettet, wer hat welche Narbe daher); du musst nur wissen: Es
+war groß, es war blutig, und danach wollten sie **weit weg**.
+
+Ihr Plan: Nach Süden, über das Meer, auf den Kontinent **Seranth**,
+von dem die Händler erzählen (Gewürzstädte, Sonne, Ruinen, die noch
+niemand ausgegraben hat). Sie sind also **auf der Durchreise**. Seit
+einem Monat ziehen sie gemütlich von Dorf zu Dorf und von Stadt zu
+Stadt, ohne Eile, schlafen in echten Betten, essen sich satt und
+genießen die schönen Länder, durch die sie kommen. Die Küste mit den
+Häfen nach Seranth liegt noch gut zwei Wochen südlich.
+
+Dieser Monat war ihre Pause. Sie sind **vollständig erholt**: volle
+HP, alle Zauberslots, Zustände geheilt, plus **1 Inspiration** pro
+Spieler als „Erholungsbonus". Vom Fest in **Sommerhall** haben sie
+noch nichts gehört; davon erfahren sie erst hier, in einem kleinen
+Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`).
 
 **Ziel der Szene:** Die Spieler sollen das Gefühl haben, **selbst
 entschieden** zu haben, zum Fest zu gehen. Keine Einladung, kein
@@ -26,7 +41,11 @@ der **Tag vor dem Fest**, früher Nachmittag.
 
 **Vorlesetext – Ankunft:**
 
-> Die Straße wird staubig, die Sonne steht hoch, und eure Beine
+> Ein Monat ist es her, seit der Rabenpass hinter euch lag, und mit
+> jedem Tag nach Süden wurde das Land weicher: Wiesen statt Geröll,
+> Obstbäume statt Schnee, Dörfer, in denen niemand eure Namen kennt
+> und niemand etwas von euch will. Genau so wolltet ihr es. Die
+> Straße wird staubig, die Sonne steht hoch, und eure Beine
 > erinnern sich daran, dass ein Monat Ruhe die Muskeln weich macht.
 > Hinter einem Hügel taucht ein Dorf auf: ein Dutzend Häuser, eine
 > Linde, ein Brunnen, und eine Bank davor, die aussieht, als hätte
@@ -52,13 +71,16 @@ unterhalten. Die Mostfrau heißt **Oma Wenke** und erzählt gern, dass
 Der Junge ist **Tamo**, Neffe von Festmeister Baldric
 (→ `NPC/Festmeister-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
-Helden einen Flyer in die Hand (→ **Handout**) und kritzelt, wenn die
-Helden nicht hinsehen, etwas auf die Rückseite eines Exemplars.
+Helden einen Flyer in die Hand (→ **Handout**).
 
 **Was Tamo erzählt (je nachdem, was die Spieler fragen):**
 - „Mein Onkel ist der Festmeister! Wenn ihr kommt, sag ich ihm, dass
   ich echte Helden gefunden hab. Dann kriegt ihr bestimmt umsonst
   Bier."
+- Fragt er, woher sie kommen, und hört „Rabenpass": große Augen.
+  „Vom Rabenpass? Von der Schlacht? Mein Onkel hat davon erzählt!
+  Dann MÜSST ihr kommen, Fremde, die Abenteuer erlebt haben, sollen
+  sie am Feuer erzählen, steht sogar auf dem Zettel!"
 - „Bei den Festspielen gibt's richtige Preise. Letztes Jahr hat einer
   einen Dolch gewonnen, der im Dunkeln leuchtet!"
 - „Im Gasthaus ‚Zur Sichel' gibt's die weichsten Betten der Welt.
@@ -71,19 +93,14 @@ Helden nicht hinsehen, etwas auf die Rückseite eines Exemplars.
   (Aufhänger für Kapitel 1, Szenario E: Die Helden können das Fest
   sausen lassen und die Räuber suchen.)
 
-**Die Rückseite:** Auf einem der Flyer steht in Kinderschrift: „Bitte
-bringt eure Schwerter trotzdem mit. Nur falls. – T." Tamo wird rot,
-wenn man ihn darauf anspricht, und sagt nur: „Man weiß ja nie. Wegen
-den Räubern."
-
 **Gute Gründe, die du beiläufig einstreuen kannst (nicht alle auf
 einmal):**
-- Am Horizont ziehen Wolken auf, Oma Wenke meint: „Heut Nacht
-  regnet's. In Sommerhall habt ihr wenigstens ein Dach."
 - Die Festspiele versprechen Preise (→ `Story/Spieler/Festspiele.md`,
   `Belohnungen/Uebersicht.md`, „Festpreise").
-- Es ist ohnehin die Straße, auf der sie unterwegs sind: Die einzige
-  Brücke über den Fluss Richtung Süden liegt in Sommerhall.
+- Sie haben es nicht eilig. Seranth läuft nicht weg, und genau solche
+  Feste sind der Grund, warum sie langsam reisen.
+- Oma Wenke: „Das Dunkelbier in Sommerhall, Kinder. Dafür lohnt sich
+  der Umweg, und es ist nicht mal einer."
 
 **Übergang nach Sommerhall:** Gehen die Helden los, kommen sie am
 **Abend vor dem Fest** an. Tamo reitet voraus und hat schon alles
@@ -127,14 +144,16 @@ und Bier). Am Festtag selbst können sie dann losziehen
 
 Die Spieler haben die Wahl, also dürfen sie auch Nein sagen. Zwing
 sie nicht, sondern lass die Welt ziehen:
-- **Das Wetter:** Der Regen kommt wirklich, kalt und stundenlang. Das
-  nächste Dach mit freien Betten ist Sommerhall (in Hirsefurt ist
-  alles voll mit Verwandtschaft, die morgen zum Fest will).
+- **Das Wetter:** Gegen Abend zieht ein Gewitter auf, kalt und
+  stundenlang. Das nächste Dach mit freien Betten ist Sommerhall (in
+  Hirsefurt ist alles voll mit Verwandtschaft, die morgen zum Fest
+  will).
 - **Tamo:** Sein Esel lahmt auf halbem Weg, der Junge sitzt allein
   am Straßenrand mit zwei Taschen Flyer. Wer ihn nach Hause bringt,
   steht vor Baldric, und der lässt keine Helden einfach wieder gehen.
-- **Der Weg:** Wollen sie weiter nach Süden, führt die einzige Brücke
-  über den Fluss durch Sommerhall.
+- **Der Weg:** Sommerhall liegt ohnehin an ihrer Route nach Süden;
+  wer die Stadt umgehen will, braucht einen Tag länger durch die
+  Mühlenwälder, in denen die Räuber sitzen.
 
 Bleiben sie trotz allem stur, verlege den Start: Sie hören am
 Festabend aus der Ferne die Musik, dann einen Schrei, der nicht

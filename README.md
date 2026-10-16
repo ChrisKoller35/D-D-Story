@@ -30,8 +30,8 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 
 ## Die Story in einem Satz
 
-Die Helden feiern nach einem Monat Pause auf einem großen Fest in
-Sommerhall, als ein Ritualist einen unbesiegbaren Dämon beschwört –
+Die Helden, auf der Durchreise nach Süden einen Monat nach der
+Schlacht am Rabenpass, feiern auf einem großen Fest in Sommerhall, als ein Ritualist einen unbesiegbaren Dämon beschwört –
 erst durch einen prophetischen Traum, einen Hinweis eines magischen
 Wesens und Ausrüstung aus der Hammerfeste im Grauhorn bei Salzmund
 können sie ihn besiegen.

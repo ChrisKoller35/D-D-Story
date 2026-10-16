@@ -8,9 +8,11 @@ Szenarien pro Abschnitt stehen in den Kapiteln unter `Story/Erzaehler/`.
 
 ## Vorspiel: Rast in Hirsefurt
 
-Die Helden hatten **einen Monat Pause** seit dem letzten Abenteuer und
-sind vollständig erholt (volle HP, alle Slots, ein Inspirationswürfel
-pro Spieler). Bei einer Rast im Dorf **Hirsefurt** drückt ihnen der
+Vor einem Monat kämpften die Helden in der **Schlacht am Rabenpass**
+im hohen Norden. Jetzt sind sie auf der Durchreise nach Süden, zum
+Kontinent **Seranth**, und ziehen seit einem Monat gemütlich von Dorf
+zu Dorf; sie sind vollständig erholt (volle HP, alle Slots, ein
+Inspirationswürfel pro Spieler). Bei einer Rast im Dorf **Hirsefurt** drückt ihnen der
 Junge **Tamo** einen Flyer fürs Fest in die Hand und erzählt nebenbei
 von kleinen Überfällen in letzter Zeit. Die Helden entscheiden selbst,
 zum Fest zu gehen.
