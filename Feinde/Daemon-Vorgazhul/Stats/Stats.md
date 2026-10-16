@@ -30,7 +30,7 @@ Leylinien-Knoten unter der Festhalle bzw. dort, wo das Ritual stattfand)
 gebunden; max. 150 m Entfernung.
 
 **Spiegelschild (Kernmechanik):** 10 Aufladungen, Reflexion, Hunger
-(+1 pro Stunde ohne Treffer), Opfergang überlebender Kultisten. Details →
+(+1 pro Stunde ohne Treffer). Details →
 `../Faehigkeiten/Faehigkeiten.md`, Teil 1. Bei 10 Aufladungen:
 **Weltenspiegel** → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`
 – danach ist er **angekommen**.

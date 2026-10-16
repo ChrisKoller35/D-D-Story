@@ -60,10 +60,16 @@ Nerida liest die Liste zweimal. Dann setzt sie sich langsam hin.
 
 **Wo sie lagen:** Im **Gewölbe der Vier**, tief unter dem
 Gezeitenturm. Das Gewölbe ist viel älter als die Stadt; das Archiv
-wurde einst nur gegründet, um es zu bewachen. Die Tür öffnet sich nur
-in der Nacht der tiefsten Ebbe des Jahres, wenn das Gezeitenorakel
-(7. Stock) den Riegel freigibt
-(→ `Stadt/Salzmund/Orte/Gezeitenarchiv.md`).
+wurde einst nur gegründet, um es zu bewachen. Es ist zugleich die
+**Grabstätte der Vier**: Vier Steinbetten, auf dreien liegen die
+Gebeine von Torvan, Ilwe und Maren in uralten Rüstungen, das vierte
+(Serenyas) ist leer – nur eine Mulde im Stein. An den Wänden vier
+leere Halterungen, in denen die Reliquien lagen, bis vor sechs Wochen.
+Die Tür öffnet sich nur in der Nacht der tiefsten Ebbe des Jahres, wenn
+das Gezeitenorakel (7. Stock) den Riegel freigibt
+(→ `Stadt/Salzmund/Orte/Gezeitenarchiv.md`). Nerida führt die Helden
+hinunter, wenn sie wollen: Die Vier bei ihren Waffen zu sehen, die
+nicht mehr da sind, ist der stärkste Moment des Kapitels.
 
 **Wie sie gestohlen wurden:** Ein stiller, zuverlässiger
 Archivgehilfe, **Bruder Edrik**, arbeitete über ein Jahr im Turm. In
@@ -77,19 +83,23 @@ Zeugen sahen **graue Kutten mit tiefen Kapuzen und Sicheln aus Silber**.
 > Waffen gegen den Spiegelherrn gestohlen, *bevor* Malrik das Ritual
 > wirkte. Lass die Spieler das selbst zusammensetzen.
 
-**Die Verfolgung:** Die Turmwache jagte das Boot die Küste entlang
-nach Süden. In der Bucht vor der **Grotte der Gezeiten** hatten sie
-die Diebe fast – die Wachen standen schon knietief im Wasser –, da
-sprangen die Diebe im letzten Moment an Land und hasteten die
-Pilgerstiege hinauf in den Grotteneingang. Die Wachen folgten nicht:
-Aus der Höhle kam ein Klicken wie von riesigen Scheren, und die
-Fischer meiden diese Bucht seit Jahrzehnten. Drei Tage bewachten sie
-den Eingang. Niemand kam heraus.
+**Die Verfolgung:** Die Diebe ruderten durch den Flutkanal aufs Meer
+hinaus und nach Süden. Die Turmwache merkte es noch in derselben Nacht,
+konnte aber kein Boot flott machen und jagte stattdessen **über Land**,
+die Küstenstraße entlang, mit Pferden und Fackeln. Bei Tagesanbruch
+sahen sie das Boot in der **Bucht unter dem Grauhorn** anlegen, dem
+grauen Bergrücken drei Meilen südlich der Stadt. Die Diebe wurden
+beim Anlanden bemerkt, ließen das Boot liegen und flohen zu Fuß den
+alten Zwergenpfad hinauf. Die Wachen waren nur Minuten hinter ihnen –
+und verloren sie am **Bergtor der Hammerfeste**, der verlassenen
+Zwergenfeste im Berg. Dort hinein folgten sie nicht: Aus dem Tor kam
+ein Grollen wie von einem Erdrutsch, und die Hirten meiden den Berg
+seit Jahrzehnten. Drei Tage bewachten sie das Tor. Niemand kam heraus.
 
 **Die verlorene Kompanie:** Danach schickte die Stadt
 einen Abenteurertrupp von **20 Mann** hinein, die „Kompanie der
 Salzklingen" unter **Hauptfrau Varis Dorn**. **Keiner kam zurück.**
-Seitdem wagt sich niemand mehr in die Grotte.
+Seitdem wagt sich niemand mehr in den Berg.
 
 ### Schritt 4: Die Quest
 
@@ -98,11 +108,23 @@ Seitdem wagt sich niemand mehr in die Grotte.
 > Vier zurück. Nur mit ihnen habt ihr die Kraft, gegen dieses Wesen
 > zu bestehen. Meine Schwester lebt in Sommerhall."
 
-→ Quest: `Quests/Quest-Die-versunkene-Grotte.md`
-Sie gibt den alten **Pilgerplan** der Grotte (Lage der drei
-Siegel-Räume), Küstenkarte und ihre Warnungen mit. Sie weiß
-nicht, was die Diebe und die Kompanie getötet hat – nur, dass Fischer
-die Bucht seit Jahrzehnten meiden (→ Boss Skarvax).
+→ Quest: `Quests/Quest-Die-Hammerfeste.md`
+Sie gibt den alten **Festungsplan** der Hammerfeste aus den
+Zwergen-Unterlagen des Archivs (Lage der drei Schlüsselräume und der
+Tresorkammer), eine Küstenkarte und ihre Warnungen mit. Sie weiß
+nicht, was die Diebe und die Kompanie getötet hat – nur, dass die
+Hirten den Berg seit Jahrzehnten meiden (→ Boss Gorrum).
+
+### Schritt 5: Spezialausrüstung (nur, wenn sie nachfragen)
+
+Fragen die Helden, ob es **besondere Ausrüstung** für den Berg gibt,
+bekommen sie zuerst Ausflüchte („Wir sind ein Archiv, kein Zeughaus").
+Wer **dranbleibt** – nochmal fragt, gut argumentiert, Überzeugen DC 13,
+Jannik und die Kompanie erwähnt – bekommt pro Quelle einen Gegenstand:
+Feuerfässchen von der Turmwache (gegen den Troll), die Runenlaterne
+und zwei Steinhaut-Tränke von Nerida, das Hakenseil von Grim. Alles
+dazu → `Belohnungen/Spezialausruestung/Uebersicht.md`. Wer nicht
+fragt, bekommt nichts – und schafft den Dungeon trotzdem, nur härter.
 
 ---
 
@@ -126,12 +148,13 @@ Quest (Schritt 4). Sauber → Kapitel 6.
 ### Szenario B · ➖ Leichte Abweichung: Sie fragen sich durch Hafen und Taverne
 
 Auch gut – längerer Weg, mehr Farbe: In der Taverne „Zur Salzigen
-Möwe" erzählt der alte Fischer **Grim** für einen Krug Bier von der
-Grotte („Da leuchtet es nachts grün, und mein Bruder kam ohne sein
-Boot zurück – und ohne seine Stimme"). Und: Sein Neffe **Jannik** war
-bei der Kompanie der Salzklingen. Alle Spuren zeigen aufs Archiv oder
-direkt zur Grotte. Gehen sie OHNE Neridas Infos zur Grotte, fehlen
-ihnen Pilgerplan und Warnungen (→ Szenario G).
+Möwe" erzählt der alte Fischer **Grim** für einen Krug Bier vom
+Grauhorn („Da grollt es nachts im Berg, und mein Bruder hat die Diebe
+anlanden sehen und ist bis zum Tor hinterher – und kam ohne seine
+Stimme zurück"). Und: Sein Neffe **Jannik** war bei der Kompanie der
+Salzklingen. Alle Spuren zeigen aufs Archiv oder direkt zum Berg.
+Gehen sie OHNE Neridas Infos zur Hammerfeste, fehlen ihnen
+Festungsplan und Warnungen (→ Szenario G).
 
 ### Szenario C · ➖ Leichte Abweichung: Ärger in der Stadt
 
@@ -145,16 +168,17 @@ Salzmund, bis sie es geradebiegen).
 
 ### Szenario D · ➖ Leichte Abweichung: Sie untersuchen den Diebstahl selbst
 
-Detektiv-Gruppen lieben das. Im **Gewölbe der Vier** (aufgebrochen,
-leer) finden sie: vier leere Halterungen, Kratzspuren am Flutkanal,
-und unter einem Regal eine **abgebrochene Silbersichel** – exakt wie
-die, mit denen sich die Kultisten in Sommerhall geopfert haben
-(Bestätigung des Aha-Moments). In
-Edriks Kammer: Sein Tagebuch endet mit „Der Meister in den
-Kornfeldern wird zufrieden sein. Die Vier gehen dorthin zurück, wo
-die Stille schläft." – Edrik wollte die Reliquien in Serenyas Grab
-verstecken, wo niemand sie je wieder herausholt. Bringt nichts
-Neues für die Quest, aber jede Menge Gänsehaut.
+Detektiv-Gruppen lieben das. Im **Gewölbe der Vier** (aufgebrochen)
+finden sie: die vier Steinbetten (Serenyas leer), vier leere
+Halterungen, Kratzspuren am Flutkanal, und unter einem Regal eine
+**abgebrochene Silbersichel** – exakt wie die, mit denen sich die
+Kultisten in Sommerhall geopfert haben (Bestätigung des Aha-Moments).
+In Edriks Kammer: Sein Tagebuch endet mit „Der Meister in den
+Kornfeldern wird zufrieden sein. Die Vier gehen in den Berg, wo kein
+Licht hinkommt." Daneben abgezeichnet: der Festungsplan der
+Hammerfeste mit der markierten Tresorkammer – Edrik wollte die
+Reliquien dort einschließen, wo niemand sie je wieder herausholt.
+Bringt nichts Neues für die Quest, aber jede Menge Gänsehaut.
 
 ### Szenario E · ➖ Leichte Abweichung: Sie verdächtigen Nerida oder das Archiv
 
@@ -167,27 +191,30 @@ will, findet Edriks Kammer (→ Szenario D).
 
 Verständlich. Lass Nerida nicht betteln, sondern zeig die Lage: Ein
 Flüchtling erzählt, dass die Kuppel ein weiteres Dorf verschluckt
-hat. Grim bietet sein Boot an und bittet: „Bringt wenigstens Jannik
-heim." Nerida legt 3 große Heiltränke aus dem Notvorrat obendrauf.
-Wer verhandeln will (Überzeugen DC 14): zusätzlich 100 Gold aus der
-Stadtkasse von Salzmund.
+hat. Grim bietet sein Boot bis zur Bucht an und bittet: „Bringt
+wenigstens Jannik heim." Nerida legt 3 große Heiltränke aus dem
+Notvorrat obendrauf. Wer verhandeln will (Überzeugen DC 14):
+zusätzlich 100 Gold aus der Stadtkasse von Salzmund – und das ist der
+Moment, in dem auch die Spezialausrüstung (Schritt 5) auf den Tisch
+kommt, wenn sie danach fragen.
 
 **🔀 Ganz andere Verläufe**
 
-### Szenario G · 🔀 Ganz anders: Sie wollen sofort zur Grotte, ohne Vorbereitung
+### Szenario G · 🔀 Ganz anders: Sie wollen sofort in den Berg, ohne Vorbereitung
 
-Lass sie – die Grotte ist jederzeit offen. Aber ohne Neridas
+Lass sie – die Feste ist jederzeit offen. Aber ohne Neridas
 Recherche wissen sie nicht, was sie dort suchen (vier Reliquien),
-kennen die drei Siegel nicht und haben keine Warnungen („Serenya
-mochte keine lauten Gäste"). Sie finden den Weg trotzdem (Grim zeigt
-die Bucht für ein Bier), stehen aber am Ende vor einer Tür mit drei
-leeren Mulden und laufen laut und ahnungslos in Skarvax' Gehör
-(→ Kapitel 6, Szenario E). Ein gescheiterter erster Versuch, gefolgt
-von „vielleicht doch erst ins Archiv", ist völlig okay als Lernkurve.
+kennen die drei Runenschlüssel nicht und haben keine Warnungen („Der
+Troll an der Brücke steht immer wieder auf"). Sie finden den Weg
+trotzdem (Grim zeigt die Bucht für ein Bier), stehen aber am Ende vor
+einer Tür mit drei leeren Mulden und kämpfen sich ohne Feuer an
+Brecher die Zähne aus (→ Kapitel 6, Szenario B). Ein gescheiterter
+erster Versuch, gefolgt von „vielleicht doch erst ins Archiv", ist
+völlig okay als Lernkurve.
 
 ---
 
 ## Übergang
 
-Mit Quest, Karte und Pilgerplan → **Kapitel 6: Die Grotte der
-Gezeiten**.
+Mit Quest, Karte, Festungsplan und (vielleicht) Spezialausrüstung
+→ **Kapitel 6: Die Hammerfeste im Grauhorn**.

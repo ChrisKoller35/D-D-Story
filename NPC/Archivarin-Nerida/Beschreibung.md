@@ -2,7 +2,7 @@
 
 Hüterin der Gezeitenarchive von Salzmund, Questgeberin von Akt 5
 (→ `Story/Erzaehler/05-Salzmund.md`,
-→ `Quests/Quest-Die-versunkene-Grotte.md`).
+→ `Quests/Quest-Die-Hammerfeste.md`).
 
 ## Erscheinung & Wesen
 
@@ -11,8 +11,9 @@ zum Ellbogen, Lesesteine an einer Kette um den Hals. Spricht leise
 und präzise; wer im Archiv laut wird, bekommt den Blick. Hinter der
 Strenge: eine Schwester in Sommerhall, um die sie sich krank sorgt –
 ihr Schlüssel-Motiv, den Helden zu helfen. Und eine zweite Last: Sie
-ist die Hüterin des **Gewölbes der Vier** unter dem Turm – und vor
-sechs Wochen wurden ihr die Reliquien gestohlen, von einem Gehilfen,
+ist die Hüterin des **Gewölbes der Vier** unter dem Turm, der
+Grabstätte der vier Kämpfer – und vor sechs Wochen wurden ihr die
+Reliquien von dort gestohlen, von einem Gehilfen,
 dem sie vertraut hat (Bruder Edrik).
 
 **Funktion in der Story:**
@@ -22,17 +23,20 @@ dem sie vertraut hat (Bruder Edrik).
 - Erkennt dabei, dass die gestohlenen Reliquien genau die vier
   Waffen gegen den Spiegelherrn sind.
 - Erzählt von Diebstahl, Verfolgung und der verschollenen Kompanie
-  (20 Mann) und gibt die Quest zur Grotte samt Pilgerplan und
+  (20 Mann) und gibt die Quest zur Hammerfeste samt Festungsplan und
   Küstenkarte.
-- Weiß NICHT, was heute in der Grotte haust (Skarvax) – sie warnt nur
-  vor „etwas, das die Fischer meiden".
+- Weiß NICHT, was heute in der Feste haust (Gorrum, der Troll, die
+  Goblins) – sie warnt nur vor „etwas, das von unten kam".
+- Gibt **Spezialausrüstung** (Runenlaterne, Steinhaut-Tränke) nur,
+  wenn die Helden nachdrücklich danach fragen
+  (→ `Belohnungen/Spezialausruestung/Uebersicht.md`).
 
 **Typische Sätze:**
 - „Das Archiv ist kein Ort für Schwertträger. ... Sommerhall, sagt
   ihr? Setzt euch."
 - „Ich habe sie mein halbes Leben lang bewacht und nie gewusst,
   wofür."
-- „Das Meer gibt selten etwas zurück. Und wenn, dann nur denen, die
-  leise fragen."
+- „Das Meer gibt selten etwas zurück. Und der Berg noch seltener."
+- „Wir sind ein Archiv, kein Zeughaus. ... Was genau braucht ihr?"
 
 Werte → `Stats/Stats.md` · Fähigkeiten → `Faehigkeiten/Faehigkeiten.md`

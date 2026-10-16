@@ -2,11 +2,12 @@
 
 *Ein grob gedruckter Zettel auf gelbem Papier, an den Ecken schon
 etwas zerknittert. Tamo, ein Junge auf einem Esel, verteilt ihn in
-Hirsefurt (→ Kapitel 1, Vorspiel). Oben ein Holzschnitt: eine
+Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`). Oben ein Holzschnitt: eine
 goldene Ähre, darunter ein tanzendes Paar.*
 
 > ### ✦ FEST DER GOLDENEN ÄHRE ✦
-> **Sommerhall · morgen Abend · ab Sonnenuntergang**
+> **Sommerhall · morgen · den ganzen Tag auf Markt und Straßen,
+> ab 17 Uhr in der Großen Festhalle**
 >
 > Die Ernte ist eingebracht, die Fässer sind voll!
 > Ganz Sommerhall lädt **jedermann** zum größten Fest des Nordens:
@@ -21,6 +22,3 @@ goldene Ähre, darunter ein tanzendes Paar.*
 > Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
 >
 > Gezeichnet: **Festmeister Baldric Immergrün**
-
-*Auf der Rückseite eines der Flyer, in Kinderschrift hingekritzelt:
-„Bitte bringt eure Schwerter trotzdem mit. Nur falls. – T."*

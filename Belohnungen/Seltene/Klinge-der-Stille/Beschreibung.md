@@ -12,9 +12,10 @@ wenn du bereit bist."*
 
 **Herkunft:** Einer der vier Gegenstände, mit denen vor 5.000 Jahren
 der Spiegelherr aufgehalten wurde; getragen von **Serenya der Stillen, der einzigen der Vier, die überlebte**. Seitdem
-im Gewölbe der Vier unter dem Gezeitenturm von Salzmund verwahrt,
+im Gewölbe der Vier unter dem Gezeitenturm von Salzmund verwahrt
+(neben den Gräbern der Vier),
 vor sechs Wochen vom Spiegelkult gestohlen, zu finden in der
-Grabkammer der Grotte der Gezeiten
-(→ `Dungeon/Grotte-der-Gezeiten/Beschreibung.md`, Raum 7).
+Tresorkammer der Hammerfeste im Grauhorn
+(→ `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`, Raum 7).
 
 **Alle Spielwerte und Effekte:** → `Effekte/Effekte.md`

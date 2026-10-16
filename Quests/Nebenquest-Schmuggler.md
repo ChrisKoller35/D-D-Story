@@ -8,7 +8,7 @@ Hafenmeisterin Brenka zahlt 50 Gold für Hinweise auf Schmuggler.
 Flüchtlingskrise: Sie verkauft überteuerte „Schutzamulette gegen den
 Spiegel" (wertloser Glasschmuck) und schmuggelt nebenbei
 Panik-Profitware (Salz, Waffen) an der Hafensteuer vorbei. Lager:
-eine Felsnische **auf halbem Weg zur Grotte der Gezeiten** – die
+eine Felsnische **auf halbem Weg zur Bucht unter dem Grauhorn** – die
 Quest führt die Helden wie zufällig an ihren Dungeon-Weg heran.
 
 **Die Bande:** 6 Schmuggler (nimm Banditen-Werte), Anführerin
@@ -29,7 +29,9 @@ Treppe der Stadt).
    Kuppel. Die Helden erfahren davon. Autsch.
 
 **Belohnung:** 50 Gold (Brenka), im Schmugglerlager zusätzlich:
-2 Heiltränke, eine wasserdichte Seilrolle (15 m, nützlich in der
-Grotte!) und Lenes Notizbuch mit einer Skizze der vorderen
-Grottenräume (ersetzt Neridas Pilgerplan für Raum 1–3, falls die
-Gruppe ohne ihn zur Grotte will).
+2 Heiltränke, zwei Flaschen Brandöl (wie ein Feuerfässchen,
+→ `Belohnungen/Spezialausruestung/`) und Lenes Notizbuch mit einer
+Skizze von Bergtor und Wachhalle der Hammerfeste (ersetzt Neridas
+Festungsplan für Raum 1–2, falls die Gruppe ohne ihn in den Berg
+will). Dazu Brenkas Dank: Die Turmwache rückt die Feuerfässchen
+ohne Wurf heraus.

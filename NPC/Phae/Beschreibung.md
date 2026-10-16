@@ -1,7 +1,7 @@
 # Phae, das Sternenlicht
 
 Das magische Wesen, das den Helden nach der Flucht erscheint
-(→ `Story/Erzaehler/04-Flucht-und-Phae.md`).
+(→ `Story/Erzaehler/04b-Phae.md`).
 
 ## Erscheinung
 
@@ -18,9 +18,10 @@ Traum schenkte („Der Traum war ein Geschenk. Es gibt kein zweites.").
 
 Was Phae wirklich ist (für dich als Erzähler, den Spielern nie direkt
 sagen): ein Rest von **Serenyas stillem Eid** – die Wacht, die sie
-der Welt hinterließ, als sie starb. Deshalb kennt es den Weg zu ihrer
-Grotte. Deshalb mischt es sich nicht weiter ein: Wachen heißt nicht
-kämpfen.
+der Welt hinterließ, als sie starb. Deshalb kennt es den Weg nach
+Salzmund, wo die Vier begraben liegen. Deshalb mischt es sich nicht
+weiter ein: Wachen heißt nicht kämpfen. Einen einzigen Gefallenen
+kann es zurückholen – einmal (→ Fähigkeiten, „Funke der Rückkehr").
 
 ## Spielleiter-Regeln für Phae
 
@@ -28,8 +29,10 @@ kämpfen.
 - Beantwortet pro Erscheinen etwa **3 Fragen** – poetisch, wahr,
   unvollständig.
 - Kämpft **niemals**. Angegriffen → zerfällt in Funken
-  (→ Kapitel 4, Szenario C).
-- Maximal 3 Auftritte in der Kampagne (Kap. 4, optional Kap. 5/6 als
+  (→ Kapitel 4b, Szenario D).
+- Holt am Lagerfeuer nach der Flucht **einen** gestorbenen Helden
+  zurück, einmal in der Kampagne (→ Kapitel 4b).
+- Maximal 3 Auftritte in der Kampagne (Kap. 4b, optional Kap. 5/6 als
   Stupser, Abschied im Epilog), sonst wird es zur Lösungs-Hotline.
 
 Werte → `Stats/Stats.md` · Fähigkeiten → `Faehigkeiten/Faehigkeiten.md`

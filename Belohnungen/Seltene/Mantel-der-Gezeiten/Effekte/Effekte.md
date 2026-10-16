@@ -33,4 +33,4 @@ löschen. Stilvoll.)
 
 Der Träger und sein Gepäck werden nie unfreiwillig nass. Die
 wichtigste Fähigkeit von allen, wird jeder Spieler bestätigen, der
-je eine Rüstung nach einem Grotten-Tauchgang getrocknet hat.
+je eine Rüstung nach einem Regenmarsch getrocknet hat.

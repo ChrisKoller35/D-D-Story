@@ -16,14 +16,21 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
   Fischer und den Hafen). Es gibt außerdem einmal im Jahr,
   in der Nacht der tiefsten Ebbe, den Riegel des Gewölbes frei.
 - **Das Gewölbe der Vier** (unter dem Turm, älter als die Stadt):
-  Hier lagen die Vier Reliquien, bis Bruder Edrik sie vor sechs
-  Wochen stahl und durch den alten **Flutkanal** an seine Komplizen
-  im Boot reichte. Heute: aufgebrochen und leer. Spuren für Detektive
-  (abgebrochene Silbersichel, Kratzspuren am Kanal)
-  → `Story/Erzaehler/05-Salzmund.md`, Szenario D.
+  Die **Grabstätte der Vier** – vier Steinbetten, auf dreien die
+  Gebeine von Torvan, Ilwe und Maren in uralten Rüstungen, Serenyas
+  Bett leer (nur eine Mulde im Stein; offener Faden). An den Wänden
+  vier Halterungen, in denen die Vier Reliquien lagen, bis Bruder
+  Edrik sie vor sechs Wochen stahl und durch den alten **Flutkanal**
+  an seine Komplizen im Boot reichte. Heute: aufgebrochen, die
+  Halterungen leer. Spuren für Detektive (abgebrochene Silbersichel,
+  Kratzspuren am Kanal) → `Story/Erzaehler/05-Salzmund.md`, Szenario D.
 - **Edriks Kammer** (2. Stock, Gehilfenzimmer): Tagebuch mit dem
   Hinweis auf „den Meister in den Kornfeldern" (Malrik) und den Plan,
-  die Reliquien in Serenyas Grab zu verstecken.
+  die Reliquien in der Tresorkammer der Hammerfeste einzuschließen,
+  dazu eine Abzeichnung des Festungsplans.
+- **Die Zwergen-Kiste** (Keller): Unterlagen zur Hammerfeste im
+  Grauhorn, der Festungsplan, die **Runenlaterne**
+  (→ `Belohnungen/Spezialausruestung/`).
 
 **Erzähler-Hinweis:** Das Archiv ist der sichere Hafen des Akts –
 kein Kampf hier. Wenn die Gruppe Rast, Recherche oder Durchatmen

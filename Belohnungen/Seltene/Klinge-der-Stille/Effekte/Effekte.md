@@ -6,9 +6,9 @@
 
 Die Klinge und ihr Träger beim Angreifen mit ihr erzeugen keinerlei
 Geräusch. Angriffe aus Verborgenheit verraten die Position des
-Trägers nicht. Gegen Kreaturen, die über Gehör/Echo orten (z. B.
-**Grottenherr Skarvax** – falls die Gruppe sie je dorthin
-zurückbringt, oder ähnliche Wesen), haben Angriffe mit ihr Vorteil.
+Trägers nicht. Gegen Kreaturen, die über Gehör oder Echo orten, haben
+Angriffe mit ihr Vorteil. (Gorrum in der Hammerfeste ortet über
+Erschütterung, nicht über Gehör – gegen ihn hilft das nicht.)
 
 ## Der Spiegel hört sie nicht (gegen Vorgazhul, Finale)
 

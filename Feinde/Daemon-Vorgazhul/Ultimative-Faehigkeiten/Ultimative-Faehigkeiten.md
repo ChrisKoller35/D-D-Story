@@ -26,7 +26,7 @@ ist verbraucht und kommt nie wieder. Über Sommerhall bildet sich die
   → Ende „Die Retter von Sommerhall" (Stadt evakuiert) bzw. „Der
   Spiegel gewinnt" (→ `Story/Story-Gesamt.md`, „Mögliche Enden").
 - **Helden sind geflohen (> 1 km):** Sie sehen den Blitz aus der
-  Ferne. → `Story/Erzaehler/04-Flucht-und-Phae.md`.
+  Ferne. → `Story/Erzaehler/04-Die-Flucht.md`.
 
 ---
 

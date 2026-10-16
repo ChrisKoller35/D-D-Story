@@ -22,7 +22,8 @@ angegriffen werden – denn erst die Aufladungen bringen ihn ganz
 herüber. Spiele ihn wie eine Spinne, die auf das Zittern im Netz
 wartet.
 
-Der Schild hat **10 Aufladungen**. Lege 10 Marker offen auf den Tisch!
+Der Schild hat **10 Aufladungen**. Im 1. Durchlauf zählst du verdeckt
+mit, erst im 2. Durchlauf liegen 10 Marker offen auf dem Tisch.
 
 **Regel 1 – Reflexion:** Jedes Mal, wenn **irgendeine Kreatur**
 (Held, NPC, Stadtwache, Kultist) Vorgazhul Schaden zufügen würde
@@ -61,15 +62,7 @@ zieht die Angst aller Lebenden im Umkreis ein. Dreh den Marker
 sichtbar „von selbst" um. Ohne jede Hilfe ist er also spätestens nach
 10 Stunden voll. *(Das ist die Evakuierungs-Uhr für Kapitel 2/3.)*
 
-**Regel 4 – Opfergang überlebender Kultisten:** Die 4 Kultisten
-sterben normalerweise schon im Ritual. Hat die Gruppe einen vorher
-ausgeschaltet und er kommt später frei (schlecht bewacht, aufgewacht,
-Fesseln gelöst), kriecht er zu Vorgazhul, ruft „Für den Spiegel!" und
-rammt sich die eigene Silbersichel in die Brust → stirbt, **+1
-Aufladung** (keine W10-Tabelle). Wer Kultisten gefangen hält, muss sie
-also bewachen.
-
-**Regel 5 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
+**Regel 4 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
 → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`. Alles im
 Umkreis von 1 km stirbt – und Vorgazhul ist **ganz in der Welt
 angekommen**. Der Spiegelschild ist damit verbraucht und kehrt nie
@@ -92,8 +85,7 @@ wieder zurück. Ab jetzt gilt Teil 2.
 
 **Panik-Regel:** Jedes Ereignis, das NPCs sehen, lässt die Menge in
 Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
-**1 Gruppe weniger** hinaus (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`,
-„Evakuierung"). Je mehr angegriffen wird, desto schlimmer wird alles.
+**1 Gruppe weniger** hinaus (→ `Story/Erzaehler/02b-Evakuierung.md`). Je mehr angegriffen wird, desto schlimmer wird alles.
 
 ### Was er in Akt 2 stattdessen tut (keine Angriffe!)
 
@@ -116,7 +108,7 @@ gestohlen (→ `Story/Erzaehler/05-Salzmund.md`) – die Helden können sie
 zu diesem Zeitpunkt gar nicht haben. Die einzige Lösung in Akt 2 heißt:
 nicht angreifen, retten, fliehen. Die Flucht selbst ist leicht (keine
 Gegner, er greift nicht an) – sie muss nur rechtzeitig passieren
-(→ `Story/Erzaehler/04-Flucht-und-Phae.md`).
+(→ `Story/Erzaehler/04-Die-Flucht.md`).
 
 ---
 
@@ -180,7 +172,7 @@ man ihn vom Siegelträger weglocken!
   Schlag +6, 8 (1W10+3) Hieb. Beim Tod zerspringen sie: 3 m,
   GES DC 12 oder 3 (1W6) Stich. Sie tragen die Gesichter von
   Menschen, die die Helden kannten (Baldric? Alma? Das Kind mit dem
-  Hund?).
+  Mira mit dem Holzpferd?).
 
 ### Reaktion
 

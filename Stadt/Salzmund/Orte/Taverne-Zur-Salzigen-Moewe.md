@@ -5,11 +5,13 @@ die Theke ist ein echter Kiel. Voll ab Sonnenuntergang.
 
 - **Spezialität:** Muschelpfanne und „Turmbrand" (Schnaps, der nach
   Seetang schmeckt und trotzdem süchtig macht).
-- **Fischer Grim**, Stammplatz am Fenster: erzählt für einen Krug von
-  der Grotte – sein Bruder kam „ohne Boot und ohne Stimme" zurück
+- **Fischer Grim**, Stammplatz am Fenster: erzählt für einen Krug vom
+  Grauhorn – sein Bruder sah die Diebe anlanden, lief ihnen bis zum
+  Bergtor nach und kam „ohne Stimme" zurück
   (→ `Story/Erzaehler/05-Salzmund.md`, Szenario B). Grims Bruder
-  lebt noch: stumm, starrt bei Ebbe aufs Meer. Ein gruseliger,
-  stiller Hinweis, wenn die Gruppe ihn besucht.
+  lebt noch: stumm, starrt zum Berg. Ein gruseliger, stiller Hinweis,
+  wenn die Gruppe ihn besucht. Nach dem zweiten Krug gibt Grim
+  **Janniks Hakenseil** heraus (→ `Belohnungen/Spezialausruestung/`).
 - **Schwarzes Brett:** Heuer-Gesuche, Vermisstenzettel (häufen sich
   Richtung Landesinnere...), Belohnung der Hafenmeisterin für
   Hinweise auf Schmuggler (→ `Quests/Nebenquest-Schmuggler.md`).

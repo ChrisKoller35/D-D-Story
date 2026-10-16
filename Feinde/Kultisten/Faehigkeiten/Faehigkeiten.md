@@ -18,10 +18,11 @@ der Kultist dazwischen: Er wird stattdessen Ziel des Angriffs.
 
 ## Selbstopfer (Ritual, bei Ablauf des Timers)
 
-Bei 0:00 stößt sich jeder murmelnde Kultist die eigene Silbersichel in
-die Brust. Sein Blut tropft nicht zu Boden, sondern kriecht als
-schwarzer Faden zur Bühne und speist das Siegel. Einer von ihnen
-opfert vorher ein Kind auf der Tanzfläche. Ablauf →
+Bei 0:00 opfert sich jeder murmelnde Kultist selbst: Der erste sticht
+sich ein Messer durch den Kopf (alle im Saal starren hin), die anderen
+stoßen sich die eigene Silbersichel in die Brust. Ihr Blut tropft
+nicht zu Boden, sondern kriecht als schwarzer Faden zur Bühne und
+speist das Siegel. Einer von ihnen opfert vorher ein Kind auf der Tanzfläche. Ablauf →
 `Story/Erzaehler/02-Ritual-und-Daemon.md`, Schritt 4.
 
 ## Blut für das Siegel
@@ -30,11 +31,3 @@ Stirbt ein Kultist während der Timer läuft (auch durch die Hand der
 Helden), zählt sein Tod sofort als Opfer: Der Timer verliert 1 Minute.
 Wer das Ritual schwächen will, muss Kultisten **zum Schweigen
 bringen**, nicht töten.
-
-## Opfergang (nur Überlebende)
-
-Ein Kultist, der vor dem Ritual ausgeschaltet wurde und später wieder
-frei kommt, kriecht zu Vorgazhul und opfert sich: **+1 Aufladung**
-(keine W10-Tabelle,
-→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`, Teil 1,
-Regel 4).
