@@ -25,9 +25,9 @@ zum Fest zu gehen.
 Auf der Straße nach Sommerhall wird die Kutsche der **Brauerin Gesa**
 von Räubern überfallen: sechs Fässer Jahrgangsbier für die Festhalle,
 die Preistruhe der Festspiele, und auf dem Bock Gesas Tochter **Mira**
-mit ihrem Holzpferd. Die Helden retten alle, geben die Räuber am
-Nordtor bei **Wachhauptmann Ansgar** ab und werden von Baldric dafür zu
-**Ehrengästen** gemacht; sie übernachten im Gasthaus „Zur Sichel". Wer
+mit ihrem Holzpferd. Die Helden retten alle, die Torwachen schicken sie
+durch zu Baldric vor der Festhalle, und der macht sie für die Räuber
+und das gerettete Bier zu **Ehrengästen**; sie übernachten im Gasthaus „Zur Sichel". Wer
 von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 Überfall, sondern findet das Lager einen Tag früher.
 

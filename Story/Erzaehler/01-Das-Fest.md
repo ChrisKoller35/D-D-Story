@@ -9,8 +9,9 @@ hierhergekommen (→ `00-Vorspiel-Hirsefurt.md`,
 `00b-Der-Weg-nach-Sommerhall.md`): Tamo hat ihnen in Hirsefurt einen
 Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Gesa**
 vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Gesas
-Tochter **Mira**), die Räuber bei **Wachhauptmann Ansgar** am Nordtor
-abgegeben, und Baldric hat sie dafür zu **Ehrengästen** gemacht. Sie
+Tochter **Mira**), die Torwachen haben sie durchgewinkt und hinauf zu
+Baldric geschickt, und der hat sie vor der Festhalle zu **Ehrengästen**
+gemacht. Sie
 wachen am **Morgen des Fests** im Gasthaus „Zur Sichel" auf
 (→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`).
 Beschreibe diesen Morgen liebevoll und merke dir deine Worte: Genau
@@ -41,7 +42,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
 `Karte-Sommerhall.png` im selben Ordner).
 
 **Legende:**
-1. **Stadttor** im Norden, Straße nach Hirsefurt: Wachposten von Hauptmann Ansgar; hier geben die Helden am Abend vor dem Fest die Räuber ab, und Baldric macht sie zu Ehrengästen (→ Kapitel 0.5).
+1. **Stadttor** im Norden, Straße nach Hirsefurt: Die Torwachen kennen Gesa und schicken die Kutsche am Abend vor dem Fest durch zu Baldric vor der Festhalle (→ Kapitel 0.5).
 2. **Lindenallee**: die Prachtstraße vom Tor zum Markt, tagsüber spielen hier die Musikanten.
 3. **Marktplatz** mit Erntealtar (Norden) und Brunnen der Drei Mühlen (Mitte): tagsüber Buden, Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
 4. **Große Festhalle** (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen zum Markt, Dienstbotentür hinter der Bühne in die Gasse. Der gestrichelte Ring drumherum ist die Strecke des Fassrollen-Rennens (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
@@ -158,7 +159,7 @@ gewohnt.
 
 Tamo hat in Hirsefurt von kleinen Überfällen erzählt
 (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`), und sechs Räuber
-sitzen seit gestern Abend in Ansgars Wachstube (→ Kapitel 0.5). Manche
+sitzen seit gestern Abend in der Wachstube am Markt (→ Kapitel 0.5). Manche
 Gruppen wittern da das echte Abenteuer und ziehen am Festtag los, statt
 zu feiern. Lass sie: Die Räuber gibt es wirklich. (Haben sie das Lager
 schon in Kapitel 0.5 ausgehoben, Szenario C oder D, entfällt dieses

@@ -23,7 +23,7 @@ ihr in der Festhalle wieder begegnen. Richtwert: 20–30 Minuten.
 
 **Die Weiche:** Frag beim Aufbruch beiläufig, wohin sie wollen.
 - **Direkt nach Sommerhall** → der Überfall auf die Kutsche (Szene 1),
-  dann der Wachposten (Szene 2). Das ist der ⭐ optimale Weg.
+  dann durchs Tor zu Baldric (Szene 2). Das ist der ⭐ optimale Weg.
 - **Zuerst zu den Räubern** (sie folgen Jorins Hinweis vom Waldrand)
   → **kein Überfall.** Die ganze Bande sitzt im Lager, Gesas Kutsche
   rollt unbehelligt in die Stadt. Weiter bei Szenario D unten.
@@ -101,7 +101,7 @@ auf die Kutsche setzen (zwischen die Fässer, Gesa besteht darauf, dass
 sie die Fässer nicht anfassen) und mit nach Sommerhall → Szene 2.
 Andere Wege stehen unten bei den Szenarien.
 
-## Szene 2: Der Wachposten am Stadttor
+## Szene 2: Durchs Tor zu Baldric
 
 Es dämmert, als die Kutsche das **Nordtor** von Sommerhall erreicht
 (→ Kapitel 1, Karte, Nr. 1). Am Tor herrscht Betrieb: Fackeln werden
@@ -110,42 +110,44 @@ stauen sich.
 
 **Vorlesetext:**
 
-> Vor dem Tor steht ein klappriger Tisch mit einer Laterne, dahinter
-> ein Mann in Wachrock mit einem Stapel Listen, der gleichzeitig drei
-> Leuten antwortet, ohne einen davon anzusehen. „Nein, der Kürbiswagen
-> fährt NICHT über die Lindenallee. Ja, zwei Mann an die Mühlen. Nein,
-> ich weiß nicht, wo der Festmeister ist, der ist überall." Dann hebt er
-> den Kopf, sieht die Kutsche, die Fässer, die gefesselten Männer
-> dazwischen, eure Waffen, und legt sehr langsam die Feder hin.
+> Zwei Torwachen in viel zu sauberen Festwesten winken Wagen um Wagen
+> durch, bis sie die Kutsche sehen. „Gesa! Hast du das gute Zeug
+> dabei?" Dann fällt ihr Blick auf die gefesselten Männer zwischen den
+> Fässern, auf eure Waffen, und einer von ihnen pfeift leise durch die
+> Zähne. „Das hast du nicht allein gemacht, Holler." Gesa lacht nur.
+> Die Wachen schauen sich kurz an, dann treten sie zur Seite: „Fahrt
+> durch. Gleich hoch zum Festmeister, der steht oben am Markt vor der
+> Halle und kommandiert heute alles, was eine Weste trägt. Dem gehören
+> die hier." Einer nickt zu den Räubern.
 
-Das ist **Wachhauptmann Ansgar Felde**, verantwortlich für die
-Sicherheit am Fest: zwölf Wachleute für sechs Viertel, und er findet,
-das sind zehn zu wenig. Grau an den Schläfen, trocken, vergisst nichts.
-Die Helden geben die Räuber ab und erzählen, was passiert ist; Gesa
+Die Torwachen sind einfache Stadtwächter, die Gesa seit Jahren kennen
+(jeder in Sommerhall kennt Gesa). Sie stellen keine Fragen, die Gesa
+nicht schon lauter beantwortet hat, und schicken die Kutsche samt
+Gefangenen die **Lindenallee hinauf**. Fragt man sie nach den Räubern:
+„Seit dem Sommer. Börsen, Würste, eine Kiste Nägel. Für den Wald haben
+wir keine Leute, und morgen schon gar nicht." (Haken für Kapitel 1,
+Szenario E: Der Rest der Bande sitzt noch im Lager.)
+
+**Vor der Festhalle.** Oben am Markt, vor dem großen Portal der
+Festhalle, steht **Festmeister Baldric** in Festweste auf einer
+umgedrehten Kiste, Listen in der Hand, und koordiniert alles auf
+einmal: Wachleute, Helfer, Lichterketten, den Kürbiswagen, der auf
+keinen Fall über die Lindenallee fahren darf. Er sieht die Kutsche,
+sieht Gesa, sieht die Fässer, und mit ihm wird es sofort laut. Die
+Helden geben die Räuber ab (Baldric winkt zwei Wachleute heran, die die
+sechs in die Wachstube am Markt sperren: „Morgen, nach dem Fest. Heute
+hat niemand Zeit für euch.") und erzählen, was passiert ist; Gesa
 erzählt es gleichzeitig noch einmal, doppelt so laut, mit Mira auf dem
 Arm, die eifrig nickt.
 
-**Ansgars Reaktion:**
-- Er lässt die Räuber in die Wachstube am Tor sperren („Morgen, nach
-  dem Fest. Heute hat niemand Zeit für euch.") und notiert sich die
-  Namen der Helden. Wer die Gefangenen anständig behandelt hat, bekommt
-  ein knappes Nicken; das ist bei Ansgar viel.
-- Er schickt einen Läufer los: „Hol den Festmeister. Sag ihm, sein Bier
-  ist da. Und sag ihm, von wem."
-- Fragt man ihn nach den Räubern: „Seit dem Sommer. Börsen, Würste,
-  eine Kiste Nägel. Ich hab zu wenig Leute, um im Wald herumzustochern,
-  und morgen schon gar nicht." (Haken für Kapitel 1, Szenario E: Der
-  Rest der Bande sitzt noch im Lager.)
-
-**Baldric kommt.** Ein paar Minuten später kommt **Festmeister
-Baldric** die Lindenallee herunter, außer Atem, in Festweste, und mit
-ihm wird es sofort laut. Gesa hat ihn noch nicht ausreden lassen, da
-schüttelt er schon jede Hand und erklärt die Helden mit dröhnender
-Stimme zu **Ehrengästen**: „Das Jahrgangsbier UND die Festpreise! Ihr
-schlaft in der Sichel, auf Kosten der Stadt, ihr esst an meinem Tisch,
-und morgen Abend sitzt ihr auf der Ehren-Empore!" Zeigt jemand die
-Notiz von Tamo, lacht er: „Mein Neffe hat also recht gehabt. Das kommt
-selten vor." Mehr zu Baldric → `NPC/Festmeister-Baldric/`.
+Gesa hat noch nicht ausgeredet, da springt Baldric von der Kiste,
+schüttelt jede Hand und erklärt die Helden mit dröhnender Stimme zu
+**Ehrengästen**: „Das Jahrgangsbier UND die Festpreise! Ihr schlaft in
+der Sichel, auf Kosten der Stadt, ihr esst an meinem Tisch, und morgen
+Abend sitzt ihr auf der Ehren-Empore!" Zeigt jemand die Notiz von Tamo,
+lacht er: „Mein Neffe hat also recht gehabt. Das kommt selten vor." Wer
+die Gefangenen anständig behandelt hat, bekommt von den Wachleuten ein
+knappes Nicken. Mehr zu Baldric → `NPC/Festmeister-Baldric/`.
 
 **Die Nacht.** Alma vom Gasthaus „Zur Sichel" nimmt sie in Empfang
 (mit oder ohne Notiz, Baldric hat längst alles geregelt), und Gesa
@@ -173,7 +175,8 @@ die Helden jetzt und sucht sie gezielt.
 ### Szenario A · ⭐ Optimal: Überfall vereitelt, Räuber gefangen, mit Gesa in die Stadt
 
 Genau so ist es gedacht: Szene 1, Räuber fesseln, Szene 2, Ehrengäste,
-Nacht in der Sichel. Die sechs Gefangenen sitzen in der Wachstube; im
+Nacht in der Sichel. Die sechs Gefangenen sitzen in der Wachstube am
+Markt; im
 Lager (→ Kapitel 1, Szenario E) bleiben dann noch **etwa neun Räuber
 und Hanne**.
 
@@ -184,9 +187,9 @@ und Hanne**.
 Nachvollziehbar, es sind arme Leute. Die Räuber verschwinden im Wald
 (und sitzen in Kapitel 1, Szenario E wieder vollzählig im Lager). Am
 Tor fehlen die Gefangenen, aber Gesa erzählt die Geschichte trotzdem,
-und Ansgar glaubt ihr („Die Holler lügt nicht, die hat's nicht nötig").
-Ehrengäste werden sie trotzdem; Ansgar brummt nur: „Hättet sie
-mitbringen können."
+und Baldric glaubt ihr („Die Holler lügt nicht, die hat's nicht nötig").
+Ehrengäste werden sie trotzdem; eine der Torwachen brummt nur: „Hättet
+sie mitbringen können."
 
 ### Szenario C · ➖ Leichte Abweichung: Erst noch zum Lager, dann in die Stadt
 
@@ -213,8 +216,8 @@ vor dem Lager. Spiele es wie Kapitel 1, Szenario E, nur einen Tag
 früher: alle 15 Räuber da, Hanne dabei, Ergeben nach den ersten Toten.
 
 Danach zum Nordtor, mit Gefangenen oder zumindest dem Diebesgut (Kiste
-Nägel, Fass Festbier, Geldbeutel). **Ansgar** staunt leise, schickt den
-Läufer, **Baldric** kommt, Ehrengäste wie in Szene 2. Gesas Kutsche ist
+Nägel, Fass Festbier, Geldbeutel). Die Torwachen staunen, schicken sie
+hinauf zu **Baldric**, Ehrengäste wie in Szene 2. Gesas Kutsche ist
 unbehelligt durchgekommen (die Bande saß ja im Lager); Gesa und Mira
 lernen die Helden erst am Festabend in der Halle kennen, wo Gesa das
 gute Zeug ausschenkt und Mira zwischen den Tischen herumläuft. Bleiben
@@ -225,8 +228,8 @@ Morgen.
 
 Kommt vor („Nicht unser Problem"). Dann verlieren Gesa, Ole und Mira
 die Fässer und die Preistruhe, aber nicht das Leben (die Räuber töten
-nie). Am Tor gibt es keinen Empfang, nur Ansgar, der ihnen einen langen
-Blick schenkt, als Gesa eine Stunde später fluchend ankommt. Tamos
+nie). Am Tor gibt es keinen Empfang, nur zwei Torwachen, die ihnen einen
+langen Blick schenken, als Gesa eine Stunde später fluchend ankommt. Tamos
 Notiz bringt sie trotzdem in die Sichel (Alma hält Wort), Ehrengäste
 werden sie **nicht**. Am Fest fehlt das gute Zeug in der Halle, und
 Gesa erzählt jedem, warum. Das Räuberlager ist am Festtag dafür sehr
