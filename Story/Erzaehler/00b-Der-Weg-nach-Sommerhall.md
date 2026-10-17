@@ -116,7 +116,7 @@ stauen sich.
 > Fässern, auf eure Waffen, und einer von ihnen pfeift leise durch die
 > Zähne. „Das hast du nicht allein gemacht, Holler." Gesa lacht nur.
 > Die Wachen schauen sich kurz an, dann treten sie zur Seite: „Fahrt
-> durch. Gleich hoch zum Festmeister, der steht oben am Markt vor der
+> durch. Gleich hoch zum Hauptmann, der steht oben am Markt vor der
 > Halle und kommandiert heute alles, was eine Weste trägt. Dem gehören
 > die hier." Einer nickt zu den Räubern.
 
@@ -129,25 +129,23 @@ wir keine Leute, und morgen schon gar nicht." (Haken für Kapitel 1,
 Szenario E: Der Rest der Bande sitzt noch im Lager.)
 
 **Vor der Festhalle.** Oben am Markt, vor dem großen Portal der
-Festhalle, steht **Festmeister Baldric** in Festweste auf einer
+Festhalle, steht **Hauptmann Baldric** in Festweste auf einer
 umgedrehten Kiste, Listen in der Hand, und koordiniert alles auf
 einmal: Wachleute, Helfer, Lichterketten, den Kürbiswagen, der auf
 keinen Fall über die Lindenallee fahren darf. Er sieht die Kutsche,
 sieht Gesa, sieht die Fässer, und mit ihm wird es sofort laut. Die
 Helden geben die Räuber ab (Baldric winkt zwei Wachleute heran, die die
 sechs in die Wachstube am Markt sperren: „Morgen, nach dem Fest. Heute
-hat niemand Zeit für euch.") und erzählen, was passiert ist; Gesa
-erzählt es gleichzeitig noch einmal, doppelt so laut, mit Mira auf dem
-Arm, die eifrig nickt.
+hat niemand Zeit für euch.") und erzählen, was passiert ist. Gesa
+nickt dazu, Mira auf dem Arm.
 
-Gesa hat noch nicht ausgeredet, da springt Baldric von der Kiste,
-schüttelt jede Hand und erklärt die Helden mit dröhnender Stimme zu
+Baldric springt von der Kiste, schüttelt jede Hand und erklärt die Helden mit dröhnender Stimme zu
 **Ehrengästen**: „Das Jahrgangsbier UND die Festpreise! Ihr schlaft in
 der Sichel, auf Kosten der Stadt, ihr esst an meinem Tisch, und morgen
 Abend sitzt ihr auf der Ehren-Empore!" Zeigt jemand die Notiz von Tamo,
 lacht er: „Mein Neffe hat also recht gehabt. Das kommt selten vor." Wer
 die Gefangenen anständig behandelt hat, bekommt von den Wachleuten ein
-knappes Nicken. Mehr zu Baldric → `NPC/Festmeister-Baldric/`.
+knappes Nicken. Mehr zu Baldric → `NPC/Hauptmann-Baldric/`.
 
 **Die Nacht.** Alma vom Gasthaus „Zur Sichel" nimmt sie in Empfang
 (mit oder ohne Notiz, Baldric hat längst alles geregelt), und Gesa

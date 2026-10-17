@@ -114,8 +114,8 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 > eure Waffen, eure Rüstungen, eure Narben – und bleibt wie
 > angewurzelt stehen. „Seid… seid ihr etwa Abenteurer? Echte?"
 
-Der Junge ist **Tamo**, Neffe von Festmeister Baldric
-(→ `NPC/Festmeister-Baldric/`). Er verteilt seit drei Tagen Flyer in
+Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
+(→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
 Helden einen Flyer in die Hand (→ **Handout**). Bevor er weiterzieht
 (er hat noch zwei Dörfer vor sich, Eschenbrück und Kohlwinkel, und ist
@@ -125,7 +125,7 @@ Helden vom Rabenpass. Bett in der Sichel! Tamo."* Das sichert ein Bett,
 mehr nicht; den Ehrenplatz verdienen sie sich unterwegs (→ Kapitel 0.5).
 
 **Was Tamo erzählt (je nachdem, was die Spieler fragen):**
-- „Mein Onkel ist der Festmeister! Wenn ihr kommt, sag ich ihm, dass
+- „Mein Onkel ist der Hauptmann der Stadtwache! Wenn ihr kommt, sag ich ihm, dass
   ich echte Helden gefunden hab, sobald ich zurück bin. Dann kriegt ihr bestimmt umsonst
   Bier."
 - Fragt er, woher sie kommen, und hört „Rabenpass": große Augen.

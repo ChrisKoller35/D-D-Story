@@ -39,7 +39,7 @@ Gruppe wie durch Wasser hindurch).
 
 **Vor der Kuppel:** Das Lager der Geflüchteten – so groß, wie die
 Helden es in Akt 2/3 geschafft haben. Haben sie evakuiert, warten
-hier **Festmeister Baldric** (oder Wirtin Alma) und hunderte Bürger.
+hier **Hauptmann Baldric** (oder Wirtin Alma) und hunderte Bürger.
 Sie geben Infos und Ortskenntnis (Kellerausgang, Dienstbotentür), und
 Baldric bittet: „Bringt uns unsere Stadt zurück." Haben die Helden
 niemanden gerettet, stehen hier nur ein paar Flüchtlinge aus den

@@ -68,7 +68,7 @@ Straßen. Auf dem **Marktplatz** stehen Buden und Spielstände
 Musikanten, an jeder Ecke gibt es Braten, Honigkuchen und Festbier.
 Hier laufen die **Festspiele** (→ `Story/Spieler/Festspiele.md`):
 Axtwerfen, Fassrollen-Rennen um die Festhalle, Rätselzelt, Armdrücken.
-**Festmeister Baldric** (→ `NPC/Festmeister-Baldric/`) begrüßt die
+**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) begrüßt die
 Helden persönlich und schickt sie zu den Spielen.
 
 **Ab 17–18 Uhr: drinnen in der Großen Festhalle.** Wenn die Sonne

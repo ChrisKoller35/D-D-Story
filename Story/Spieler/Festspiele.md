@@ -44,4 +44,4 @@ hört zwischen den Liedern die besten Gerüchte des Abends...
 ---
 
 *Siegerehrung am Abend in der Großen Festhalle. Der
-Festmeister bittet alle Gewinner auf die Bühne.*
+Hauptmann Baldric bittet alle Gewinner auf die Bühne.*

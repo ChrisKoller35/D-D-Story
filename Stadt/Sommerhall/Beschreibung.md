@@ -18,7 +18,8 @@ Menschen beisammen sind.
 
 ## Wichtige Personen
 
-- **Festmeister Baldric Immergrün** → `NPC/Festmeister-Baldric/`
+- **Hauptmann Baldric Immergrün**, Hauptmann der Stadtwache und
+  Ausrichter des Fests → `NPC/Hauptmann-Baldric/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
 - **Brauerin Gesa Holler**, Brauerei im Westen der Stadt; ihr

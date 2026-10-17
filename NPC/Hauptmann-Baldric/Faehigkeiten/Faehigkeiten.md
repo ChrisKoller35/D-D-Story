@@ -1,4 +1,4 @@
-# Festmeister Baldric – Fähigkeiten
+# Hauptmann Baldric – Fähigkeiten
 
 ## Stimme des Festes
 
@@ -13,7 +13,7 @@ entkommen 2W6 zusätzliche Festgäste.
 Bei sozialen Proben in Sommerhall kann Baldric den Helden Vorteil
 verschaffen, wenn er sie begleitet oder empfiehlt.
 
-## Der Festmeister weicht nicht (Story-Fähigkeit)
+## Der Hauptmann weicht nicht (Story-Fähigkeit)
 
 Baldric flieht nicht, solange noch Gäste in Gefahr sind. Wenn du den
 emotionalen Preis des ersten Durchlaufs willst: Er stellt sich

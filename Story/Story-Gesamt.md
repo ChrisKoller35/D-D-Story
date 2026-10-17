@@ -46,7 +46,7 @@ sich nach den ersten Toten ergeben.
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
-- NPC: `NPC/Festmeister-Baldric/`
+- NPC: `NPC/Hauptmann-Baldric/`
 
 ## Akt 2: Das Ritual und der Dämon
 

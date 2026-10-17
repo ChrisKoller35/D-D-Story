@@ -21,7 +21,7 @@ goldene Ähre, darunter ein tanzendes Paar.*
 > *Fremde Reisende sind herzlich willkommen.
 > Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
 >
-> Gezeichnet: **Festmeister Baldric Immergrün**
+> Gezeichnet: **Hauptmann Baldric Immergrün**
 
 *Auf der Rückseite, mit Kohle hingekritzelt, in Kinderschrift:*
 
