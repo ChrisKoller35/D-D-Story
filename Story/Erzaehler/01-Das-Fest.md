@@ -4,11 +4,15 @@
 
 ## Ausgangslage
 
-Die Helden sind über das Vorspiel nach Sommerhall gekommen
-(→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`): Tamo hat ihnen in
-Hirsefurt einen Flyer gegeben, Baldric hat sie am Stadttor zu
-**Ehrengästen** gemacht, und sie wachen am **Morgen des Fests** im
-Gasthaus „Zur Sichel" auf (→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`).
+Die Helden sind über das Vorspiel und den Weg nach Sommerhall
+hierhergekommen (→ `00-Vorspiel-Hirsefurt.md`,
+`00b-Der-Weg-nach-Sommerhall.md`): Tamo hat ihnen in Hirsefurt einen
+Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Gesa**
+vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Gesas
+Tochter **Mira**), die Räuber bei **Wachhauptmann Ansgar** am Nordtor
+abgegeben, und Baldric hat sie dafür zu **Ehrengästen** gemacht. Sie
+wachen am **Morgen des Fests** im Gasthaus „Zur Sichel" auf
+(→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`).
 Beschreibe diesen Morgen liebevoll und merke dir deine Worte: Genau
 dieser Morgen kehrt in Kapitel 3 zurück.
 
@@ -37,7 +41,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
 `Karte-Sommerhall.png` im selben Ordner).
 
 **Legende:**
-1. **Stadttor** im Norden, Straße nach Hirsefurt: Hier empfängt Baldric die Helden am Abend vor dem Fest.
+1. **Stadttor** im Norden, Straße nach Hirsefurt: Wachposten von Hauptmann Ansgar; hier geben die Helden am Abend vor dem Fest die Räuber ab, und Baldric macht sie zu Ehrengästen (→ Kapitel 0.5).
 2. **Lindenallee**: die Prachtstraße vom Tor zum Markt, tagsüber spielen hier die Musikanten.
 3. **Marktplatz** mit Erntealtar (Norden) und Brunnen der Drei Mühlen (Mitte): tagsüber Buden, Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
 4. **Große Festhalle** (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen zum Markt, Dienstbotentür hinter der Bühne in die Gasse. Der gestrichelte Ring drumherum ist die Strecke des Fassrollen-Rennens (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
@@ -80,10 +84,13 @@ echte Spielzeit nur Fest und Spiele.
 
 ### Mira, das Mädchen mit dem Holzpferd
 
-Am Abend in der Halle läuft **Mira**, 7, mit ihrem Holzpferd zwischen
-den Tischen herum, klaut Honigkuchen und fragt die Helden, ob ihre
-Schwerter echt sind. Lass sie den Spielern ans Herz wachsen – sie ist
-das Kind, das in Kapitel 2 geopfert wird.
+Am Abend in der Halle läuft **Mira**, 7, mit ihrem Holzpferd „Hafer"
+zwischen den Tischen herum, klaut Honigkuchen und sucht gezielt die
+Helden: Sie kennt sie vom Überfall auf die Kutsche (→ Kapitel 0.5).
+Ihre Mutter, die **Brauerin Gesa**, steht am Ausschank und schenkt das
+Jahrgangsbier aus, deshalb hat Mira den ganzen Abend freie Bahn. Lass
+sie den Spielern ans Herz wachsen – sie ist das Kind, das in Kapitel 2
+geopfert wird.
 
 **Mira als Überleitung:** Sind die Helden schon eine Weile in der
 Halle und entdecken einfach keinen Kultisten, zupft Mira einen Helden
@@ -150,9 +157,12 @@ gewohnt.
 ### Szenario E · 🔀 Ganz anders: Sie lassen das Fest sausen und jagen die Räuber
 
 Tamo hat in Hirsefurt von kleinen Überfällen erzählt
-(→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`). Manche Gruppen wittern
-da das echte Abenteuer und ziehen am Festtag los, statt zu feiern.
-Lass sie: Die Räuber gibt es wirklich.
+(→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`), und sechs Räuber
+sitzen seit gestern Abend in Ansgars Wachstube (→ Kapitel 0.5). Manche
+Gruppen wittern da das echte Abenteuer und ziehen am Festtag los, statt
+zu feiern. Lass sie: Die Räuber gibt es wirklich. (Haben sie das Lager
+schon in Kapitel 0.5 ausgehoben, Szenario C oder D, entfällt dieses
+Szenario.)
 
 **Die Spur:** Wer in Sommerhall herumfragt (Stadtwache, Marktleute,
 Alma), hört von Überfällen im **Wald hinter den Mühlen**. Überlebens-
@@ -162,7 +172,8 @@ Geldbeutel, Lagerfeuerrauch. Nach 2–3 Stunden stehen sie vor dem Lager.
 **Das Räuberlager:** Größer als gedacht: eine Lichtung mit Zelten aus
 Segeltuch, einem Unterstand voller Diebesgut (Geldbeutel, Würste,
 eine Kiste Nägel, ein Fass Festbier) und **etwa 15 Räubern** um ein
-Feuer. Angeführt von **Hanne „Krähe"**, einer ehemaligen Mühlenarbeiterin.
+Feuer (nur noch **etwa neun**, wenn sechs in Kapitel 0.5 gefangen
+wurden). Angeführt von **Hanne „Krähe"**, einer ehemaligen Mühlenarbeiterin.
 
 **Werte der Räuber (schwach!):** RK 12, TP 11, Knüppel oder Kurzschwert
 +3 (1W6+1), Kurzbogen +3 (1W6+1). Hanne: RK 13, TP 22, zwei Angriffe.

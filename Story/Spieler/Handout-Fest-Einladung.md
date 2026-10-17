@@ -22,3 +22,8 @@ goldene Ähre, darunter ein tanzendes Paar.*
 > Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
 >
 > Gezeichnet: **Festmeister Baldric Immergrün**
+
+*Auf der Rückseite, mit Kohle hingekritzelt, in Kinderschrift:*
+
+> Tante Alma, das sind echte Helden vom Rabenpass. Bett in der Sichel!
+> Tamo

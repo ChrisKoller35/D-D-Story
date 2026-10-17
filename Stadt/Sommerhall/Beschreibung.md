@@ -21,6 +21,13 @@ Menschen beisammen sind.
 - **Festmeister Baldric Immergrün** → `NPC/Festmeister-Baldric/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
+- **Brauerin Gesa Holler**, Brauerei im Westen der Stadt; ihr
+  Jahrgangs-Dunkelbier („das gute Zeug") gibt es nur abends in der
+  Festhalle. Mutter von **Mira** (7, Holzpferd „Hafer"), dem Kind aus
+  Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)
+- **Wachhauptmann Ansgar Felde**, trocken, vergisst nichts; zwölf
+  Wachleute für sechs Viertel. Nimmt am Nordtor die Räuber entgegen
+  (→ Kapitel 0.5)
 - **„Eisenhand" Grom**, Schmied, ungeschlagen im Armdrücken
   (→ `Story/Spieler/Festspiele.md`)
 - Die **Weise Frau Henna**, Rätselzelt – weiß mehr, als sie sagt

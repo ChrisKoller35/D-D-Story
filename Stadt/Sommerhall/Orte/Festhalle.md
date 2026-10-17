@@ -19,7 +19,8 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 2. Dienstbotentür hinter der Bühne → Gasse
 3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
 4. Kellerausgang → Bierkeller → Rampe zum Hof (den kennen nur
-   Einheimische – Baldric oder Alma können ihn zeigen) – **wird nie
+   Einheimische – Baldric, Alma oder die Brauerin Gesa, die ihre Fässer
+   über diese Rampe anliefert, können ihn zeigen) – **wird nie
    versiegelt**
 
 Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen Weg**

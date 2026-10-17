@@ -411,8 +411,9 @@ Ein Spieler sagt direkt nach dem Messer-Moment, dass er blitzschnell
 hinspringt, und schafft den extrem schweren Wurf (19 plus eigener
 Modifikator, → Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
 trotzdem, aber dieser eine Moment wird den Spielern ewig bleiben.
-Belohne ihn: Miras Mutter ist die Frau, die später eine ganze Gruppe
-Gäste zum Kellerausgang führt (zählt wie Baldric, +4), oder Mira
+Belohne ihn: Miras Mutter, die **Brauerin Gesa** (→ Kapitel 0.5),
+kennt den Bierkeller wie ihre Westentasche und führt später eine ganze
+Gruppe Gäste zum Kellerausgang (zählt wie Baldric, +4), oder Mira
 selbst taucht im Finale im Lager vor der Kuppel wieder auf.
 
 ### Szenario I · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
