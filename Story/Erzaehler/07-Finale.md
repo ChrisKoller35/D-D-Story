@@ -172,10 +172,16 @@ Jetzt ist es ernst – **kein Traum-Reset mehr**. Wenn es eng wird:
 Vorgazhul wird siegesgewiss, redet, verhöhnt – gib ihnen 1–2 Runden
 Luft durch seine Arroganz (er will, dass sie zusehen, wie er gewinnt).
 Rückzug aus der Festhalle ist möglich (er ist an die Kuppel gebunden,
-verfolgt aber bis zum Kuppelrand). Phaes Funke ist verbraucht (→ Kapitel 4b). Fallen alle: Das Amulett
-der Traumwache rettet seinen Träger als einzigen Überlebenden („Einer
-bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
-(→ `Story/Story-Gesamt.md`, „Mögliche Enden").
+verfolgt aber bis zum Kuppelrand). **Phae kommt nicht in die Kuppel**,
+und das Wunder lässt sich im Kampf nicht rufen (→ Kapitel 4b, „Das
+Wunder", Regel 6); wer es noch hat, hat es erst nach dem Sieg. Die
+Sternenglut aus Kapitel 6 dagegen wirkt jetzt: Lass die Spieler nicht
+vergessen, dass der Funke einen von ihnen fangen kann. Fallen alle:
+Das Amulett der Traumwache rettet seinen Träger als einzigen
+Überlebenden („Einer bleibt. Erzähl ihnen, was ihr wart.") → Ende
+„Einer bleibt wach" (→ `Story/Story-Gesamt.md`, „Mögliche Enden").
+Phae erscheint dann nicht; ein ungenutztes Wunder verfällt mit den
+Helden.
 
 ---
 
@@ -184,10 +190,69 @@ bleibt. Erzähl ihnen, was ihr wart.") → Ende „Einer bleibt wach"
 - Die Spiegelkuppel zerfällt wie Morgennebel; Sommerhall ist gezeichnet,
   aber frei. Die Gespiegelten bleiben Glas – wer gerettet wurde, kehrt
   aus dem Lager zurück. Das Fest wird neu gefeiert – diesmal zu Ehren
-  der Helden.
-- Phae erscheint ein letztes Mal: ein Abschiedsgeschenk nach deinem
-  Geschmack (→ `Belohnungen/Uebersicht.md`, „Phaes Abschied").
+  der Helden. (Es sei denn, das Wunder ändert alles, → unten.)
+- Phae erscheint ein letztes Mal (→ „Phaes letztes Angebot").
 - Level-Up auf 8 (oder 9, wenn du Meilenstein-großzügig bist).
 - Offene Fäden für später: Wer hat Malrik das Ritual gelehrt? Was ist
   Phae wirklich? Serenyas leeres Grab unter dem Gezeitenturm... Und
   Gorrum, falls er noch im Grauhorn grollt.
+
+## Phaes letztes Angebot: das vollkommene Ende
+
+Sobald die Kuppel gefallen ist und die Helden in der stillen Festhalle
+stehen (oder draußen zwischen den gläsernen Gestalten auf dem Markt),
+erscheint Phae zum letzten Mal. **Diesmal fragt es von selbst**, auch
+wenn die Gruppe nie nach dem Wunder gefragt hat, und auch, wenn sie
+Phae in Kapitel 4b angegriffen hat.
+
+**Ist das Wunder noch da:**
+
+> Zwischen den Scherben auf dem Boden der Festhalle bleibt ein Funke
+> liegen und wächst. Phae sitzt da, wo Vorgazhul gestanden hat, und
+> sieht sich um, als sähe es die Halle zum ersten Mal. „Jetzt sehe ich
+> alles hier drin", sagt es leise. „Er ist fort. Der Spiegel hält
+> nichts mehr." Es sieht euch an. „Ihr habt es noch. Das eine. Durch
+> den ganzen Weg getragen, ohne zu wissen, wofür. Also frage ich zum
+> letzten Mal, und diesmal könnt ihr euch **alles** wünschen, was in
+> dieser Stadt ist: Was soll geschehen?"
+
+Wünschen sie, **dass die Toten von Sommerhall zurückkommen** (in
+welchen Worten auch immer: „alle zurück", „mach es ungeschehen",
+„die Gespiegelten sollen leben"), geschieht das **vollkommene Ende**:
+
+> Phae steht auf. Zum ersten Mal, seit ihr es kennt, ist es nicht
+> klein. Die Funken steigen aus seinem Fell wie Asche aus einem
+> Feuer, nur nach oben, und jede einzelne sucht sich ein Gesicht.
+> Das Glas wird warm. Dann wird es Haut. Auf dem Markt hustet jemand.
+> In der Lindenallee fängt ein Kind an zu weinen, dann zu lachen, weil
+> es sein Holzpferd wiederfindet. Hinter euch, in der Halle, räuspert
+> sich der Hauptmann der Stadtwache und fragt, warum zum Henker alle
+> auf dem Boden liegen. Es ist der Morgen nach dem Fest. Die Stadt
+> wacht auf, als wäre es eine zu lange Nacht gewesen. Phae ist schon
+> fast durchsichtig. „Das", sagt es, „war es wert. Ich habe es
+> gewusst." Dann ist nur noch Sternenstaub da, und darin, für einen
+> Moment, die Umrisse einer Frau mit einem Schwert.
+
+**Was zurückkommt:** Alle, die der Spiegel genommen hat. Die Toten
+des Weltenspiegels, die Gespiegelten in den Straßen, die Opfer der
+Glasdiener, die Gäste im Festsaal, Mira, Baldric, die Kultisten
+**nicht** (sie haben sich selbst geopfert; Phae: „Die haben sich ihm
+gegeben. Die hat er nicht genommen."), und auch **die Helden, die im
+Endkampf gefallen sind**, denn sie sind in Sommerhall gestorben.
+Alle erwachen gesund, mit allem, was sie am Festabend trugen, und
+erinnern sich an eine lange, kalte Nacht, mehr nicht.
+→ Ende **„Sommerhall erwacht"** (→ `Story/Story-Gesamt.md`,
+„Mögliche Enden"). Die Stadt feiert das Fest zu Ende, mit allen.
+
+Wünschen sie sich etwas anderes (einen gefallenen Gefährten, eine
+Antwort, Reichtum), erfüllt Phae das nach den Regeln aus Kapitel 4b,
+**ohne** zu erwähnen, was sonst möglich gewesen wäre. Fragt jemand
+später „Hätten wir …?", antwortet Phae ehrlich: „Ja."
+
+**Ist das Wunder schon verbraucht** (Kapitel 4b oder 6): Phae kommt
+trotzdem, aber als Abschied. Es sagt: „Es war eines. Ihr habt es
+gebraucht, und ich glaube, es war richtig", gibt sein
+Abschiedsgeschenk (→ `Belohnungen/Uebersicht.md`, „Phaes Abschied")
+und verschwindet. Die Gespiegelten bleiben Glas. Das Ende heißt dann
+**„Sieg"**: ehrlich verdient, nur nicht vollkommen. Fragt die Gruppe,
+ob das Wunder hier die Stadt hätte retten können, lügt Phae nicht.

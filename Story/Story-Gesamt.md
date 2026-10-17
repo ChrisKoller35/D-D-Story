@@ -113,9 +113,14 @@ bevor der Schild 10 Aufladungen hat.
 
 Nach der Flucht erscheint den Helden am Lagerfeuer das magische Wesen
 **Phae, das Sternenlicht**, und gibt den Hinweis: In der **Stadt am
-Meer (Salzmund)** gibt es Aufzeichnungen über das Monster. Ist ein
-Held gestorben, holt Phae ihn **einmal** zurück – der Spieler glaubt
-bis dahin, er sei tot und raus.
+Meer (Salzmund)** gibt es Aufzeichnungen über das Monster. Fragen die
+Helden, ob es ihnen noch etwas mitgeben kann, bietet Phae **ein
+Wunder** an, das einzige der ganzen Kampagne: Sie dürfen sich etwas
+wünschen (auch einen toten Helden zurück), aber die Leute in der
+Stadt gehen nicht, weil der Dämon dort ist. Genommen ist genommen.
+Das Wunder kommt noch zweimal zur Sprache: auf dem Rückweg aus dem
+Dungeon (Akt 6) und nach dem Sieg (Akt 7), wo es die ganze Stadt
+zurückholen kann. Die Versuchung, es früh zu nehmen, ist Absicht.
 
 - Erzähler-Kapitel: `Story/Erzaehler/04b-Phae.md`
 - Magisches Wesen: `NPC/Phae/` (Stats, Faehigkeiten)
@@ -155,7 +160,10 @@ der angekettete Höhlentroll **Brecher** an der Hängebrücke (stark,
 aber clever zu schlagen: Feuer, Brücke, Futter), die Echohalle, und am
 Ende der Boss **Gorrum, der Steinwyrm**, vor der Tresortür. Den Boss
 muss man bekämpfen, aber die Feste selbst (Fallgitter, Blasebälge,
-Kran) lässt sich gegen ihre Bewohner benutzen.
+Kran) lässt sich gegen ihre Bewohner benutzen. Auf dem Rückweg
+erscheint Phae zum zweiten Mal: Wer mit ihm verhandelt, bekommt die
+**Sternenglut** (ein Funke pro Held für das Finale), und wer weiter
+fragt, hört noch einmal vom Wunder, falls es noch da ist.
 
 - Erzähler-Kapitel: `Story/Erzaehler/06-Dungeon-Hammerfeste.md`
 - Dungeon-Beschreibung: `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`
@@ -175,7 +183,9 @@ Spiegelgefängnis, Scherbenregen, Glasdiener). Sein **Spiegelkern**
 lässt ihn regenerieren und nach 0 TP wieder zusammensetzen. Das
 **Siegel des Spiegelbrechers** bricht den Kern, die **Klinge der
 Stille** stoppt seine Regeneration – erst dadurch wird der Dämon
-besiegbar.
+besiegbar. Nach dem Sieg erscheint Phae ein letztes Mal und fragt
+von selbst nach dem Wunder: Ist es noch da, können die Helden **alle
+Toten von Sommerhall** zurückholen, das vollkommene Ende.
 
 - Erzähler-Kapitel: `Story/Erzaehler/07-Finale.md`
 - Hauptquest-Übersicht: `Quests/Hauptquest-Der-Spiegeldaemon.md`
@@ -188,7 +198,8 @@ besiegbar.
 
 | Ende | Wie es dazu kommt | Wo |
 |---|---|---|
-| **Sieg** | Evakuieren, fliehen, Hammerfeste, zurückkehren, Vorgazhul besiegen. Der optimale Weg. | Kapitel 7 |
+| **Sommerhall erwacht** | Wie Sieg, und die Helden haben Phaes einziges Wunder bis zum Schluss aufgespart: Alle Toten der Stadt kommen zurück. Das vollkommene Ende, und das schwerste, weil das Wunder vorher zweimal verlockend angeboten wird. | Kapitel 7, „Phaes letztes Angebot" |
+| **Sieg** | Evakuieren, fliehen, Hammerfeste, zurückkehren, Vorgazhul besiegen. Der optimale Weg. Wer das Wunder früher gebraucht hat, endet hier. | Kapitel 7 |
 | **Gebannt** | Wie Sieg, aber mit heiliger Magie gebannt statt getötet. Rückkehr-Haken für später. | Kapitel 7, Szenario H |
 | **Die Retter von Sommerhall** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario H |
 | **Einer bleibt wach** | Das Finale geht verloren, nur der Träger des Amuletts der Traumwache überlebt. | Kapitel 7, Szenario I |

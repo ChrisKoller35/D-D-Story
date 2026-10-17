@@ -12,18 +12,20 @@
 3. **Der Traum** – TPK → Erwachen; eine Person erinnert sich;
    zweiter Durchlauf mit Vorteil → `Story/Erzaehler/03-Traum-und-Neustart.md`
 4. **Die Flucht** – der einzige Ausweg → `Story/Erzaehler/04-Die-Flucht.md`;
-   danach weist Phae den Weg nach Salzmund (und holt notfalls einen
-   Gefallenen zurück) → `Story/Erzaehler/04b-Phae.md`
+   danach weist Phae den Weg nach Salzmund und bietet auf Nachfrage
+   das **eine Wunder** der Kampagne an → `Story/Erzaehler/04b-Phae.md`
 5. **Die Legende** – Nerida recherchiert: vor 5.000 Jahren nur knapp
    versiegelt (200 Magier, 4 Kämpfer mit vier Gegenständen); die
    Gegenstände lagen bei den Gräbern der Vier unter dem Gezeitenturm,
    wurden gestohlen, die Diebe flohen in die Hammerfeste im Grauhorn,
    eine 20-Mann-Kompanie kam nie zurück → `Story/Erzaehler/05-Salzmund.md`,
    Unterquest: `Quests/Quest-Die-Hammerfeste.md`
-6. **Die Hammerfeste** – Dungeon abschließen, die gestohlenen Reliquien bergen
+6. **Die Hammerfeste** – Dungeon abschließen, die gestohlenen Reliquien bergen;
+   auf dem Rückweg Phaes zweites Erscheinen (Sternenglut, Wunder)
    → `Story/Erzaehler/06-Dungeon-Hammerfeste.md`
 7. **Das Finale** – Rückkehr; Vorgazhul ist angekommen und greift
-   an; Siegel-Ritual bricht seinen Spiegelkern, Phase 2, Sieg
+   an; Siegel-Ritual bricht seinen Spiegelkern, Phase 2, Sieg; danach
+   Phaes letztes Angebot (ungenutztes Wunder = ganze Stadt zurück)
    → `Story/Erzaehler/07-Finale.md`
 
 ## Belohnung
