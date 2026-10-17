@@ -50,13 +50,28 @@ fragen → `Spezialausruestung/Uebersicht.md` (je eigener Ordner mit
 - Schmuggler: 50 Gold, 2 Heiltränke, 2 Flaschen Brandöl, Lenes Notizbuch
   (→ `Quests/Nebenquest-Schmuggler.md`)
 
+## Phaes Gaben
+
+- **Das Wunder** (1× in der Kampagne, → `Story/Erzaehler/04b-Phae.md`,
+  „Das Wunder"): dreimal angeboten (Lagerfeuer nach der Flucht,
+  Rückweg aus dem Grauhorn, nach dem Sieg), einmal zu haben. Ein
+  Mensch, eine Sache oder ein Augenblick. Früh genommen: ein toter
+  Held zurück, oder die ganze Gruppe heil. Bis zum Schluss getragen:
+  **alle Toten von Sommerhall zurück**, das vollkommene Ende.
+- **Sternenglut** (Kapitel 6, gegen ein ehrliches Angebot,
+  → `NPC/Phae/Faehigkeiten/Faehigkeiten.md`): ein Funke pro Held bis
+  zum Ende der Kampagne. Vorteil gegen Furcht und Bezauberung; einmal
+  einen W20 wiederholen oder statt auf 0 TP bei 1 TP stehen bleiben.
+
 ## Nach dem Finale
 
 - **Dank von Sommerhall:** je 250 Gold, Ehrenbürgerschaft, lebenslang
   Kost & Logis in der „Sichel" – und das Fest heißt künftig „Fest
   der Vier Klingen".
-- **Phaes Abschied** (Vorschlag): Jede/r Held/in darf eine Frage
-  stellen, die Phae **vollständig und klar** beantwortet – die
-  einzige gerade Antwort, die es je gibt. (Alternativ: ein Funke, der
-  als winziger Sternenlicht-Begleiter bleibt. Rein kosmetisch,
-  unbezahlbar fürs Herz.)
+- **Phaes Abschied** (nur, wenn das Wunder schon verbraucht ist;
+  sonst ist das letzte Angebot der Abschied, → Kapitel 7, „Phaes
+  letztes Angebot"): Jede/r Held/in darf eine Frage stellen, die Phae
+  **vollständig und klar** beantwortet – die einzige gerade Antwort,
+  die es je gibt. (Alternativ: ein Funke, der als winziger
+  Sternenlicht-Begleiter bleibt. Rein kosmetisch, unbezahlbar fürs
+  Herz.)

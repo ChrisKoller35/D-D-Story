@@ -225,21 +225,32 @@ Stadt lebt, weil die Helden ihn gerettet haben
 (→ `Story/Story-Gesamt.md`, „Mögliche Enden"). Gib ihnen vorher alle
 Chancen: Vorgazhul selbst sagt „Ihr könnt mir nur ausweichen", die
 Erinnernde hat dieses Lächeln schon einmal gesehen. Und bedenke:
-Phae kann **einen** Gefallenen zurückholen (→ Kapitel 4b), nicht die
-ganze Gruppe.
+Phaes Wunder (→ Kapitel 4b) holt **einen** Gefallenen zurück, nicht
+die ganze Gruppe, und es wird nur Überlebenden angeboten.
 
 ### Szenario I · 🔀 Ganz anders: Sie reisen einfach ab, ohne jemanden zu warnen
 
 Hart, aber möglich. Die Helden überleben, die Stadt nicht: Der
 Weltenspiegel trifft alle 3.000 Menschen. Spiele Kapitel 4 normal,
 aber lass es wirken: Flüchtlinge gibt es kaum, und im Finale
-erwachen sechs Glasdiener mit bekannten Gesichtern.
+erwachen sechs Glasdiener mit bekannten Gesichtern. Die einzige
+Chance, das wiedergutzumachen, ist Phaes Wunder nach dem Sieg
+(→ Kapitel 4b, „Das Wunder"; Kapitel 7, „Phaes letztes Angebot"),
+und nur, wenn sie es bis dahin nicht ausgegeben haben.
 
 ### Kasten: Was, wenn die Gruppe schon im 1. Durchlauf komplett floh?
 
 Dann gab es keinen TPK und **keinen Traum**. Überspringe dieses
 Kapitel einfach – die Story funktioniert identisch weiter (Kapitel 4),
 und die Spieler haben sich die harte Lektion gespart. Fair ist fair.
+Der Preis: Sie haben **nur sich selbst gerettet**. Ohne Vorwissen
+und ohne den ganzen Festtag Zeit sterben die Leute von Sommerhall im
+Weltenspiegel (bis auf die paar, die sie auf dem Weg hinaus
+mitgenommen haben). Das soll wehtun, aber es ist nicht endgültig:
+Phaes Wunder (→ Kapitel 4b) kann nach dem Sieg **alle Toten der
+Stadt zurückholen**, wenn die Gruppe es bis dahin nicht für etwas
+anderes ausgibt. Beide Wege, Traum oder Flucht beim ersten Mal,
+führen also zur selben Frage: Wofür ist das eine Wunder?
 
 ---
 

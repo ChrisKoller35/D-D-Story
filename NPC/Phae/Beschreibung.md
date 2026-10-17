@@ -20,8 +20,10 @@ Was Phae wirklich ist (für dich als Erzähler, den Spielern nie direkt
 sagen): ein Rest von **Serenyas stillem Eid** – die Wacht, die sie
 der Welt hinterließ, als sie starb. Deshalb kennt es den Weg nach
 Salzmund, wo die Vier begraben liegen. Deshalb mischt es sich nicht
-weiter ein: Wachen heißt nicht kämpfen. Einen einzigen Gefallenen
-kann es zurückholen – einmal (→ Fähigkeiten, „Funke der Rückkehr").
+weiter ein: Wachen heißt nicht kämpfen. Was es den Helden geben
+kann, ist **ein einziges Wunder** in der ganzen Kampagne, dreimal
+angeboten, einmal zu haben (→ Fähigkeiten, „Das Wunder";
+Regeln in `Story/Erzaehler/04b-Phae.md`).
 
 ## Spielleiter-Regeln für Phae
 
@@ -30,9 +32,15 @@ kann es zurückholen – einmal (→ Fähigkeiten, „Funke der Rückkehr").
   unvollständig.
 - Kämpft **niemals**. Angegriffen → zerfällt in Funken
   (→ Kapitel 4b, Szenario D).
-- Holt am Lagerfeuer nach der Flucht **einen** gestorbenen Helden
-  zurück, einmal in der Kampagne (→ Kapitel 4b).
-- Maximal 3 Auftritte in der Kampagne (Kap. 4b, optional Kap. 5/6 als
-  Stupser, Abschied im Epilog), sonst wird es zur Lösungs-Hotline.
+- Bietet das **Wunder** dreimal an: am Lagerfeuer nach der Flucht
+  (nur wenn die Helden fragen, → Kapitel 4b), auf dem Rückweg aus dem
+  Grauhorn (nur wenn sie nach der Sternenglut weiter fragen,
+  → Kapitel 6) und nach dem Sieg (da fragt Phae selbst, → Kapitel 7).
+  Genommen ist genommen. Deutet nie an, wofür es später gut wäre.
+- Gibt beim zweiten Treffen gegen ein ehrliches Angebot die
+  **Sternenglut** (→ Fähigkeiten).
+- Genau 3 Auftritte in der Kampagne (Kap. 4b, Kap. 6, Kap. 7), dazu
+  höchstens ein Traum-Stupser, sonst wird es zur Lösungs-Hotline.
+  In die Kuppel kommt es nie; im Endkampf ist es nicht rufbar.
 
 Werte → `Stats/Stats.md` · Fähigkeiten → `Faehigkeiten/Faehigkeiten.md`

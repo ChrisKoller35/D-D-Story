@@ -145,10 +145,12 @@ Geist, der hilft. Spiele es ehrlich: Die Gruppe kann den Gefallenen
 hinaustragen (Grims Boot, zurück nach Salzmund; ein Priester im
 Gezeitenturm wirkt *Tote erwecken* gegen 500 Gold oder gegen das
 Versprechen, Jannik heimzubringen), oder die Gruppe spielt mit einem
-Helden weniger weiter. Hat Phae in Kapitel 4b schon jemanden
-zurückgeholt, ist das verbraucht. Ein Spieler ohne Charakter kann
-Jannik übernehmen (Werte: Kundschafter, Level 3), bis die Gruppe
-draußen ist.
+Helden weniger weiter. Die dritte Möglichkeit ist **Phaes Wunder**:
+Beim zweiten Erscheinen auf dem Rückweg (→ unten) kann die Gruppe es
+für den Gefallenen ausgeben, falls es noch da ist (→ Kapitel 4b,
+„Das Wunder", Regel 4). Ist es schon verbraucht, bleibt der
+Priester. Ein Spieler ohne Charakter kann Jannik übernehmen (Werte:
+Kundschafter, Level 3), bis die Gruppe draußen ist.
 
 **🔀 Ganz andere Verläufe**
 
@@ -192,6 +194,84 @@ Vorlesetext und die Vergabe der vier Belohnungen stehen in
 Gegenstand hat seinen eigenen Ordner mit **Effekte/** unter
 `Belohnungen/Seltene/` – lies die Effekte VOR dem Finale einmal ganz,
 die Items sind der Schlüssel zum Endkampf.
+
+## Phaes zweites Erscheinen: Verhandeln, Kraft und das Wunder
+
+**Erste Nacht nach der Tresorkammer**, auf dem Rückweg aus dem
+Grauhorn, wenn unten schon die Lichter von Salzmund zu sehen sind
+(oder auf Grims Boot, wenn die Gruppe übers Wasser zurückfährt).
+Phae erscheint nur, wenn es in Kapitel 4b **nicht angegriffen**
+wurde (→ Kapitel 4b, Szenario F).
+
+> Die vier Reliquien liegen bei euch, und zum ersten Mal seit dem
+> Fest fühlt es sich an, als hättet ihr etwas in der Hand. Auf dem
+> Felsen über dem Pfad sitzt ein Fuchs aus Nachthimmel und schaut
+> hinunter auf die Lichter von Salzmund. „Ihr habt sie", sagt Phae,
+> ohne sich umzudrehen. „Die Vier wären zufrieden. Serenya würde
+> sagen, ihr tragt sie falsch, aber sie hat das zu allen gesagt." Es
+> dreht den Kopf. „Noch ein Stück Weg. Das letzte. Was braucht ihr?"
+
+Phae hat hier drei Dinge zu geben, in dieser Reihenfolge:
+
+**1. Antworten (wie immer, etwa 3 Fragen).** Gute Verwendung:
+„Wie zerbricht man seinen Kern?" (Phae: „Mit dem Siegel. Drei
+Atemzüge lang, in seiner Nähe, und es darf nicht nur einer sein, der
+atmet." Das ist der Hinweis auf die 3 Ritualaktionen, verteilbar auf
+mehrere Helden.)
+
+**2. Kraft, wenn sie verhandeln: die Sternenglut.** Phae gibt
+Kraft nicht umsonst, nicht aus Geiz, sondern aus Prinzip
+(„Geschenke sind leicht. Ihr braucht es schwer."). Die Helden müssen
+etwas **anbieten**: ein Versprechen („Wir bringen ihnen die Stadt
+zurück", „Das Fest wird nach den Vier benannt", „Wir erzählen, wer
+Serenya war"), eine Erinnerung, ein Lied, eine Sache, an der ihnen
+etwas liegt. Jedes ehrliche Angebot zählt automatisch; wer nur
+fordert, braucht Überzeugen DC 12; wer droht, bekommt nichts (und
+Phae bleibt trotzdem freundlich). Gelingt es:
+
+> Phae pustet in seine Pfoten wie in kalte Hände, und zwischen ihnen
+> glimmt es. Ein Funke für jeden von euch. Er setzt sich dorthin, wo
+> ihr ihn nicht loswerdet: ins Haar, auf die Klinge, hinter das Ohr.
+> „Sternenglut", sagt Phae. „Sie hält nicht lange. Sie hält genau
+> einmal. Aber sie hält."
+
+**Sternenglut (jeder Held, bis zum Ende der Kampagne):**
+- **Dauerhaft:** Vorteil auf Rettungswürfe gegen Furcht und
+  Bezauberung, und Vorgazhuls Stimme (Flüstern, Spott, „Dein
+  schlechtestes Ich") kann den Träger nicht überraschen.
+- **Einmal, als Reaktion, eines von beiden:**
+  - **Den Funken werfen:** einen eigenen W20-Wurf (Angriff,
+    Rettungswurf, Probe) wiederholen, nachdem das Ergebnis bekannt
+    ist, und das bessere nehmen. Oder:
+  - **Der Funke fängt dich:** Wenn der Held auf 0 TP fallen würde,
+    bleibt er stattdessen bei **1 TP** stehen und ist nicht liegend.
+    Danach ist der Funke verglüht.
+- Der Funke ist kein Gegenstand (nicht stehlbar, nicht bannbar) und
+  erlischt, wenn er benutzt wurde oder Vorgazhul fällt.
+
+Ohne Verhandlung (die Gruppe fragt gar nicht nach Hilfe) gibt es
+keine Sternenglut, und Phae drängt sie nicht auf.
+
+**3. Das Wunder, wenn sie weiter fragen.** Fragt die Gruppe nach der
+Sternenglut noch einmal nach („Mehr?", „Was kannst du sonst noch?",
+„Kannst du uns noch etwas geben?"), antwortet Phae:
+
+> „Das Wunder ist noch da", sagt Phae, als hätte es darauf gewartet.
+> „Das eine. Ihr habt es nicht gebraucht. Oder nicht gewollt. Wollt
+> ihr es jetzt?" Und dann, genau wie damals am Feuer: „Wenn ihr es
+> nehmt, ist es fort."
+
+Es gelten die Regeln aus Kapitel 4b, „Das Wunder": Die Stadt und ihre
+Toten gehen **immer noch nicht** (der Dämon sitzt dort), ein
+gefallener Held geht, vollständige Heilung geht, eine Antwort geht.
+Ist das Wunder schon verbraucht, sagt Phae nur: „Es war eines. Ihr
+habt es gebraucht." Nehmen sie es jetzt, ist es fort; Phaes letzter
+Auftritt in Kapitel 7 wird dann zum Abschied. Tragen sie es weiter,
+sagt Phae nichts dazu als: „Interessant", und verschwindet mit dem
+Morgengrauen.
+
+Fragen sie **nicht** weiter, erwähnt Phae das Wunder nicht. Es kommt
+in Kapitel 7 von selbst darauf zurück.
 
 ## Übergang
 

@@ -59,8 +59,9 @@ den Helden auf diesem Hügel – lass sie die Gesichter sehen.
 
 Eine Nacht nach der Flucht, am Lagerfeuer, erscheint den Helden das
 magische Wesen **Phae** – das steht im eigenen Kapitel
-**4b** (→ `Story/Erzaehler/04b-Phae.md`), samt der Möglichkeit, einen
-gefallenen Helden zurückzuholen.
+**4b** (→ `Story/Erzaehler/04b-Phae.md`), samt der Regel für **Phaes
+Wunder**: ein einziges in der ganzen Kampagne, mit dem sich unter
+anderem ein gefallener Held zurückholen lässt.
 
 ---
 
@@ -89,14 +90,16 @@ los, wird es knapp: Abkürzung über die Mühlenbrücke (Baldric oder Alma
 kennen sie) oder ein Held trägt jemanden – Athletik DC 13 pro Person,
 die nicht selbst laufen kann. Wer bei 10 noch im Umkreis ist, stirbt im
 Weltenspiegel. Im 1. Durchlauf: Kapitel 3. Im 2. Durchlauf: Tod – es
-sei denn, Phae holt diese eine Person zurück (→ Kapitel 4b).
+sei denn, die Gruppe gibt Phaes **einziges Wunder** für diese Person
+aus (→ Kapitel 4b).
 
 ### Szenario C · ➖ Leichte Abweichung: Die Gruppe trennt sich bei der Flucht
 
 Einer bleibt, um Leute zu holen, die anderen gehen. Spiele beide
 Stränge kurz abwechselnd. Der Zurückgebliebene hat die Fluchtrechnung
 oben für sich allein; wer es nicht mehr schafft, stirbt im
-Weltenspiegel und kann von Phae zurückgeholt werden (→ Kapitel 4b).
+Weltenspiegel und kann nur noch durch Phaes Wunder zurückkommen
+(→ Kapitel 4b).
 
 **🔀 Ganz andere Verläufe**
 
