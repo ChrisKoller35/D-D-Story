@@ -39,10 +39,21 @@ der **Tag vor dem Fest**, früher Nachmittag.
 
 ## Karte: Hirsefurt von oben
 
-![Karte von Hirsefurt](Karten/Karte-Hirsefurt.svg)
+**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
 
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt.svg` (zum Ausdrucken oder
-Herzeigen am Tisch: `Karte-Hirsefurt.png` im selben Ordner).
+![Bildkarte von Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
+
+Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png`. Der Bach läuft von
+Norden nach Süden durchs Dorf, die Furt liegt südlich der Linde, Felder im
+Westen, Obstbäume rundherum. Die Bildkarte hat absichtlich keine Nummern;
+die Nummern der Legende beziehen sich auf den Lageplan darunter.
+
+**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
+
+![Lageplan von Hirsefurt](Karten/Karte-Hirsefurt.svg)
+
+Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt.svg` (als PNG:
+`Karte-Hirsefurt.png` im selben Ordner).
 
 **Legende:**
 1. **Linde mit Brunnen und Bank**: der Dorfplatz, hier rasten die Helden.
