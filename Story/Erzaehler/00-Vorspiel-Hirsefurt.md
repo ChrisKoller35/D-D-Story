@@ -87,6 +87,22 @@ Lass die Spieler ankommen: Most kaufen, Pferde tränken, sich
 unterhalten. Die Mostfrau heißt **Oma Wenke** und erzählt gern, dass
 „die ganze Jugend nach Sommerhall gelaufen ist, wegen dem Fest".
 
+Ganz leer ist das Dorf aber nicht. Wenkes Kinder sind längst erwachsen
+und stehen draußen auf den Feldern im Westen: Ihr Sohn **Jorin** (Ende
+dreißig, breite Schultern, redet wenig) und ihre Tochter **Liese**
+(ein paar Jahre jünger, hat das Mundwerk der Mutter geerbt) bringen
+mit zwei Knechten die Gerste ein. „Irgendwer muss ja hierbleiben und
+nach den Feldern schauen", sagt Wenke, „das Korn wartet auf kein
+Fest." Sie selbst bleibt auch: „Wenn die beiden abends reinkommen, steht
+das Essen auf dem Tisch. Das war immer so, und so bleibt das." Wer über
+die Felder schaut, sieht in der Ferne Jorins Strohhut zwischen den
+Garben auftauchen und wieder verschwinden; Liese winkt, wenn man winkt.
+Von der Linde zu den Feldern sind es nur ein paar hundert Schritt. Gehen
+die Helden hin, wischt sich Jorin die Hände an der Hose ab, gibt jedem
+einen festen Händedruck und hat genau drei Sätze übrig; Liese redet
+dafür für zwei und bestätigt, was die Mutter sagt: Sie gehen nicht zum
+Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
+
 **Vorlesetext – der Flyer-Junge:**
 
 > Da klappert es auf der Straße. Ein Esel trabt ins Dorf, schwer
@@ -131,6 +147,8 @@ einmal):**
   Feste sind der Grund, warum sie langsam reisen.
 - Oma Wenke: „Das Dunkelbier in Sommerhall, Kinder. Dafür lohnt sich
   der Umweg, und es ist nicht mal einer."
+- Liese, vom Feld herüber: „Geht nur. Einer von uns muss schließlich
+  wissen, wie das Freibier war, und Jorin erzählt ja nichts."
 
 **Übergang nach Sommerhall:** Gehen die Helden los, kommen sie am
 **Abend vor dem Fest** an. Tamo reitet voraus und hat schon alles
@@ -164,7 +182,9 @@ Genau so ist es gedacht. Weiter mit dem Übergang oben und Kapitel 1.
 Die Helden fragen Tamo und Oma Wenke über die Räuber aus. Oma Wenke
 weiß: „Drüben im Wald hinter den Mühlen, sagt man. Haben dem
 Krämer die Kiste mit den Nägeln geklaut. Nägel! Wer klaut denn
-Nägel?" Lass sie trotzdem erst nach Sommerhall gehen (dort sind Bett
+Nägel?" Jorin auf dem Feld hat mehr gesehen, wenn man ihn fragt:
+„Vorgestern. Vier Gestalten am Waldrand, bei Dämmerung. Sind nicht
+stehen geblieben." Mehr sagt er nicht, aber es stimmt. Lass sie trotzdem erst nach Sommerhall gehen (dort sind Bett
 und Bier). Am Festtag selbst können sie dann losziehen
 → Kapitel 1, Szenario E.
 
