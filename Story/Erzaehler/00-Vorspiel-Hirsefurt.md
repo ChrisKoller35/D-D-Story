@@ -39,14 +39,17 @@ der **Tag vor dem Fest**, früher Nachmittag.
 
 ## Karte: Hirsefurt von oben
 
-**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
+**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt, Bild von Christoph):
 
 ![Bildkarte von Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
 
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png`. Der Bach läuft von
-Norden nach Süden durchs Dorf, die Furt liegt südlich der Linde, Felder im
-Westen, Obstbäume rundherum. Die Bildkarte hat absichtlich keine Nummern;
-die Nummern der Legende beziehen sich auf den Lageplan darunter.
+Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png`. Das Bild zeigt den
+Dorfplatz mit der Linde und dem Brunnen, rechts daneben das Haus mit dem
+Wirtsschild und den Tischen davor (hier steht Oma Wenkes Moststand), die
+Höfe mit Gärten, Hühnern und Kühen, Kornfelder und Obstbäume rundherum,
+und unten die kleine Steinbrücke über den Bach, über die die Straße nach
+Sommerhall führt. Die Bildkarte hat keine Nummern; die Nummern der Legende
+beziehen sich auf den Lageplan darunter.
 
 **Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
 

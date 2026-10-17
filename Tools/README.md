@@ -23,3 +23,7 @@ python3 Tools/karten_generieren.py hirsefurt    # nur eine Karte (oder: sommerha
 
 Weitere Optionen: `--modell imagen` (direkt Imagen statt Gemini),
 `--prompt-anzeigen` (nur die Prompts ausgeben).
+
+**Hinweis:** Die eingecheckten `Karte-Hirsefurt-KI.png` und `Karte-Sommerhall-KI.png`
+sind eigene, extern erzeugte Bilder von Christoph (Stand 17.10.2026). Das Skript
+überschreibt sie beim Lauf; nur ausführen, wenn neue Varianten gewünscht sind.
