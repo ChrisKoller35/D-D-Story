@@ -14,20 +14,21 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 
 ## Karte: Sommerhall von oben
 
-**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
+**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt, Bild von Christoph):
 
 ![Bildkarte von Sommerhall](Karten/Karte-Sommerhall-KI.png)
 
 Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Die Bildkarte zeigt
-die ganze Stadt: das große Haupttor mit zwei Türmen im Norden, die
-Lindenallee bis zum Marktplatz mit Brunnen und Buden, östlich davon die
-riesige Festhalle mit der Rennstrecke, davor am Markt das Gasthaus „Zur
-Sichel“ (das große Fachwerkhaus mit Turm und Innenhof), im Nordwesten der
-Tempel mit dem hohen Turm, im Westen die Brauerei mit Kesseln und
-Fässern, die große Steinbrücke über den Fluss, vor dem Südtor die
-Unterstadt und das Spielfeld für die Festspiele, dahinter der Wald. Die
-Bildkarte hat absichtlich keine Nummern; die Nummern der Legende beziehen
-sich auf den Lageplan darunter, der die Stadt nur grob vereinfacht zeigt.
+die ganze Stadt im Festschmuck: das Haupttor mit zwei Rundtürmen im
+Norden, davor die Treppe hinunter zum Marktplatz mit dem Brunnen und den
+Buden, im Nordwesten der Tempel mit dem hohen Turm, im Nordosten die
+riesige Festhalle mit dem Festplatz davor, im Westen die Brauerei mit
+Kesseln, Fässern und Bierwagen, in der Mitte das Gasthaus „Zur Sichel“
+(das große Fachwerkhaus mit dem Turm), im Süden der große Festplatz mit
+Bühne, Maibaum, Tischen und Zelten für die Festspiele, im Südwesten die
+Steinbrücke über den Fluss, außerhalb der Mauer Felder, Gehöfte und Wald.
+Die Bildkarte hat keine Nummern; die Nummern der Legende beziehen sich
+auf den Lageplan darunter, der die Stadt nur grob vereinfacht zeigt.
 
 **Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
 
