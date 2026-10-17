@@ -14,10 +14,25 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 
 ## Karte: Sommerhall von oben
 
-![Karte von Sommerhall](Karten/Karte-Sommerhall.svg)
+**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
 
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (zum Ausdrucken oder
-Herzeigen am Tisch: `Karte-Sommerhall.png` im selben Ordner).
+![Bildkarte von Sommerhall](Karten/Karte-Sommerhall-KI.png)
+
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Die Bildkarte zeigt
+die ganze Stadt: Haupttor im Norden, die Lindenallee bis zum großen
+Marktplatz mit Brunnen und Buden, östlich davon die riesige Festhalle mit
+der Rennstrecke, im Süden ein zweiter großer Platz als Spielfeld für die
+Festspiele, Marktgassen voller Stände, Mühlen am Fluss im Westen und
+dahinter der Wald. Die Bildkarte hat absichtlich keine Nummern; die
+Nummern der Legende beziehen sich auf den Lageplan darunter, der die
+Stadt nur grob vereinfacht zeigt.
+
+**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
+
+![Lageplan von Sommerhall](Karten/Karte-Sommerhall.svg)
+
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
+`Karte-Sommerhall.png` im selben Ordner).
 
 **Legende:**
 1. **Stadttor** im Norden, Straße nach Hirsefurt: Hier empfängt Baldric die Helden am Abend vor dem Fest.
