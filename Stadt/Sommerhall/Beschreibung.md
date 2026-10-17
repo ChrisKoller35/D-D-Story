@@ -18,9 +18,14 @@ Menschen beisammen sind.
 
 ## Wichtige Personen
 
-- **Festmeister Baldric Immergrün** → `NPC/Festmeister-Baldric/`
+- **Hauptmann Baldric Immergrün**, Hauptmann der Stadtwache und
+  Ausrichter des Fests → `NPC/Hauptmann-Baldric/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
+- **Brauerin Gesa Holler**, Brauerei im Westen der Stadt; ihr
+  Jahrgangs-Dunkelbier („das gute Zeug") gibt es nur abends in der
+  Festhalle. Mutter von **Mira** (7, Holzpferd „Hafer"), dem Kind aus
+  Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)
 - **„Eisenhand" Grom**, Schmied, ungeschlagen im Armdrücken
   (→ `Story/Spieler/Festspiele.md`)
 - Die **Weise Frau Henna**, Rätselzelt – weiß mehr, als sie sagt

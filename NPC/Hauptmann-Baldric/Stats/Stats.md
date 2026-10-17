@@ -1,4 +1,4 @@
-# Festmeister Baldric – Statistiken
+# Hauptmann Baldric – Statistiken
 
 | | |
 |---|---|
@@ -12,5 +12,6 @@
 | Fertigkeiten | Überzeugen +5, Auftreten +5, Einsicht +4, Menschenkenntnis (Einsicht) für ganz Sommerhall |
 | HG | 1/4 |
 
-**Zivilist:** Baldric ist kein Kämpfer. Im Chaos würfelt er nicht um
+**Kein Kämpfer mehr:** Baldric trägt den Titel Hauptmann, aber seit
+Jahren mehr Listen als Waffen. Im Chaos würfelt er nicht um
 zu siegen, sondern um Zeit zu schinden (siehe Fähigkeiten).

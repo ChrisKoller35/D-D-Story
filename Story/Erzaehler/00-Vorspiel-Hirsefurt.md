@@ -1,7 +1,7 @@
 # Vorspiel: Rast in Hirsefurt
 
 **Nur für den Erzähler.** Der Einstieg in die Kampagne, noch vor dem
-Fest (→ danach Kapitel 1).
+Fest (→ danach Kapitel 0.5, der Weg nach Sommerhall, dann Kapitel 1).
 
 ## Ausgangslage
 
@@ -114,14 +114,19 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 > eure Waffen, eure Rüstungen, eure Narben – und bleibt wie
 > angewurzelt stehen. „Seid… seid ihr etwa Abenteurer? Echte?"
 
-Der Junge ist **Tamo**, Neffe von Festmeister Baldric
-(→ `NPC/Festmeister-Baldric/`). Er verteilt seit drei Tagen Flyer in
+Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
+(→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
-Helden einen Flyer in die Hand (→ **Handout**).
+Helden einen Flyer in die Hand (→ **Handout**). Bevor er weiterzieht
+(er hat noch zwei Dörfer vor sich, Eschenbrück und Kohlwinkel, und ist
+deshalb **nicht** vor den Helden in der Stadt), kritzelt er jedem auf
+die Rückseite eine Notiz für seine Tante: *„Tante Alma, das sind echte
+Helden vom Rabenpass. Bett in der Sichel! Tamo."* Das sichert ein Bett,
+mehr nicht; den Ehrenplatz verdienen sie sich unterwegs (→ Kapitel 0.5).
 
 **Was Tamo erzählt (je nachdem, was die Spieler fragen):**
-- „Mein Onkel ist der Festmeister! Wenn ihr kommt, sag ich ihm, dass
-  ich echte Helden gefunden hab. Dann kriegt ihr bestimmt umsonst
+- „Mein Onkel ist der Hauptmann der Stadtwache! Wenn ihr kommt, sag ich ihm, dass
+  ich echte Helden gefunden hab, sobald ich zurück bin. Dann kriegt ihr bestimmt umsonst
   Bier."
 - Fragt er, woher sie kommen, und hört „Rabenpass": große Augen.
   „Vom Rabenpass? Von der Schlacht? Mein Onkel hat davon erzählt!
@@ -150,16 +155,14 @@ einmal):**
 - Liese, vom Feld herüber: „Geht nur. Einer von uns muss schließlich
   wissen, wie das Freibier war, und Jorin erzählt ja nichts."
 
-**Übergang nach Sommerhall:** Gehen die Helden los, kommen sie am
-**Abend vor dem Fest** an. Tamo reitet voraus und hat schon alles
-erzählt: Festmeister Baldric erwartet sie am Stadttor, schüttelt jede
-Hand und erklärt sie mit dröhnender Stimme spontan zu **Ehrengästen**
-(„Helden, deren Namen man sogar hier singt! Ihr schlaft in der
-Sichel, auf Kosten der Stadt!"). Sie übernachten im Gasthaus „Zur
-Sichel" und wachen am **Morgen des Fests** dort auf. Beschreibe diesen
-Morgen liebevoll und merke dir deine Worte
-(→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`): Genau dieser
-Morgen kehrt in Kapitel 3 zurück. → Kapitel 1.
+**Übergang:** Brechen die Helden auf, frag beiläufig, wohin: direkt
+nach Sommerhall oder erst zu den Räubern. Beides führt in
+**Kapitel 0.5** (→ `00b-Der-Weg-nach-Sommerhall.md`): Auf der Straße
+wird die Kutsche der Brauerin Gesa überfallen, die Helden retten Bier,
+Leute und ein kleines Mädchen mit Holzpferd, liefern die Räuber bei
+Baldric ab und werden dafür zu **Ehrengästen**. Sie übernachten im
+Gasthaus „Zur Sichel" und wachen am **Morgen des Fests** dort auf
+(→ Kapitel 1).
 
 ---
 
@@ -184,9 +187,12 @@ weiß: „Drüben im Wald hinter den Mühlen, sagt man. Haben dem
 Krämer die Kiste mit den Nägeln geklaut. Nägel! Wer klaut denn
 Nägel?" Jorin auf dem Feld hat mehr gesehen, wenn man ihn fragt:
 „Vorgestern. Vier Gestalten am Waldrand, bei Dämmerung. Sind nicht
-stehen geblieben." Mehr sagt er nicht, aber es stimmt. Lass sie trotzdem erst nach Sommerhall gehen (dort sind Bett
-und Bier). Am Festtag selbst können sie dann losziehen
-→ Kapitel 1, Szenario E.
+stehen geblieben." Mehr sagt er nicht, aber es stimmt. Wollen sie
+sofort los, greift die Weiche aus Kapitel 0.5: Wer zuerst zu den
+Räubern will, erlebt keinen Überfall, sondern findet das Lager einen
+Tag früher (→ `00b-Der-Weg-nach-Sommerhall.md`, Szenario D). Wollen
+sie erst in die Stadt, kommt der Überfall auf der Straße (Szenario A
+dort), und das Lager bleibt für den Festtag (→ Kapitel 1, Szenario E).
 
 **🔀 Ganz andere Verläufe**
 

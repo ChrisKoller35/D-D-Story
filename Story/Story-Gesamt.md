@@ -20,19 +20,33 @@ zum Fest zu gehen.
 - Erzähler-Kapitel: `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`
 - Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
 
+## Kapitel 0.5: Der Weg nach Sommerhall
+
+Auf der Straße nach Sommerhall wird die Kutsche der **Brauerin Gesa**
+von Räubern überfallen: sechs Fässer Jahrgangsbier für die Festhalle,
+die Preistruhe der Festspiele, und auf dem Bock Gesas Tochter **Mira**
+mit ihrem Holzpferd. Die Helden retten alle, die Torwachen schicken sie
+durch zu Baldric vor der Festhalle, und der macht sie für die Räuber
+und das gerettete Bier zu **Ehrengästen**; sie übernachten im Gasthaus „Zur Sichel". Wer
+von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
+Überfall, sondern findet das Lager einen Tag früher.
+
+- Erzähler-Kapitel: `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`
+
 ## Akt 1: Das Fest der Goldenen Ähre (Sommerhall)
 
 Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
 wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele auf dem
 Marktplatz), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
-Alles ist perfekt – fast zu perfekt. Wer lieber den Räubern aus Tamos
-Geschichte nachjagt, findet ein Räuberlager: harmlose Tagelöhner, die
+Alles ist perfekt – fast zu perfekt. Mira, das Mädchen mit dem
+Holzpferd, sucht die Helden in der Halle. Wer lieber dem Rest der
+Räuberbande nachjagt, findet ein Räuberlager: harmlose Tagelöhner, die
 sich nach den ersten Toten ergeben.
 
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
-- NPC: `NPC/Festmeister-Baldric/`
+- NPC: `NPC/Hauptmann-Baldric/`
 
 ## Akt 2: Das Ritual und der Dämon
 
