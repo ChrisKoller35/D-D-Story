@@ -19,6 +19,7 @@ zum Fest zu gehen.
 
 - Erzähler-Kapitel: `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`
 - Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
+  (Bild zum Herzeigen: `Story/Spieler/Festflyer-Sommerhall.png`)
 
 ## Kapitel 0.5: Der Weg nach Sommerhall
 

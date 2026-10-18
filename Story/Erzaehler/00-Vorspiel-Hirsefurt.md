@@ -25,7 +25,8 @@ Dieser Monat war ihre Pause. Sie sind **vollständig erholt**: volle
 HP, alle Zauberslots, Zustände geheilt, plus **1 Inspiration** pro
 Spieler als „Erholungsbonus". Vom Fest in **Sommerhall** haben sie
 noch nichts gehört; davon erfahren sie erst hier, in einem kleinen
-Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`).
+Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`,
+der Flyer als Bild zum Herzeigen: `Story/Spieler/Festflyer-Sommerhall.png`).
 
 **Ziel der Szene:** Die Spieler sollen das Gefühl haben, **selbst
 entschieden** zu haben, zum Fest zu gehen. Keine Einladung, kein
@@ -35,37 +36,22 @@ Minuten.
 **Ort:** **Hirsefurt**, ein Dorf mit zwölf Häusern, einer Furt über
 den Bach und einem Brunnen unter einer alten Linde. Ein halber Tag
 Fußweg (zu Pferd: ein paar Stunden) nördlich von Sommerhall. Es ist
-der **Tag vor dem Fest**, früher Nachmittag.
+der **Tag vor dem Fest**, der 11. Tag des Ährenmonds, früher Nachmittag.
+(Das Fest ist am **12. Tag des Ährenmonds**, so steht es auf dem Flyer.)
 
 ## Karte: Hirsefurt von oben
 
-**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
+![Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
 
-![Bildkarte von Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
+Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png` (zum Herzeigen am Tisch).
 
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png`. Der Bach läuft von
-Norden nach Süden durchs Dorf, die Furt liegt südlich der Linde, Felder im
-Westen, Obstbäume rundherum. Die Bildkarte hat absichtlich keine Nummern;
-die Nummern der Legende beziehen sich auf den Lageplan darunter.
-
-**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
-
-![Lageplan von Hirsefurt](Karten/Karte-Hirsefurt.svg)
-
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt.svg` (als PNG:
-`Karte-Hirsefurt.png` im selben Ordner).
-
-**Legende:**
-1. **Linde mit Brunnen und Bank**: der Dorfplatz, hier rasten die Helden.
-2. **Oma Wenkes Moststand**: ein Fass und ein Brett daneben, zwei Kupfer der Becher.
-3. **Die Furt**: flache Steine im Bach, man kommt trockenen Fußes rüber.
-4. **Straße nach Sommerhall**: über die Furt nach Süden, ein halber Tag zu Fuß.
-5. **Straße aus dem Norden**: hier kommen die Helden über den Hügel ins Dorf. Tamos Esel klappert dieselbe Straße entlang.
-6. **Obstgärten**: Apfelbäume, daher der Most.
-
-Dazu zwölf Häuser (neun diesseits, drei jenseits des Bachs), Felder im
-Westen und Hühner, die überall herumlaufen. Mehr gibt es in Hirsefurt
-nicht, und genau das ist der Punkt.
+**Was auf dem Bild zu sehen ist:**
+- **Dorfplatz** in der Mitte: die alte Linde, davor der Brunnen und eine Bank. Hier rasten die Helden.
+- **Oma Wenkes Moststand**: das Haus mit dem Wirtsschild und den Tischen davor, rechts der Linde. Ein Fass, ein Brett, zwei Kupfer der Becher.
+- **Der Bach** unten im Bild mit der kleinen Steinbrücke; direkt daneben die **Furt** mit flachen Steinen, über die man trockenen Fußes kommt.
+- **Straße nach Sommerhall**: über Furt und Brücke nach Süden (unten aus dem Bild), ein halber Tag zu Fuß.
+- **Straße aus dem Norden**: oben rechts über die Hügel ins Dorf. Hier kommen die Helden an, und hier klappert Tamos Esel entlang.
+- **Höfe und Obstgärten**: ein Dutzend Höfe mit Gärten, Hühnern, Kühen und einem Stall mit Pferd; Apfelbäume (daher der Most) und Kornfelder rundherum. Mehr gibt es in Hirsefurt nicht, und genau das ist der Punkt.
 
 ## Die Szene
 
@@ -117,7 +103,8 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
 (→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
-Helden einen Flyer in die Hand (→ **Handout**). Bevor er weiterzieht
+Helden einen Flyer in die Hand (→ **Handout**, zeig den Spielern das
+Bild `Story/Spieler/Festflyer-Sommerhall.png`). Bevor er weiterzieht
 (er hat noch zwei Dörfer vor sich, Eschenbrück und Kohlwinkel, und ist
 deshalb **nicht** vor den Helden in der Stadt), kritzelt er jedem auf
 die Rückseite eine Notiz für seine Tante: *„Tante Alma, das sind echte
