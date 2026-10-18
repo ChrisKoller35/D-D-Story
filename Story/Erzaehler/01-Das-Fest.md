@@ -19,44 +19,27 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 
 ## Karte: Sommerhall von oben
 
-**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt im D&D-Stil, Pergament):
+![Sommerhall](Karten/Karte-Sommerhall-KI.png)
 
-![Bildkarte von Sommerhall](Karten/Karte-Sommerhall-KI.png)
+Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch).
 
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`. Die Bildkarte zeigt
-die ganze Stadt: das große Haupttor mit zwei Türmen im Norden, die
-Lindenallee bis zum Marktplatz mit Brunnen und Buden, östlich davon die
-riesige Festhalle mit der Rennstrecke, davor am Markt das Gasthaus „Zur
-Sichel“ (das große Fachwerkhaus mit Turm und Innenhof), im Nordwesten der
-Tempel mit dem hohen Turm, im Westen die Brauerei mit Kesseln und
-Fässern, die große Steinbrücke über den Fluss, vor dem Südtor die
-Unterstadt und das Spielfeld für die Festspiele, dahinter der Wald. Die
-Bildkarte hat absichtlich keine Nummern; die Nummern der Legende beziehen
-sich auf den Lageplan darunter, der die Stadt nur grob vereinfacht zeigt.
+**Was auf dem Bild zu sehen ist:**
+- **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Gesa und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
+- **Treppe und Lindenallee** vom Tor hinunter zum Markt: tagsüber spielen hier die Musikanten.
+- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: tagsüber Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
+- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Rund um die Halle läuft das Fassrollen-Rennen (→ `Stadt/Sommerhall/Orte/Festhalle.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+- **Gasthaus „Zur Sichel“**: das große Fachwerkhaus mit dem Turm mitten in der Stadt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
+- **Tempel** oben links mit dem hohen Turm.
+- **Brauerei** links mit Kesseln, Fässern und Bierwagen: Brauerin Gesa, ihr Dunkelbier gibt es abends in der Festhalle.
+- **Festplatz** unten mit Bühne, Maibaum, Tischen und Zelten: der zweite große Platz für die Festspiele.
+- **Fluss und Steinbrücke** unten links; flussaufwärts im Westen liegen die **drei Mühlen** des Mühlenviertels, dahinter der **Wald**: 2–3 Stunden hinein liegt das Räuberlager (→ Szenario E).
+- Außerhalb der Mauer Felder, Gehöfte und der Wald.
 
-**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
-
-![Lageplan von Sommerhall](Karten/Karte-Sommerhall.svg)
-
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
-`Karte-Sommerhall.png` im selben Ordner).
-
-**Legende:**
-1. **Stadttor** im Norden, Straße nach Hirsefurt: Die Torwachen kennen Gesa und schicken die Kutsche am Abend vor dem Fest durch zu Baldric vor der Festhalle (→ Kapitel 0.5).
-2. **Lindenallee**: die Prachtstraße vom Tor zum Markt, tagsüber spielen hier die Musikanten.
-3. **Marktplatz** mit Erntealtar (Norden) und Brunnen der Drei Mühlen (Mitte): tagsüber Buden, Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
-4. **Große Festhalle** (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen zum Markt, Dienstbotentür hinter der Bühne in die Gasse. Der gestrichelte Ring drumherum ist die Strecke des Fassrollen-Rennens (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
-5. **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, ein Nebenweg für Eingeweihte (→ Kapitel 2b).
-6. **Gasthaus „Zur Sichel"** am Markt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
-7. **Die drei Mühlen** am Flüsschen im Mühlenviertel.
-8. **Wald hinter den Mühlen**, westlich vor der Stadt: 2–3 Stunden hinein liegt das Räuberlager (→ Szenario E).
-
-**Violett gestrichelt:** der Leylinien-Knoten, tief unter Festhalle und
-halbem Marktplatz. Niemand in Sommerhall weiß davon; er ist nur für dich.
-
-Die sechs Viertel (Lindenallee, Marktviertel, Mühlenviertel, Gerbergasse,
-Unterstadt, Höfe am Stadtrand) stehen kursiv auf der Karte; sie zählen
-bei der Evakuierung der Stadt (→ `Story/Erzaehler/02b-Evakuierung.md`).
+**Nur für dich:** Der Leylinien-Knoten liegt tief unter Festhalle und halbem
+Marktplatz; er ist auf dem Bild nicht markiert, und niemand in Sommerhall
+weiß davon. Die sechs Viertel (Lindenallee, Marktviertel, Mühlenviertel,
+Gerbergasse, Unterstadt, Höfe am Stadtrand) zählen bei der Evakuierung der
+Stadt (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
 ## Stimmung & Ablauf
 
