@@ -15,19 +15,22 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 
 **Fluchtwege (wichtig für Akt 2!):**
 
-1. Großes Doppelportal (Haupteingang) – wird zuerst versiegelt
-2. Dienstbotentür hinter der Bühne → Gasse
-3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
-4. Kellerausgang → Bierkeller → Rampe zum Hof (den kennen nur
-   Einheimische – Baldric, Alma oder die Brauerin Gesa, die ihre Fässer
-   über diese Rampe anliefert, können ihn zeigen) – **wird nie
+1. **Großes Doppelportal** (Haupteingang im Süden) → Festplatz →
+   Markt – **der Standardweg** für Gäste und Helden, **wird nie
    versiegelt**
+2. Dienstbotentür hinter der Bühne → Gasse – wird zuerst versiegelt
+3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
+4. Kellertreppe am Ausschank → Bierkeller → Rampe zum Hof (den kennen
+   nur Einheimische – Baldric, Alma oder die Brauerin Gesa, die ihre
+   Fässer über diese Rampe anliefert, können ihn zeigen) – schmal,
+   nur für Einzelne, wird zuletzt versiegelt
 
-Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen Weg**
-(Reihenfolge wie oben, Portal zuerst) – fühlbarer Countdown. Den
-**Kellerausgang lässt er immer offen**: Den letzten Weg versiegelt er
-nie, er will, dass man flieht und von ihm erzählt. Für die Flucht
-der Helden heißt das: Raus kommen sie immer, es geht nur um Zeit
+Vorgazhul versiegelt ab seinem Erscheinen **pro Runde einen
+Nebenausgang** (Reihenfolge 2 → 3 → 4) – fühlbarer Countdown. Das
+**große Portal lässt er immer offen**: Den Hauptweg versiegelt er nie,
+er will, dass man vor aller Augen flieht und von ihm erzählt. Für die
+Flucht der Helden heißt das: Raus kommen sie immer, mit dem Strom der
+Gäste durch die Halle auf den Markt, es geht nur um Zeit
 (→ `Story/Erzaehler/04-Die-Flucht.md`). Ein versiegelter Weg ist
 Spiegelglas und lässt sich zerschlagen, aber das zählt als Treffer auf
 ihn (+1 Aufladung). Evakuierungs-Regeln →
@@ -35,7 +38,8 @@ ihn (+1 Aufladung). Evakuierungs-Regeln →
 
 ## Keller
 
-Bierkeller (Fässer, Rampe) mit dem Kellerausgang zum Hof. Darunter,
+Bierkeller (Fässer, Rampe) mit dem Kellerausgang zum Hof – ein
+Nebenweg für Eingeweihte, nicht der Fluchtweg der Menge. Darunter,
 tief im Boden und von niemandem mehr erinnert: **der Leylinien-Knoten**,
 an dem Vorgazhul vor 5.000 Jahren gebannt wurde.
 

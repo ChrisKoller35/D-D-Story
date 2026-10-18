@@ -104,8 +104,10 @@ fliehen. Einen dritten Versuch gibt es nicht.
 Der **einzige Weg zu überleben ist die Flucht vom Fest** – das wissen
 die Helden aber noch nicht. Die Flucht selbst ist **nicht schwer**:
 Es gibt keine Gegner, und Vorgazhul kann in dieser Phase nicht
-angreifen. Es muss nur **zeitlich aufgehen** – mehr als 1 km weg sein,
-bevor der Schild 10 Aufladungen hat.
+angreifen. Der Weg führt mit allen anderen aus dem Festsaal durch das
+große Portal auf den Markt und dann aus der Stadt. Es muss nur
+**zeitlich aufgehen** – mehr als 1 km weg sein, bevor der Schild
+10 Aufladungen hat.
 
 - Erzähler-Kapitel: `Story/Erzaehler/04-Die-Flucht.md`
 

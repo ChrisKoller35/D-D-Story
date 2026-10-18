@@ -46,7 +46,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Sommerhall.svg` (als PNG:
 2. **Lindenallee**: die Prachtstraße vom Tor zum Markt, tagsüber spielen hier die Musikanten.
 3. **Marktplatz** mit Erntealtar (Norden) und Brunnen der Drei Mühlen (Mitte): tagsüber Buden, Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
 4. **Große Festhalle** (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen zum Markt, Dienstbotentür hinter der Bühne in die Gasse. Der gestrichelte Ring drumherum ist die Strecke des Fassrollen-Rennens (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
-5. **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+5. **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, ein Nebenweg für Eingeweihte (→ Kapitel 2b).
 6. **Gasthaus „Zur Sichel"** am Markt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
 7. **Die drei Mühlen** am Flüsschen im Mühlenviertel.
 8. **Wald hinter den Mühlen**, westlich vor der Stadt: 2–3 Stunden hinein liegt das Räuberlager (→ Szenario E).
@@ -135,10 +135,11 @@ unter. Das Ritual passiert trotzdem.
 
 Kein Problem: Das Ritual betrifft die ganze Stadt. Wer draußen ist,
 hört die Schreie aus der Festhalle und sieht violettes Licht aus den
-Fenstern. Vorgazhul **versiegelt die Festhalle** Ausgang für Ausgang,
-einen pro Runde (→ `Stadt/Sommerhall/Orte/Festhalle.md`) – nur den
-Kellerausgang lässt er offen. Wer schnell ist, kommt noch rein (und
-raus kommt man immer).
+Fenstern, und die ersten Gäste stürzen durch das große Portal auf den
+Festplatz. Vorgazhul **versiegelt die Nebenausgänge** einen pro Runde
+(→ `Stadt/Sommerhall/Orte/Festhalle.md`) – das große Portal lässt er
+offen. Wer schnell ist, kommt gegen den Strom noch rein (und raus kommt
+man immer).
 Hinweis für später: Dass „draußen sein" sich richtig anfühlt, ist ein
 leiser Vorgriff auf die Flucht-Lösung (→ Kapitel 4).
 

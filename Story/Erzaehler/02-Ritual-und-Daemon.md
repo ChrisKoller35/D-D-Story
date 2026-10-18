@@ -52,6 +52,11 @@ nicht direkt neben einem Kultisten steht, hört und sieht nichts.
 | **Kultist 3** | Ganz hinten (Süden), an der Garderobe neben dem großen Portal | Großes Doppelportal |
 | **Kultist 4** | Auf der Musikanten-Empore in der Nordostecke | Dienstbotentür |
 
+Der Weg nach draußen ist für alle derselbe: das **große Doppelportal**
+hinten im Süden, hinaus auf den Festplatz und den Markt. Es wird nie
+versiegelt (→ `Stadt/Sommerhall/Orte/Festhalle.md`). Die anderen
+Ausgänge sind Nebenwege.
+
 Die Kultisten tragen **graue Umhänge mit tiefen Kapuzen** (keine
 Masken), die Silbersichel unter dem Umhang. Sie stehen still, den
 Blick zur Bühne, und murmeln ohne Pause dieselbe Formel. Zwischen
@@ -260,7 +265,7 @@ Panik aus.
   nicht von selbst, aber ein Held kann sie anschreien, schubsen,
   mitziehen. Pro Moment und Held: Überzeugen, Einschüchtern oder
   Auftreten **DC 12**. Erfolg = **2 Gruppen** (100 Gäste) raus durch
-  den nächsten Ausgang, Misserfolg = 1 Gruppe. Noch ist kein Ausgang
+  das große Portal, Misserfolg = 1 Gruppe. Noch ist kein Ausgang
   versiegelt – das beginnt erst, wenn Vorgazhul da ist
   (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
@@ -412,8 +417,9 @@ hinspringt, und schafft den extrem schweren Wurf (19 plus eigener
 Modifikator, → Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
 trotzdem, aber dieser eine Moment wird den Spielern ewig bleiben.
 Belohne ihn: Miras Mutter, die **Brauerin Gesa** (→ Kapitel 0.5),
-kennt den Bierkeller wie ihre Westentasche und führt später eine ganze
-Gruppe Gäste zum Kellerausgang (zählt wie Baldric, +4), oder Mira
+stellt sich später ans große Portal und treibt eine ganze Gruppe
+Gäste hinaus auf den Markt (zählt wie Baldric, +4; sie kennt außerdem
+die Kellerrampe, falls jemand einen Nebenweg braucht), oder Mira
 selbst taucht im Finale im Lager vor der Kuppel wieder auf.
 
 ### Szenario I · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
@@ -432,9 +438,11 @@ Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
 **Flucht funktioniert – und sie ist nicht schwer.** Keine Gegner,
 kein Kampf: Vorgazhul kann in diesem Zustand nicht angreifen, er
-verfolgt sie nicht und ist an den Ritualort gebunden. Die Ausgänge
-werden nacheinander zu Glas, aber der **Kellerausgang bleibt immer
-offen** (→ Karte in `Stadt/Sommerhall/Orte/Festhalle.md`). Es geht
+verfolgt sie nicht und ist an den Ritualort gebunden. Die
+Nebenausgänge werden nacheinander zu Glas, aber das **große Portal
+bleibt immer offen**: Die Helden laufen mit dem Strom der Gäste durch
+die Halle hinaus auf den Markt (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
+Es geht
 nur darum, dass es **zeitlich aufgeht**: Raus aus der Halle reicht
 nicht – **raus aus der Stadt** (1 km), bevor der Schild 10 Aufladungen
 hat (→ Kapitel 4, „Die Fluchtrechnung"). Wer entkommt, sieht später
