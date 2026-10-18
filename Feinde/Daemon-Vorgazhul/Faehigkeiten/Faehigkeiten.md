@@ -94,9 +94,10 @@ Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
   lasse deine Freunde gehen.") – jeder Schlag ist eine Aufladung, und
   „gehen lassen" kostet ihn nichts, weil er sowieso niemanden
   festhält. Wahr, aber verdreht.
-- **Versiegeln:** Pro Runde verwandelt er einen Ausgang der Festhalle
-  in Spiegelglas (→ `Stadt/Sommerhall/Orte/Festhalle.md`) – außer
-  dem **Kellerausgang**: Den letzten Weg lässt er immer offen. Ein
+- **Versiegeln:** Pro Runde verwandelt er einen Nebenausgang der
+  Festhalle in Spiegelglas (Dienstbotentür, Westfenster, Kellertreppe,
+  → `Stadt/Sommerhall/Orte/Festhalle.md`) – nie das **große Portal**:
+  Den Hauptweg auf den Markt lässt er immer offen. Ein
   versiegelter Ausgang lässt sich zerschlagen – aber das Glas ist ein
   Teil von ihm: **Zerschlagen zählt als Treffer** (Regel 1).
 - **Schweben:** 9 m schwebend, nie weiter als 150 m vom Ritualort.

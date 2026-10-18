@@ -16,6 +16,12 @@ Zwei Unterkapitel:
 
 Karte und Ausgänge → `Stadt/Sommerhall/Orte/Festhalle.md`.
 
+**Der Standardweg nach draußen:** aus dem Festsaal durch das **große
+Doppelportal** (Haupteingang im Süden) hinaus auf den Festplatz und den
+Markt. So fliehen die Gäste, so fliehen normalerweise auch die Helden.
+Die Nebenausgänge (Dienstbotentür, Westfenster, Kellertreppe) sind
+Abkürzungen für Einzelne, nicht für 600 Menschen.
+
 ### Während der Opfer-Sequenz (bevor das Tor offen ist)
 
 - **Niemand flieht von selbst.** Alle Gäste erstarren vor Entsetzen
@@ -29,20 +35,25 @@ Karte und Ausgänge → `Stadt/Sommerhall/Orte/Festhalle.md`.
 ### Sobald Vorgazhul da ist
 
 - Die Starre löst sich, die echte Panik beginnt.
-- Pro Runde versiegelt Vorgazhul **einen Ausgang** (Reihenfolge:
-  Portal → Dienstbotentür → Westfenster). **Ausgänge in einer
+- Pro Runde versiegelt Vorgazhul **einen Nebenausgang** (Reihenfolge:
+  Dienstbotentür → Westfenster → Kellertreppe). **Ausgänge in einer
   dunklen Ecke** (Kultist vor 0:00 zum Schweigen gebracht) **kann er
-  nicht versiegeln** – sie bleiben offen, er überspringt sie. **Den
-  Kellerausgang versiegelt er nie** – den letzten Weg lässt er immer
-  offen („Lauft ruhig. Erzählt von mir."). Wer fliehen will, kommt
-  also immer raus; die Frage ist nur, wie schnell die Menge durch
-  diese eine Tür passt.
-- **Ausgang mit Held, der die Menge lenkt** (Aktion; Überzeugen,
+  nicht versiegeln** – sie bleiben offen, er überspringt sie. **Das
+  große Portal versiegelt er nie** – den Hauptweg lässt er immer
+  offen („Lauft ruhig. Durch die große Tür, damit euch alle sehen.
+  Erzählt von mir."). Wer fliehen will, kommt also immer raus; die
+  Frage ist nur, wie schnell die Menge durch diese eine Tür passt.
+- **Portal mit Held, der die Menge lenkt** (Aktion; Überzeugen,
   Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
-  Misserfolg = 1 Gruppe. Baldric oder Alma zählen wie ein Held
-  (mit +4), wenn man sie darum bittet.
-- **Ausgang ohne Held:** Panik, Gedränge – nur **1 Gruppe alle
+  Misserfolg = 1 Gruppe. Baldric, Alma oder die Brauerin Gesa zählen
+  wie ein Held (mit +4), wenn man sie darum bittet.
+- **Portal ohne Held:** Panik, Gedränge – nur **1 Gruppe alle
   2 Runden**.
+- **Nebenausgänge** (solange offen): Dienstbotentür und Westfenster
+  höchstens **1 Gruppe pro Runde**, auch mit Held. Die **Kellertreppe**
+  (Bierkeller, Rampe zum Hof) kennen nur Einheimische (Baldric, Alma,
+  Gesa); sie ist schmal: ebenfalls höchstens 1 Gruppe pro Runde. Der
+  Keller ist der Weg für ein paar Leute, nie für die Menge.
 
 ### Die Panik-Regel
 
