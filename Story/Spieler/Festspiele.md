@@ -2,8 +2,9 @@
 
 **Spieler-Material** – diese Spiele könnt ihr auf dem Fest spielen.
 Jede Teilnahme kostet 1 Silber Einsatz. Preise → Siegerehrung!
-Die Spiele 1–4 laufen tagsüber draußen auf dem Marktplatz, ab 17 Uhr
-zieht das Fest in die Große Festhalle um.
+Die Spiele 1–4 laufen tagsüber draußen auf dem Marktplatz, los geht
+es zur 10. Morgenstunde; ab 17 Uhr zieht das Fest in die Große
+Festhalle um.
 
 ## 1. Axtwerfen „Der Spalter"
 

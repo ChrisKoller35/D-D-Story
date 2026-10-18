@@ -25,7 +25,8 @@ Dieser Monat war ihre Pause. Sie sind **vollständig erholt**: volle
 HP, alle Zauberslots, Zustände geheilt, plus **1 Inspiration** pro
 Spieler als „Erholungsbonus". Vom Fest in **Sommerhall** haben sie
 noch nichts gehört; davon erfahren sie erst hier, in einem kleinen
-Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`).
+Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`,
+der Flyer als Bild zum Herzeigen: `Story/Spieler/Festflyer-Sommerhall.png`).
 
 **Ziel der Szene:** Die Spieler sollen das Gefühl haben, **selbst
 entschieden** zu haben, zum Fest zu gehen. Keine Einladung, kein
@@ -35,7 +36,8 @@ Minuten.
 **Ort:** **Hirsefurt**, ein Dorf mit zwölf Häusern, einer Furt über
 den Bach und einem Brunnen unter einer alten Linde. Ein halber Tag
 Fußweg (zu Pferd: ein paar Stunden) nördlich von Sommerhall. Es ist
-der **Tag vor dem Fest**, früher Nachmittag.
+der **Tag vor dem Fest**, der 11. Tag des Ährenmonds, früher Nachmittag.
+(Das Fest ist am **12. Tag des Ährenmonds**, so steht es auf dem Flyer.)
 
 ## Karte: Hirsefurt von oben
 
@@ -101,7 +103,8 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
 (→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
-Helden einen Flyer in die Hand (→ **Handout**). Bevor er weiterzieht
+Helden einen Flyer in die Hand (→ **Handout**, zeig den Spielern das
+Bild `Story/Spieler/Festflyer-Sommerhall.png`). Bevor er weiterzieht
 (er hat noch zwei Dörfer vor sich, Eschenbrück und Kohlwinkel, und ist
 deshalb **nicht** vor den Helden in der Stadt), kritzelt er jedem auf
 die Rückseite eine Notiz für seine Tante: *„Tante Alma, das sind echte

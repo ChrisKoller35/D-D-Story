@@ -45,7 +45,11 @@ Stadt (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
 Das Fest hat zwei Hälften:
 
-**Tagsüber: draußen in der Stadt.** Ganz Sommerhall feiert auf den
+**Tagsüber: draußen in der Stadt.** Die **Festspiele beginnen zur
+10. Morgenstunde auf dem Marktplatz** (so steht es auf dem Flyer;
+→ `Story/Spieler/Handout-Fest-Einladung.md`); bis dahin bleibt Zeit
+für das Frühstück in der Sichel und einen Bummel durch die Buden. Ganz
+Sommerhall feiert auf den
 Straßen. Auf dem **Marktplatz** stehen Buden und Spielstände
 (→ `Stadt/Sommerhall/Orte/Marktplatz.md`), in den Lindenalleen spielen
 Musikanten, an jeder Ecke gibt es Braten, Honigkuchen und Festbier.

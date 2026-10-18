@@ -13,7 +13,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
   - `Story-Gesamt.md` – Die komplette Story mit Verweisen, welcher Block in welchem Ordner liegt
   - **Erzaehler/** – Kapitel für den Spielleiter (dich), je mit 3–4 Szenarien
     - **Karten/** – Bildkarten zu den Kapiteln (Hirsefurt, Sommerhall) zum Herzeigen am Tisch
-  - **Spieler/** – Handouts und Elemente, die die Spieler bekommen/spielen
+  - **Spieler/** – Handouts und Elemente, die die Spieler bekommen/spielen (Fest-Flyer auch als Bild `Festflyer-Sommerhall.png`)
 - **NPC/** – Nichtspielercharaktere, pro NPC ein Ordner mit
   - **Stats/** und **Faehigkeiten/**
 - **Feinde/** – Gegner der Hauptstory, pro Feind ein Ordner mit

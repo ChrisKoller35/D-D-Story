@@ -1,27 +1,36 @@
 # Handout: Der Fest-Flyer
 
-*Ein grob gedruckter Zettel auf gelbem Papier, an den Ecken schon
-etwas zerknittert. Tamo, ein Junge auf einem Esel, verteilt ihn in
-Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`). Oben ein Holzschnitt: eine
-goldene Ähre, darunter ein tanzendes Paar.*
+*Ein grob gedruckter Zettel auf vergilbtem gelbem Papier, an den Ecken
+schon etwas zerknittert. Tamo, ein Junge auf einem Esel, verteilt ihn
+in Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`).*
 
-> ### ✦ FEST DER GOLDENEN ÄHRE ✦
-> **Sommerhall · morgen · den ganzen Tag auf Markt und Straßen,
-> ab 17 Uhr in der Großen Festhalle**
+**Zum Herzeigen am Tisch** (ausdrucken oder auf dem Bildschirm zeigen):
+
+![Der Fest-Flyer](Festflyer-Sommerhall.png)
+
+Datei: `Story/Spieler/Festflyer-Sommerhall.png`
+
+## Was auf dem Flyer steht
+
+Holzschnitt-Druck mit Ähren in den Ecken, in der Mitte ein tanzendes
+Paar vor den Fachwerkhäusern von Sommerhall, daneben ein Bierfass.
+
+> ### FEST DER GOLDENEN ÄHRE
+> **Zu Sommerhall · Am 12. Tag des Ährenmonds**
 >
-> Die Ernte ist eingebracht, die Fässer sind voll!
-> Ganz Sommerhall lädt **jedermann** zum größten Fest des Nordens:
+> Die Festspiele beginnen zur 10. Morgenstunde auf dem Marktplatz
 >
-> - 🍺 **Freibier** (das beste Dunkelbier des Nordens) beim ersten Krug
-> - 🏆 **Die Festspiele:** Wettkämpfe für Starke, Flinke und Kluge,
->   **Preise in Gold und Wunderdingen!**
-> - 💃 **Der Große Festtanz** um Mitternacht in der Großen Festhalle
-> - 🍖 Braten, Honigkuchen, Musikanten aus drei Städten
->
-> *Fremde Reisende sind herzlich willkommen.
-> Wer Abenteuer erlebt hat, möge sie am Feuer erzählen!*
+> ✦ Festspiele ✦ Großer Festtanz ✦
 >
 > Gezeichnet: **Hauptmann Baldric Immergrün**
+
+**Was nicht auf dem Flyer steht, aber jeder in der Gegend weiß** (Tamo
+und Oma Wenke erzählen es gern): Freibier beim ersten Krug (das beste
+Dunkelbier des Nordens), Preise in Gold und Wunderdingen bei den
+Festspielen, Braten, Honigkuchen, Musikanten aus drei Städten, und ab
+17 Uhr zieht das ganze Fest in die Große Festhalle um; dort um
+Mitternacht der Große Festtanz. Fremde Reisende sind willkommen, und
+wer Abenteuer erlebt hat, soll sie am Feuer erzählen.
 
 *Auf der Rückseite, mit Kohle hingekritzelt, in Kinderschrift:*
 
