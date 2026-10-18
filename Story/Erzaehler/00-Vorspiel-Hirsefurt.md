@@ -39,36 +39,17 @@ der **Tag vor dem Fest**, früher Nachmittag.
 
 ## Karte: Hirsefurt von oben
 
-**Bildkarte zum Herzeigen am Tisch** (KI-erzeugt, Bild von Christoph):
+![Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
 
-![Bildkarte von Hirsefurt](Karten/Karte-Hirsefurt-KI.png)
+Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png` (zum Herzeigen am Tisch).
 
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png`. Das Bild zeigt den
-Dorfplatz mit der Linde und dem Brunnen, rechts daneben das Haus mit dem
-Wirtsschild und den Tischen davor (hier steht Oma Wenkes Moststand), die
-Höfe mit Gärten, Hühnern und Kühen, Kornfelder und Obstbäume rundherum,
-und unten die kleine Steinbrücke über den Bach, über die die Straße nach
-Sommerhall führt. Die Bildkarte hat keine Nummern; die Nummern der Legende
-beziehen sich auf den Lageplan darunter.
-
-**Lageplan für dich** (gezeichnet, mit Nummern zur Legende):
-
-![Lageplan von Hirsefurt](Karten/Karte-Hirsefurt.svg)
-
-Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt.svg` (als PNG:
-`Karte-Hirsefurt.png` im selben Ordner).
-
-**Legende:**
-1. **Linde mit Brunnen und Bank**: der Dorfplatz, hier rasten die Helden.
-2. **Oma Wenkes Moststand**: ein Fass und ein Brett daneben, zwei Kupfer der Becher.
-3. **Die Furt**: flache Steine im Bach, man kommt trockenen Fußes rüber.
-4. **Straße nach Sommerhall**: über die Furt nach Süden, ein halber Tag zu Fuß.
-5. **Straße aus dem Norden**: hier kommen die Helden über den Hügel ins Dorf. Tamos Esel klappert dieselbe Straße entlang.
-6. **Obstgärten**: Apfelbäume, daher der Most.
-
-Dazu zwölf Häuser (neun diesseits, drei jenseits des Bachs), Felder im
-Westen und Hühner, die überall herumlaufen. Mehr gibt es in Hirsefurt
-nicht, und genau das ist der Punkt.
+**Was auf dem Bild zu sehen ist:**
+- **Dorfplatz** in der Mitte: die alte Linde, davor der Brunnen und eine Bank. Hier rasten die Helden.
+- **Oma Wenkes Moststand**: das Haus mit dem Wirtsschild und den Tischen davor, rechts der Linde. Ein Fass, ein Brett, zwei Kupfer der Becher.
+- **Der Bach** unten im Bild mit der kleinen Steinbrücke; direkt daneben die **Furt** mit flachen Steinen, über die man trockenen Fußes kommt.
+- **Straße nach Sommerhall**: über Furt und Brücke nach Süden (unten aus dem Bild), ein halber Tag zu Fuß.
+- **Straße aus dem Norden**: oben rechts über die Hügel ins Dorf. Hier kommen die Helden an, und hier klappert Tamos Esel entlang.
+- **Höfe und Obstgärten**: ein Dutzend Höfe mit Gärten, Hühnern, Kühen und einem Stall mit Pferd; Apfelbäume (daher der Most) und Kornfelder rundherum. Mehr gibt es in Hirsefurt nicht, und genau das ist der Punkt.
 
 ## Die Szene
 
