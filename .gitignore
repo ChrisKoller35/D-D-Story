@@ -1,0 +1,5 @@
+# API-Keys gehören nie ins Repo
+.env
+Tools/.env
+*.env
+__pycache__/
