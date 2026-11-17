@@ -15,7 +15,7 @@ Es geht um sie herum."*
 
 **Herkunft:** Einer der vier Gegenstände, mit denen vor 5.000 Jahren
 der Spiegelherr aufgehalten wurde; getragen von **Maren Flutkind, die beim Siegeln fiel**. Seitdem
-im Gewölbe der Vier unter dem Gezeitenturm von Salzmund verwahrt
+im Gewölbe der Vier unter dem Gezeitenturm von Baldir verwahrt
 (neben den Gräbern der Vier),
 vor sechs Wochen vom Spiegelkult gestohlen, zu finden in der
 Tresorkammer der Hammerfeste im Grauhorn

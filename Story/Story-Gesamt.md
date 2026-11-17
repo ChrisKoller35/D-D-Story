@@ -116,7 +116,7 @@ große Portal auf den Markt und dann aus der Stadt. Es muss nur
 
 Nach der Flucht erscheint den Helden am Lagerfeuer das magische Wesen
 **Phae, das Sternenlicht**, und gibt den Hinweis: In der **Stadt am
-Meer (Salzmund)** gibt es Aufzeichnungen über das Monster. Fragen die
+Meer (Baldir)** gibt es Aufzeichnungen über das Monster. Fragen die
 Helden, ob es ihnen noch etwas mitgeben kann, bietet Phae **ein
 Wunder** an, das einzige der ganzen Kampagne: Sie dürfen sich etwas
 wünschen (auch einen toten Helden zurück), aber die Leute in der
@@ -128,9 +128,9 @@ zurückholen kann. Die Versuchung, es früh zu nehmen, ist Absicht.
 - Erzähler-Kapitel: `Story/Erzaehler/04b-Phae.md`
 - Magisches Wesen: `NPC/Phae/` (Stats, Faehigkeiten)
 
-## Akt 5: Salzmund, die Stadt am Meer
+## Akt 5: Baldir, die Stadt am Meer
 
-In Salzmund muss die **Archivarin Nerida** erst nachschauen, was das
+In Baldir muss die **Archivarin Nerida** erst nachschauen, was das
 für ein Wesen ist. Sie findet uralte Steintafeln: Vor etwa **5.000
 Jahren** wurde der Spiegelherr schon einmal versiegelt – mit **200
 Magiern** und **vier Kämpfern**, die mit vier magischen Gegenständen
@@ -146,11 +146,11 @@ zurückzuholen – nur mit ihnen haben sie die Kraft, gegen das Wesen zu
 kämpfen. Wer nachdrücklich nach Hilfsmitteln fragt, bekommt
 **Spezialausrüstung** für den Berg.
 
-- Erzähler-Kapitel: `Story/Erzaehler/05-Salzmund.md`
-- Stadt: `Stadt/Salzmund/` (Orte unter `Stadt/Salzmund/Orte/`)
+- Erzähler-Kapitel: `Story/Erzaehler/05-Baldir.md`
+- Stadt: `Stadt/Baldir/` (Orte unter `Stadt/Baldir/Orte/`)
 - NPC: `NPC/Archivarin-Nerida/`
 - Quest: `Quests/Quest-Die-Hammerfeste.md`
-- Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
+- Handout: `Story/Spieler/Handout-Hinweise-Baldir.md`
 - Spezialausrüstung: `Belohnungen/Spezialausruestung/`
 
 ## Akt 6: Die Hammerfeste im Grauhorn (Dungeon)

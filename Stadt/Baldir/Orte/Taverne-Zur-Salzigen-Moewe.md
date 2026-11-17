@@ -1,4 +1,4 @@
-# Taverne „Zur Salzigen Möwe" (Salzmund)
+# Taverne „Zur Salzigen Möwe" (Baldir)
 
 Kneipe direkt über dem Hafen, in ein altes Schiffsheck hineingebaut –
 die Theke ist ein echter Kiel. Voll ab Sonnenuntergang.
@@ -8,7 +8,7 @@ die Theke ist ein echter Kiel. Voll ab Sonnenuntergang.
 - **Fischer Grim**, Stammplatz am Fenster: erzählt für einen Krug vom
   Grauhorn – sein Bruder sah die Diebe anlanden, lief ihnen bis zum
   Bergtor nach und kam „ohne Stimme" zurück
-  (→ `Story/Erzaehler/05-Salzmund.md`, Szenario B). Grims Bruder
+  (→ `Story/Erzaehler/05-Baldir.md`, Szenario B). Grims Bruder
   lebt noch: stumm, starrt zum Berg. Ein gruseliger, stiller Hinweis,
   wenn die Gruppe ihn besucht. Nach dem zweiten Krug gibt Grim
   **Janniks Hakenseil** heraus (→ `Belohnungen/Spezialausruestung/`).

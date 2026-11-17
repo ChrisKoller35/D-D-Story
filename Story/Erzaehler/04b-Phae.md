@@ -25,7 +25,7 @@ der Kuppel:
 1. Vorgazhul ist nicht unbesiegbar – aber unbesiegbar **für euch, so
    wie ihr jetzt seid**. Jetzt, wo er angekommen ist, wird er
    zurückschlagen. Und mit jeder Woche wird er stärker.
-2. Reist in die **Stadt am Meer, Salzmund**. In den Gezeitenarchiven
+2. Reist in die **Stadt am Meer, Baldir**. In den Gezeitenarchiven
    liegen die Aufzeichnungen derer, die ihn vor Jahrtausenden
    bannten (→ Kapitel 5).
 3. Gab es den Traum (→ Kapitel 3): Der Traum war ein Geschenk (Phaes
@@ -104,7 +104,7 @@ Fragt am Ende jemand „Hätten wir damit …?", antwortet Phae ehrlich.
 | Eine Antwort auf eine Frage | **Ja**, vollständig und klar (die einzige gerade Antwort, die Phae je gibt). Zum Beispiel: „Wie besiegen wir ihn?" |
 | Einen verlorenen oder zerstörten Gegenstand zurück (auch eine der vier Reliquien) | **Ja.** |
 | Einen Menschen **außerhalb** der Kuppel retten (Jannik gesund, ein Flüchtling, der sterbend im Lager liegt) | **Ja.** |
-| Eine ganze Reise überspringen („Bring uns nach Salzmund") | **Ja**, die Gruppe wacht am Ziel auf. Teuer für so wenig, aber ihr Wunsch. |
+| Eine ganze Reise überspringen („Bring uns nach Baldir") | **Ja**, die Gruppe wacht am Ziel auf. Teuer für so wenig, aber ihr Wunsch. |
 | Mächtig werden („Mach uns stärker", „Gib uns Stufe 10") | **Nein.** Das größte, was geht: die Sternenglut aus Kapitel 6, hier schon jetzt. Phae: „Stark macht euch der Weg. Ich kann euch nur tragen." |
 | Vorgazhul töten, schwächen, bannen; die Kuppel öffnen | **Nein**, solange er in der Kuppel ist (Regel 3). |
 | Zeit zurückdrehen, ein zweiter Traum | **Nein.** „Einen Tag zurückzuholen kostet die Sterne. Das habe ich schon einmal bezahlt." |
@@ -163,11 +163,11 @@ Erschöpfung) und erinnert sich nur an „ein Licht, das wartet".
 **Das Wunder ist damit verbraucht.** Sind mehrere Helden gestorben,
 holt das Wunder **einen**; lass die Spieler entscheiden, wen, oder
 würfle offen. Die anderen bleiben tot (→ Kapitel 6, Szenario G, für
-Alternativen wie den Priester in Salzmund).
+Alternativen wie den Priester in Baldir).
 
 Nehmen sie das Wunder **nicht** für den Gefährten (weil sie es
 aufsparen wollen, oder weil sie gar nicht gefragt haben), bleibt er
-tot. Der Spieler kann ab Salzmund einen neuen Charakter einführen oder
+tot. Der Spieler kann ab Baldir einen neuen Charakter einführen oder
 in Kapitel 6 Jannik übernehmen; sein alter Held ist bei Gelegenheit 2
 und 3 **weiterhin zurückholbar** (Regel 4), auch nach dem Sieg
 zusammen mit der ganzen Stadt.
@@ -190,7 +190,7 @@ ist (vielleicht sogar mit einem toten Gefährten am Feuer). Das ist
 die schwerste und beste Entscheidung der Kampagne; belohne sie mit
 nichts außer Phaes Blick: „Interessant." Drei Fragen, poetische
 Antworten, Phae verschwindet mit dem Morgengrauen. Reise nach
-Salzmund: 4 Tagesreisen, 1 leichte Zufallsbegegnung (dein
+Baldir: 4 Tagesreisen, 1 leichte Zufallsbegegnung (dein
 Geschmack). → Kapitel 5. Das Wunder wartet (→ Kapitel 6 und 7).
 
 **➖ Leichte Abweichungen**
@@ -230,14 +230,14 @@ Antwort: „Keiner. Das ist das Unheimliche daran, ich weiß."
 uns!" Phae kann das jetzt nicht und sagt das ehrlich (Regel 3): „Die
 Stadt steht in seinem Spiegel. Ich kann nichts holen, was er hält."
 Es sagt **nicht**, dass sich das nach dem Sieg ändert; das sollen sie
-erleben, nicht wissen. Es verweist jedes Mal zurück nach Salzmund.
+erleben, nicht wissen. Es verweist jedes Mal zurück nach Baldir.
 
 **🔀 Ganz andere Verläufe**
 
 ### Szenario F · 🔀 Ganz anders: Sie greifen Phae an
 
 Phae kämpft nicht. Es zerfällt beim ersten Treffer in Funken –
-und hinterlässt im Gras aus Sternenstaub geschrieben: **„SALZMUND.
+und hinterlässt im Gras aus Sternenstaub geschrieben: **„BALDIR.
 DIE ARCHIVE."** Danach ist Phae beleidigt abwesend: Das erste und
 das zweite Angebot (Kapitel 6) fallen weg, ein gestorbener Gefährte
 bleibt vorerst tot. Die Info haben sie trotzdem – die Story bleibt auf
@@ -249,4 +249,4 @@ Mal angeboten.
 
 ## Übergang
 
-Reise nach Salzmund → **Kapitel 5: Salzmund**.
+Reise nach Baldir → **Kapitel 5: Baldir**.

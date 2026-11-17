@@ -1,7 +1,7 @@
 # Spezialausrüstung – Übersicht
 
-Ausrüstung, die die Helden in **Salzmund** bekommen können, bevor sie
-in die Hammerfeste gehen (→ `Story/Erzaehler/05-Salzmund.md`,
+Ausrüstung, die die Helden in **Baldir** bekommen können, bevor sie
+in die Hammerfeste gehen (→ `Story/Erzaehler/05-Baldir.md`,
 Schritt 5). **Nur, wenn sie danach fragen** – und zwar nachdrücklich.
 Nerida bietet sie nicht von sich aus an (sie ist Archivarin, keine
 Quartiermeisterin), die Turmwache rückt nichts freiwillig heraus, und

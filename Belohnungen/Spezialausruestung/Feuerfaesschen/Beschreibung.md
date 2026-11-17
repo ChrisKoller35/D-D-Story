@@ -2,10 +2,10 @@
 
 **Verbrauchsgegenstand, ungewöhnlich.** Vier faustgroße Tonfässchen
 mit Wachsstopfen, gefüllt mit dem Brandöl, mit dem die Turmwache von
-Salzmund Signalfeuer entzündet. Riecht nach Teer und Pech. Auf jedem
+Baldir Signalfeuer entzündet. Riecht nach Teer und Pech. Auf jedem
 Fässchen ein eingebrannter Möwenkopf.
 
-**Quelle:** Die Turmwache von Salzmund. Der Hauptmann der Wache
+**Quelle:** Die Turmwache von Baldir. Der Hauptmann der Wache
 rückt sie erst heraus, wenn die Helden nachdrücklich fragen und
 erklären, wofür („Gegen etwas, das immer wieder aufsteht.") – oder wenn
 sie die Schmuggler-Nebenquest gelöst haben (Brenkas Dank).

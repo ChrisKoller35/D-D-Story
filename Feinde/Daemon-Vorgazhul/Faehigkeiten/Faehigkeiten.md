@@ -105,7 +105,7 @@ Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
 ### Gegenmittel?
 
 In Akt 2 **keine**. Die Reliquien wurden sechs Wochen vor dem Fest
-gestohlen (→ `Story/Erzaehler/05-Salzmund.md`) – die Helden können sie
+gestohlen (→ `Story/Erzaehler/05-Baldir.md`) – die Helden können sie
 zu diesem Zeitpunkt gar nicht haben. Die einzige Lösung in Akt 2 heißt:
 nicht angreifen, retten, fliehen. Die Flucht selbst ist leicht (keine
 Gegner, er greift nicht an) – sie muss nur rechtzeitig passieren

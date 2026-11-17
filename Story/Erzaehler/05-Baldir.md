@@ -1,13 +1,13 @@
-# Kapitel 5: Salzmund, die Stadt am Meer
+# Kapitel 5: Baldir, die Stadt am Meer
 
 **Nur für den Erzähler.**
 
-→ Stadt-Beschreibung: `Stadt/Salzmund/Beschreibung.md`
-→ Orte: `Stadt/Salzmund/Orte/` (Hafen, Gezeitenarchiv, Taverne)
+→ Stadt-Beschreibung: `Stadt/Baldir/Beschreibung.md`
+→ Orte: `Stadt/Baldir/Orte/` (Hafen, Gezeitenarchiv, Taverne)
 
 ## Ankunft
 
-Salzmund: Möwen, Salzgeruch, windschiefe Häuser am Kliff, der große
+Baldir: Möwen, Salzgeruch, windschiefe Häuser am Kliff, der große
 Gezeitenturm mit dem Archiv. Die Stimmung ist angespannt – Flüchtlinge
 aus Richtung Sommerhall treffen ein, Gerüchte über die „Spiegelkuppel"
 machen die Runde.
@@ -36,7 +36,7 @@ neunmal?") und verschwindet dann zwischen den Regalen.
 
 Ganz unten im Turm, in einer Kiste mit Steintafeln in einer toten
 Küstensprache, die nur sie lesen kann
-(→ Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`):
+(→ Handout: `Story/Spieler/Handout-Hinweise-Baldir.md`):
 
 > Vor etwa **5.000 Jahren** stieg der Spiegelherr schon einmal in die
 > Welt. Er wurde nicht getötet, er wurde **versiegelt** – und auch das
@@ -67,7 +67,7 @@ Gebeine von Torvan, Ilwe und Maren in uralten Rüstungen, das vierte
 leere Halterungen, in denen die Reliquien lagen, bis vor sechs Wochen.
 Die Tür öffnet sich nur in der Nacht der tiefsten Ebbe des Jahres, wenn
 das Gezeitenorakel (7. Stock) den Riegel freigibt
-(→ `Stadt/Salzmund/Orte/Gezeitenarchiv.md`). Nerida führt die Helden
+(→ `Stadt/Baldir/Orte/Gezeitenarchiv.md`). Nerida führt die Helden
 hinunter, wenn sie wollen: Die Vier bei ihren Waffen zu sehen, die
 nicht mehr da sind, ist der stärkste Moment des Kapitels.
 
@@ -164,7 +164,7 @@ Helden ein, gewinnen sie Ansehen – Nerida hört davon und kommt dann
 VON SICH AUS auf sie zu (eleganter Quest-Einstieg). Ignorieren sie es,
 eskaliert es nachts; die Stadtwache ist danach misstrauisch gegen alle
 Fremden, auch gegen die Helden (Nachteil auf Charisma-Würfe in
-Salzmund, bis sie es geradebiegen).
+Baldir, bis sie es geradebiegen).
 
 ### Szenario D · ➖ Leichte Abweichung: Sie untersuchen den Diebstahl selbst
 
@@ -194,7 +194,7 @@ Flüchtling erzählt, dass die Kuppel ein weiteres Dorf verschluckt
 hat. Grim bietet sein Boot bis zur Bucht an und bittet: „Bringt
 wenigstens Jannik heim." Nerida legt 3 große Heiltränke aus dem
 Notvorrat obendrauf. Wer verhandeln will (Überzeugen DC 14):
-zusätzlich 100 Gold aus der Stadtkasse von Salzmund – und das ist der
+zusätzlich 100 Gold aus der Stadtkasse von Baldir – und das ist der
 Moment, in dem auch die Spezialausrüstung (Schritt 5) auf den Tisch
 kommt, wenn sie danach fragen.
 

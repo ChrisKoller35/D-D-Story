@@ -1,7 +1,7 @@
 # Quest: Die Hammerfeste im Grauhorn
 
 **Questgeberin:** Archivarin Nerida (→ `NPC/Archivarin-Nerida/`),
-Gezeitenarchiv Salzmund.
+Gezeitenarchiv Baldir.
 
 **Vorgeschichte (kurz):** Vor 6 Wochen stahl der Spiegelkult die
 **Vier Reliquien** aus dem Gewölbe der Vier unter dem Gezeitenturm,
@@ -9,7 +9,7 @@ der Grabstätte der vier Kämpfer. Die Diebe ruderten nach Süden, die
 Turmwache jagte sie über Land, und am Bergtor der **Hammerfeste** im
 Grauhorn verlor sie sie. Ein Trupp von 20 Abenteurern (die „Kompanie
 der Salzklingen") ging hinterher – keiner kam zurück
-(→ `Story/Erzaehler/05-Salzmund.md`).
+(→ `Story/Erzaehler/05-Baldir.md`).
 
 **Auftrag:** Holt die vier gestohlenen Gegenstände aus der Hammerfeste
 zurück. Nur mit ihnen hat man die Kraft, gegen den Spiegelherrn zu
@@ -23,7 +23,7 @@ Tresorkammer öffnen).
   Archivs (Lage der drei Schlüsselräume und der Tresorkammer; das
   Bergtor ist jederzeit offen)
 - **Küstenkarte** mit markierter Bucht und Zwergenpfad (3 Meilen südlich)
-- Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
+- Handout: `Story/Spieler/Handout-Hinweise-Baldir.md`
 - Auf Nachfrage: **Spezialausrüstung**
   (→ `Belohnungen/Spezialausruestung/Uebersicht.md`)
 
@@ -45,9 +45,9 @@ Tresorkammer öffnen).
 Wer Spuren der Kompanie mitbringt (Erkennungsmarken, das Tagebuch der
 Hauptfrau Varis Dorn, oder einen Überlebenden aus der Vorratskammer,
 → `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`), gibt 20 Familien in
-Salzmund Gewissheit. Belohnung: Grims Boot steht der Gruppe jederzeit
+Baldir Gewissheit. Belohnung: Grims Boot steht der Gruppe jederzeit
 zur Verfügung, Jannik darf das Hakenseil behalten (bzw. die Helden,
-wenn er es ihnen schenkt), und Salzmund spricht gut über sie.
+wenn er es ihnen schenkt), und Baldir spricht gut über sie.
 
 ## Abschluss
 

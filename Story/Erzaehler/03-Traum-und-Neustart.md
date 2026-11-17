@@ -190,7 +190,7 @@ dunkle Ecke im Siegel: Dort bleibt ein Ausgang offen, → Kapitel 2, „Eingreif
 
 Clever! Malrik ist am Morgen im Gasthaus „Zur Sichel" als Pilger
 untergebracht (DC 13 Nachforschung). In seinem Zimmer: ein sechs Wochen
-alter Brief von „Bruder E." aus Salzmund – „In der Nacht der tiefsten
+alter Brief von „Bruder E." aus Baldir – „In der Nacht der tiefsten
 Ebbe hole ich die Vier. Dann bringen wir sie in den Berg, wo kein
 Licht hinkommt." (Früher Hinweis auf Kapitel 5 und 6.) Konfrontation: Er leugnet, dann
 flieht er per `Aschengestalt`. Töten sie ihn tatsächlich vorher:
@@ -211,7 +211,7 @@ Vergangenheit als Priester). Gelingt es: Er bricht zusammen – aber das
 Ritual kann er **nicht mehr aufhalten**; das alte Siegel ist durch
 seine Vorarbeit schon zu rissig. Es bricht in der Nacht von selbst
 (wie in Szenario F). Dafür gesteht er: Der Kult hat vor sechs Wochen
-die **Vier Reliquien** aus Salzmund gestohlen, „damit niemand ihn je
+die **Vier Reliquien** aus Baldir gestohlen, „damit niemand ihn je
 wieder aufhält". Ein früher Hinweis auf Kapitel 5 – und Malrik kann
 in Kapitel 7 ein Verbündeter sein.
 

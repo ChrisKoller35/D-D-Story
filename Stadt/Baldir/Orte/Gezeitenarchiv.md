@@ -1,4 +1,4 @@
-# Das Gezeitenarchiv (Salzmund)
+# Das Gezeitenarchiv (Baldir)
 
 Im **Gezeitenturm**, dem alten Leuchtturm auf dem höchsten Punkt der
 Stadt. Sieben Stockwerke Bücher, Seekarten, Schiffstagebücher und
@@ -10,7 +10,7 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
 - **Archivarin Nerida** → `NPC/Archivarin-Nerida/`
 - **Die Tafeln vom Kreis der Zweihundert** (Keller, Kiste mit
   Steintafeln, ca. 5.000 Jahre alt): Quelle der Legende vom
-  Spiegelherrn → Handout: `Story/Spieler/Handout-Hinweise-Salzmund.md`
+  Spiegelherrn → Handout: `Story/Spieler/Handout-Hinweise-Baldir.md`
 - **Das Gezeitenorakel** (7. Stock): Messing-Mechanik aus Pendeln und
   Mondrädern, berechnet Ebbe und Flut auf die Stunde genau (für die
   Fischer und den Hafen). Es gibt außerdem einmal im Jahr,
@@ -23,7 +23,7 @@ Strandgut-Kuriositäten; es riecht nach Wachs, Salz und altem Papier.
   Edrik sie vor sechs Wochen stahl und durch den alten **Flutkanal**
   an seine Komplizen im Boot reichte. Heute: aufgebrochen, die
   Halterungen leer. Spuren für Detektive (abgebrochene Silbersichel,
-  Kratzspuren am Kanal) → `Story/Erzaehler/05-Salzmund.md`, Szenario D.
+  Kratzspuren am Kanal) → `Story/Erzaehler/05-Baldir.md`, Szenario D.
 - **Edriks Kammer** (2. Stock, Gehilfenzimmer): Tagebuch mit dem
   Hinweis auf „den Meister in den Kornfeldern" (Malrik) und den Plan,
   die Reliquien in der Tresorkammer der Hammerfeste einzuschließen,
