@@ -1,13 +1,13 @@
 # Die Hammerfeste im Grauhorn – Raum für Raum
 
 Eine verlassene **Zwergenfeste** tief im **Grauhorn**, dem grauen
-Bergrücken drei Meilen südlich von Salzmund, hoch über der Küste. Vor
+Bergrücken drei Meilen südlich von Baldir, hoch über der Küste. Vor
 Jahrhunderten gaben die Zwerge sie auf, als „etwas von unten" in ihre
 Tiefenhalle brach (→ Boss Gorrum). Heute hausen hier ein Clan
 **Steinschleicher** (Felsgoblins), ihr angeketteter Höhlentroll
 **Brecher** und ganz unten der **Steinwyrm Gorrum**. Hierher flohen
 die fünf Diebe des Spiegelkults mit den Vier Reliquien
-(→ `Story/Erzaehler/05-Salzmund.md`).
+(→ `Story/Erzaehler/05-Baldir.md`).
 
 **Jederzeit zugänglich, kein Timer.** Das Bergtor steht offen. Wer
 sich zurückziehen muss, kann rausgehen, rasten und wiederkommen (die
@@ -149,7 +149,7 @@ jedes Mal hat der Troll die Brücke besetzt. Abgemagert, halb von
 Sinnen, flüstert er nur noch („Nicht laut. Nie laut. Der Berg hört.").
 Er weiß, wo die Kompanie starb, dass „der Troll das Feuer hasst" und
 dass „unten etwas Großes vor der Tür liegt und wartet". Ihn lebend nach
-Salzmund zu bringen ist ein starker Herzmoment
+Baldir zu bringen ist ein starker Herzmoment
 (→ `Quests/Quest-Die-Hammerfeste.md`, Nebenziel).
 
 ## Raum 5: Die Schmiedehalle — *3. Runenschlüssel*

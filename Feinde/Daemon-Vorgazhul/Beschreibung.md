@@ -3,7 +3,7 @@
 **Hauptgegner der Kampagne.** Ein Dämonenfürst der Spiegelung. Vor
 etwa 5.000 Jahren schon einmal in der Welt, damals nur knapp von
 zweihundert Magiern und vier Kämpfern versiegelt
-(→ `Story/Spieler/Handout-Hinweise-Salzmund.md`). Malrik
+(→ `Story/Spieler/Handout-Hinweise-Baldir.md`). Malrik
 (→ `Feinde/Ritualist-Malrik/`) bricht beim Fest der Goldenen Ähre
 dieses alte Siegel und holt ihn zurück
 (→ `Story/Erzaehler/02-Ritual-und-Daemon.md`).

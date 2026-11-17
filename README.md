@@ -22,10 +22,10 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
   - **Feinde/** – Dungeon-Gegner, gleiche Struktur wie oben
 - **Stadt/** – Die beiden Städte
   - **Sommerhall/** – Stadt des Fests (mit Unterordner **Orte/**)
-  - **Salzmund/** – Stadt am Meer (mit Unterordner **Orte/**)
+  - **Baldir/** – Stadt am Meer (mit Unterordner **Orte/**)
 - **Quests/** – Haupt- und Nebenquests
 - **Belohnungen/** – Belohnungen; seltene Gegenstände je mit Unterordner **Effekte/**
-  - **Spezialausruestung/** – Ausrüstung aus Salzmund für den Dungeon (nur auf Nachfrage), gleiche Struktur
+  - **Spezialausruestung/** – Ausrüstung aus Baldir für den Dungeon (nur auf Nachfrage), gleiche Struktur
 - **Sessions/** – Protokolle der Spielabende
 - **Ideen/** – Lose Ideen und unsortiertes Material
 
@@ -34,7 +34,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 Die Helden, auf der Durchreise nach Süden einen Monat nach der
 Schlacht am Rabenpass, feiern auf einem großen Fest in Sommerhall, als ein Ritualist einen unbesiegbaren Dämon beschwört –
 erst durch einen prophetischen Traum, einen Hinweis eines magischen
-Wesens und Ausrüstung aus der Hammerfeste im Grauhorn bei Salzmund
+Wesens und Ausrüstung aus der Hammerfeste im Grauhorn bei Baldir
 können sie ihn besiegen.
 
 → Vollständige Story: [Story/Story-Gesamt.md](Story/Story-Gesamt.md)

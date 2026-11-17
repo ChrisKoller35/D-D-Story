@@ -1,7 +1,7 @@
 # Archivarin Nerida
 
-Hüterin der Gezeitenarchive von Salzmund, Questgeberin von Akt 5
-(→ `Story/Erzaehler/05-Salzmund.md`,
+Hüterin der Gezeitenarchive von Baldir, Questgeberin von Akt 5
+(→ `Story/Erzaehler/05-Baldir.md`,
 → `Quests/Quest-Die-Hammerfeste.md`).
 
 ## Erscheinung & Wesen
@@ -19,7 +19,7 @@ dem sie vertraut hat (Bruder Edrik).
 **Funktion in der Story:**
 - Weiß zuerst NICHT, was die Helden in Sommerhall gesehen haben – sie
   muss **erst recherchieren** (halber Tag) und findet dann die
-  5.000 Jahre alten Steintafeln (→ `Story/Spieler/Handout-Hinweise-Salzmund.md`).
+  5.000 Jahre alten Steintafeln (→ `Story/Spieler/Handout-Hinweise-Baldir.md`).
 - Erkennt dabei, dass die gestohlenen Reliquien genau die vier
   Waffen gegen den Spiegelherrn sind.
 - Erzählt von Diebstahl, Verfolgung und der verschollenen Kompanie

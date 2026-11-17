@@ -10,7 +10,7 @@ wäre eine 25 gewürfelt worden.
 **Ausnahme Spiegelherr:** Hier dauert die Suche einen halben Tag,
 weil die Quelle 5.000 Jahre alt ist (Steintafeln in einer toten
 Küstensprache, die nur sie lesen kann). Helfende Helden verkürzen die
-Suche (→ `Story/Erzaehler/05-Salzmund.md`, Schritt 1).
+Suche (→ `Story/Erzaehler/05-Baldir.md`, Schritt 1).
 
 ## Der Festungsplan
 

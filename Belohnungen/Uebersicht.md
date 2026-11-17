@@ -23,7 +23,7 @@ die Diskussion am Tisch gehört zur Belohnung.
 
 ## Spezialausrüstung (Akt 5, nur auf Nachfrage)
 
-Vier Gegenstände aus Salzmund, die genau auf die Hammerfeste
+Vier Gegenstände aus Baldir, die genau auf die Hammerfeste
 zugeschnitten sind: Feuerfässchen (Troll), Runenlaterne (Schlüssel,
 Geheimtüren), Steinhaut-Tränke (Steinschlag, Wyrm), Hakenseil
 (Klamm). Die Helden bekommen sie nur, wenn sie nachdrücklich danach
@@ -43,7 +43,7 @@ fragen → `Spezialausruestung/Uebersicht.md` (je eigener Ordner mit
 ## Quest-Belohnungen
 
 - Hammerfeste: 3 große Heiltränke, Archivzugang; für Spuren der
-  Kompanie oder Jannik: Grims Boot, das Hakenseil und Salzmunds Dank
+  Kompanie oder Jannik: Grims Boot, das Hakenseil und Baldirs Dank
   (→ `Quests/Quest-Die-Hammerfeste.md`)
 - Die Gespiegelte: 25 Gold, Priesterinnen-Segen, Jolas Fenster-Blick
   (→ `Quests/Nebenquest-Die-Gespiegelte.md`)

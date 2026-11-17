@@ -1,7 +1,7 @@
-# Nebenquest: Die Gespiegelte (Salzmund)
+# Nebenquest: Die Gespiegelte (Baldir)
 
-**Auslöser:** Im Flüchtlingslager am Nordkai (→ `Stadt/Salzmund/Orte/Hafen.md`)
-oder als Mob-Szene in der Stadt (→ `Story/Erzaehler/05-Salzmund.md`,
+**Auslöser:** Im Flüchtlingslager am Nordkai (→ `Stadt/Baldir/Orte/Hafen.md`)
+oder als Mob-Szene in der Stadt (→ `Story/Erzaehler/05-Baldir.md`,
 Szenario C).
 
 **Situation:** Die Flüchtlingsfrau **Jola** aus einem Dorf nahe

@@ -4,7 +4,7 @@ Malriks Anhänger: Verzweifelte, denen der „Spiegel" Gerechtigkeit
 versprach. Graue Umhänge mit tiefen Kapuzen (keine Masken), unter dem
 Umhang eine Sichel aus Silber. Fünf von ihnen
 (angeführt von Bruder Edrik) stahlen sechs Wochen vor dem Fest die
-Vier Reliquien aus Salzmund (→ `Story/Erzaehler/05-Salzmund.md`).
+Vier Reliquien aus Baldir (→ `Story/Erzaehler/05-Baldir.md`).
 
 **Standard-Begegnung:** 4 Kultisten stehen beim Ritual weit verteilt
 im Festsaal, murmeln die Ritualformel und opfern sich bei Ablauf des

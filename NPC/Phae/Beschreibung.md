@@ -19,7 +19,7 @@ Traum schenkte („Der Traum war ein Geschenk. Es gibt kein zweites.").
 Was Phae wirklich ist (für dich als Erzähler, den Spielern nie direkt
 sagen): ein Rest von **Serenyas stillem Eid** – die Wacht, die sie
 der Welt hinterließ, als sie starb. Deshalb kennt es den Weg nach
-Salzmund, wo die Vier begraben liegen. Deshalb mischt es sich nicht
+Baldir, wo die Vier begraben liegen. Deshalb mischt es sich nicht
 weiter ein: Wachen heißt nicht kämpfen. Was es den Helden geben
 kann, ist **ein einziges Wunder** in der ganzen Kampagne, dreimal
 angeboten, einmal zu haben (→ Fähigkeiten, „Das Wunder";

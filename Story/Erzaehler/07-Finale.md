@@ -136,7 +136,7 @@ sind.
 
 ### Szenario F · ➖ Leichte Abweichung: Sie bringen Verstärkung mit
 
-Die Gruppe wirbt Salzmunder Turmwachen, Flüchtlinge oder Grims
+Die Gruppe wirbt Baldirer Turmwachen, Flüchtlinge oder Grims
 Fischer an (vielleicht weil die Tafeln von 200 Magiern sprachen).
 Lass es zu, aber klein: Die Kuppel lässt mit dem Mantel nur 6
 Kreaturen pro Durchgang hindurch. Helfer binden die **Glasdiener**

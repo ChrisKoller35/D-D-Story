@@ -4,13 +4,13 @@
 
 → Raum-für-Raum-Beschreibung: `Dungeon/Hammerfeste-Grauhorn/Beschreibung.md`
 → Gegner: `Dungeon/Hammerfeste-Grauhorn/Feinde/`
-→ Belohnungen: `Belohnungen/Seltene/` · Spezialausrüstung aus Salzmund:
+→ Belohnungen: `Belohnungen/Seltene/` · Spezialausrüstung aus Baldir:
 `Belohnungen/Spezialausruestung/`
 
 ## Überblick
 
 Eine verlassene **Zwergenfeste im Berg**, drei Meilen südlich von
-Salzmund, **jederzeit zugänglich** und **ohne Timer**: keine Uhr, keine
+Baldir, **jederzeit zugänglich** und **ohne Timer**: keine Uhr, keine
 Tür, die sich hinter den Helden schließt. Rückzug, Rast und
 Wiederkommen sind jederzeit möglich. Die Spannung kommt aus den
 Bewohnern und aus dem Gelände, das sich **gegen sie benutzen** lässt:
@@ -51,7 +51,7 @@ bekämpft).
 | Raum 5 | 4 Steinschleicher + Schamane Grik (+ Flüchtige aus Raum 2) | `Feinde/Steinschleicher/` |
 | Raum 6 (Boss) | Steinwyrm Gorrum | `Feinde/Steinwyrm-Gorrum/` (mit Ultimative-Faehigkeiten!) |
 
-**Spezialausrüstung aus Salzmund** (wenn die Helden in Kapitel 5
+**Spezialausrüstung aus Baldir** (wenn die Helden in Kapitel 5
 danach gefragt haben, → `Belohnungen/Spezialausruestung/Uebersicht.md`):
 Feuerfässchen gegen den Troll, Runenlaterne für die Schlüssel und
 Geheimtüren, Steinhaut-Tränke gegen Steinschlag und Wyrm, das Hakenseil
@@ -97,7 +97,7 @@ Er ist eine Last (langsam, schwach, muss geführt werden) und eine
 Hilfe (weiß, dass Brecher Feuer hasst, kennt die Blasebälge, warnt vor
 „dem Großen vor der Tür"). Lässt man ihn zurück, wartet er einfach
 weiter in seiner Vorratskammer. Nimmt man ihn mit, ist das die schönste
-Szene in Salzmund (→ Quest, Nebenziel).
+Szene in Baldir (→ Quest, Nebenziel).
 
 ### Szenario D · ➖ Leichte Abweichung: Sie überspringen Räume
 
@@ -142,7 +142,7 @@ der Tiefenhalle (→ Szenario E). Die Goblins greifen dann nicht mehr an
 
 Bei 4 Spielern bitter, aber hier gibt es **keinen Reset** und keinen
 Geist, der hilft. Spiele es ehrlich: Die Gruppe kann den Gefallenen
-hinaustragen (Grims Boot, zurück nach Salzmund; ein Priester im
+hinaustragen (Grims Boot, zurück nach Baldir; ein Priester im
 Gezeitenturm wirkt *Tote erwecken* gegen 500 Gold oder gegen das
 Versprechen, Jannik heimzubringen), oder die Gruppe spielt mit einem
 Helden weniger weiter. Die dritte Möglichkeit ist **Phaes Wunder**:
@@ -198,7 +198,7 @@ die Items sind der Schlüssel zum Endkampf.
 ## Phaes zweites Erscheinen: Verhandeln, Kraft und das Wunder
 
 **Erste Nacht nach der Tresorkammer**, auf dem Rückweg aus dem
-Grauhorn, wenn unten schon die Lichter von Salzmund zu sehen sind
+Grauhorn, wenn unten schon die Lichter von Baldir zu sehen sind
 (oder auf Grims Boot, wenn die Gruppe übers Wasser zurückfährt).
 Phae erscheint nur, wenn es in Kapitel 4b **nicht angegriffen**
 wurde (→ Kapitel 4b, Szenario F).
@@ -206,7 +206,7 @@ wurde (→ Kapitel 4b, Szenario F).
 > Die vier Reliquien liegen bei euch, und zum ersten Mal seit dem
 > Fest fühlt es sich an, als hättet ihr etwas in der Hand. Auf dem
 > Felsen über dem Pfad sitzt ein Fuchs aus Nachthimmel und schaut
-> hinunter auf die Lichter von Salzmund. „Ihr habt sie", sagt Phae,
+> hinunter auf die Lichter von Baldir. „Ihr habt sie", sagt Phae,
 > ohne sich umzudrehen. „Die Vier wären zufrieden. Serenya würde
 > sagen, ihr tragt sie falsch, aber sie hat das zu allen gesagt." Es
 > dreht den Kopf. „Noch ein Stück Weg. Das letzte. Was braucht ihr?"
@@ -275,5 +275,5 @@ in Kapitel 7 von selbst darauf zurück.
 
 ## Übergang
 
-Ausrüstung geholt → zurück nach Salzmund (Nerida, Jannik, Siegelkunde)
+Ausrüstung geholt → zurück nach Baldir (Nerida, Jannik, Siegelkunde)
 → Rückreise → **Kapitel 7: Finale**.

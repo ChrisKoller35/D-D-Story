@@ -1,4 +1,4 @@
-# Salzmund
+# Baldir
 
 Die Stadt am Meer (Akt 5) – Hafenstadt am Kliff, ~5.000 Einwohner.
 
@@ -19,7 +19,7 @@ panisch – noch.
 
 - **Archivarin Nerida** → `NPC/Archivarin-Nerida/` (Questgeberin)
 - Fischer **Grim** – Stammgast in der „Salzigen Möwe", kennt die
-  Bucht unter dem Grauhorn (→ `Story/Erzaehler/05-Salzmund.md`,
+  Bucht unter dem Grauhorn (→ `Story/Erzaehler/05-Baldir.md`,
   Szenario B); hat Janniks Hakenseil
 - **Hafenmeisterin Brenka** – pragmatisch, bestechlich mit gutem
   Tabak, weiß alles über ein- und auslaufende Schiffe

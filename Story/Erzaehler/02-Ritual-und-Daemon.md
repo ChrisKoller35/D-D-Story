@@ -408,7 +408,7 @@ Kultisten **tötet**, füttert dagegen das Ritual (zählt als Opfer, −1
 Minute). Ein gefangener Kultist plaudert
 unter Druck (Einschüchtern DC 14): „Die Vier Reliquien liegen im Berg,
 wo kein Licht hinkommt. Niemand wird sie je holen." (Früher Hinweis
-auf Salzmund und die Hammerfeste.)
+auf Baldir und die Hammerfeste.)
 
 ### Szenario H · ➖ Leichte Abweichung: Sie retten das Kind
 

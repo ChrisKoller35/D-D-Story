@@ -1,7 +1,7 @@
-# Nebenquest: Die Schmuggler von Salzmund
+# Nebenquest: Die Schmuggler von Baldir
 
 **Auslöser:** Aushang am Schwarzen Brett der „Salzigen Möwe"
-(→ `Stadt/Salzmund/Orte/Taverne-Zur-Salzigen-Moewe.md`):
+(→ `Stadt/Baldir/Orte/Taverne-Zur-Salzigen-Moewe.md`):
 Hafenmeisterin Brenka zahlt 50 Gold für Hinweise auf Schmuggler.
 
 **Situation:** Eine Schmugglerbande nutzt das Chaos der

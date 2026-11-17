@@ -12,13 +12,13 @@
 3. **Der Traum** – TPK → Erwachen; eine Person erinnert sich;
    zweiter Durchlauf mit Vorteil → `Story/Erzaehler/03-Traum-und-Neustart.md`
 4. **Die Flucht** – der einzige Ausweg → `Story/Erzaehler/04-Die-Flucht.md`;
-   danach weist Phae den Weg nach Salzmund und bietet auf Nachfrage
+   danach weist Phae den Weg nach Baldir und bietet auf Nachfrage
    das **eine Wunder** der Kampagne an → `Story/Erzaehler/04b-Phae.md`
 5. **Die Legende** – Nerida recherchiert: vor 5.000 Jahren nur knapp
    versiegelt (200 Magier, 4 Kämpfer mit vier Gegenständen); die
    Gegenstände lagen bei den Gräbern der Vier unter dem Gezeitenturm,
    wurden gestohlen, die Diebe flohen in die Hammerfeste im Grauhorn,
-   eine 20-Mann-Kompanie kam nie zurück → `Story/Erzaehler/05-Salzmund.md`,
+   eine 20-Mann-Kompanie kam nie zurück → `Story/Erzaehler/05-Baldir.md`,
    Unterquest: `Quests/Quest-Die-Hammerfeste.md`
 6. **Die Hammerfeste** – Dungeon abschließen, die gestohlenen Reliquien bergen;
    auf dem Rückweg Phaes zweites Erscheinen (Sternenglut, Wunder)
@@ -40,7 +40,7 @@
 Die Spiegelkuppel wächst um **ein Dorf pro Woche** – und mit ihr
 Vorgazhuls Macht (vor 5.000 Jahren brauchte es 200 Magier, weil er zu
 lange in der Welt war). Rechne mit:
-Flucht + Reise (4 Tage) + Salzmund (1–2 Tage) + Hammerfeste (1 Tag) +
+Flucht + Reise (4 Tage) + Baldir (1–2 Tage) + Hammerfeste (1 Tag) +
 Rückreise (4 Tage) ≈ **zwei Wochen = zwei geschluckte Dörfer**.
 Trödelt die Gruppe wochenlang, lass sie die Folgen sehen (leere,
 verspiegelte Dörfer auf der Rückreise) – kein hartes Fail, aber
