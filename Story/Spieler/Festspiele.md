@@ -47,8 +47,8 @@ der Menge, ein Netz darunter. Die Seiltänzerin Zilli zeigt, wie es
 geht, dann seid ihr dran. **Ein Wurf Akrobatik.** Wer drüberkommt,
 bekommt vom stummen Messerwerfer Berro **drei ausbalancierte
 Wurfmesser** (1W4+1).
-Neben dem großen Zelt steht noch ein kleines, geschlossenes, mit
-einem Mann davor, der nichts anpreist.
+Neben dem großen Zelt steht noch ein kleines graues ohne Schild, mit
+einem hageren Mann im Zylinder davor, der nichts anpreist.
 
 ### 5. Brunnen und Marktstände (Mitte) · „Die Ferkeljagd"
 

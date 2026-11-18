@@ -190,12 +190,12 @@ dem Helden wortlos **drei ausbalancierte Wurfmesser** in die Hand
 (1W4+1 Stich, Wurfweite 6/18 m, +1 auf den Angriffswurf, weil perfekt
 ausbalanciert).
 
-**Das kleine Zelt daneben:** Neben dem großen gelben Zelt steht ein
-kleines, geschlossenes Zelt, davor ein Mann, der nichts anpreist.
-Das ist der Zugang zum **Bonus-Event „Die Arena"** (eigenes Kapitel,
-wird separat ausgearbeitet; Name des Mannes, Spiegel und Ablauf
-stehen dort). Hier nur: Das Zelt ist da, der Mann ist da, und er
-wartet auf Gäste, die „etwas Besonderes erleben" wollen.
+**Das graue Zelt daneben:** Neben Flimms gelbem Zelt steht ein kleines
+graues Zelt ohne Schild, davor sitzt ein hagerer Mann mit Zylinder,
+**Valerian Quecks**. Flimm über ihn: „Gehört nicht zu uns. Zieht aber
+seit zwölf Jahren mit, und zahlt pünktlich." Das ist der Zugang zum
+**Bonus-Event „Die Arena"** (→ Ordner `Bonus/`, eigenes Kapitel). Hier
+nur: Das Zelt ist da, der Mann ist da.
 
 **Nebenbei:** Der Zirkus reist am Morgen nach dem Fest ab. Im 1.
 Durchlauf kommt es dazu nicht; im 2. Durchlauf (→ Kapitel 3) können
