@@ -32,11 +32,29 @@ fragen → `Spezialausruestung/Uebersicht.md` (je eigener Ordner mit
 
 ## Festpreise (Akt 1, Festspiele)
 
-- **Axtwerfen:** die „Silberne Ähre" (Anstecknadel, 10 Gold wert,
-  in Sommerhall ein Türöffner)
-- **Fassrollen:** ein Fass Dunkelbier (ja, ein ganzes)
+Tabellen und Ablauf → `Story/Erzaehler/01b-Festspiele.md`.
+
+Tagsüber:
+- **Der Anstich (Brauerei):** ein Fass Dunkelbier (ja, ein ganzes);
+  bei einer 20 dazu Gesas Holzmarke (abends ein Krug Jahrgangsbier,
+  und Gesa zeigt dabei die Kellertreppe und die Rampe)
+- **Hau den Lukas (Festplatz):** der „Eiserne Lukas", ein kleiner
+  Eisenhammer am Lederband von Grom (Vorteil auf Einschüchtern gegen
+  Sommerhaller)
+- **Die offene Bühne:** ein Lied der Musikanten auf den Sieger
+  (Vorteil auf Auftreten in Sommerhall, jeder kennt seinen Namen)
+- **Zillis Seil (Zirkus):** Berros drei ausbalancierte Wurfmesser
+  (1W4+1, +1 auf den Angriffswurf)
+- **Ferkeljagd (Brunnen):** das Ferkel „Rübe" (Festmahl in der Sichel
+  oder Maskottchen); Hütchenspiel: bei einer 20 Pits Hut mit 15 Gold
+- **Tauziehen (vor der Festhalle):** Baldrics Wachabzeichen (die
+  Stadtwache gehorcht dem Träger sofort, hilft bei der Evakuierung)
 - **Rätselzelt:** Hennas „Glücksknoten" (1× Vorteil auf einen
   beliebigen Wurf, dann zerfällt er)
+
+Abends in der Halle:
+- **Axtwerfen:** die „Silberne Ähre" (Anstecknadel, 10 Gold wert,
+  in Sommerhall ein Türöffner)
 - **Armdrücken:** Groms Ehrenkrug + seine laute, ewige Freundschaft
   (in Sommerhall: kostenlose Reparaturen)
 

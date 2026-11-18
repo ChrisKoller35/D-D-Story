@@ -37,15 +37,17 @@ von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 ## Akt 1: Das Fest der Goldenen Ähre (Sommerhall)
 
 Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
-wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele auf dem
-Marktplatz), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
+wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele an sechs
+Festorten quer durch die Stadt, Baldrics Festzettel mit sechs
+Stempeln), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
 Alles ist perfekt – fast zu perfekt. Mira, das Mädchen mit dem
 Holzpferd, sucht die Helden in der Halle. Wer lieber dem Rest der
 Räuberbande nachjagt, findet ein Räuberlager: harmlose Tagelöhner, die
 sich nach den ersten Toten ergeben.
 
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
-- Spiele für die Spieler: `Story/Spieler/Festspiele.md`
+- Spiele für die Spieler: `Story/Spieler/Festspiele.md`; Ablauf und
+  Ergebnistabellen für den Erzähler: `Story/Erzaehler/01b-Festspiele.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
 - NPC: `NPC/Hauptmann-Baldric/`
 

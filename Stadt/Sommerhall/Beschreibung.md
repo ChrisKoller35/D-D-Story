@@ -30,6 +30,10 @@ Menschen beisammen sind.
   (→ `Story/Spieler/Festspiele.md`)
 - Die **Weise Frau Henna**, Rätselzelt – weiß mehr, als sie sagt
   (optionaler Hinweisgeber, wenn die Gruppe strauchelt)
+- **Wanderzirkus Flimm**, nur zum Fest in der Stadt: Direktor
+  **Ottokar Flimm**, Seiltänzerin **Zilli**, der stumme Messerwerfer
+  **Berro** (→ `Story/Erzaehler/01b-Festspiele.md`)
+- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller
 
 ## Orte
 
