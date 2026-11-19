@@ -5,7 +5,7 @@ Finale (Akt 7).
 
 ## Obergeschoss / Hauptsaal
 
-Riesiger Fachwerksaal für 600 Gäste, ca. 60 × 30 m: vorne (Norden) die
+Riesiger Fachwerksaal für 300 Gäste (zum Fest voll), ca. 60 × 30 m: vorne (Norden) die
 Bühne, in der Mitte die Tanzfläche, an West- und Ostseite Langtafeln,
 im Osten der Ausschank mit der Kellertreppe, hinten (Süden) das große
 Portal mit Garderobe, in der Nordostecke die Musikanten-Empore, dazu

@@ -40,7 +40,7 @@ wie viele Menschen danach noch rauskommen – aber nicht, *ob*.
 
 ## Schritt 1: Der Festsaal und die Aufstellung
 
-Der große Festsaal ist **riesig** (ca. 60 × 30 m, 600 Gäste,
+Der große Festsaal ist **riesig** (ca. 60 × 30 m, 300 Gäste,
 → `Stadt/Sommerhall/Orte/Festhalle.md`). Musik, Lachen, Gedränge: Wer
 nicht direkt neben einem Kultisten steht, hört und sieht nichts.
 
@@ -137,9 +137,10 @@ wie viele Menschen hinterher entkommen:
 - **Kultist zum Schweigen gebracht** (bewusstlos geschlagen, geknebelt,
   *Stille*, Mund zugehalten mit Athletik gegen Athletik): Seine Stimme
   fehlt. Bei 0:00 bleibt **seine Ecke des Siegels dunkel**: Von dort
-  läuft kein Strahl zur Bühne. Folge: Vorgazhul kann den **Ausgang
-  in dieser Ecke nicht versiegeln** (siehe Tabelle oben). Gefesselt, aber
-  wach und ohne Knebel, murmelt er einfach weiter.
+  läuft kein Strahl zur Bühne. Folge: Die Gäste in dieser Ecke
+  **erstarren nicht** und laufen von selbst hinaus, **1 Marker gratis**
+  (→ `02b-Evakuierung.md`). Gefesselt, aber wach und ohne Knebel,
+  murmelt er einfach weiter.
 - **Kultist getötet:** Schlechte Idee. Sein Blut läuft sofort als
   dunkler Faden über den Boden zur Bühne – **sein Tod zählt als
   Opfer**, und der Timer verliert zusätzlich **1 Minute**. Die Gäste
@@ -240,7 +241,7 @@ Panik aus.
 > ein Riss, senkrecht, drei Meter hoch, wie ein Spalt in einem Spiegel.
 > Durch ihn steigt eine Gestalt aus schwarzem, zersprungenem Glas. In
 > ihr spiegelt sich jeder im Saal – und alle Spiegelbilder lächeln.
-> Dann löst sich die Starre. Und 600 Menschen schreien gleichzeitig.
+> Dann löst sich die Starre. Und 300 Menschen schreien gleichzeitig.
 
 **Wer kann in der Sequenz was tun?**
 
@@ -263,11 +264,10 @@ Panik aus.
 - **Gäste raustreiben (sehr wichtig!):** Das geht und ist das
   Wertvollste, was die Helden jetzt tun können. Die Gäste trauen sich
   nicht von selbst, aber ein Held kann sie anschreien, schubsen,
-  mitziehen. Pro Moment und Held: Überzeugen, Einschüchtern oder
-  Auftreten **DC 12**. Erfolg = **2 Gruppen** (100 Gäste) raus durch
-  das große Portal, Misserfolg = 1 Gruppe. Noch ist kein Ausgang
-  versiegelt – das beginnt erst, wenn Vorgazhul da ist
-  (→ `Story/Erzaehler/02b-Evakuierung.md`).
+  mitziehen. Pro Moment und Held: Überzeugen, Einschüchtern,
+  Auftreten oder Athletik **DC 12**. Erfolg = **1 Marker** (50 Gäste)
+  raus durch das große Portal (→ `Story/Erzaehler/02b-Evakuierung.md`,
+  dieselbe Regel wie nach dem Ritual).
 
 ---
 
@@ -320,9 +320,11 @@ Stunden.
 
 ## Evakuierung
 
-Die Regeln, wie die Helden die Festhalle räumen und die Stadt retten,
-stehen im Zusatzkapitel **`Story/Erzaehler/02b-Evakuierung.md`**
-(Unterkapitel „Die Festhalle" und „Die Stadt").
+Ganz einfach gehalten, damit die Gruppe es spontan spielen kann:
+**300 Gäste = 6 Marker**, jeder Held pro Runde ein Wurf DC 12 = ein
+Marker raus durchs Portal, Verbündete geben Vorteil; draußen reicht
+**ein Befehl**, um die Stadt zu räumen. Die ganze Regel auf einer
+Seite: **`Story/Erzaehler/02b-Evakuierung.md`**.
 
 ---
 
@@ -344,7 +346,7 @@ rechtzeitig, was hier passiert. Bei 0:00 läuft die Opfer-Sequenz
 komplett durch (Schritt 4): der Kultist vor ihren Augen, das Kind auf
 der Tanzfläche, die Erstarrung, die letzten beiden, die Strahlen,
 Malriks Explosion, das Tor über der Bühne. Vorgazhul steht **mitten
-auf der Party**, zwischen 600 Gästen. Wenn es jetzt eskaliert, gibt es
+auf der Party**, zwischen 300 Gästen. Wenn es jetzt eskaliert, gibt es
 hier das größte Gemetzel.
 
 Ab hier entscheiden die Spieler: Fast alle Gruppen greifen an
@@ -407,9 +409,8 @@ Gruppen, die verstanden haben, worum es geht.
 ### Szenario G · ➖ Leichte Abweichung: Sie schalten Kultisten aus, bevor der Timer abläuft
 
 Klug! Jeder Kultist, der **bewusstlos oder geknebelt** ist, lässt
-seine Ecke des Siegels dunkel: Den Ausgang dort kann Vorgazhul nicht
-versiegeln. (Erstarren tun die Gäste dort trotzdem, raus kommen sie
-nur, wenn ein Held sie treibt.) Wer einen
+seine Ecke des Siegels dunkel: Die Gäste dort erstarren nicht und
+laufen von selbst hinaus, **1 Marker gratis** (→ Kapitel 2b). Wer einen
 Kultisten **tötet**, füttert dagegen das Ritual (zählt als Opfer, −1
 Minute). Ein gefangener Kultist plaudert
 unter Druck (Einschüchtern DC 14): „Die Vier Reliquien liegen im Berg,
@@ -500,7 +501,7 @@ Dämon. Jetzt müssen sie noch begreifen, dass auch sie fliehen müssen:
 | Ihn heilen, segnen, *Schutz vor Gut und Böse* auf Verbündete | Nichts Feindliches → nichts passiert. Er bedankt sich höflich. |
 | Ihn einmauern, Türen verbarrikadieren | Kein Angriff → keine Aufladung, aber nutzlos: Er gleitet durch jede Glasfläche. |
 | Ihm einen Spiegel vorhalten | Er betrachtet sich entzückt und hält einen Monolog – 1 Runde versiegelt er keinen Ausgang. Kleiner Bonus für Kreativität. |
-| Die Festhalle anzünden | Feuer auf ihn = Treffer (+1 Aufladung). Und 600 Gäste in einer brennenden Halle. Sehr schlechte Idee. |
+| Die Festhalle anzünden | Feuer auf ihn = Treffer (+1 Aufladung). Und 300 Gäste in einer brennenden Halle. Sehr schlechte Idee. |
 | Sich ihm anschließen / ihn anbeten | Er nimmt an und verlangt einen Beweis: „Schlag mich. Einmal." |
 | Den alten Bann am Leylinien-Knoten neu zeichnen (Arkana) | Arkana DC 20 und 3 Runden: Es bremst ihn nicht, aber verrät, dass hier schon einmal ein Siegel lag (Hinweis auf Kapitel 5). |
 | Absichtlich sterben, um den Traum zu erzwingen | 1. Durchlauf: geht (alle wachen auf, sobald alle tot sind). 2. Durchlauf: **kein Traum mehr.** |

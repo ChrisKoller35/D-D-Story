@@ -86,9 +86,9 @@ wieder zurück. Ab jetzt gilt Teil 2.
 | 9 | **Einsturz:** Ein Teil der Decke/Tribüne stürzt: 3-m-Bereich, 4W6 Wucht, GES DC 14 halbiert |
 | 10 | **Seelenriss:** Der Angreifer verliert 10 maximale TP bis zur nächsten langen Rast und sieht 1 Runde sein eigenes totes Spiegelbild (keine Aktion vor Schreck) |
 
-**Panik-Regel:** Jedes Ereignis, das NPCs sehen, lässt die Menge in
-Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
-**1 Gruppe weniger** hinaus (→ `Story/Erzaehler/02b-Evakuierung.md`). Je mehr angegriffen wird, desto schlimmer wird alles.
+**Und die Menge** sieht jedes Ereignis: Je mehr angegriffen wird,
+desto lauter wird der Saal, und jede Runde Kampf ist eine Runde, in
+der niemand evakuiert (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
 ### Was er in Akt 2 stattdessen tut (keine Angriffe!)
 
