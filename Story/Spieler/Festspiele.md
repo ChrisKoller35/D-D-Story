@@ -2,17 +2,12 @@
 
 **Spieler-Material** – diese Spiele könnt ihr auf dem Fest spielen.
 Jedes Spiel: **ein einziger Wurf** pro Person, der Wurf sagt, wie gut
-es klappt. Jede Teilnahme kostet 1 Silber Einsatz. Preise →
-Siegerehrung am Abend!
+es klappt. Es geht um nichts, außer um den Spaß und darum, wer heute
+Abend die beste Geschichte erzählt.
 
-## Der Festzettel
-
-Zur **10. Morgenstunde** eröffnet Hauptmann Baldric Immergrün die
-Spiele am Erntealtar auf dem Marktplatz. Jeder Gast bekommt einen
-**Festzettel** mit sechs Feldern, eines pro Festort. An jedem Ort gibt
-es nach dem Mitmachen einen Stempel. **Wer am Abend alle sechs
-Stempel hat, wird in der Großen Festhalle auf die Bühne gerufen.**
-Reihenfolge egal; ab 17 Uhr zieht das Fest in die Halle um.
+Zur **10. Morgenstunde** eröffnet Hauptmann Baldric Immergrün das Fest
+am Erntealtar auf dem Marktplatz. Reihenfolge egal; ab 17 Uhr zieht
+das Fest in die Große Festhalle um.
 
 ---
 
@@ -22,31 +17,26 @@ Reihenfolge egal; ab 17 Uhr zieht das Fest in die Halle um.
 
 Brauerin Thea Glutfaust stellt ein frisches Fass hin, der Hahn liegt
 daneben, der Holzhammer auch. Ein Schlag, und das Bier soll laufen.
-**Ein Wurf Geschicklichkeit.** Wer sauber ansticht, bekommt Freibier;
-der beste Anstich des Tages gewinnt **ein ganzes Fass Dunkelbier**.
+**Ein Wurf Geschicklichkeit.** Wer sauber ansticht, bekommt Freibier.
 
 ### 2. Festplatz (unten) · „Hau den Lukas"
 
 Holzhammer, Klotz, Schiene, oben die Glocke. **Ein Wurf Stärke.**
-Wer die Glocke zum Scheppern bringt, gewinnt den **Eisernen Lukas**
-(ein kleiner Eisenhammer am Lederband).
+Wer bringt die Glocke zum Scheppern?
 
 ### 3. Bühne auf dem Festplatz · „Die offene Bühne"
 
 Jeder darf hinauf: ein Lied, ein Witz, ein Kunststück, eine
 Geschichte, was ihr wollt. **Ein Wurf mit der Fertigkeit, die zu eurer
 Nummer passt** (Auftreten, Täuschung, Akrobatik, Geschichte …). Danach
-**stimmt das Publikum ab**: Wer die meisten Stimmen hat, gewinnt. Die
-Musikanten von Sommerhall dichten **ein Lied auf den Sieger**, das an
-diesem Abend in der ganzen Stadt gesungen wird.
+**stimmt das Publikum ab**: Wer die meisten Stimmen hat, ist der Star
+des Nachmittags.
 
 ### 4. Zirkus (gelbes Zelt neben der Bühne) · „Zillis Seil"
 
 Wanderzirkus Flimm. Ein Seil zwischen zwei Masten, über den Köpfen
 der Menge, ein Netz darunter. Die Seiltänzerin Zilli zeigt, wie es
-geht, dann seid ihr dran. **Ein Wurf Akrobatik.** Wer drüberkommt,
-bekommt vom stummen Messerwerfer Berro **drei ausbalancierte
-Wurfmesser** (1W4+1).
+geht, dann seid ihr dran. **Ein Wurf Akrobatik.**
 Neben dem großen Zelt steht noch ein kleines graues ohne Schild, mit
 einem hageren Mann im Zylinder davor, der nichts anpreist.
 
@@ -54,11 +44,10 @@ einem hageren Mann im Zylinder davor, der nichts anpreist.
 
 Hauptmann Baldric lässt ein eingefettetes Ferkel zwischen den Ständen
 los. Wer es fängt, behält es. **Ein Wurf Athletik oder Akrobatik**
-(ihr wählt). Preis: das Ferkel **„Rübe"** (abends gebraten oder als
-Maskottchen, eure Sache).
+(ihr wählt).
 
 *Zugabe am Brunnen:* Der Flinke Pit spielt mit drei Bechern und einer
-Nuss. **Ein Wurf Wahrnehmung** gegen 1 Silber Einsatz.
+Nuss. **Ein Wurf Wahrnehmung.**
 Und wer eine Münze in den Brunnen der Drei Mühlen wirft und dabei
 einen Wunsch flüstert, dessen Wunsch hört „die Stille", sagt man.
 
@@ -66,15 +55,12 @@ einen Wunsch flüstert, dessen Wunsch hört „die Stille", sagt man.
 
 Baldrics eigenes Spiel, immer kurz vor dem Umzug in die Halle: fünf
 Wachen in Festwesten auf der einen Seite, ihr auf der anderen.
-**Jeder von euch ein Wurf Athletik.** Wer die Wache über die Linie
-zieht, bekommt **Baldrics Wachabzeichen**: Wer es trägt, dem gehorchen
-die Wachen von Sommerhall sofort.
+**Jeder von euch ein Wurf Athletik.** Zieht die Wache über die Linie!
 
 ### Nebenbei: Das Rätselzelt der Weisen Frau
 
 Zwischen den Marktständen steht Hennas Zelt. Drei Rätsel; ihr dürft
-selbst raten, als Rückfall **Intelligenz DC 13**. Preis: Hennas
-„Glücksknoten" (einmal Vorteil auf einen beliebigen Wurf).
+selbst raten, als Rückfall **Intelligenz DC 13**.
 
 > „Ich habe Städte, aber keine Häuser. Wälder, aber keine Bäume.
 > Flüsse, aber kein Wasser. Was bin ich?" *(eine Landkarte)*
@@ -91,15 +77,12 @@ selbst raten, als Rückfall **Intelligenz DC 13**. Preis: Hennas
 ### 7. Axtwerfen „Der Spalter" (auf der Bühne)
 
 Ein Strohziel auf der Bühne, ein Wurf, die ganze Halle schaut zu.
-**Ein Angriffswurf** mit der Wurfaxt. Treffer ins Zentrum gewinnt die
-**„Silberne Ähre"** (Anstecknadel, 10 Gold wert, in Sommerhall ein
-Türöffner).
+**Ein Angriffswurf** mit der Wurfaxt.
 
 ### 8. Armdrücken gegen „Eisenhand" Grom
 
 Der Schmied von Sommerhall, ungeschlagen seit 12 Jahren, sitzt an der
-Langtafel am Ausschank. **Ein Wurf Stärke** gegen seinen. Wer gewinnt,
-bekommt seinen **Ehrenkrug** – und Groms ewige, laute Freundschaft.
+Langtafel am Ausschank. **Ein Wurf Stärke** gegen seinen.
 
 ### 9. Der Große Festtanz
 
@@ -109,5 +92,5 @@ Abends...
 
 ---
 
-*Siegerehrung am Abend in der Großen Festhalle. Hauptmann Baldric
-bittet alle Gewinner und alle mit vollem Festzettel auf die Bühne.*
+*Am Abend in der Großen Festhalle bittet Hauptmann Baldric seine
+Ehrengäste auf die Bühne.*

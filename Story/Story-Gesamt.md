@@ -38,8 +38,7 @@ von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 
 Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
 wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele an sechs
-Festorten quer durch die Stadt, Baldrics Festzettel mit sechs
-Stempeln), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
+Festorten quer durch die Stadt, je ein Wurf pro Spiel), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
 Alles ist perfekt – fast zu perfekt. Mira, das Mädchen mit dem
 Holzpferd, sucht die Helden in der Halle. Wer lieber dem Rest der
 Räuberbande nachjagt, findet ein Räuberlager: harmlose Tagelöhner, die

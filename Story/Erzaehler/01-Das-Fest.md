@@ -61,12 +61,11 @@ den Lukas und die offene Bühne auf dem Festplatz, Zillis Seil beim
 Zirkus, die Ferkeljagd zwischen den Marktständen am Brunnen und zum
 Schluss das Tauziehen gegen die Stadtwache vor der Festhalle. Dazu
 Hennas Rätselzelt und das Hütchenspiel am Brunnen.
-**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) eröffnet die Spiele
-um 10 Uhr am Erntealtar, begrüßt die Helden persönlich und drückt
-jedem einen **Festzettel** in die Hand: sechs Felder, ein Stempel pro
-Festort, und wer abends alle sechs hat, steht in der Halle auf der
-Bühne. Das führt die Gruppe einmal durch die ganze Stadt und am Abend
-direkt an Malrik vorbei (→ Kapitel 2, Sicherheitsnetz).
+**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) eröffnet das Fest
+um 10 Uhr am Erntealtar und begrüßt die Helden persönlich. Es geht
+um nichts: keine Einsätze, keine Pflichten, ein Fest, auf dem man
+Spaß hat. (Kleine Preise, falls du welche willst →
+`Belohnungen/Festpreise.md`.)
 
 **Ab 17–18 Uhr: drinnen in der Großen Festhalle.** Wenn die Sonne
 tief steht, läuten die Glocken, und das ganze Fest zieht in die
@@ -74,7 +73,7 @@ tief steht, läuten die Glocken, und das ganze Fest zieht in die
 Lichterketten, Langtafeln, der Erntealtar, Musikanten auf der Empore,
 Tanzfläche. Hier laufen die Abendspiele (Axtwerfen auf der Bühne,
 Armdrücken gegen Grom, der Festtanz → `01b-Festspiele.md`), dann die
-Siegerehrung, und hier passiert später das Ritual (→ Kapitel 2).
+Rede des Hauptmanns, und hier passiert später das Ritual (→ Kapitel 2).
 
 **Wichtig für dich:** Lass das Fest bewusst **lange gut laufen**. Die
 Spieler sollen sich sicher fühlen. Je schöner der Tag, desto härter
@@ -112,10 +111,9 @@ Dort steht ein Kapuzen-Kultist und murmelt. Das ist die Entdeckung
 
 ### Szenario A · ⭐ Optimal: Die Gruppe feiert einfach mit
 
-Sie machen bei den Spielen mit, trinken, gewinnen Preise. Perfekt –
+Sie machen bei den Spielen mit, trinken, lachen. Perfekt –
 spiele die Festspiele aus (→ `01b-Festspiele.md`, mit Tagesplan und
-einer Ergebnistabelle pro Spiel), verteile kleine Preise
-(→ `Belohnungen/Uebersicht.md`, Abschnitt „Festpreise"). Mira, Tamo,
+einer Ergebnistabelle pro Spiel). Mira, Tamo,
 Thea und Grom tauchen an den Festorten auf, Malrik steht an jedem
 einmal still am Rand. Gehe nach 45–60 Minuten zu Kapitel 2 über.
 

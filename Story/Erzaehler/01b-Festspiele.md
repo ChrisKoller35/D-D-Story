@@ -12,10 +12,10 @@ pro Spiel**.
 - Die Tabellen lesen sich immer gleich: **natürliche 1** = Patzer,
   **2–7**, **8–14**, **15–19**, **20 oder mehr** (natürliche 20 zählt
   immer als „20 oder mehr").
-- Wer mitmacht, bekommt den **Stempel** auf den Festzettel, egal wie
-  es ausgeht. Der Stempel ist für den Abend wichtig, nicht der Sieg.
-- Gibt es einen Preis, bekommt ihn der **beste Wurf** am Stand. Bei
-  Gleichstand entscheidet die Menge (lauter Jubel, du wählst).
+- Es geht um nichts: kein Einsatz, keine Stempel, keine Pflicht. Ein
+  Fest, auf dem man Spaß hat. Wer am Stand den besten Wurf hat, wird
+  bejubelt, mehr nicht. Willst du trotzdem kleine Preise vergeben,
+  steht pro Spiel ein Vorschlag in `Belohnungen/Festpreise.md`.
 - Richtwert: **5–10 Minuten pro Festort**, der ganze Tag 45–60 Minuten
   echte Spielzeit. Lass das Fest lange gut laufen (→ Kapitel 1).
 
@@ -23,7 +23,7 @@ pro Spiel**.
 
 | Zeit | Was | Wo |
 |---|---|---|
-| 10. Morgenstunde | **Eröffnung:** Baldric am Erntealtar, Festzettel für alle Gäste | Marktplatz |
+| 10. Morgenstunde | **Eröffnung:** Baldric am Erntealtar, ein kurzer Spruch, das erste Freibier | Marktplatz |
 | ab 10 Uhr | Alle Festorte offen, Reihenfolge frei | Stadt |
 | gegen 11 Uhr | Thea schlägt das erste Fass an, danach „Der Anstich" | Brauerei |
 | 14 Uhr | **Die offene Bühne** mit Abstimmung | Festplatz unten |
@@ -34,22 +34,6 @@ pro Spiel**.
 Die Festorte entsprechen dem Stadtbild (→ Kapitel 1, „Karte"):
 Brauerei links, Festplatz mit Bühne und gelbem Zirkuszelt unten,
 Brunnen mit den Marktständen in der Mitte, Festhalle oben rechts.
-
-## Der Festzettel
-
-Baldric drückt bei der Eröffnung jedem einen Zettel in die Hand
-(grob gedruckt, sechs leere Felder mit kleinen Zeichnungen: Fass,
-Hammer, Laute, Seil, Ferkel, Tau). An jedem Festort drückt der
-Standbetreiber einen Stempel hinein. Baldric dazu:
-
-> „Sechs Stempel, und ihr steht heute Abend bei mir auf der Bühne.
-> Mit Preis oder ohne, das ist mir gleich. Hauptsache, ihr habt die
-> Stadt gesehen."
-
-**Warum das wichtig ist:** Wer am Abend mit vollem Festzettel auf die
-Bühne gerufen wird, geht an Malrik vorbei. Das ist das Sicherheitsnetz
-für den Start von Kapitel 2 (→ `02-Ritual-und-Daemon.md`, Schritt 2).
-Hat niemand alle sechs Stempel, ruft Baldric eben die Ehrengäste.
 
 ## Figuren an den Festorten
 
@@ -100,9 +84,6 @@ hin. Ole stellt Krüge bereit.
 | 15–19 | Ein Schlag, der Schaum steht perfekt. Die Brauleute jubeln, Thea nickt anerkennend: „Hast du das schon mal gemacht?" Zwei Krüge. |
 | 20+ | **Der perfekte Anstich.** Kein Tropfen daneben, der Hof brüllt. Thea drückt dem Helden ihre **Holzmarke** in die Hand: abends ein Krug vom Jahrgangsbier am Ausschank, „vom guten Zeug". |
 
-**Preis (bester Wurf):** ein ganzes Fass Dunkelbier
-(→ `Belohnungen/Uebersicht.md`).
-
 **Die Holzmarke:** Wer sie abends am Ausschank einlöst, dem zeigt Thea
 dabei die Kellertreppe hinter dem Ausschank und erzählt von der Rampe
 zum Hof, über die sie ihre Fässer anliefert. So kennt mindestens ein
@@ -123,11 +104,6 @@ Helden am Ärmel hin. Der Holzhammer ist schwerer, als er aussieht.
 | 8–14 | Halbe Höhe, der Klotz klackert an der Schiene. Ordentlich. Grom nickt knapp. |
 | 15–19 | Fast ganz oben, die Glocke summt, ohne zu läuten. Die Menge stöhnt auf und jubelt dann. Grom: „Beinahe. Beinahe ist gut." |
 | 20+ | **Die Glocke scheppert über den ganzen Platz.** Kinder kreischen, Grom hebt den Daumen, Mira springt auf und ab. Jemand spendiert einen Honigkuchen. |
-
-**Preis (bester Wurf, mindestens die Glocke):** der **Eiserne Lukas**,
-ein kleiner Eisenhammer am Lederband, von Grom selbst geschmiedet.
-Wer ihn trägt, gilt in Sommerhall als stark, Vorteil auf
-Einschüchtern gegen Sommerhaller.
 
 ## 3. Bühne · „Die offene Bühne" (freie Fertigkeit)
 
@@ -158,10 +134,8 @@ mitmachen, die auch Stimmen holen:
 - **Ole**, Theas Fuhrknecht, jongliert mit drei Krügen und lässt
   einen fallen (Wurf 6).
 
-Bei Gleichstand entscheidet der höhere Wurf. **Preis:** Die Musikanten
-von Sommerhall dichten **ein Lied auf den Sieger**, das sie den ganzen
-Abend in der Halle spielen. Der Held hat in Sommerhall Vorteil auf
-Auftreten, und jeder in der Stadt kennt seinen Namen.
+Bei Gleichstand entscheidet der höhere Wurf. Der Sieger ist der Star
+des Nachmittags, und jeder in der Stadt kennt seinen Namen.
 
 **Im 2. Durchlauf** (→ Kapitel 3): Die Bühne ist ein guter Ort, um
 die ganze Stadt auf einmal anzusprechen (→ `02b-Evakuierung.md`).
@@ -184,11 +158,6 @@ es ein Gehweg. Berro hält die Leiter.
 | 8–14 | Drüber, mit rudernden Armen und einem Fluch auf halber Strecke. Jubel am anderen Mast. |
 | 15–19 | Drüber, sicher, mit einer Verbeugung in der Mitte. Zilli klatscht, Flimm ruft „Ein Naturtalent!". |
 | 20+ | **Drüber und am Ende ein Salto** vom Seil auf den Boden. Der Platz tobt. Zilli bietet dem Helden ernsthaft eine Anstellung an: „Wir brechen morgen früh auf." (Ein leises Angebot, das in Kapitel 3 eine seltsame Bedeutung bekommt.) |
-
-**Preis (bester Wurf, mindestens drüber):** Berro tritt vor und legt
-dem Helden wortlos **drei ausbalancierte Wurfmesser** in die Hand
-(1W4+1 Stich, Wurfweite 6/18 m, +1 auf den Angriffswurf, weil perfekt
-ausbalanciert).
 
 **Das graue Zelt daneben:** Neben Flimms gelbem Zelt steht ein kleines
 graues Zelt ohne Schild, davor sitzt ein hagerer Mann mit Zylinder,
@@ -224,16 +193,14 @@ Wurf vor, so wird die Jagd von selbst eine kleine Geschichte.
 | 15–19 | Am Hinterbein erwischt, Rübe quiekt, der Held hat Dreck im Gesicht und das Ferkel unterm Arm. Nur wenn niemand höher würfelt, bleibt es dort. |
 | 20+ | **Rübe sauber gefangen**, mit beiden Händen über den Kopf gehoben. Der ganze Platz jubelt, Baldric klatscht auf dem Brunnenrand, Mira will das Ferkel streicheln. |
 
-**Preis (bester Wurf, mindestens 15):** das Ferkel **„Rübe"**. Die
-Gruppe entscheidet: Alma brät es am Abend (ein Festmahl in der
-Sichel, Vorteil auf den nächsten Rettungswurf gegen Erschöpfung)
-oder Rübe bleibt als Maskottchen (Ferkel, TP 4, beißt nicht,
-quiekt bei Gefahr: ein Frühwarnsystem mit Ringelschwanz). Rübe ist
-ein kleiner, liebenswerter Anker: Was aus ihm im Ritual wird, darfst
-du offen lassen.
+**Rübe gehört dem besten Wurf** (ab 15). Die Gruppe entscheidet: Alma
+brät das Ferkel am Abend (ein Festmahl in der Sichel) oder Rübe bleibt
+als Maskottchen (TP 4, beißt nicht, quiekt bei Gefahr). Rübe ist ein
+kleiner, liebenswerter Anker: Was aus ihm im Ritual wird, darfst du
+offen lassen.
 
 **Zugabe: Das Hütchenspiel beim Flinken Pit.** An einem Klapptisch am
-Brunnenrand, drei Becher, eine Nuss, 1 Silber Einsatz. Ein Wurf
+Brunnenrand, drei Becher, eine Nuss, ein Silber Einsatz. Ein Wurf
 Wahrnehmung:
 
 | Wurf | Ergebnis |
@@ -270,14 +237,7 @@ Grom auf ihre Seite („Ausgleich. Steht so in der Liste.").
 | alle bis auf einen | Die Wache rutscht Zentimeter für Zentimeter, dann über den Strich. Jubel, Baldric lacht am lautesten. |
 | alle | **Die Wache fliegt über die Linie** und übereinander. Der Platz tobt, Baldric nimmt die Mütze ab. |
 
-**Preis (Wache über den Strich):** **Baldrics Wachabzeichen**, eine
-Messingplakette mit der Ähre. Wer sie trägt, dem gehorchen die Wachen
-von Sommerhall sofort, ohne Fragen. Das ist im 2. Durchlauf Gold wert:
-Bei der Evakuierung der Stadt entfällt für den Träger der Schritt
-„Stadtwache überzeugen", die Wache folgt sofort und läutet die Glocke
-(→ `02b-Evakuierung.md`, „Die Stadt").
-
-Danach: letzter Stempel, die Glocken läuten, Umzug in die Halle
+Danach läuten die Glocken, Umzug in die Halle
 (→ Kapitel 1, „Ab 17–18 Uhr").
 
 ---
@@ -297,9 +257,6 @@ Werfer einzeln auf. **Ein Angriffswurf** (Wurfwaffen-Geschick zählt).
 | 15–19 | Innerer Ring, die Axt wackelt noch. Jubel. |
 | 20+ | **Mitten ins Zentrum**, das Stroh spritzt. Die Halle brüllt. |
 
-**Preis (bester Wurf, mindestens innerer Ring):** die **„Silberne
-Ähre"** (→ `Belohnungen/Uebersicht.md`).
-
 ### 8. Armdrücken gegen „Eisenhand" Grom (Stärke)
 
 An der Langtafel beim Ausschank, Ellbogen auf dem Holz, Groms Hand
@@ -309,12 +266,9 @@ wie ein Schraubstock. **Ein Wurf Stärke, Grom würfelt mit +6.**
 |---|---|
 | 1 | Groms Hand knallt die des Helden auf den Tisch, bevor Baldric „Los" sagt. Grom: „Das zählt nicht. Aber ich hab gewonnen." |
 | unter Groms Wurf | Zäh, aber Grom gewinnt. Er bestellt dem Helden trotzdem einen Krug: „Gut gekämpft." |
-| gleich Groms Wurf | Eine Minute lang rührt sich nichts, dann lässt Grom lachend los: „Unentschieden. Das hatte ich seit zwölf Jahren nicht." Ein halber Ehrenkrug (der Krug, aber keine Reparaturen). |
-| über Groms Wurf | **Groms Hand liegt auf dem Tisch.** Stille in der Halle, dann ein Brüllen. Grom starrt seine Hand an, dann umarmt er den Helden, dass es knackt. |
+| gleich Groms Wurf | Eine Minute lang rührt sich nichts, dann lässt Grom lachend los: „Unentschieden. Das hatte ich seit zwölf Jahren nicht." Er bestellt zwei Krüge. |
+| über Groms Wurf | **Groms Hand liegt auf dem Tisch.** Stille in der Halle, dann ein Brüllen. Grom starrt seine Hand an, dann umarmt er den Helden, dass es knackt. Ab jetzt sein Freund fürs Leben. |
 | 20+ | Wie oben, nur dass Grom sofort eine Runde für die ganze Tafel bestellt und den Namen des Helden in seinen Ehrenkrug ritzen will. |
-
-**Preis (Grom besiegt):** Groms **Ehrenkrug** und seine laute, ewige
-Freundschaft (in Sommerhall kostenlose Reparaturen).
 
 ### 9. Der Große Festtanz (Auftreten oder Akrobatik)
 
@@ -331,14 +285,13 @@ der Held zwischen den Liedern hört.
 
 ---
 
-## Die Siegerehrung
+## Der Abend und die Ehrengäste
 
-Nach dem Tanz, auf dem Höhepunkt des Abends. Baldric steht auf der
-Bühne, neben ihm die Preistruhe aus Theas Kutsche (→ Kapitel 0.5). Er
-ruft der Reihe nach: den Anstich, den Lukas, die Bühne, das Seil, die
-Ferkeljagd, das Tauziehen, den Spalter, das Armdrücken. Zum Schluss:
+Nach dem Tanz, auf dem Höhepunkt des Abends, steigt Baldric auf die
+Bühne, dankt der Stadt, den Musikanten und Thea für das Bier, und
+ruft zum Schluss seine **Ehrengäste** nach vorn:
 
-> „Und jetzt alle, die mir heute einen vollen Festzettel bringen.
+> „Und jetzt die Leute, die mir gestern das Bier gerettet haben.
 > Rauf mit euch!"
 
 Die Helden gehen nach vorn, durch die Menge, **an Malrik vorbei**, der
