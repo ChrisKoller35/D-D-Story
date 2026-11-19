@@ -18,5 +18,5 @@ Wirtin **Alma**.
   die alle zur Bühne laufen.
 
 **Alma:** Mütterlich, resolut, nennt alle „Kind", auch den Barbaren.
-Falls Konrad in Akt 2 stirbt, übernimmt sie seine Rolle als
+Falls Baldric in Akt 2 stirbt, übernimmt sie seine Rolle als
 Anführerin der Geflüchteten im Lager vor der Kuppel (Finale).

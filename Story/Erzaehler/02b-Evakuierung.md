@@ -45,13 +45,13 @@ Abkürzungen für Einzelne, nicht für 600 Menschen.
   Frage ist nur, wie schnell die Menge durch diese eine Tür passt.
 - **Portal mit Held, der die Menge lenkt** (Aktion; Überzeugen,
   Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
-  Misserfolg = 1 Gruppe. Konrad, Alma oder die Brauerin Thea zählen
+  Misserfolg = 1 Gruppe. Baldric, Alma oder die Brauerin Thea zählen
   wie ein Held (mit +4), wenn man sie darum bittet.
 - **Portal ohne Held:** Panik, Gedränge – nur **1 Gruppe alle
   2 Runden**.
 - **Nebenausgänge** (solange offen): Dienstbotentür und Westfenster
   höchstens **1 Gruppe pro Runde**, auch mit Held. Die **Kellertreppe**
-  (Bierkeller, Rampe zum Hof) kennen nur Einheimische (Konrad, Alma,
+  (Bierkeller, Rampe zum Hof) kennen nur Einheimische (Baldric, Alma,
   Thea); sie ist schmal: ebenfalls höchstens 1 Gruppe pro Runde. Der
   Keller ist der Weg für ein paar Leute, nie für die Menge.
 

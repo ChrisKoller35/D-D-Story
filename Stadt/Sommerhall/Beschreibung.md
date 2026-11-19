@@ -18,8 +18,8 @@ Menschen beisammen sind.
 
 ## Wichtige Personen
 
-- **Hauptmann Konrad Steinweg**, Hauptmann der Stadtwache und
-  Ausrichter des Fests → `NPC/Hauptmann-Konrad/`
+- **Hauptmann Baldric Immergrün**, Hauptmann der Stadtwache und
+  Ausrichter des Fests → `NPC/Hauptmann-Baldric/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
 - **Brauerin Thea Glutfaust**, Brauerei im Westen der Stadt; ihr

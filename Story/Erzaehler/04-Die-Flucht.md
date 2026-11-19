@@ -39,10 +39,10 @@ Was die Flucht trotzdem lebendig macht (kostet nur Zeit, nie Leben):
   Gäste mit raus (→ Kapitel 2b, `Story/Erzaehler/02b-Evakuierung.md`).
   Vom Markt geht es die Lindenallee hinunter zum Nordtor oder über die
   Mühlenbrücke aus der Stadt.
-- **Herzmoment:** Ein NPC (Mira, Konrad, die Wirtin Alma, ein alter
+- **Herzmoment:** Ein NPC (Mira, Baldric, die Wirtin Alma, ein alter
   Bauer, der nicht ohne seine Ziege geht) braucht Hilfe. Wer hilft,
   verliert **etwa eine halbe Stunde** – und rettet ein Leben.
-- **Abkürzung:** Wer Sommerhall kennt oder fragt (Konrad, Alma), kennt
+- **Abkürzung:** Wer Sommerhall kennt oder fragt (Baldric, Alma), kennt
   den Weg über die Mühlenbrücke: halbe Zeit bis zur 1-km-Grenze.
 
 **Wichtig:** Der einzige Fehler, den die Helden machen können, ist,
@@ -81,7 +81,7 @@ anderem ein gefallener Held zurückholen lässt.
 Sie holen, wen sie holen können, gehen bei etwa 8 Aufladungen und
 sind über die 1-km-Grenze, bevor der Weltenspiegel kommt. Vom Hügel
 aus sehen sie den violetten Blitz. Lass die Geretteten Gesichter haben
-(Mira, Konrad, Alma). → Kapitel 4b.
+(Mira, Baldric, Alma). → Kapitel 4b.
 
 **➖ Leichte Abweichungen**
 
@@ -89,7 +89,7 @@ aus sehen sie den violetten Blitz. Lass die Geretteten Gesichter haben
 
 Der häufigste Fehler. Sag es über die Fiktion an („Der achte Marker
 dreht sich", „Euer Bauch sagt: jetzt"). Rennen sie bei 9 Aufladungen
-los, wird es knapp: Abkürzung über die Mühlenbrücke (Konrad oder Alma
+los, wird es knapp: Abkürzung über die Mühlenbrücke (Baldric oder Alma
 kennen sie) oder ein Held trägt jemanden – Athletik DC 13 pro Person,
 die nicht selbst laufen kann. Wer bei 10 noch im Umkreis ist, stirbt im
 Weltenspiegel. Im 1. Durchlauf: Kapitel 3. Im 2. Durchlauf: Tod – es
@@ -116,7 +116,7 @@ Jeder Schlag verkürzt die Flucht.
 ### Szenario E · 🔀 Ganz anders: Sie nehmen den Kellerausgang statt des Portals
 
 Unwahrscheinlich, aber möglich: Jemand kennt die Kellertreppe am
-Ausschank (Konrad, Alma oder Thea zeigen sie), oder die Gruppe hat den
+Ausschank (Baldric, Alma oder Thea zeigen sie), oder die Gruppe hat den
 Kultisten dort vor 0:00 zum Schweigen gebracht, sodass Vorgazhul diesen
 Weg nicht versiegeln kann. Durch den Bierkeller und die Rampe kommen
 die Helden auf den Hof hinter der Halle, am Gedränge vorbei. Das ist
@@ -128,7 +128,7 @@ Menge folgt nicht. Wer so geht, rettet nur, wen er an der Hand mitzieht
 
 Keller, Kirche, Brunnenschacht: nichts davon rettet. Der
 Weltenspiegel reicht 1 km in jede Richtung, auch nach unten. Lass es
-Alma oder Konrad sagen, falls die Spieler es nicht glauben: „Mein
+Alma oder Baldric sagen, falls die Spieler es nicht glauben: „Mein
 Großvater hat erzählt, was damals mit dem alten Keller passiert ist."
 Im 2. Durchlauf endet das als „Der Spiegel gewinnt" – es sei denn, sie
 überlegen es sich rechtzeitig anders.

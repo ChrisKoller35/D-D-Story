@@ -1,4 +1,4 @@
-# Hauptmann Konrad Steinweg
+# Hauptmann Baldric Immergrün
 
 Hauptmann der Stadtwache von Sommerhall und Ausrichter des Fests der
 Goldenen Ähre (→ `Story/Erzaehler/01-Das-Fest.md`). Am Abend vor dem
@@ -12,7 +12,7 @@ dröhnendes Lachen. Hauptmann der Stadtwache seit zwanzig Jahren, hat
 aber länger keine Klinge mehr gezogen als jeder seiner Wachleute; er
 führt mit Stimme und Listen, nicht mit dem Schwert. Kennt jeden Namen in Sommerhall und zwei Drittel
 aller Geburtstage. Hinter der Jovialität: echter Mut und echte Liebe
-zu seiner Stadt – Konrad ist der NPC, der im Chaos von Kapitel 2
+zu seiner Stadt – Baldric ist der NPC, der im Chaos von Kapitel 2
 Gäste beschützt, statt zu fliehen.
 
 **Funktion in der Story:**

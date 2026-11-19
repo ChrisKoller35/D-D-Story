@@ -21,7 +21,7 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 2. Dienstbotentür hinter der Bühne → Gasse – wird zuerst versiegelt
 3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
 4. Kellertreppe am Ausschank → Bierkeller → Rampe zum Hof (den kennen
-   nur Einheimische – Konrad, Alma oder die Brauerin Thea, die ihre
+   nur Einheimische – Baldric, Alma oder die Brauerin Thea, die ihre
    Fässer über diese Rampe anliefert, können ihn zeigen) – schmal,
    nur für Einzelne, wird zuletzt versiegelt
 

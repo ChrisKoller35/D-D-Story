@@ -7,7 +7,7 @@ Siegerehrung am Abend!
 
 ## Der Festzettel
 
-Zur **10. Morgenstunde** eröffnet Hauptmann Konrad Steinweg die
+Zur **10. Morgenstunde** eröffnet Hauptmann Baldric Immergrün die
 Spiele am Erntealtar auf dem Marktplatz. Jeder Gast bekommt einen
 **Festzettel** mit sechs Feldern, eines pro Festort. An jedem Ort gibt
 es nach dem Mitmachen einen Stempel. **Wer am Abend alle sechs
@@ -52,7 +52,7 @@ einem hageren Mann im Zylinder davor, der nichts anpreist.
 
 ### 5. Brunnen und Marktstände (Mitte) · „Die Ferkeljagd"
 
-Hauptmann Konrad lässt ein eingefettetes Ferkel zwischen den Ständen
+Hauptmann Baldric lässt ein eingefettetes Ferkel zwischen den Ständen
 los. Wer es fängt, behält es. **Ein Wurf Athletik oder Akrobatik**
 (ihr wählt). Preis: das Ferkel **„Rübe"** (abends gebraten oder als
 Maskottchen, eure Sache).
@@ -64,10 +64,10 @@ einen Wunsch flüstert, dessen Wunsch hört „die Stille", sagt man.
 
 ### 6. Vor der Festhalle (oben rechts) · „Tauziehen gegen die Stadtwache"
 
-Konrads eigenes Spiel, immer kurz vor dem Umzug in die Halle: fünf
+Baldrics eigenes Spiel, immer kurz vor dem Umzug in die Halle: fünf
 Wachen in Festwesten auf der einen Seite, ihr auf der anderen.
 **Jeder von euch ein Wurf Athletik.** Wer die Wache über die Linie
-zieht, bekommt **Konrads Wachabzeichen**: Wer es trägt, dem gehorchen
+zieht, bekommt **Baldrics Wachabzeichen**: Wer es trägt, dem gehorchen
 die Wachen von Sommerhall sofort.
 
 ### Nebenbei: Das Rätselzelt der Weisen Frau
@@ -109,5 +109,5 @@ Abends...
 
 ---
 
-*Siegerehrung am Abend in der Großen Festhalle. Hauptmann Konrad
+*Siegerehrung am Abend in der Großen Festhalle. Hauptmann Baldric
 bittet alle Gewinner und alle mit vollem Festzettel auf die Bühne.*

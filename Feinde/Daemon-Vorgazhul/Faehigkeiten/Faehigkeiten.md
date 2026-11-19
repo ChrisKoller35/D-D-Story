@@ -172,7 +172,7 @@ man ihn vom Siegelträger weglocken!
   haben, desto weniger Diener! Werte: RK 13, TP 15, Bewegung 9 m,
   Schlag +6, 8 (1W10+3) Hieb. Beim Tod zerspringen sie: 3 m,
   GES DC 12 oder 3 (1W6) Stich. Sie tragen die Gesichter von
-  Menschen, die die Helden kannten (Konrad? Alma? Das Kind mit dem
+  Menschen, die die Helden kannten (Baldric? Alma? Das Kind mit dem
   Mira mit dem Holzpferd?).
 
 ### Reaktion

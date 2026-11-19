@@ -23,11 +23,11 @@ pro Spiel**.
 
 | Zeit | Was | Wo |
 |---|---|---|
-| 10. Morgenstunde | **Eröffnung:** Konrad am Erntealtar, Festzettel für alle Gäste | Marktplatz |
+| 10. Morgenstunde | **Eröffnung:** Baldric am Erntealtar, Festzettel für alle Gäste | Marktplatz |
 | ab 10 Uhr | Alle Festorte offen, Reihenfolge frei | Stadt |
 | gegen 11 Uhr | Thea schlägt das erste Fass an, danach „Der Anstich" | Brauerei |
 | 14 Uhr | **Die offene Bühne** mit Abstimmung | Festplatz unten |
-| 16 Uhr | **Tauziehen gegen die Stadtwache**, Konrads Abschluss | vor der Festhalle |
+| 16 Uhr | **Tauziehen gegen die Stadtwache**, Baldrics Abschluss | vor der Festhalle |
 | 17 Uhr | Glocken, Umzug in die Halle | Große Festhalle |
 | abends | Axtwerfen, Armdrücken, Festtanz, **Siegerehrung** | Große Festhalle |
 
@@ -37,10 +37,10 @@ Brunnen mit den Marktständen in der Mitte, Festhalle oben rechts.
 
 ## Der Festzettel
 
-Konrad drückt bei der Eröffnung jedem einen Zettel in die Hand
+Baldric drückt bei der Eröffnung jedem einen Zettel in die Hand
 (grob gedruckt, sechs leere Felder mit kleinen Zeichnungen: Fass,
 Hammer, Laute, Seil, Ferkel, Tau). An jedem Festort drückt der
-Standbetreiber einen Stempel hinein. Konrad dazu:
+Standbetreiber einen Stempel hinein. Baldric dazu:
 
 > „Sechs Stempel, und ihr steht heute Abend bei mir auf der Bühne.
 > Mit Preis oder ohne, das ist mir gleich. Hauptsache, ihr habt die
@@ -49,7 +49,7 @@ Standbetreiber einen Stempel hinein. Konrad dazu:
 **Warum das wichtig ist:** Wer am Abend mit vollem Festzettel auf die
 Bühne gerufen wird, geht an Malrik vorbei. Das ist das Sicherheitsnetz
 für den Start von Kapitel 2 (→ `02-Ritual-und-Daemon.md`, Schritt 2).
-Hat niemand alle sechs Stempel, ruft Konrad eben die Ehrengäste.
+Hat niemand alle sechs Stempel, ruft Baldric eben die Ehrengäste.
 
 ## Figuren an den Festorten
 
@@ -66,7 +66,7 @@ Hat niemand alle sechs Stempel, ruft Konrad eben die Ehrengäste.
   Messerwerfer **Berro** (groß, Narbe, spricht nur mit den Händen).
 - **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller.
 - **Die Weise Frau Henna** im Rätselzelt zwischen den Ständen.
-- **Hauptmann Konrad Steinweg** eröffnet, ist den Tag über überall
+- **Hauptmann Baldric Immergrün** eröffnet, ist den Tag über überall
   mit seiner Liste unterwegs und leitet am Nachmittag das Tauziehen.
 - **„Eisenhand" Grom** steht beim Lukas und kommentiert; sein eigenes
   Spiel, das Armdrücken, kommt abends in der Halle.
@@ -205,7 +205,7 @@ mitnehmen (→ `02b-Evakuierung.md`).
 ## 5. Brunnen und Marktstände · „Die Ferkeljagd" (Athletik oder Akrobatik)
 
 **Szene:** Der Platz um den Brunnen der Drei Mühlen, ringsum die
-Stände: Honigwein, Zuckeräpfel, Glücksbuden, Hennas Zelt. Konrad
+Stände: Honigwein, Zuckeräpfel, Glücksbuden, Hennas Zelt. Baldric
 steht auf dem Brunnenrand, ein Wachmann hält ein quiekendes,
 glänzend eingefettetes Ferkel. Die Menge bildet einen lockeren Ring.
 
@@ -218,11 +218,11 @@ Wurf vor, so wird die Jagd von selbst eine kleine Geschichte.
 
 | Wurf | Ergebnis |
 |---|---|
-| 1 | Bauchlandung im Honigwein-Stand. Der Wirt schimpft, zwei Krüge sind hin (1 Silber Schaden, oder ein Lachen von Konrad und es ist vergessen). Der Held klebt. |
+| 1 | Bauchlandung im Honigwein-Stand. Der Wirt schimpft, zwei Krüge sind hin (1 Silber Schaden, oder ein Lachen von Baldric und es ist vergessen). Der Held klebt. |
 | 2–7 | Rübe flutscht einmal durch die Hände und ist weg, der Held sitzt im Staub. Die Menge johlt. |
 | 8–14 | Kurz gehabt, dann weg. Dafür drückt die Zuckerapfel-Frau dem Helden einen Zuckerapfel in die Hand: „Für die Mühe." |
 | 15–19 | Am Hinterbein erwischt, Rübe quiekt, der Held hat Dreck im Gesicht und das Ferkel unterm Arm. Nur wenn niemand höher würfelt, bleibt es dort. |
-| 20+ | **Rübe sauber gefangen**, mit beiden Händen über den Kopf gehoben. Der ganze Platz jubelt, Konrad klatscht auf dem Brunnenrand, Mira will das Ferkel streicheln. |
+| 20+ | **Rübe sauber gefangen**, mit beiden Händen über den Kopf gehoben. Der ganze Platz jubelt, Baldric klatscht auf dem Brunnenrand, Mira will das Ferkel streicheln. |
 
 **Preis (bester Wurf, mindestens 15):** das Ferkel **„Rübe"**. Die
 Gruppe entscheidet: Alma brät es am Abend (ein Festmahl in der
@@ -242,7 +242,7 @@ Wahrnehmung:
 | 2–9 | Falscher Becher. Einsatz weg. „Noch mal? Dieses Mal ganz bestimmt." |
 | 10–14 | Richtiger Becher. Pit zahlt den doppelten Einsatz, sichtlich ungern. |
 | 15–19 | Der Held sieht, wie Pit die Nuss in den Ärmel schiebt, und sagt es laut. Pit zahlt zähneknirschend den dreifachen Einsatz, bevor jemand die Wache ruft. |
-| 20+ | Der Held packt Pits Handgelenk, die Nuss fällt aus dem Ärmel. Zwei Wachen führen Pit ab, Konrad reicht dem Helden lachend Pits Hut: **15 Gold in Kleingeld**, die Einsätze des Tages. |
+| 20+ | Der Held packt Pits Handgelenk, die Nuss fällt aus dem Ärmel. Zwei Wachen führen Pit ab, Baldric reicht dem Helden lachend Pits Hut: **15 Gold in Kleingeld**, die Einsätze des Tages. |
 
 **Der Brunnen.** Wer eine Münze hineinwirft und einen Wunsch
 flüstert, dessen Wunsch hört „die Stille", sagt man in Sommerhall.
@@ -256,21 +256,21 @@ längsten.
 **Szene:** 16 Uhr, der Festplatz vor dem großen Portal. Ein dickes
 Tau, ein Kreidestrich, auf der einen Seite **fünf Wachen in
 Festwesten** (ohne Rüstung, mit Bier), auf der anderen die Helden.
-Konrad steht am Strich mit seiner Liste und pfeift. Halb Sommerhall
-schaut zu. Sind es weniger als vier Helden, holt Konrad Thea oder
+Baldric steht am Strich mit seiner Liste und pfeift. Halb Sommerhall
+schaut zu. Sind es weniger als vier Helden, holt Baldric Thea oder
 Grom auf ihre Seite („Ausgleich. Steht so in der Liste.").
 
 **Jeder Held ein Wurf Athletik gegen DC 13.** Zähle die Erfolge:
 
 | Erfolge | Ergebnis |
 |---|---|
-| keiner | Die Helden liegen im Staub, die Wache brüllt vor Lachen. Konrad: „Das war die Aufwärmrunde. Gilt nicht." Niemand bekommt einen Preis, aber alle einen Krug. |
+| keiner | Die Helden liegen im Staub, die Wache brüllt vor Lachen. Baldric: „Das war die Aufwärmrunde. Gilt nicht." Niemand bekommt einen Preis, aber alle einen Krug. |
 | einer | Langsam, Schritt für Schritt über den Strich gezogen. Die Wachen klopfen den Helden auf die Schulter: „Nächstes Jahr." |
-| etwa die Hälfte | Gleichstand, das Tau zittert eine Minute lang. Konrad pfeift ab und ruft: „Noch einmal!" Alle würfeln ein zweites Mal, das Ergebnis zählt. |
-| alle bis auf einen | Die Wache rutscht Zentimeter für Zentimeter, dann über den Strich. Jubel, Konrad lacht am lautesten. |
-| alle | **Die Wache fliegt über die Linie** und übereinander. Der Platz tobt, Konrad nimmt die Mütze ab. |
+| etwa die Hälfte | Gleichstand, das Tau zittert eine Minute lang. Baldric pfeift ab und ruft: „Noch einmal!" Alle würfeln ein zweites Mal, das Ergebnis zählt. |
+| alle bis auf einen | Die Wache rutscht Zentimeter für Zentimeter, dann über den Strich. Jubel, Baldric lacht am lautesten. |
+| alle | **Die Wache fliegt über die Linie** und übereinander. Der Platz tobt, Baldric nimmt die Mütze ab. |
 
-**Preis (Wache über den Strich):** **Konrads Wachabzeichen**, eine
+**Preis (Wache über den Strich):** **Baldrics Wachabzeichen**, eine
 Messingplakette mit der Ähre. Wer sie trägt, dem gehorchen die Wachen
 von Sommerhall sofort, ohne Fragen. Das ist im 2. Durchlauf Gold wert:
 Bei der Evakuierung der Stadt entfällt für den Träger der Schritt
@@ -286,12 +286,12 @@ Danach: letzter Stempel, die Glocken läuten, Umzug in die Halle
 
 ### 7. Axtwerfen „Der Spalter" (Angriffswurf)
 
-Auf der Bühne steht ein Strohziel mit drei Ringen, Konrad ruft die
+Auf der Bühne steht ein Strohziel mit drei Ringen, Baldric ruft die
 Werfer einzeln auf. **Ein Angriffswurf** (Wurfwaffen-Geschick zählt).
 
 | Wurf | Ergebnis |
 |---|---|
-| 1 | Die Axt bleibt im Bühnenboden stecken, direkt vor Konrads Stiefel. Er schaut lange auf die Axt, dann auf den Helden. |
+| 1 | Die Axt bleibt im Bühnenboden stecken, direkt vor Baldrics Stiefel. Er schaut lange auf die Axt, dann auf den Helden. |
 | 2–9 | Daneben, ins Stroh neben dem Ziel. Mitleidiges Klatschen. |
 | 10–14 | Treffer im äußeren Ring. Ordentlich. |
 | 15–19 | Innerer Ring, die Axt wackelt noch. Jubel. |
@@ -307,7 +307,7 @@ wie ein Schraubstock. **Ein Wurf Stärke, Grom würfelt mit +6.**
 
 | Wurf | Ergebnis |
 |---|---|
-| 1 | Groms Hand knallt die des Helden auf den Tisch, bevor Konrad „Los" sagt. Grom: „Das zählt nicht. Aber ich hab gewonnen." |
+| 1 | Groms Hand knallt die des Helden auf den Tisch, bevor Baldric „Los" sagt. Grom: „Das zählt nicht. Aber ich hab gewonnen." |
 | unter Groms Wurf | Zäh, aber Grom gewinnt. Er bestellt dem Helden trotzdem einen Krug: „Gut gekämpft." |
 | gleich Groms Wurf | Eine Minute lang rührt sich nichts, dann lässt Grom lachend los: „Unentschieden. Das hatte ich seit zwölf Jahren nicht." Ein halber Ehrenkrug (der Krug, aber keine Reparaturen). |
 | über Groms Wurf | **Groms Hand liegt auf dem Tisch.** Stille in der Halle, dann ein Brüllen. Grom starrt seine Hand an, dann umarmt er den Helden, dass es knackt. |
@@ -333,7 +333,7 @@ der Held zwischen den Liedern hört.
 
 ## Die Siegerehrung
 
-Nach dem Tanz, auf dem Höhepunkt des Abends. Konrad steht auf der
+Nach dem Tanz, auf dem Höhepunkt des Abends. Baldric steht auf der
 Bühne, neben ihm die Preistruhe aus Theas Kutsche (→ Kapitel 0.5). Er
 ruft der Reihe nach: den Anstich, den Lukas, die Bühne, das Seil, die
 Ferkeljagd, das Tauziehen, den Spalter, das Armdrücken. Zum Schluss:

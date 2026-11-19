@@ -134,7 +134,7 @@ den ganzen Festtag plus die Stunden nach dem Ritual.
 
 Die Königslösung. Spiele die Stadt-Evakuierung aus Kapitel 2b – im
 zweiten Durchlauf mit dem ganzen Tag Zeit, aber mit Widerstand:
-Konrad will sein Fest nicht absagen (Überzeugen DC 15, mit einer
+Baldric will sein Fest nicht absagen (Überzeugen DC 15, mit einer
 erfüllten Vorhersage DC 10), Hauptmann Rudger hält das für
 Abenteurer-Hysterie, manche Alte wollen ihre Höfe nicht verlassen.
 Jede erfüllte Vorhersage der Erinnernden (Mira mit dem Holzpferd, der
@@ -167,7 +167,7 @@ Das Ritual überzeugt sie dann endgültig.
 
 ### Szenario D · ➖ Leichte Abweichung: Sie versuchen, das Fest komplett zu verhindern
 
-Konrad absagen lassen? Festhalle anzünden? (Abenteurer...) Das Fest
+Baldric absagen lassen? Festhalle anzünden? (Abenteurer...) Das Fest
 kann tatsächlich abgesagt werden – **aber Malrik braucht nicht das
 Fest, nur den Ort**: Unter der Festhalle liegt der Leylinien-Knoten,
 an dem Vorgazhul einst gebannt wurde. Das Ritual passiert dann in

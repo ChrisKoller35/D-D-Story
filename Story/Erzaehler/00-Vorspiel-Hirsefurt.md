@@ -100,8 +100,8 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 > eure Waffen, eure Rüstungen, eure Narben – und bleibt wie
 > angewurzelt stehen. „Seid… seid ihr etwa Abenteurer? Echte?"
 
-Der Junge ist **Tamo**, Neffe von Hauptmann Konrad
-(→ `NPC/Hauptmann-Konrad/`). Er verteilt seit drei Tagen Flyer in
+Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
+(→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
 Helden einen Flyer in die Hand (→ **Handout**, zeig den Spielern das
 Bild `Story/Spieler/Festflyer-Sommerhall.png`). Bevor er weiterzieht
@@ -147,7 +147,7 @@ nach Sommerhall oder erst zu den Räubern. Beides führt in
 **Kapitel 0.5** (→ `00b-Der-Weg-nach-Sommerhall.md`): Auf der Straße
 wird die Kutsche der Brauerin Thea überfallen, die Helden retten Bier,
 Leute und ein kleines Mädchen mit Holzpferd, liefern die Räuber bei
-Konrad ab und werden dafür zu **Ehrengästen**. Sie übernachten im
+Baldric ab und werden dafür zu **Ehrengästen**. Sie übernachten im
 Gasthaus „Zur Sichel" und wachen am **Morgen des Fests** dort auf
 (→ Kapitel 1).
 
@@ -193,7 +193,7 @@ sie nicht, sondern lass die Welt ziehen:
   will).
 - **Tamo:** Sein Esel lahmt auf halbem Weg, der Junge sitzt allein
   am Straßenrand mit zwei Taschen Flyer. Wer ihn nach Hause bringt,
-  steht vor Konrad, und der lässt keine Helden einfach wieder gehen.
+  steht vor Baldric, und der lässt keine Helden einfach wieder gehen.
 - **Der Weg:** Sommerhall liegt ohnehin an ihrer Route nach Süden;
   wer die Stadt umgehen will, braucht einen Tag länger durch die
   Mühlenwälder, in denen die Räuber sitzen.

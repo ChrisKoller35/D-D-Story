@@ -47,7 +47,7 @@ Tagsüber:
   (1W4+1, +1 auf den Angriffswurf)
 - **Ferkeljagd (Brunnen):** das Ferkel „Rübe" (Festmahl in der Sichel
   oder Maskottchen); Hütchenspiel: bei einer 20 Pits Hut mit 15 Gold
-- **Tauziehen (vor der Festhalle):** Konrads Wachabzeichen (die
+- **Tauziehen (vor der Festhalle):** Baldrics Wachabzeichen (die
   Stadtwache gehorcht dem Träger sofort, hilft bei der Evakuierung)
 - **Rätselzelt:** Hennas „Glücksknoten" (1× Vorteil auf einen
   beliebigen Wurf, dann zerfällt er)

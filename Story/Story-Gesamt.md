@@ -27,7 +27,7 @@ Auf der Straße nach Sommerhall wird die Kutsche der **Brauerin Thea**
 von Räubern überfallen: sechs Fässer Jahrgangsbier für die Festhalle,
 die Preistruhe der Festspiele, und auf dem Bock Theas Tochter **Mira**
 mit ihrem Holzpferd. Die Helden retten alle, die Torwachen schicken sie
-durch zu Konrad vor der Festhalle, und der macht sie für die Räuber
+durch zu Baldric vor der Festhalle, und der macht sie für die Räuber
 und das gerettete Bier zu **Ehrengästen**; sie übernachten im Gasthaus „Zur Sichel". Wer
 von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 Überfall, sondern findet das Lager einen Tag früher.
@@ -38,7 +38,7 @@ von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 
 Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
 wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele an sechs
-Festorten quer durch die Stadt, Konrads Festzettel mit sechs
+Festorten quer durch die Stadt, Baldrics Festzettel mit sechs
 Stempeln), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
 Alles ist perfekt – fast zu perfekt. Mira, das Mädchen mit dem
 Holzpferd, sucht die Helden in der Halle. Wer lieber dem Rest der
@@ -49,7 +49,7 @@ sich nach den ersten Toten ergeben.
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`; Ablauf und
   Ergebnistabellen für den Erzähler: `Story/Erzaehler/01b-Festspiele.md`
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
-- NPC: `NPC/Hauptmann-Konrad/`
+- NPC: `NPC/Hauptmann-Baldric/`
 
 ## Akt 2: Das Ritual und der Dämon
 

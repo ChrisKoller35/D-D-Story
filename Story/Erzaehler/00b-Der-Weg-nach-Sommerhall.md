@@ -23,7 +23,7 @@ ihr in der Festhalle wieder begegnen. Richtwert: 20–30 Minuten.
 
 **Die Weiche:** Frag beim Aufbruch beiläufig, wohin sie wollen.
 - **Direkt nach Sommerhall** → der Überfall auf die Kutsche (Szene 1),
-  dann durchs Tor zu Konrad (Szene 2). Das ist der ⭐ optimale Weg.
+  dann durchs Tor zu Baldric (Szene 2). Das ist der ⭐ optimale Weg.
 - **Zuerst zu den Räubern** (sie folgen Jorins Hinweis vom Waldrand)
   → **kein Überfall.** Die ganze Bande sitzt im Lager, Theas Kutsche
   rollt unbehelligt in die Stadt. Weiter bei Szenario D unten.
@@ -40,7 +40,7 @@ entscheidet.
   Jahrgangs-Dunkelbier, reift im kühlen Felsenkeller ihres Hofs, zwei
   Stunden nördlich der Stadt. Das holt sie jedes Jahr am Tag vor dem
   Fest persönlich ab: sechs Fässer, dazu die kleine Truhe mit den
-  **Preisen der Festspiele**, die Konrad bei ihr eingelagert hat.
+  **Preisen der Festspiele**, die Baldric bei ihr eingelagert hat.
 - **Mira** (7, Sommersprossen, Zahnlücke) sitzt neben ihrer Mutter auf
   dem Kutschbock und hält ein **Holzpferd** fest, das sie „Hafer" nennt.
   Sie ist das Kind, das in Kapitel 2 geopfert wird. Je mehr die Spieler
@@ -87,7 +87,7 @@ schaut zwischen den Speichen hindurch zu.
 **Nach dem Kampf:**
 - Thea klopft jedem Helden auf die Schulter, dass es wehtut: „Das ist
   mein Jahrgangsbier. Nicht das Freibier vom Markt, das **gute Zeug für
-  die Halle heute Abend**! Konrad hätte mich umgebracht. Ihr trinkt
+  die Halle heute Abend**! Baldric hätte mich umgebracht. Ihr trinkt
   heute auf meine Rechnung, und zwar das Richtige."
 - Mira kommt unter dem Bock hervor, hält jedem Helden das Holzpferd hin:
   „Hafer hatte keine Angst." Fragt sie, ob die Schwerter echt sind.
@@ -101,7 +101,7 @@ auf die Kutsche setzen (zwischen die Fässer, Thea besteht darauf, dass
 sie die Fässer nicht anfassen) und mit nach Sommerhall → Szene 2.
 Andere Wege stehen unten bei den Szenarien.
 
-## Szene 2: Durchs Tor zu Konrad
+## Szene 2: Durchs Tor zu Baldric
 
 Es dämmert, als die Kutsche das **Nordtor** von Sommerhall erreicht
 (→ Kapitel 1, Karte, Nr. 1). Am Tor herrscht Betrieb: Fackeln werden
@@ -129,26 +129,26 @@ wir keine Leute, und morgen schon gar nicht." (Haken für Kapitel 1,
 Szenario E: Der Rest der Bande sitzt noch im Lager.)
 
 **Vor der Festhalle.** Oben am Markt, vor dem großen Portal der
-Festhalle, steht **Hauptmann Konrad** in Festweste auf einer
+Festhalle, steht **Hauptmann Baldric** in Festweste auf einer
 umgedrehten Kiste, Listen in der Hand, und koordiniert alles auf
 einmal: Wachleute, Helfer, Lichterketten, den Kürbiswagen, der auf
 keinen Fall über die Lindenallee fahren darf. Er sieht die Kutsche,
 sieht Thea, sieht die Fässer, und mit ihm wird es sofort laut. Die
-Helden geben die Räuber ab (Konrad winkt zwei Wachleute heran, die die
+Helden geben die Räuber ab (Baldric winkt zwei Wachleute heran, die die
 sechs in die Wachstube am Markt sperren: „Morgen, nach dem Fest. Heute
 hat niemand Zeit für euch.") und erzählen, was passiert ist. Thea
 nickt dazu, Mira auf dem Arm.
 
-Konrad springt von der Kiste, schüttelt jede Hand und erklärt die Helden mit dröhnender Stimme zu
+Baldric springt von der Kiste, schüttelt jede Hand und erklärt die Helden mit dröhnender Stimme zu
 **Ehrengästen**: „Das Jahrgangsbier UND die Festpreise! Ihr schlaft in
 der Sichel, auf Kosten der Stadt, ihr esst an meinem Tisch, und morgen
 Abend sitzt ihr auf der Ehren-Empore!" Zeigt jemand die Notiz von Tamo,
 lacht er: „Mein Neffe hat also recht gehabt. Das kommt selten vor." Wer
 die Gefangenen anständig behandelt hat, bekommt von den Wachleuten ein
-knappes Nicken. Mehr zu Konrad → `NPC/Hauptmann-Konrad/`.
+knappes Nicken. Mehr zu Baldric → `NPC/Hauptmann-Baldric/`.
 
 **Die Nacht.** Alma vom Gasthaus „Zur Sichel" nimmt sie in Empfang
-(mit oder ohne Notiz, Konrad hat längst alles geregelt), und Thea
+(mit oder ohne Notiz, Baldric hat längst alles geregelt), und Thea
 lässt einen Krug vom guten Zeug hinüberbringen. Sie übernachten in der
 Sichel und wachen am **Morgen des Fests** dort auf. **Beschreibe diesen
 Morgen liebevoll und merke dir deine Worte**
@@ -185,7 +185,7 @@ und Hanne**.
 Nachvollziehbar, es sind arme Leute. Die Räuber verschwinden im Wald
 (und sitzen in Kapitel 1, Szenario E wieder vollzählig im Lager). Am
 Tor fehlen die Gefangenen, aber Thea erzählt die Geschichte trotzdem,
-und Konrad glaubt ihr („Die Glutfaust lügt nicht, die hat's nicht nötig").
+und Baldric glaubt ihr („Die Glutfaust lügt nicht, die hat's nicht nötig").
 Ehrengäste werden sie trotzdem; eine der Torwachen brummt nur: „Hättet
 sie mitbringen können."
 
@@ -198,7 +198,7 @@ Hanne ergibt sich nach den ersten Toten). Thea fährt derweil mit Ole,
 Mira und den Gefangenen allein weiter und erzählt am Tor alles. Die
 Helden kommen **spät in der Nacht** an; die Torwache hat Anweisung, sie
 durchzulassen und zur Sichel zu bringen, wo Alma mit einem Krug wartet.
-**Konrad** holt die Ehrengast-Rede am **Festmorgen** nach, beim
+**Baldric** holt die Ehrengast-Rede am **Festmorgen** nach, beim
 Frühstück in der Sichel, und das Räuberlager ist am Festtag erledigt
 (Szenario E in Kapitel 1 entfällt). Die Nacht in der Sichel bleibt, das
 ist das Wichtigste.
@@ -215,7 +215,7 @@ früher: alle 15 Räuber da, Hanne dabei, Ergeben nach den ersten Toten.
 
 Danach zum Nordtor, mit Gefangenen oder zumindest dem Diebesgut (Kiste
 Nägel, Fass Festbier, Geldbeutel). Die Torwachen staunen, schicken sie
-hinauf zu **Konrad**, Ehrengäste wie in Szene 2. Theas Kutsche ist
+hinauf zu **Baldric**, Ehrengäste wie in Szene 2. Theas Kutsche ist
 unbehelligt durchgekommen (die Bande saß ja im Lager); Thea und Mira
 lernen die Helden erst am Festabend in der Halle kennen, wo Thea das
 gute Zeug ausschenkt und Mira zwischen den Tischen herumläuft. Bleiben
@@ -232,7 +232,7 @@ Notiz bringt sie trotzdem in die Sichel (Alma hält Wort), Ehrengäste
 werden sie **nicht**. Am Fest fehlt das gute Zeug in der Halle, und
 Thea erzählt jedem, warum. Das Räuberlager ist am Festtag dafür sehr
 lohnend (→ Kapitel 1, Szenario E: Fässer und Preistruhe liegen im
-Unterstand); wer sie zurückbringt, holt sich Konrads Ehrengast-Rede bei
+Unterstand); wer sie zurückbringt, holt sich Baldrics Ehrengast-Rede bei
 der Siegerehrung nach. Mira ist am Abend trotzdem in der Halle.
 
 ---

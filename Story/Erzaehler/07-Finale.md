@@ -39,9 +39,9 @@ Gruppe wie durch Wasser hindurch).
 
 **Vor der Kuppel:** Das Lager der Geflüchteten – so groß, wie die
 Helden es in Akt 2/3 geschafft haben. Haben sie evakuiert, warten
-hier **Hauptmann Konrad** (oder Wirtin Alma) und hunderte Bürger.
+hier **Hauptmann Baldric** (oder Wirtin Alma) und hunderte Bürger.
 Sie geben Infos und Ortskenntnis (Kellerausgang, Dienstbotentür), und
-Konrad bittet: „Bringt uns unsere Stadt zurück." Haben die Helden
+Baldric bittet: „Bringt uns unsere Stadt zurück." Haben die Helden
 niemanden gerettet, stehen hier nur ein paar Flüchtlinge aus den
 geschluckten Dörfern.
 
@@ -235,7 +235,7 @@ welchen Worten auch immer: „alle zurück", „mach es ungeschehen",
 
 **Was zurückkommt:** Alle, die der Spiegel genommen hat. Die Toten
 des Weltenspiegels, die Gespiegelten in den Straßen, die Opfer der
-Glasdiener, die Gäste im Festsaal, Mira, Konrad, die Kultisten
+Glasdiener, die Gäste im Festsaal, Mira, Baldric, die Kultisten
 **nicht** (sie haben sich selbst geopfert; Phae: „Die haben sich ihm
 gegeben. Die hat er nicht genommen."), und auch **die Helden, die im
 Endkampf gefallen sind**, denn sie sind in Sommerhall gestorben.

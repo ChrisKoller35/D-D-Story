@@ -10,7 +10,7 @@ hierhergekommen (→ `00-Vorspiel-Hirsefurt.md`,
 Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Thea**
 vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Theas
 Tochter **Mira**), die Torwachen haben sie durchgewinkt und hinauf zu
-Konrad geschickt, und der hat sie vor der Festhalle zu **Ehrengästen**
+Baldric geschickt, und der hat sie vor der Festhalle zu **Ehrengästen**
 gemacht. Sie
 wachen am **Morgen des Fests** im Gasthaus „Zur Sichel" auf
 (→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`).
@@ -24,10 +24,10 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch).
 
 **Was auf dem Bild zu sehen ist:**
-- **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Thea und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Konrad vor der Festhalle (→ Kapitel 0.5).
+- **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Thea und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
 - **Treppe und Lindenallee** vom Tor hinunter zum Markt: tagsüber spielen hier die Musikanten.
-- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Konrad um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel und Hennas Rätselzelt (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
-- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Konrads Abschluss der Spiele (→ `Stadt/Sommerhall/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel und Hennas Rätselzelt (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
+- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Baldrics Abschluss der Spiele (→ `Stadt/Sommerhall/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
 - **Gasthaus „Zur Sichel“**: das große Fachwerkhaus mit dem Turm mitten in der Stadt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
 - **Tempel** oben links mit dem hohen Turm.
 - **Brauerei** links mit Kesseln, Fässern und Bierwagen: Brauerin Thea, ihr Dunkelbier gibt es abends in der Festhalle. Im Hof das erste Spiel des Tages, **„Der Anstich"**.
@@ -61,7 +61,7 @@ den Lukas und die offene Bühne auf dem Festplatz, Zillis Seil beim
 Zirkus, die Ferkeljagd zwischen den Marktständen am Brunnen und zum
 Schluss das Tauziehen gegen die Stadtwache vor der Festhalle. Dazu
 Hennas Rätselzelt und das Hütchenspiel am Brunnen.
-**Hauptmann Konrad** (→ `NPC/Hauptmann-Konrad/`) eröffnet die Spiele
+**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) eröffnet die Spiele
 um 10 Uhr am Erntealtar, begrüßt die Helden persönlich und drückt
 jedem einen **Festzettel** in die Hand: sechs Felder, ein Stempel pro
 Festort, und wer abends alle sechs hat, steht in der Halle auf der
@@ -197,7 +197,7 @@ gegangen sind.
   Albträume von Spiegeln. (→ Malrik)
 
 **Zurück zum Fest:** Bringen die Helden die Räuber (oder das
-Diebesgut) nach Sommerhall, sind sie am Abend die Stars: Konrad lässt
+Diebesgut) nach Sommerhall, sind sie am Abend die Stars: Baldric lässt
 sie bei der Siegerehrung auf die Bühne rufen. Das führt direkt in
 Kapitel 2 (Sicherheitsnetz: Auf dem Weg zur Bühne gehen sie an Malrik
 vorbei). Bleiben sie zu lange im Wald, erleben sie das Ritual von
