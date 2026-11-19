@@ -37,8 +37,9 @@ des Nachmittags.
 Wanderzirkus Flimm. Ein Seil zwischen zwei Masten, über den Köpfen
 der Menge, ein Netz darunter. Die Seiltänzerin Zilli zeigt, wie es
 geht, dann seid ihr dran. **Ein Wurf Akrobatik.**
-Neben dem großen Zelt steht noch ein kleines graues ohne Schild, mit
-einem hageren Mann im Zylinder davor, der nichts anpreist.
+Neben dem großen Zelt steht noch ein kleines graues mit einem
+handgemalten Schild „Seltene Tiere unserer Welt · 2 Kupfer", davor
+ein hagerer Mann im Zylinder, der nichts anpreist.
 
 ### 5. Brunnen und Marktstände (Mitte) · „Die Ferkeljagd" · Hauptmann Baldric und ein Wachmann
 

@@ -33,7 +33,8 @@ Menschen beisammen sind.
 - **Wanderzirkus Flimm**, nur zum Fest in der Stadt: Direktor
   **Ottokar Flimm**, Seiltänzerin **Zilli**, der stumme Messerwerfer
   **Berro** (→ `Story/Erzaehler/01b-Festspiele.md`); daneben das graue
-  Zelt von **Valerian Quecks** (Bonus-Event „Die Arena", → `Bonus/`)
+  Zelt von **Valerian Quecks** (Spezial-Event „Die Arena von Kessar-7",
+  → `Spezial-Event/Sci-Fi-Arena/`)
 - **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller
 
 ## Orte

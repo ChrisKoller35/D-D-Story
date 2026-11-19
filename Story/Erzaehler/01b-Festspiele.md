@@ -163,8 +163,11 @@ es ein Gehweg. Berro hält die Leiter.
 **Das graue Zelt daneben:** Neben Flimms gelbem Zelt steht ein kleines
 graues Zelt ohne Schild, davor sitzt ein hagerer Mann mit Zylinder,
 **Valerian Quecks**. Flimm über ihn: „Gehört nicht zu uns. Zieht aber
-seit zwölf Jahren mit, und zahlt pünktlich." Das ist der Zugang zum
-**Bonus-Event „Die Arena"** (→ Ordner `Bonus/`, eigenes Kapitel). Hier
+seit zwölf Jahren mit, und zahlt pünktlich." Auf dem Schild: „Seltene
+Tiere unserer Welt · 2 Kupfer". Das ist der Zugang zum
+**Spezial-Event „Die Arena von Kessar-7"**
+(→ `Spezial-Event/Sci-Fi-Arena/Beschreibung.md`, eigenes Kapitel mit
+Tierschau, Überreden, Spiegel und allem, was dahinter liegt). Hier
 nur: Das Zelt ist da, der Mann ist da.
 
 **Nebenbei:** Der Zirkus reist am Morgen nach dem Fest ab. Im 1.
