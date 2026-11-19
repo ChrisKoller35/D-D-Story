@@ -99,7 +99,7 @@ Fragt am Ende jemand „Hätten wir damit …?", antwortet Phae ehrlich.
 | Wunsch | Antwort |
 |---|---|
 | Einen toten Helden zurück | **Ja**, an jeder der drei Stellen (Regel 4). |
-| Die Toten von Sommerhall, die Gespiegelten, Mira, Baldric … | **Nein** bei 1 und 2 (Regel 3). **Ja** bei 3: alle auf einmal (→ Kapitel 7). |
+| Die Toten von Sommerhall, die Gespiegelten, Mira, Konrad … | **Nein** bei 1 und 2 (Regel 3). **Ja** bei 3: alle auf einmal (→ Kapitel 7). |
 | „Heil uns alle vollständig" | **Ja**: alle TP, alle Zauberplätze, alle Zustände, Flüche und Stufen Erschöpfung der ganzen Gruppe, auf einmal. |
 | Eine Antwort auf eine Frage | **Ja**, vollständig und klar (die einzige gerade Antwort, die Phae je gibt). Zum Beispiel: „Wie besiegen wir ihn?" |
 | Einen verlorenen oder zerstörten Gegenstand zurück (auch eine der vier Reliquien) | **Ja.** |
@@ -109,7 +109,7 @@ Fragt am Ende jemand „Hätten wir damit …?", antwortet Phae ehrlich.
 | Vorgazhul töten, schwächen, bannen; die Kuppel öffnen | **Nein**, solange er in der Kuppel ist (Regel 3). |
 | Zeit zurückdrehen, ein zweiter Traum | **Nein.** „Einen Tag zurückzuholen kostet die Sterne. Das habe ich schon einmal bezahlt." |
 | Zwei Wünsche, „ein Wunder, das Wunder vermehrt" | **Nein**, lächelnd. |
-| Jemanden gegen seinen Willen verändern (Malrik bekehren, Baldric überzeugen) | **Nein.** Phae rührt keinen Willen an. |
+| Jemanden gegen seinen Willen verändern (Malrik bekehren, Konrad überzeugen) | **Nein.** Phae rührt keinen Willen an. |
 
 ## Das erste Angebot (an diesem Lagerfeuer)
 

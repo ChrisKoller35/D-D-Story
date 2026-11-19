@@ -10,6 +10,8 @@ in Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`).*
 
 Datei: `Story/Spieler/Festflyer-Sommerhall.png`
 
+*Hinweis: Auf dem Bild steht noch der alte Name „Hauptmann Baldric Immergrün“; der Hauptmann heißt seit dem 19.11.2026 Konrad Steinweg. Bild bei Gelegenheit neu erzeugen.*
+
 ## Was auf dem Flyer steht
 
 Holzschnitt-Druck mit Ähren in den Ecken, in der Mitte ein tanzendes
@@ -22,7 +24,7 @@ Paar vor den Fachwerkhäusern von Sommerhall, daneben ein Bierfass.
 >
 > ✦ Festspiele ✦ Großer Festtanz ✦
 >
-> Gezeichnet: **Hauptmann Baldric Immergrün**
+> Gezeichnet: **Hauptmann Konrad Steinweg**
 
 **Was nicht auf dem Flyer steht, aber jeder in der Gegend weiß** (Tamo
 und Oma Wenke erzählen es gern): Freibier beim ersten Krug (das beste

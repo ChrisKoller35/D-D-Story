@@ -36,8 +36,8 @@ Tabellen und Ablauf → `Story/Erzaehler/01b-Festspiele.md`.
 
 Tagsüber:
 - **Der Anstich (Brauerei):** ein Fass Dunkelbier (ja, ein ganzes);
-  bei einer 20 dazu Gesas Holzmarke (abends ein Krug Jahrgangsbier,
-  und Gesa zeigt dabei die Kellertreppe und die Rampe)
+  bei einer 20 dazu Theas Holzmarke (abends ein Krug Jahrgangsbier,
+  und Thea zeigt dabei die Kellertreppe und die Rampe)
 - **Hau den Lukas (Festplatz):** der „Eiserne Lukas", ein kleiner
   Eisenhammer am Lederband von Grom (Vorteil auf Einschüchtern gegen
   Sommerhaller)
@@ -47,7 +47,7 @@ Tagsüber:
   (1W4+1, +1 auf den Angriffswurf)
 - **Ferkeljagd (Brunnen):** das Ferkel „Rübe" (Festmahl in der Sichel
   oder Maskottchen); Hütchenspiel: bei einer 20 Pits Hut mit 15 Gold
-- **Tauziehen (vor der Festhalle):** Baldrics Wachabzeichen (die
+- **Tauziehen (vor der Festhalle):** Konrads Wachabzeichen (die
   Stadtwache gehorcht dem Träger sofort, hilft bei der Evakuierung)
 - **Rätselzelt:** Hennas „Glücksknoten" (1× Vorteil auf einen
   beliebigen Wurf, dann zerfällt er)

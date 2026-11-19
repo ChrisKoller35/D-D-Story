@@ -83,7 +83,7 @@ Die Helden bewegen sich frei auf dem Fest (Festspiele, Tanz, Ausschank,
 - **Malrik zählt auch:** Wer Malrik an der Bühne bemerkt (DC 15, er
   ist vorsichtiger), startet den Timer genauso.
 - **Sicherheitsnetz:** Entdeckt bis zur **Siegerehrung** niemand
-  etwas, ruft Baldric die Gewinner der Festspiele (oder die
+  etwas, ruft Konrad die Gewinner der Festspiele (oder die
   Ehrengäste, also die Helden) auf die Bühne
   (→ `Story/Spieler/Festspiele.md`). Auf dem Weg nach vorne gehen sie
   direkt an Malrik vorbei: Entdeckung automatisch.
@@ -111,7 +111,7 @@ Spieler nur diskutieren.
 
 - **Jeder Wurf** (Probe, Angriff, Rettungswurf) → **−30 Sekunden**.
 - **Jede Interaktion** (jemanden ansprechen, den Kultisten anfassen,
-  einen Zauber wirken, Baldric holen) → **−30 Sekunden**.
+  einen Zauber wirken, Konrad holen) → **−30 Sekunden**.
 - Ein Wurf, der aus einer Interaktion entsteht, kostet nur einmal 30
   Sekunden, nicht doppelt.
 - **Bei 0:00** startet sofort die Opfer-Sequenz (Schritt 4).
@@ -126,8 +126,8 @@ Spieler nur diskutieren.
 | Arkana oder Religion (DC 14) | Eine Beschwörungsformel in einer uralten Sprache. Sie ist nur **ein Teil** – irgendwo im Saal müssen weitere Stimmen sein. |
 | Arkana oder Religion (DC 18) | Es ist eine **Opferformel**. Der Sprecher bietet sich selbst an. „Nimm, was wir sind." |
 | Saal absuchen (Wahrnehmung DC 15) | Der Held entdeckt einen **weiteren Kultisten** (du wählst, welchen) oder **Malrik an der Bühne**, in dessen Ärmel etwas Schwarzes glänzt. |
-| Baldric oder Stadtwache holen (Überzeugen DC 13) | Sie kommen mit. Baldric hält das zuerst für eine Theatergruppe. Die Wache packt den Kultisten, wenn man sie darum bittet (er wehrt sich nicht). |
-| „Alle raus!" rufen (Überzeugen oder Einschüchtern DC 15) | Erfolg: **1 Gruppe (50 Gäste)** verlässt den Saal, bevor es losgeht. Misserfolg: Gelächter, „Noch ein Lied!". Mit Baldric an der Seite DC 10. |
+| Konrad oder Stadtwache holen (Überzeugen DC 13) | Sie kommen mit. Konrad hält das zuerst für eine Theatergruppe. Die Wache packt den Kultisten, wenn man sie darum bittet (er wehrt sich nicht). |
+| „Alle raus!" rufen (Überzeugen oder Einschüchtern DC 15) | Erfolg: **1 Gruppe (50 Gäste)** verlässt den Saal, bevor es losgeht. Misserfolg: Gelächter, „Noch ein Lied!". Mit Konrad an der Seite DC 10. |
 
 ### Eingreifen, bevor der Timer abläuft
 
@@ -416,9 +416,9 @@ Ein Spieler sagt direkt nach dem Messer-Moment, dass er blitzschnell
 hinspringt, und schafft den extrem schweren Wurf (19 plus eigener
 Modifikator, → Schritt 4, „Das Kind retten"). Mira lebt. Das Ritual gelingt
 trotzdem, aber dieser eine Moment wird den Spielern ewig bleiben.
-Belohne ihn: Miras Mutter, die **Brauerin Gesa** (→ Kapitel 0.5),
+Belohne ihn: Miras Mutter, die **Brauerin Thea** (→ Kapitel 0.5),
 stellt sich später ans große Portal und treibt eine ganze Gruppe
-Gäste hinaus auf den Markt (zählt wie Baldric, +4; sie kennt außerdem
+Gäste hinaus auf den Markt (zählt wie Konrad, +4; sie kennt außerdem
 die Kellerrampe, falls jemand einen Nebenweg braucht), oder Mira
 selbst taucht im Finale im Lager vor der Kuppel wieder auf.
 
@@ -426,9 +426,9 @@ selbst taucht im Finale im Lager vor der Kuppel wieder auf.
 
 Vorgazhul tut ebenfalls nichts – und genau das ist unheimlich. Die Uhr
 tickt trotzdem: Der Hunger dreht stündlich einen Marker um. Und dann
-der emotionale Anker: **Baldric** (oder Schmied Grom) greift den Dämon
+der emotionale Anker: **Konrad** (oder Schmied Grom) greift den Dämon
 heldenhaft mit einem Stuhlbein an, um die Gäste zu beschützen →
-Reflexion, Baldric stirbt an seinem eigenen Schlag, W10-Tabelle.
+Reflexion, Konrad stirbt an seinem eigenen Schlag, W10-Tabelle.
 Irgendwann schwebt Vorgazhul zu den Helden („Verstecken? Vor einem
 Spiegel?"). Ein Keller im Umkreis von 1 km rettet niemanden.
 
@@ -469,7 +469,7 @@ klickt.
 ### Szenario M · 🔀 Ganz anders: Sie evakuieren schon während des Timers (unwahrscheinlich, aber genial)
 
 Wenn die Gruppe beim ersten murmelnden Kapuzenmann „Alle raus!" brüllt
-und es durchzieht (→ Timer-Tabelle, „Alle raus!" rufen; mit Baldric
+und es durchzieht (→ Timer-Tabelle, „Alle raus!" rufen; mit Konrad
 DC 10): Jede gelungene Probe bringt 50 Gäste raus, bevor es losgeht.
 Dann stehen die Helden am Ende allein (oder fast allein) mit dem
 Dämon. Jetzt müssen sie noch begreifen, dass auch sie fliehen müssen:

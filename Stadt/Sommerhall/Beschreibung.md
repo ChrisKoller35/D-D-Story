@@ -18,11 +18,11 @@ Menschen beisammen sind.
 
 ## Wichtige Personen
 
-- **Hauptmann Baldric Immergrün**, Hauptmann der Stadtwache und
-  Ausrichter des Fests → `NPC/Hauptmann-Baldric/`
+- **Hauptmann Konrad Steinweg**, Hauptmann der Stadtwache und
+  Ausrichter des Fests → `NPC/Hauptmann-Konrad/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
-- **Brauerin Gesa Holler**, Brauerei im Westen der Stadt; ihr
+- **Brauerin Thea Glutfaust**, Brauerei im Westen der Stadt; ihr
   Jahrgangs-Dunkelbier („das gute Zeug") gibt es nur abends in der
   Festhalle. Mutter von **Mira** (7, Holzpferd „Hafer"), dem Kind aus
   Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)

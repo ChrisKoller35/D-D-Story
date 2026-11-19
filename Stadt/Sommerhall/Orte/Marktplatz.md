@@ -1,7 +1,7 @@
 # Der Marktplatz (Sommerhall)
 
 Herz der Stadt, während des Fests **tagsüber** voller Stände und Spielbuden (ab 17–18 Uhr zieht das Fest in die Festhalle um).
-Hier eröffnet Baldric um 10 Uhr die Festspiele am Erntealtar, und
+Hier eröffnet Konrad um 10 Uhr die Festspiele am Erntealtar, und
 zwischen den Ständen läuft die **Ferkeljagd** (→ `Story/Spieler/Festspiele.md`,
 Tabellen in `Story/Erzaehler/01b-Festspiele.md`).
 
