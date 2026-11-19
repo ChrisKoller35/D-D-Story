@@ -55,6 +55,15 @@ Abkürzungen für Einzelne, nicht für 600 Menschen.
   Thea); sie ist schmal: ebenfalls höchstens 1 Gruppe pro Runde. Der
   Keller ist der Weg für ein paar Leute, nie für die Menge.
 
+### Die Uhr in der Halle
+
+Solange noch Menschen im Festsaal sind, bekommt Vorgazhul **+1
+Aufladung pro Runde** (Hunger, → Kapitel 2, Regel 3), dazu jeden
+Treffer. Die Halle muss also in **unter 10 Runden** leer sein; mit
+einem Helden am Portal (2 Gruppen pro Runde) sind das 6 Runden für
+600 Gäste, wenn nichts schiefgeht. Ist der Saal leer, hungert er nur
+noch **+1 pro Stunde**: Das ist die Zeit für die Stadt.
+
 ### Die Panik-Regel
 
 Jedes Ultra-Schlimm-Ereignis (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`,

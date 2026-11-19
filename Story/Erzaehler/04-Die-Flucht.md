@@ -22,7 +22,7 @@ fragen):**
 |---|---|
 | Raus aus der Festhalle | 1–3 Runden, **durch das große Portal hinaus auf den Festplatz und den Markt**. Das Portal bleibt immer offen (den Hauptweg versiegelt Vorgazhul nie, → `Stadt/Sommerhall/Orte/Festhalle.md`). |
 | Durch die Stadt, bis man **mehr als 1 km** von der Festhalle weg ist | ca. **20 Minuten** zu Fuß, **1 Stunde** im Strom der Flüchtenden oder mit Alten und Kindern |
-| Zeit, die Vorgazhul lässt | **10 Stunden** minus 1 Stunde pro Aufladung (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
+| Zeit, die Vorgazhul lässt | Solange Gäste im Saal sind: **+1 Aufladung pro Runde** (die Halle muss in unter 10 Runden leer sein). Danach **10 Stunden minus die bisherigen Aufladungen** (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
 
 Alles dazwischen ist **Zeit zum Retten** (→ Kapitel 2b, `Story/Erzaehler/02b-Evakuierung.md`).
 Die eigentliche Entscheidung der Spieler lautet also nicht „Schaffen

@@ -293,8 +293,10 @@ angreift**.
    Festhalten …) werden genauso gespiegelt.
 2. **Jede Beleidigung** → sofort **10W10 psychischer Schaden** auf den
    Beleidiger (WEI-Rettungswurf DC 18 halbiert). Keine Aufladung.
-3. **Hunger:** Jede volle Stunde ohne Aufladung → **+1 Aufladung** von
-   selbst.
+3. **Hunger:** Solange noch **Menschen im Festsaal** sind, bekommt er
+   **+1 Aufladung pro Runde** von selbst: Er zehrt von den Zeugen. Ist
+   der Saal leer, wird er ruhig und hungert nur noch langsam:
+   **+1 pro Stunde**.
 4. **Bei 10 Aufladungen** → **„Weltenspiegel"**: Alles im Umkreis von
    **1 km stirbt**, Vorgazhul ist **angekommen**. (Beim ersten
    Durchlauf mit Helden im Umkreis führt das zu Kapitel 3 – dem
@@ -307,8 +309,12 @@ die sich schließen, ein Leuchten, das stärker wird). **Erst im
 Tisch und drehst pro Aufladung eine um. Dann wissen die Spieler, was
 die Uhr bedeutet, und müssen sie SEHEN.
 
-**Zeitgefühl:** Greift niemand an, hat die Stadt bis zu **10 Stunden**
-(nur der Hunger). Jeder Treffer kostet eine Stunde.
+**Zeitgefühl:** Solange Gäste im Saal sind, dreht sich **jede Runde**
+ein Marker um: Die Halle muss in unter 10 Runden leer sein, und jeder
+Treffer frisst eine Runde. Ist der Saal leer, bleiben der Stadt bis zu
+**10 Stunden minus die bisherigen Aufladungen** (nur noch der langsame
+Hunger). Wer in der Halle 6 Marker verbraucht, hat draußen noch 4
+Stunden.
 
 ---
 
@@ -425,7 +431,8 @@ selbst taucht im Finale im Lager vor der Kuppel wieder auf.
 ### Szenario I · ➖ Leichte Abweichung: Sie verstecken sich / tun gar nichts
 
 Vorgazhul tut ebenfalls nichts – und genau das ist unheimlich. Die Uhr
-tickt trotzdem: Der Hunger dreht stündlich einen Marker um. Und dann
+tickt trotzdem: Der Hunger dreht jede Runde einen Marker um, solange
+Gäste im Saal sind. Und dann
 der emotionale Anker: **Baldric** (oder Schmied Grom) greift den Dämon
 heldenhaft mit einem Stuhlbein an, um die Gäste zu beschützen →
 Reflexion, Baldric stirbt an seinem eigenen Schlag, W10-Tabelle.

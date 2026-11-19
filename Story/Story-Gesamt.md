@@ -74,7 +74,8 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
   ein zufälliges Ultra-Schlimm-Ereignis aus (W10-Tabelle).
 - Jede **Beleidigung** verursacht sofort massiven Schaden.
 - Der Schild hat **10 Aufladungen**; jeder Treffer lädt ihn um 1 auf,
-  dazu Hunger (+1 pro Stunde).
+  dazu Hunger (+1 pro Runde, solange Menschen im Saal sind; danach
+  +1 pro Stunde).
   Bei 10 Aufladungen: **alles im Umkreis von 1 km stirbt** – und er ist
   **in der Welt angekommen**.
 - Die Lösung: nicht angreifen, **Leute evakuieren, fliehen**. Je mehr
