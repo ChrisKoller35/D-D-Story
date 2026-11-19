@@ -49,7 +49,8 @@ Brunnen mit den Marktständen in der Mitte, Festhalle oben rechts.
   (schmal, barfuß, sagt wenig und grinst viel), der stumme
   Messerwerfer **Berro** (groß, Narbe, spricht nur mit den Händen).
 - **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller.
-- **Die Weise Frau Henna** im Rätselzelt zwischen den Ständen.
+- **Spielmann Jost**, Anführer der Musikanten, ruft an der Bühne die
+  Nummern aus und spielt abends zum Tanz.
 - **Hauptmann Baldric Immergrün** eröffnet, ist den Tag über überall
   mit seiner Liste unterwegs und leitet am Nachmittag das Tauziehen.
 - **„Eisenhand" Grom** steht beim Lukas und kommentiert; sein eigenes
@@ -66,7 +67,7 @@ ist beim nächsten Hinsehen weg (→ Kapitel 1, Szenario B und D).
 
 ---
 
-## 1. Brauerei · „Der Anstich" (Geschicklichkeit)
+## 1. Brauerei · „Der Anstich" (Geschicklichkeit) · Thea Glutfaust und Ole
 
 **Szene:** Im Hof der Brauerei, zwischen den großen Fässern und dem
 Bierwagen, steht ein frisches Fass auf dem Bock. Thea hat gerade das
@@ -91,7 +92,7 @@ Held den **Kellerausgang**, bevor das Ritual beginnt
 (→ `Stadt/Sommerhall/Orte/Festhalle.md`, Fluchtweg 4). Hat niemand
 die 20 geschafft, kann Thea das auch dem besten Wurf anbieten.
 
-## 2. Festplatz · „Hau den Lukas" (Stärke)
+## 2. Festplatz · „Hau den Lukas" (Stärke) · Grom
 
 **Szene:** Neben der Bühne steht die Schiene mit der Glocke, daneben
 Grom mit verschränkten Armen. Kinder stehen Schlange, Mira zieht die
@@ -105,10 +106,10 @@ Helden am Ärmel hin. Der Holzhammer ist schwerer, als er aussieht.
 | 15–19 | Fast ganz oben, die Glocke summt, ohne zu läuten. Die Menge stöhnt auf und jubelt dann. Grom: „Beinahe. Beinahe ist gut." |
 | 20+ | **Die Glocke scheppert über den ganzen Platz.** Kinder kreischen, Grom hebt den Daumen, Mira springt auf und ab. Jemand spendiert einen Honigkuchen. |
 
-## 3. Bühne · „Die offene Bühne" (freie Fertigkeit)
+## 3. Bühne · „Die offene Bühne" (freie Fertigkeit) · Spielmann Jost
 
 **Szene:** 14 Uhr, die Bühne auf dem Festplatz, Bänke davor voll,
-Tamo sitzt vorn auf seinem Esel. Ein Musikant ruft die Nummern aus.
+Tamo sitzt vorn auf seinem Esel. Spielmann Jost ruft die Nummern aus.
 Jeder darf hinauf, der Held sagt, was er macht, und würfelt mit der
 passenden Fertigkeit (Auftreten für Lied und Gedicht, Täuschung für
 einen Witz oder eine Lügengeschichte, Akrobatik für ein Kunststück,
@@ -119,7 +120,7 @@ Geschichte für eine wahre Heldentat, du entscheidest).
 | 1 | Ein fauler Apfel fliegt. Dann noch einer. Tamo ruft trotzdem „Bravo!", ganz allein. |
 | 2–7 | Höfliches Klatschen, jemand hustet. Der Musikant spielt den Helden freundlich von der Bühne. |
 | 8–14 | Lachen und Jubel, ein paar Leute stehen auf. Solide Nummer. |
-| 15–19 | Zugabe-Rufe, Mira trommelt auf der Bank, der Musikant spielt dazu. Die Nummer ist das Gespräch des Nachmittags. |
+| 15–19 | Zugabe-Rufe, Mira trommelt auf der Bank, Jost spielt dazu. Die Nummer ist das Gespräch des Nachmittags. |
 | 20+ | **Der ganze Platz singt mit** (oder lacht, oder hält den Atem an). Tamo steht auf dem Esel. Danach kennt jeder in Sommerhall den Namen des Helden. |
 
 **Die Abstimmung:** Nach allen Nummern stimmt das Publikum ab.
@@ -140,7 +141,7 @@ des Nachmittags, und jeder in der Stadt kennt seinen Namen.
 **Im 2. Durchlauf** (→ Kapitel 3): Die Bühne ist ein guter Ort, um
 die ganze Stadt auf einmal anzusprechen (→ `02b-Evakuierung.md`).
 
-## 4. Zirkus · „Zillis Seil" (Akrobatik)
+## 4. Zirkus · „Zillis Seil" (Akrobatik) · Flimm, Zilli und Berro
 
 **Szene:** Das gelbe Zelt des Wanderzirkus Flimm, davor zwei Masten
 mit einem Seil in vier Metern Höhe, über den Köpfen der Zuschauer,
@@ -171,10 +172,10 @@ Durchlauf kommt es dazu nicht; im 2. Durchlauf (→ Kapitel 3) können
 die Wagen des Zirkus bei der Evakuierung ein paar Dutzend Menschen
 mitnehmen (→ `02b-Evakuierung.md`).
 
-## 5. Brunnen und Marktstände · „Die Ferkeljagd" (Athletik oder Akrobatik)
+## 5. Brunnen und Marktstände · „Die Ferkeljagd" (Athletik oder Akrobatik) · Baldric und ein Wachmann
 
 **Szene:** Der Platz um den Brunnen der Drei Mühlen, ringsum die
-Stände: Honigwein, Zuckeräpfel, Glücksbuden, Hennas Zelt. Baldric
+Stände: Honigwein, Zuckeräpfel, Glücksbuden, Hennas Wahrsagerzelt. Baldric
 steht auf dem Brunnenrand, ein Wachmann hält ein quiekendes,
 glänzend eingefettetes Ferkel. Die Menge bildet einen lockeren Ring.
 
@@ -218,7 +219,7 @@ kann in Kapitel 7 oder im Ende wieder auftauchen
 (→ `Stadt/Sommerhall/Orte/Marktplatz.md`). Und hier steht Malrik am
 längsten.
 
-## 6. Vor der Festhalle · „Tauziehen gegen die Stadtwache" (Athletik)
+## 6. Vor der Festhalle · „Tauziehen gegen die Stadtwache" (Athletik) · Baldric und fünf Wachen
 
 **Szene:** 16 Uhr, der Festplatz vor dem großen Portal. Ein dickes
 Tau, ein Kreidestrich, auf der einen Seite **fünf Wachen in
@@ -244,7 +245,7 @@ Danach läuten die Glocken, Umzug in die Halle
 
 ## Abends in der Halle
 
-### 7. Axtwerfen „Der Spalter" (Angriffswurf)
+### 7. Axtwerfen „Der Spalter" (Angriffswurf) · Baldric ruft auf
 
 Auf der Bühne steht ein Strohziel mit drei Ringen, Baldric ruft die
 Werfer einzeln auf. **Ein Angriffswurf** (Wurfwaffen-Geschick zählt).
@@ -257,7 +258,7 @@ Werfer einzeln auf. **Ein Angriffswurf** (Wurfwaffen-Geschick zählt).
 | 15–19 | Innerer Ring, die Axt wackelt noch. Jubel. |
 | 20+ | **Mitten ins Zentrum**, das Stroh spritzt. Die Halle brüllt. |
 
-### 8. Armdrücken gegen „Eisenhand" Grom (Stärke)
+### 8. Armdrücken gegen „Eisenhand" Grom (Stärke) · am Ausschank bei Thea
 
 An der Langtafel beim Ausschank, Ellbogen auf dem Holz, Groms Hand
 wie ein Schraubstock. **Ein Wurf Stärke, Grom würfelt mit +6.**
@@ -270,7 +271,7 @@ wie ein Schraubstock. **Ein Wurf Stärke, Grom würfelt mit +6.**
 | über Groms Wurf | **Groms Hand liegt auf dem Tisch.** Stille in der Halle, dann ein Brüllen. Grom starrt seine Hand an, dann umarmt er den Helden, dass es knackt. Ab jetzt sein Freund fürs Leben. |
 | 20+ | Wie oben, nur dass Grom sofort eine Runde für die ganze Tafel bestellt und den Namen des Helden in seinen Ehrenkrug ritzen will. |
 
-### 9. Der Große Festtanz (Auftreten oder Akrobatik)
+### 9. Der Große Festtanz (Auftreten oder Akrobatik) · Spielmann Jost und die Musikanten
 
 Kein Wettbewerb. Wer mittanzt, würfelt einmal; die Zeile sagt, was
 der Held zwischen den Liedern hört.

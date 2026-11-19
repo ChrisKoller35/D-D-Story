@@ -28,7 +28,7 @@ Menschen beisammen sind.
   Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)
 - **„Eisenhand" Grom**, Schmied, ungeschlagen im Armdrücken
   (→ `Story/Spieler/Festspiele.md`)
-- Die **Weise Frau Henna**, Rätselzelt – weiß mehr, als sie sagt
+- Die **Weise Frau Henna**, Wahrsagerzelt am Markt – weiß mehr, als sie sagt
   (optionaler Hinweisgeber, wenn die Gruppe strauchelt)
 - **Wanderzirkus Flimm**, nur zum Fest in der Stadt: Direktor
   **Ottokar Flimm**, Seiltänzerin **Zilli**, der stumme Messerwerfer

@@ -15,6 +15,5 @@ Stand; bei Gleichstand entscheidet die Menge (lauter Jubel, du wählst).
 | Die Ferkeljagd (Brunnen) | Das Ferkel „Rübe" | Festmahl in der Sichel (Vorteil auf den nächsten Rettungswurf gegen Erschöpfung) oder Maskottchen (TP 4, quiekt bei Gefahr) |
 | Hütchenspiel (Zugabe) | Pits Hut mit 15 Gold in Kleingeld | Nur bei einer 20, wenn Pit abgeführt wird |
 | Tauziehen (vor der Festhalle) | Baldrics Wachabzeichen, Messingplakette mit der Ähre | Die Stadtwache gehorcht dem Träger sofort; bei der Evakuierung der Stadt entfällt „Stadtwache überzeugen" (→ `Story/Erzaehler/02b-Evakuierung.md`) |
-| Rätselzelt (Henna) | Hennas „Glücksknoten" | 1× Vorteil auf einen beliebigen Wurf, dann zerfällt er |
 | Axtwerfen (abends) | Die „Silberne Ähre", Anstecknadel | 10 Gold wert, in Sommerhall ein Türöffner |
 | Armdrücken gegen Grom (abends) | Groms Ehrenkrug | Seine laute, ewige Freundschaft; in Sommerhall kostenlose Reparaturen |

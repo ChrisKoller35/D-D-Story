@@ -26,7 +26,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch)
 **Was auf dem Bild zu sehen ist:**
 - **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Thea und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
 - **Treppe und Lindenallee** vom Tor hinunter zum Markt: tagsüber spielen hier die Musikanten.
-- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel und Hennas Rätselzelt (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
+- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
 - **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Baldrics Abschluss der Spiele (→ `Stadt/Sommerhall/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
 - **Gasthaus „Zur Sichel“**: das große Fachwerkhaus mit dem Turm mitten in der Stadt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
 - **Tempel** oben links mit dem hohen Turm.
@@ -60,7 +60,7 @@ Spiel ein einziger Wurf pro Person: der Anstich in der Brauerei, Hau
 den Lukas und die offene Bühne auf dem Festplatz, Zillis Seil beim
 Zirkus, die Ferkeljagd zwischen den Marktständen am Brunnen und zum
 Schluss das Tauziehen gegen die Stadtwache vor der Festhalle. Dazu
-Hennas Rätselzelt und das Hütchenspiel am Brunnen.
+das Hütchenspiel beim Flinken Pit am Brunnen.
 **Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) eröffnet das Fest
 um 10 Uhr am Erntealtar und begrüßt die Helden persönlich. Es geht
 um nichts: keine Einsätze, keine Pflichten, ein Fest, auf dem man
