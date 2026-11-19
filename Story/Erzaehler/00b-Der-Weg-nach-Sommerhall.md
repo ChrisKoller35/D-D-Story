@@ -114,7 +114,7 @@ stauen sich.
 > durch, bis sie die Kutsche sehen. „Thea! Hast du das gute Zeug
 > dabei?" Dann fällt ihr Blick auf die gefesselten Männer zwischen den
 > Fässern, auf eure Waffen, und einer von ihnen pfeift leise durch die
-> Zähne. „Das hast du nicht allein gemacht, Holler." Thea lacht nur.
+> Zähne. „Das hast du nicht allein gemacht, Glutfaust." Thea lacht nur.
 > Die Wachen schauen sich kurz an, dann treten sie zur Seite: „Fahrt
 > durch. Gleich hoch zum Hauptmann, der steht oben am Markt vor der
 > Halle und kommandiert heute alles, was eine Weste trägt. Dem gehören
@@ -185,7 +185,7 @@ und Hanne**.
 Nachvollziehbar, es sind arme Leute. Die Räuber verschwinden im Wald
 (und sitzen in Kapitel 1, Szenario E wieder vollzählig im Lager). Am
 Tor fehlen die Gefangenen, aber Thea erzählt die Geschichte trotzdem,
-und Konrad glaubt ihr („Die Holler lügt nicht, die hat's nicht nötig").
+und Konrad glaubt ihr („Die Glutfaust lügt nicht, die hat's nicht nötig").
 Ehrengäste werden sie trotzdem; eine der Torwachen brummt nur: „Hättet
 sie mitbringen können."
 
