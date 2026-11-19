@@ -26,8 +26,8 @@ Angriffe gegen sie, falls er sich nicht umdreht (eine Bewegung).
 
 ## Schwäche: Sie pariert nur, was sie sieht
 
-Gegen Angriffe aus **Unsichtbarkeit**, bei **Blindheit**, aus dem
-**Nebel** (Gelände 4) oder von einem Ziel, das sie nicht sehen kann,
+Gegen Angriffe aus **Unsichtbarkeit**, bei **Blindheit**, aus Rauch oder Nebel
+oder von einem Ziel, das sie nicht sehen kann,
 gibt es **keine Parade**. Ebenso gegen Zauber mit Rettungswurf statt
 Angriffswurf. Wer sie blendet (Sand, *Licht* in die Augen, Bolos
 Dampf), hat die Klingenkünstlerin halb besiegt.

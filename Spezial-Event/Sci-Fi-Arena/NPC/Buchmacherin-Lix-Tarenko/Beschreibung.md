@@ -26,7 +26,7 @@ mag Leute, die wetten, und misstraut Leuten, die gewinnen.
   Außenseiter (Quote 3:1).
 - **Wetten auf Einzelheiten** (Lix' Spezialität, Quote 4:1): „Kampf
   endet in Runde 3", „Erster Treffer geht an den Roboter", „Jemand
-  fällt von einer Plattform". Nur für Spieler, die es genau wissen
+  landet im Publikum". Nur für Spieler, die es genau wissen
   wollen.
 
 **Die eine Regel:** Wer auf sich selbst wettet und absichtlich

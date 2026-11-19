@@ -10,8 +10,7 @@ Auge wird weiß).*
 
 Alle Kreaturen in 6 m um GOLIATH: STR-Rettung DC 15 oder sie werden
 zu Boden gedrückt, **liegend** und **festgesetzt** bis zum Ende von
-GOLIATHs nächstem Zug. Wer schwebt oder fliegt, fällt (Fallschaden).
-Die Plattformen (Gelände 3) sinken auf Bodenhöhe. GOLIATH macht in
+GOLIATHs nächstem Zug. Wer schwebt oder fliegt, fällt (Fallschaden). GOLIATH macht in
 derselben Runde einen Bodenschlag gegen alle, die liegen (Vorteil
 automatisch durch Liegend).
 

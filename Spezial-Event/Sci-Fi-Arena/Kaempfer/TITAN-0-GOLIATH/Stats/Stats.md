@@ -26,8 +26,7 @@ gekauft, „weil jedes Haus einen braucht, den keiner schlägt".
 
 **Die drei Kerne (die einzige Schwäche):** Am Rücken sitzen drei
 blaue Kerne, jeder mit eigener **RK 20** und je 1 „Treffer". Nur wer
-**hinter** GOLIATH steht (oder von oben, Plattformen!) kann sie
-angreifen; ein Angriff auf einen Kern macht keinen normalen Schaden.
+**hinter** GOLIATH steht, kann sie angreifen; ein Angriff auf einen Kern macht keinen normalen Schaden.
 Sind alle drei getroffen, folgt die **Notabschaltung**: GOLIATH ist für
 **2 Runden handlungsunfähig**, seine RK sinkt auf 14, und alle Angriffe
 gegen ihn haben Vorteil. Danach fahren die Kerne wieder hoch (die

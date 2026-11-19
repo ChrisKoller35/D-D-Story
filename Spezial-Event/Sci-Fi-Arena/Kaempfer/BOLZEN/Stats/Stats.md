@@ -27,8 +27,7 @@ solange er mindestens 1 TP hat. Funken fliegen, es klingt nach einer
 Werkstatt.
 
 **Schwer wie ein Kran:** BOLZEN kann nicht umgeworfen, geschoben oder
-gezogen werden. Er fällt von Plattformen nicht herunter (er bleibt
-einfach stehen).
+gezogen werden. Er bleibt einfach stehen.
 
 **Preisgeld:** 150 Credits. **Quote:** 1:1.
 

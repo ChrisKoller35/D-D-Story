@@ -12,6 +12,23 @@ stirbt, niemand wird mächtiger. Es ist ein Abend Jahrmarkt im Weltraum.
 wollen, dass etwas Besonderes passiert. Niemand stolpert versehentlich
 hinein. Wer es nicht findet, verpasst nichts von der Story.
 
+**Die Figuren auf einen Blick:**
+
+| Name | Rolle | Ordner |
+|---|---|---|
+| **Valerian Quecks** | Der Mann vor dem grauen Zelt, öffnet den Spiegel | `NPC/Valerian-Quecks/` |
+| **Direktor Orlan Vexx** | Der Chef der Arena | `NPC/Direktor-Orlan-Vexx/` |
+| **Nubbo Quint** | Händler, tauscht Gold gegen Credits | `NPC/Haendler-Nubbo-Quint/` |
+| **Grillmeister Bolo** | Essensverkäufer | `NPC/Grillmeister-Bolo/` |
+| **REGISTRAR-ZED** | Roboter an der Anmeldung | `NPC/Registrar-ZED/` |
+| **Lix Tarenko** | Buchmacherin, nimmt Wetten an | `NPC/Buchmacherin-Lix-Tarenko/` |
+| **BLECH-7** | Service-Roboter mit Tablett und Luftballons | (nur in der Beschreibung) |
+| **BOLZEN** | Kämpfer 1, Schrottroboter | `Kaempfer/BOLZEN/` |
+| **Sska Vireen** | Kämpferin 2, Echsen-Duellantin | `Kaempfer/Sska-Vireen/` |
+| **Mack „Der Hammer" Dorrigan** | Kämpfer 3, Cyborg-Boxer | `Kaempfer/Mack-Dorrigan/` |
+| **Xil'tharr** | Kämpfer 4, Insektoid-Psioniker | `Kaempfer/Xiltharr/` |
+| **TITAN-0 „GOLIATH"** | Kämpfer 5, der Champion | `Kaempfer/TITAN-0-GOLIATH/` |
+
 - Zugang: Fest der Goldenen Ähre, Zirkus (→ `Story/Erzaehler/01b-Festspiele.md`, Abschnitt Zirkus)
 - Figuren: `NPC/` (in diesem Ordner)
 - Die fünf Kämpfer: `Kaempfer/` (in diesem Ordner, je `Stats/` und `Faehigkeiten/`)
@@ -138,7 +155,7 @@ fragt, ob die Schwerter echt sind, und glaubt die Antwort nicht.
 Ein **kleines Stadion**, etwa 800 Plätze, steile Ränge, das Publikum
 sitzt fast auf dem Kampfring. Laut, eng, verraucht. Hologramm-
 Kronleuchter, Werbedurchsagen, Trommelmusik aus unsichtbaren
-Lautsprechern. Über dem Ring hängt der Balkon des Direktors. Ein
+Lautsprechern. Ein
 Übersetzer-Chip am Eingang (ein Summen am Ohr, „Primitivwelt-Protokoll
 aktiviert") macht alle Sprachen verständlich.
 
@@ -150,7 +167,7 @@ aktiviert") macht alle Sprachen verständlich.
 | **Bolos Grill** | Grillmeister Bolo (→ `NPC/Grillmeister-Bolo/`) | Essen mit kleinen Effekten, 3 bis 10 Credits. |
 | **Anmeldung** | REGISTRAR-ZED (→ `NPC/Registrar-ZED/`) | **50 Credits pro Kampf.** Gegner aus der Kämpferliste wählen. |
 | **Wettschalter** | Lix Tarenko (→ `NPC/Buchmacherin-Lix-Tarenko/`) | Wetten auf jeden Kampf, auch auf die eigenen Freunde. |
-| **Der Balkon** | Direktor Orlan Vexx (→ `NPC/Direktor-Orlan-Vexx/`) | Der Chef. Kommentiert selbst, verteilt den Champion-Gürtel. |
+| **Am Ring** | Direktor Orlan Vexx (→ `NPC/Direktor-Orlan-Vexx/`) | Der Chef. Steht mit dem Mikrofon am Ringrand, kommentiert selbst, verteilt den Champion-Gürtel. |
 | **Spiegelnische** | – | Der Rückweg. Jederzeit. |
 
 Dazwischen rollt **BLECH-7**, ein kniehoher Service-Roboter mit
@@ -169,7 +186,7 @@ an. Er lässt sich nicht vom Gegenteil überzeugen.
 4. **Anmelden** bei ZED, Gegner wählen, 50 Credits zahlen.
 5. **Wetten** bei Lix (die anderen Helden wetten auf ihren Freund oder
    gegen ihn, das gibt die besten Gespräche).
-6. **Kampf** 1 gegen 1 im Ring, Vexx kommentiert.
+6. **Kampf** 1 gegen 1 im Ring, Vexx kommentiert vom Ringrand.
 7. **Preisgeld** holen, zurücktauschen oder noch einmal antreten.
 8. **Heimweg** durch den Spiegel.
 
@@ -187,19 +204,10 @@ an. Er lässt sich nicht vom Gegenteil überzeugen.
 - Wer aufgibt, bekommt das Startgeld nicht zurück. Wer gewinnt,
   bekommt das Preisgeld des Kämpfers.
 
-### Das Gelände (die Arena-KI würfelt W4 pro Kampf)
-
-| W4 | Gelände | Effekt |
-|---|---|---|
-| 1 | **Schwerelos-Phase** | Jede 2. Runde wird die Schwerkraft abgeschaltet: Sprünge verdreifacht, Nahkampfangriffe mit Nachteil, Fernkampf normal. |
-| 2 | **Lasergitter** | Rote Linien wandern über den Boden. Wer am Rundenende auf einer steht (W6: 1–2 ja), nimmt 1W8 Feuer. Gilt für beide. |
-| 3 | **Steigende Plattformen** | Der Boden zerfällt in sechs Plattformen in 1,5 bis 4,5 m Höhe. Wer herunterfällt, verliert eine Bewegung. Höher stehen gibt Vorteil auf Fernkampf. |
-| 4 | **Nebel und Scheinwerfer** | Dichter Nebel, nur die Scheinwerferkreise sind sichtbar. Wer außerhalb eines Kreises steht, ist stark verschleiert. Die Kreise wandern jede Runde. |
-
 **Stilbruch-Extras** (nach Geschmack einstreuen): Werbepause nach
 Runde 3 („Gleich geht es weiter, vorher: Bolos Rauchwürmer, jetzt in
 Scharf!"), Zeitlupen-Wiederholung bei jedem kritischen Treffer („Da!
-Da! Sehen Sie sich das an!"), Vexx' Kommentare vom Balkon, das Publikum
+Da! Sehen Sie sich das an!"), Vexx' Kommentare am Ring, das Publikum
 skandiert den Namen des Helden, falsch ausgesprochen.
 
 ---
@@ -239,45 +247,3 @@ findet, der zu ihm passt. Werte und Fähigkeiten unter `Kaempfer/`.
 
 Nichts davon hilft gegen Vorgazhul. Das Finale bleibt das Finale.
 
----
-
-## 6. Quecks danach
-
-**Erster Durchlauf:** Wer zurückkommt, trifft Quecks am Zelt. „Ihr
-wart keine Stunde weg. Sagt niemandem, was ihr gesehen habt. Glaubt
-euch sowieso keiner." Auf die Frage, warum er in Sommerhall ist:
-
-> „Ich bin immer da, wo etwas passiert. Fragt nicht, was. Ihr seht es
-> früh genug."
-
-**Zweiter Durchlauf** (nach dem Traum, → `Story/Erzaehler/03-Traum-und-Neustart.md`):
-Das Zelt steht wieder da. Quecks sieht die Helden an, länger als
-sonst. „Ihr wisst es jetzt, oder? Man sieht es euch an." Mehr sagt er
-nie. Der Spiegel funktioniert auch jetzt, falls die Gruppe den Abend
-lieber drüben verbringt, statt die Stadt zu retten. Das wäre ihre
-Entscheidung. Quecks reist mit dem Zirkus am Morgen nach dem Fest ab.
-
-**Optional, Kapitel 7:** Am Rand des Flüchtlingslagers vor der Kuppel
-steht ein kleines graues Zelt. Quecks sitzt davor. Er sagt nichts. Der
-Spiegel funktioniert noch. Letzte Chance für die Arena, und der stille
-Beweis, dass er wirklich immer da ist, wo es schlimm wird.
-
----
-
-## 7. Für den Spielleiter
-
-- **Quecks ist niemandes Werkzeug.** Er gehört nicht zum Kult, nicht
-  zu Phae, nicht zu den Vier. Er ist gut, aber auf keiner Seite. Er
-  warnt nicht, greift nicht ein, hilft nicht gegen den Dämon. Er
-  sieht zu. Wenn Spieler ihn als Hinweisgeber benutzen wollen,
-  bekommen sie Sätze, die erst im Rückblick Sinn ergeben.
-- **Die Arena ist ein Abend Pause.** Kein Zeitdruck, keine Konsequenz
-  für die Hauptstory. Wenn ein Spieler nur zusehen und wetten will,
-  ist das genauso richtig wie kämpfen.
-- **Der Stilbruch ist Absicht.** Spiel ihn voll aus: Werbung, Roboter,
-  Neon, ein Publikum, das die Helden für Kostümspieler hält. Je
-  ernster die Figuren drüben ihren Alltag nehmen, desto komischer
-  wird es.
-- **Wenn die Gruppe das Zelt nie findet,** ist das in Ordnung. Dann
-  war Quecks nur ein seltsamer Mann mit seltsamen Tieren, und die
-  Spieler erinnern sich vielleicht nach Kapitel 2 an ihn.

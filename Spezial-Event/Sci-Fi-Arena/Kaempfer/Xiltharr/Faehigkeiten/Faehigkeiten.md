@@ -20,9 +20,8 @@ sofort (die Konzentration bricht).
 ## Telekinetischer Wurf (Aktion, K)
 
 Ein Ziel in 9 m: STR-Rettung DC 14 oder es wird 6 m in eine Richtung
-geworfen (Xil'tharr wählt) und liegt. Fliegt es gegen die Ringwand
-oder eine Plattform: zusätzlich 7 (2W6) Wucht. Beim Gelände
-„Steigende Plattformen" wirft er den Helden mit Vorliebe herunter.
+geworfen (Xil'tharr wählt) und liegt. Fliegt es gegen die Ringwand:
+zusätzlich 7 (2W6) Wucht.
 
 ## Gedankenschleier (Reaktion, 1× pro Kampf)
 

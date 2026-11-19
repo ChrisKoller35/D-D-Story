@@ -1,8 +1,8 @@
 # Direktor Orlan Vexx
 
 Der Chef der Arena „Magnetron" auf Kessar-7 (→ `../../Beschreibung.md`).
-Steht auf seinem Balkon über dem Ring und kommentiert jeden Kampf
-selbst, mit einem Mikrofon, das er nicht braucht.
+Steht am Ringrand und kommentiert jeden Kampf selbst, mit einem
+Mikrofon, das er nicht braucht.
 
 ## Erscheinung & Wesen
 
@@ -21,7 +21,7 @@ kleines Stadion jeden Abend voll bekommen muss.
 - Einen Kampf nach Wahl, Startgeld 50 Credits, Preisgeld je Kämpfer
   (→ `../../Kaempfer/Uebersicht.md`).
 - Wer alle fünf Kämpfer schlägt, bekommt von ihm persönlich den
-  **Champion-Gürtel** und darf einmal auf dem Balkon stehen.
+  **Champion-Gürtel** und wird vor dem ganzen Stadion umarmt.
 - Wer gut verliert, bekommt eine Umarmung und einen Rauchwurm.
 
 **Typische Sätze:**

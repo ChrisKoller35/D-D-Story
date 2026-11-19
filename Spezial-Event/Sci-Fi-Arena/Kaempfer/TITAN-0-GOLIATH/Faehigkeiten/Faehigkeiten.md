@@ -15,8 +15,7 @@ jubelt, Bolos Spieße fallen um.
 
 Das rote Auge fährt den Ring ab: Ein 18 m langer, 1,5 m breiter
 Strahl, GOLIATH wählt die Linie. GES DC 15 oder 13 (3W8) Feuer. Wer
-hinter einer Plattform oder im Nebel steht, hat Vorteil auf den
-Rettungswurf. Der Strahl kündigt sich an: Das Auge leuchtet am Ende
+hinter GOLIATH steht, ist außerhalb des Strahls. Der Strahl kündigt sich an: Das Auge leuchtet am Ende
 der Runde davor hell auf (die Spieler dürfen es wissen).
 
 ## Zielerfassung (passiv)
@@ -36,7 +35,6 @@ Helden an, lange.
 
 *Erzähler-Hinweis: Frontal ist GOLIATH für einen einzelnen Helden der
 Stufe 7 fast nicht zu schaffen, und das ist Absicht: Er ist der
-Champion. Mit den Kernen, dem Gelände (Plattformen, Nebel) und Bolos
-Tipp wird er machbar, aber knapp. Ein Sieg soll ein Ereignis sein.
+Champion. Mit den Kernen und Bolos Tipp wird er machbar, aber knapp. Ein Sieg soll ein Ereignis sein.
 Vexx: „Elf Jahre. ELF JAHRE. Und heute Abend ein Barbar mit einem
 Stück Metall. Ich liebe diesen Job."*
