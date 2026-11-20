@@ -19,15 +19,18 @@ Stimme klingt wie die eigene Stimme, eine halbe Sekunde versetzt.
 
 Arrogant, höflich, geduldig, grausam. Er lügt nie – er verdreht.
 Er hält sich nicht für böse, sondern für **gerecht**: „Ich gebe nur
-zurück, was man mir gibt." Er liebt es zu reden und verachtet nichts
-mehr als Beleidigungen (→ Regel 2 in den Fähigkeiten).
+zurück, was man mir gibt." Er liebt es zu reden. Beleidigungen lächelt
+er weg – bis zum Finale, dort bringen sie ihn aus der Fassung.
 
 ## Zwei Zustände
 
 - **Frisch beschworen (Akt 2):** Noch nicht ganz in der Welt. Er
   **greift nicht an**, er wartet. Geschützt vom Spiegelschild: Jeder
-  Treffer wird reflektiert und lädt ihn auf. Bei 10 Aufladungen tötet
-  der **Weltenspiegel** alles im Umkreis von 1 km – damit ist er
+  Treffer wird reflektiert (mal W4) und lädt ihn auf. Bei 4 und 8
+  Aufladungen ruft er seine „Kinder" aus der Aura: den
+  **Knochensichler** und den **Glutherold** (→ `Feinde/Knochensichler/`,
+  `Feinde/Glutherold/`). Bei 10 Aufladungen tötet der
+  **Weltenspiegel** alles im Umkreis von 1 km – damit ist er
   **angekommen**.
 - **Angekommen (Akt 7):** Kein Schild mehr, dafür echte, starke
   Angriffe und ein **Spiegelkern**, der ihn unsterblich macht, bis
