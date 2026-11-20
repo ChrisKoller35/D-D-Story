@@ -31,29 +31,30 @@ einen anderen Einheimischen mit Stimme) an seine Seite ruft, würfelt
 mit **Vorteil**. Ein Verbündeter hilft pro Runde einem Helden.
 
 **Der Toten-Wurf (Ende jeder Runde):** Solange noch Marker im Saal
-liegen, würfeln **alle Helden gleichzeitig je einen W20**. Der
-**niedrigste Wurf** am Tisch zählt:
+liegen, würfeln **alle Helden gleichzeitig je einen W20** und zählen
+die Augen zusammen. **So viele Menschen sterben in dieser Runde.**
 
-| Niedrigster W20 | Vorgazhul frisst | Tote |
-|---|---|---|
-| 3 bis 20 | **1 Marker** | 50 Menschen |
-| 1 oder 2 | **2 Marker** | 100 Menschen |
+- Einer der Marker im Saal ist der **angebrochene Marker**. Schreib
+  daneben, wie viele Leute er noch hat (am Anfang 50).
+- Zieh die Toten davon ab. Bleibt etwas übrig (zum Beispiel 50 minus
+  38 = 12), bleibt der Marker stehen, nur die Zahl wird kleiner.
+- Fällt die Zahl auf 0 oder darunter, nimm den Marker weg. Was über
+  0 hinausgeht, zieht sofort vom nächsten Marker ab (12 Leute übrig,
+  47 gewürfelt: Marker weg, der nächste startet mit 15 statt 50).
+- Wird ein angebrochener Marker **gerettet** (Wurf DC 12), bringt der
+  Held nur die Leute hinaus, die noch draufstehen.
 
-Meistens stirbt also 1 Marker; nur wenn jemand eine 1 oder 2 würfelt,
-sind es 2 (bei vier Helden etwa jede dritte Runde).
-
-Nimm die Marker vom Tisch und sag in einem Satz, wie es passiert
-(ein Glaskeil fährt durch die Tanzfläche, die Empore bricht, eine
-Reihe Gäste wird zu Glas). Liegt nur noch ein Marker, stirbt
-höchstens dieser eine. Der Toten-Wurf endet, sobald der Saal leer
-ist.
+Sag jede Runde in einem Satz, wie es passiert (ein Glaskeil fährt
+durch die Tanzfläche, die Empore bricht, eine Reihe Gäste wird zu
+Glas). Bei vier Helden sterben so im Schnitt gut 40 Menschen pro
+Runde, also etwa alle ein bis zwei Runden ein Marker. Der Toten-Wurf
+endet, sobald der Saal leer ist.
 
 **Die Uhr:** Solange Menschen im Saal sind, dreht Vorgazhul jede Runde
 eine Aufladungs-Münze um (Hunger), jeder Treffer eine weitere. Bei 10
 ist alles im Umkreis von 1 km tot. Vier Helden, die nur evakuieren,
-haben den Saal in 2 Runden leer und retten dabei 200 bis 250
-Menschen (Runde 1: 4 Marker raus, 1 stirbt; Runde 2: der letzte raus);
-wer kämpft, verbrennt Runden, Münzen und Menschen.
+haben den Saal in 2 Runden leer und retten dabei um die 220
+Menschen; wer kämpft, verbrennt Runden, Münzen und Menschen.
 Das ist die ganze Lektion.
 
 **Gratis-Marker:** Ein Kultist, der vor 0:00 **geknebelt oder
@@ -61,8 +62,8 @@ bewusstlos** war, lässt seine Ecke des Siegels dunkel: Die Gäste dort
 erstarren nicht und laufen von selbst hinaus, **1 Marker** ohne Wurf.
 
 **Was übrig bleibt:** Jeder Marker, der beim Weltenspiegel noch im
-Saal liegt, sind 50 Tote, genau wie jeder Marker, den der Toten-Wurf
-geholt hat.
+Saal liegt, sind 50 Tote (der angebrochene so viele, wie noch
+draufstehen), dazu alle Toten aus den Toten-Würfen.
 
 ---
 
