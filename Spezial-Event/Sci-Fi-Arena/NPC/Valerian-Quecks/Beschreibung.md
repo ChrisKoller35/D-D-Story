@@ -1,5 +1,7 @@
 # Valerian Quecks
 
+![Valerian Quecks](Bild.png)
+
 Der Mann vor dem grauen Zelt beim Zirkus. Zugang zum Spezial-Event
 „Die Arena von Rubian 5" (→ `../../Beschreibung.md`).
 

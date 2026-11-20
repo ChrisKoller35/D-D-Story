@@ -1,5 +1,7 @@
 # REGISTRAR-ZED – Die Anmeldung
 
+![REGISTRAR-ZED](Bild.png)
+
 Der Roboter am Anmeldeschalter der Arena „Magnetron"
 (→ `../../Beschreibung.md`). Ohne ZED kein Kampf.
 

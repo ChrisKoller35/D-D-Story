@@ -1,7 +1,7 @@
 # Handout: Der Fest-Flyer
 
 *Ein grob gedruckter Zettel auf vergilbtem gelbem Papier, an den Ecken
-schon etwas zerknittert. Tamo, ein Junge auf einem Esel, verteilt ihn
+schon etwas zerknittert. Tamo, ein junger Mann auf einem Esel, verteilt ihn
 in Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`).*
 
 **Zum Herzeigen am Tisch** (ausdrucken oder auf dem Bildschirm zeigen):

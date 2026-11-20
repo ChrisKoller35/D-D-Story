@@ -89,18 +89,19 @@ einen festen Händedruck und hat genau drei Sätze übrig; Liese redet
 dafür für zwei und bestätigt, was die Mutter sagt: Sie gehen nicht zum
 Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 
-**Vorlesetext – der Flyer-Junge:**
+**Vorlesetext – der Flyer-Bote:**
 
 > Da klappert es auf der Straße. Ein Esel trabt ins Dorf, schwer
-> beladen mit zwei Satteltaschen, und obendrauf sitzt ein Junge, vielleicht
-> zwölf, mit Sommersprossen und einer viel zu großen Mütze. Er springt
+> beladen mit zwei Satteltaschen, und obendrauf sitzt ein junger Mann,
+> Ende zwanzig, schlaksig, mit Sommersprossen und einer viel zu großen
+> Mütze. Er springt
 > ab, bevor der Esel steht, reißt eine Tasche auf und wedelt mit einem
 > Stapel bunter Zettel. „Fest der Goldenen Ähre! Morgen in
 > Sommerhall! Freibier, Festspiele, Preise in Gold!" Dann sieht er
 > eure Waffen, eure Rüstungen, eure Narben – und bleibt wie
 > angewurzelt stehen. „Seid… seid ihr etwa Abenteurer? Echte?"
 
-Der Junge ist **Tamo**, Neffe von Hauptmann Baldric
+Der junge Mann ist **Tamo**, Neffe von Hauptmann Baldric
 (→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
 allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
 Helden einen Flyer in die Hand (→ **Handout**, zeig den Spielern das
@@ -191,7 +192,7 @@ sie nicht, sondern lass die Welt ziehen:
   stundenlang. Das nächste Dach mit freien Betten ist Sommerhall (in
   Hirsefurt ist alles voll mit Verwandtschaft, die morgen zum Fest
   will).
-- **Tamo:** Sein Esel lahmt auf halbem Weg, der Junge sitzt allein
+- **Tamo:** Sein Esel lahmt auf halbem Weg, Tamo sitzt allein
   am Straßenrand mit zwei Taschen Flyer. Wer ihn nach Hause bringt,
   steht vor Baldric, und der lässt keine Helden einfach wieder gehen.
 - **Der Weg:** Sommerhall liegt ohnehin an ihrer Route nach Süden;

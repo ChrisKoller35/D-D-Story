@@ -1,5 +1,7 @@
 # Phae, das Sternenlicht
 
+![Phae, das Sternenlicht](Bild.png)
+
 Das magische Wesen, das den Helden nach der Flucht erscheint
 (→ `Story/Erzaehler/04b-Phae.md`).
 
