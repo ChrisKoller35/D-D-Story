@@ -2,7 +2,7 @@
 
 Der Händler im Vorraum der Arena „Magnetron" (→ `../../Beschreibung.md`).
 Hier wird Gold zu Credits und zurück, und hier gibt es die einzigen
-Dinge, die man von Kessar-7 mit nach Hause nehmen kann.
+Dinge, die man von Rubian 5 mit nach Hause nehmen kann.
 
 ## Erscheinung & Wesen
 

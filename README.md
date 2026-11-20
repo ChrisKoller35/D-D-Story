@@ -27,7 +27,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 - **Belohnungen/** – Belohnungen; seltene Gegenstände je mit Unterordner **Effekte/**
   - **Spezialausruestung/** – Ausrüstung aus Baldir für den Dungeon (nur auf Nachfrage), gleiche Struktur
 - **Spezial-Event/** – Verstecktes Bonus-Event, das nicht ins Fantasy-Setting passt (mit Absicht)
-  - **Sci-Fi-Arena/** – Spiegelportal beim Zirkus, Arena auf dem Planeten Kessar-7; Unterordner **NPC/** und **Kaempfer/** (je **Stats/** und **Faehigkeiten/**)
+  - **Sci-Fi-Arena/** – Spiegelportal beim Zirkus, Arena auf dem Planeten Rubian 5; Unterordner **NPC/** und **Kaempfer/** (je **Stats/** und **Faehigkeiten/**)
 - **Sessions/** – Protokolle der Spielabende
 - **Ideen/** – Lose Ideen und unsortiertes Material
 

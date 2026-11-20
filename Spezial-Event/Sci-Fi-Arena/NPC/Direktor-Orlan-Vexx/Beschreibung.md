@@ -1,6 +1,6 @@
 # Direktor Orlan Vexx
 
-Der Chef der Arena „Magnetron" auf Kessar-7 (→ `../../Beschreibung.md`).
+Der Chef der Arena „Magnetron" auf Rubian 5 (→ `../../Beschreibung.md`).
 Steht am Ringrand und kommentiert jeden Kampf selbst, mit einem
 Mikrofon, das er nicht braucht.
 

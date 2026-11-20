@@ -165,7 +165,7 @@ graues Zelt ohne Schild, davor sitzt ein hagerer Mann mit Zylinder,
 **Valerian Quecks**. Flimm über ihn: „Gehört nicht zu uns. Zieht aber
 seit zwölf Jahren mit, und zahlt pünktlich." Auf dem Schild: „Seltene
 Tiere unserer Welt · 2 Kupfer". Das ist der Zugang zum
-**Spezial-Event „Die Arena von Kessar-7"**
+**Spezial-Event „Die Arena von Rubian 5"**
 (→ `Spezial-Event/Sci-Fi-Arena/Beschreibung.md`, eigenes Kapitel mit
 Tierschau, Überreden, Spiegel und allem, was dahinter liegt). Hier
 nur: Das Zelt ist da, der Mann ist da.

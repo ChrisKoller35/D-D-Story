@@ -1,7 +1,7 @@
 # Valerian Quecks
 
 Der Mann vor dem grauen Zelt beim Zirkus. Zugang zum Spezial-Event
-„Die Arena von Kessar-7" (→ `../../Beschreibung.md`).
+„Die Arena von Rubian 5" (→ `../../Beschreibung.md`).
 
 ## Erscheinung & Wesen
 

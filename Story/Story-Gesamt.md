@@ -50,7 +50,7 @@ sich nach den ersten Toten ergeben.
 - Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
 - NPC: `NPC/Hauptmann-Baldric/`
 - Spezial-Event (versteckt, nur wer Valerian Quecks beim Zirkus
-  überredet): die Sci-Fi-Arena auf Kessar-7, `Spezial-Event/Sci-Fi-Arena/`
+  überredet): die Sci-Fi-Arena auf Rubian 5, `Spezial-Event/Sci-Fi-Arena/`
 
 ## Akt 2: Das Ritual und der Dämon
 

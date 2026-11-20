@@ -1,4 +1,4 @@
-# Spezial-Event: Die Arena von Kessar-7
+# Spezial-Event: Die Arena von Rubian 5
 
 **Ein verstecktes Bonus-Event, das nicht ins Fantasy-Setting passt – und
 genau das ist der Spaß daran.** Wer beim Fest der Goldenen Ähre den
@@ -55,11 +55,11 @@ auf dieser Welt.
 
 | Was im Käfig sitzt | Quecks' Erklärung | Was es wirklich ist |
 |---|---|---|
-| Ein Fuchs mit sechs Beinen und zwei Schwänzen | „Doppelschwanz-Fuchs aus den Südmooren. Sehr scheu." | Steppenläufer von Kessar-7 |
+| Ein Fuchs mit sechs Beinen und zwei Schwänzen | „Doppelschwanz-Fuchs aus den Südmooren. Sehr scheu." | Steppenläufer von Rubian 5 |
 | Ein Vogel ohne Augen, der jeden Ton nachsingt (auch Gesprächsfetzen der Gäste) | „Blinde Nachtigall vom Grauhorn. Hört besser, als wir sehen." | Echovogel, unbekannte Welt |
-| Ein Käfer so groß wie ein Hund, summt leise, leuchtet blau | „Bergkäfer. Sehr selten. Nicht anfassen, er mag das nicht." | Lampenkäfer aus den Minen von Kessar-7 |
+| Ein Käfer so groß wie ein Hund, summt leise, leuchtet blau | „Bergkäfer. Sehr selten. Nicht anfassen, er mag das nicht." | Lampenkäfer aus den Minen von Rubian 5 |
 | Ein Fisch, der in der Luft schwimmt wie im Wasser | „Nebelfisch aus den Küstenmarschen. Nur bei Nebel zu fangen." | Schwebefisch, Gasriesen-Fauna |
-| Eine Katze mit sechs Beinen, schnurrt wie zwei Katzen | „Moorkatze. Die gibt es wirklich. Fragt jeden Bauern." | Sechsbeiner-Katze, dieselbe Art wie in der Katzenshow auf Kessar-7 |
+| Eine Katze mit sechs Beinen, schnurrt wie zwei Katzen | „Moorkatze. Die gibt es wirklich. Fragt jeden Bauern." | Sechsbeiner-Katze, dieselbe Art wie in der Katzenshow auf Rubian 5 |
 
 **Natur DC 15:** Kein einziges dieser Tiere existiert. Weder in den
 Südmooren noch sonst wo. Das ist der erste Hinweis, dass hier etwas
@@ -118,14 +118,14 @@ jederzeit durch denselben Spiegel, der in der Arena im Vorraum steht.
 
 ---
 
-## 2. Kessar-7 und Neon-Kessar
+## 2. Rubian 5 und Neon-Rubian
 
 Ein lila Himmel mit zwei Monden, warme, trockene Luft, der Geruch von
 heißem Metall und gebratenem Fleisch. Die Helden stehen in einer
 Spiegelnische im Vorraum eines kleinen Stadions, vor ihnen die
 Eingangshalle, hinter den Glastüren die Stadt.
 
-**Neon-Kessar** ist Kulisse zum Vorbeigehen und Gesprächsstoff, nicht
+**Neon-Rubian** ist Kulisse zum Vorbeigehen und Gesprächsstoff, nicht
 Schauplatz. Was man sieht, wenn man vor die Tür tritt (5 Minuten
 Beschreibung, dann zurück in die Arena):
 
@@ -144,7 +144,7 @@ Beschreibung, dann zurück in die Arena):
   Fahrzeuge so groß wie Scheunen auf Rädern. Man sieht nur die
   Staubwolke und hört das Dröhnen.
 
-Niemand findet die Helden seltsam. Neon-Kessar hat alles gesehen. Ein
+Niemand findet die Helden seltsam. Neon-Rubian hat alles gesehen. Ein
 Passant tippt an die Chromjacke: „Nettes Kostüm. Retro." Ein Kind
 fragt, ob die Schwerter echt sind, und glaubt die Antwort nicht.
 
