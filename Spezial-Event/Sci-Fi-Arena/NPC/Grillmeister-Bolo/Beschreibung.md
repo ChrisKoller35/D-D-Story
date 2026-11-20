@@ -1,5 +1,7 @@
 # Grillmeister Bolo – Bolos Grill
 
+![Grillmeister Bolo](Bild.png)
+
 Der Essensverkäufer im Vorraum der Arena „Magnetron"
 (→ `../../Beschreibung.md`), direkt neben dem Eingang. Der Rauch
 seines Grills hängt über dem ganzen Stadion.

@@ -1,5 +1,7 @@
 # Archivarin Nerida
 
+![Archivarin Nerida](Bild.png)
+
 Hüterin der Gezeitenarchive von Baldir, Questgeberin von Akt 5
 (→ `Story/Erzaehler/05-Baldir.md`,
 → `Quests/Quest-Die-Hammerfeste.md`).

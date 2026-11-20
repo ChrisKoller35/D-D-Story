@@ -22,7 +22,7 @@ hinein. Wer es nicht findet, verpasst nichts von der Story.
 | **Grillmeister Bolo** | Essensverkäufer | `NPC/Grillmeister-Bolo/` |
 | **REGISTRAR-ZED** | Roboter an der Anmeldung | `NPC/Registrar-ZED/` |
 | **Lix Tarenko** | Buchmacherin, nimmt Wetten an | `NPC/Buchmacherin-Lix-Tarenko/` |
-| **BLECH-7** | Service-Roboter mit Tablett und Luftballons | (nur in der Beschreibung) |
+| **BLECH-7** | Service-Roboter mit Tablett und Luftballons | `NPC/Service-Roboter-BLECH-7/` |
 | **BOLZEN** | Kämpfer 1, Schrottroboter | `Kaempfer/BOLZEN/` |
 | **Gnash Dreizahn** | Kämpfer 2, Krokodil-Gladiator in Panzerrüstung | `Kaempfer/Gnash-Dreizahn/` |
 | **Mack „Der Hammer" Dorrigan** | Kämpfer 3, Cyborg-Boxer | `Kaempfer/Mack-Dorrigan/` |

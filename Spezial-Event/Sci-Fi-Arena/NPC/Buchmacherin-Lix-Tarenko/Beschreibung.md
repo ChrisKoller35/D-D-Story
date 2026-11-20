@@ -1,5 +1,7 @@
 # Lix Tarenko – Der Wettschalter
 
+![Lix Tarenko](Bild.png)
+
 Die Buchmacherin der Arena „Magnetron" (→ `../../Beschreibung.md`).
 Ohne Lix wäre die Arena nur ein Kampf. Mit ihr ist sie ein Abend.
 

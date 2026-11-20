@@ -1,5 +1,7 @@
 # Hauptmann Baldric Immergrün
 
+![Hauptmann Baldric Immergrün](Bild.png)
+
 Hauptmann der Stadtwache von Sommerhall und Ausrichter des Fests der
 Goldenen Ähre (→ `Story/Erzaehler/01-Das-Fest.md`). Am Abend vor dem
 Fest koordiniert er vor der Festhalle Wachen und Helfer und macht die
