@@ -25,7 +25,7 @@ Treppe der Stadt).
    (Wiedersehen in einer späteren Kampagne?).
 3. **Wegsehen/mitverdienen:** Möglich, aber: Die falschen
    Schutzamulette tauchen später im Flüchtlingslager auf – Leute,
-   die sich sicher fühlen, gehen zurück Richtung Sommerhall. In die
+   die sich sicher fühlen, gehen zurück Richtung Thalendor. In die
    Kuppel. Die Helden erfahren davon. Autsch.
 
 **Belohnung:** 50 Gold (Brenka), im Schmugglerlager zusätzlich:

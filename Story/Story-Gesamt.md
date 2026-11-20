@@ -19,11 +19,11 @@ zum Fest zu gehen.
 
 - Erzähler-Kapitel: `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`
 - Handout (Fest-Flyer): `Story/Spieler/Handout-Fest-Einladung.md`
-  (Bild zum Herzeigen: `Story/Spieler/Festflyer-Sommerhall.png`)
+  (Bild zum Herzeigen: `Story/Spieler/Festflyer-Thalendor.png`)
 
-## Kapitel 0.5: Der Weg nach Sommerhall
+## Kapitel 0.5: Der Weg nach Thalendor
 
-Auf der Straße nach Sommerhall wird die Kutsche der **Brauerin Thea**
+Auf der Straße nach Thalendor wird die Kutsche der **Brauerin Thea**
 von Räubern überfallen: sechs Fässer Jahrgangsbier für die Festhalle,
 die Preistruhe der Festspiele, und auf dem Bock Theas Tochter **Mira**
 mit ihrem Holzpferd. Die Helden retten alle, die Torwachen schicken sie
@@ -32,11 +32,11 @@ und das gerettete Bier zu **Ehrengästen**; sie übernachten im Gasthaus „Zur 
 von Hirsefurt aus lieber gleich die Räuber sucht, erlebt keinen
 Überfall, sondern findet das Lager einen Tag früher.
 
-- Erzähler-Kapitel: `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`
+- Erzähler-Kapitel: `Story/Erzaehler/00b-Der-Weg-nach-Thalendor.md`
 
-## Akt 1: Das Fest der Goldenen Ähre (Sommerhall)
+## Akt 1: Das Fest der Goldenen Ähre (Thalendor)
 
-Die Helden treffen in **Sommerhall** zum großen Erntefest ein. Tagsüber
+Die Helden treffen in **Thalendor** zum großen Erntefest ein. Tagsüber
 wird draußen in der Stadt gefeiert (Buden, Musik, Festspiele an sechs
 Festorten quer durch die Stadt, je ein Wurf pro Spiel), ab 17–18 Uhr zieht alles in die **Große Festhalle** um.
 Alles ist perfekt – fast zu perfekt. Mira, das Mädchen mit dem
@@ -47,7 +47,7 @@ sich nach den ersten Toten ergeben.
 - Erzähler-Kapitel: `Story/Erzaehler/01-Das-Fest.md`
 - Spiele für die Spieler: `Story/Spieler/Festspiele.md`; Ablauf und
   Ergebnistabellen für den Erzähler: `Story/Erzaehler/01b-Festspiele.md`
-- Stadt: `Stadt/Sommerhall/` (Festhalle unter `Stadt/Sommerhall/Orte/Festhalle.md`)
+- Stadt: `Stadt/Thalendor/` (Festhalle unter `Stadt/Thalendor/Orte/Festhalle.md`)
 - NPC: `NPC/Hauptmann-Baldric/`
 - Spezial-Event (versteckt, nur wer Valerian Quecks beim Zirkus
   überredet): die Sci-Fi-Arena auf Rubian 5, `Spezial-Event/Sci-Fi-Arena/`
@@ -189,7 +189,7 @@ fragt, hört noch einmal vom Wunder, falls es noch da ist.
 
 ## Akt 7: Rückkehr und Endkampf
 
-Mit der Ausrüstung kehren die Helden nach Sommerhall zurück. Vorgazhul
+Mit der Ausrüstung kehren die Helden nach Thalendor zurück. Vorgazhul
 ist jetzt **angekommen**: Der Spiegelschild wirkt nicht mehr, dafür
 **greift er an** – mit neuen, starken Angriffen (Spiegelgriff,
 Spiegelgefängnis, Scherbenregen, Glasdiener). Sein **Spiegelkern**
@@ -198,7 +198,7 @@ lässt ihn regenerieren und nach 0 TP wieder zusammensetzen. Das
 Stille** stoppt seine Regeneration – erst dadurch wird der Dämon
 besiegbar. Nach dem Sieg erscheint Phae ein letztes Mal und fragt
 von selbst nach dem Wunder: Ist es noch da, können die Helden **alle
-Toten von Sommerhall** zurückholen, das vollkommene Ende.
+Toten von Thalendor** zurückholen, das vollkommene Ende.
 
 - Erzähler-Kapitel: `Story/Erzaehler/07-Finale.md`
 - Hauptquest-Übersicht: `Quests/Hauptquest-Der-Spiegeldaemon.md`
@@ -211,10 +211,10 @@ Toten von Sommerhall** zurückholen, das vollkommene Ende.
 
 | Ende | Wie es dazu kommt | Wo |
 |---|---|---|
-| **Sommerhall erwacht** | Wie Sieg, und die Helden haben Phaes einziges Wunder bis zum Schluss aufgespart: Alle Toten der Stadt kommen zurück. Das vollkommene Ende, und das schwerste, weil das Wunder vorher zweimal verlockend angeboten wird. | Kapitel 7, „Phaes letztes Angebot" |
+| **Thalendor erwacht** | Wie Sieg, und die Helden haben Phaes einziges Wunder bis zum Schluss aufgespart: Alle Toten der Stadt kommen zurück. Das vollkommene Ende, und das schwerste, weil das Wunder vorher zweimal verlockend angeboten wird. | Kapitel 7, „Phaes letztes Angebot" |
 | **Sieg** | Evakuieren, fliehen, Hammerfeste, zurückkehren, Vorgazhul besiegen. Der optimale Weg. Wer das Wunder früher gebraucht hat, endet hier. | Kapitel 7 |
 | **Gebannt** | Wie Sieg, aber mit heiliger Magie gebannt statt getötet. Rückkehr-Haken für später. | Kapitel 7, Szenario H |
-| **Die Retter von Sommerhall** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario H |
+| **Die Retter von Thalendor** | 2. Durchlauf: Die ganze Stadt wurde evakuiert, aber die Helden kämpfen trotzdem und sterben. Kein Sieg über den Dämon, aber jeder Mensch lebt. Bittersüß, aber geschafft. Die Kuppel wächst weiter – Stoff für eine neue Kampagne mit neuen Helden. | Kapitel 3, Szenario H |
 | **Einer bleibt wach** | Das Finale geht verloren, nur der Träger des Amuletts der Traumwache überlebt. | Kapitel 7, Szenario I |
 | **Der Spiegel gewinnt** | 2. Durchlauf: Die Helden sterben, ohne die Stadt evakuiert zu haben. Düster. Gib vorher jede Chance. | Kapitel 2/3 |
 

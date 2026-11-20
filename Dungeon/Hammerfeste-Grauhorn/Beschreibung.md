@@ -208,7 +208,7 @@ langsam auf (3 Runden) – und Gorrum verteidigt sie mit allem.
 
 Die vier Belohnungen → `Belohnungen/Seltene/` (jede mit eigenem
 Ordner und `Effekte/`). Die drei toten Diebe tragen dieselben
-Silbersicheln wie die Kultisten in Sommerhall; bei einem steckt ein
+Silbersicheln wie die Kultisten in Thalendor; bei einem steckt ein
 Brief „an den Meister in den Kornfeldern" (Malrik). Sie haben sich vor
 Gorrum eingeschlossen und sind verdurstet, während er draußen wartete.
 Beim Verlassen: Die Runenschlüssel lassen sich mitnehmen (Zwergenwerk,

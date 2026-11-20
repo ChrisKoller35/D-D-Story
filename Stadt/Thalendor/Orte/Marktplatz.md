@@ -1,4 +1,4 @@
-# Der Marktplatz (Sommerhall)
+# Der Marktplatz (Thalendor)
 
 Herz der Stadt, während des Fests **tagsüber** voller Stände und Spielbuden (ab 17–18 Uhr zieht das Fest in die Festhalle um).
 Hier eröffnet Baldric um 10 Uhr die Festspiele am Erntealtar, und

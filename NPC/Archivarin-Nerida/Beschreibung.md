@@ -11,7 +11,7 @@ Hüterin der Gezeitenarchive von Baldir, Questgeberin von Akt 5
 Mitte fünfzig, salzgraues Haar streng geflochten, Tintenflecken bis
 zum Ellbogen, Lesesteine an einer Kette um den Hals. Spricht leise
 und präzise; wer im Archiv laut wird, bekommt den Blick. Hinter der
-Strenge: eine Schwester in Sommerhall, um die sie sich krank sorgt –
+Strenge: eine Schwester in Thalendor, um die sie sich krank sorgt –
 ihr Schlüssel-Motiv, den Helden zu helfen. Und eine zweite Last: Sie
 ist die Hüterin des **Gewölbes der Vier** unter dem Turm, der
 Grabstätte der vier Kämpfer – und vor sechs Wochen wurden ihr die
@@ -19,7 +19,7 @@ Reliquien von dort gestohlen, von einem Gehilfen,
 dem sie vertraut hat (Bruder Edrik).
 
 **Funktion in der Story:**
-- Weiß zuerst NICHT, was die Helden in Sommerhall gesehen haben – sie
+- Weiß zuerst NICHT, was die Helden in Thalendor gesehen haben – sie
   muss **erst recherchieren** (halber Tag) und findet dann die
   5.000 Jahre alten Steintafeln (→ `Story/Spieler/Handout-Hinweise-Baldir.md`).
 - Erkennt dabei, dass die gestohlenen Reliquien genau die vier
@@ -34,7 +34,7 @@ dem sie vertraut hat (Bruder Edrik).
   (→ `Belohnungen/Spezialausruestung/Uebersicht.md`).
 
 **Typische Sätze:**
-- „Das Archiv ist kein Ort für Schwertträger. ... Sommerhall, sagt
+- „Das Archiv ist kein Ort für Schwertträger. ... Thalendor, sagt
   ihr? Setzt euch."
 - „Ich habe sie mein halbes Leben lang bewacht und nie gewusst,
   wofür."

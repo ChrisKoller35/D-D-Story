@@ -53,7 +53,7 @@ wenn er es ihnen schenkt), und Baldir spricht gut über sie.
 
 Zurück bei Nerida: Sie erklärt (falls nötig) die Aktivierung des
 Siegels (→ `NPC/Archivarin-Nerida/Faehigkeiten/`, „Siegelkunde") und
-bittet die Helden, ihrer Schwester in Sommerhall zu helfen – ein
+bittet die Helden, ihrer Schwester in Thalendor zu helfen – ein
 persönlicher Abschied, der das Finale emotional auflädt. Wichtig: Sie
 sagt auch den Satz von der Tafel noch einmal laut: **„Als sein
 Spiegel zerbrochen war, da war er nur noch ein Dämon – und Dämonen

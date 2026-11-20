@@ -89,7 +89,7 @@ Baldric oder die nächste Wache.
   als Beweis). Wer Baldrics Wachabzeichen trägt
   (→ `Belohnungen/Festpreise.md`), braucht keinen Wurf.
 
-Danach räumt Sommerhall sich selbst in der Zeit, die noch bleibt:
+Danach räumt Thalendor sich selbst in der Zeit, die noch bleibt:
 **10 Stunden minus die verbrauchten Aufladungen** (ab jetzt Hunger +1
 pro Stunde). Du erzählst nur noch: Glocken, Wagen auf der Lindenallee,
 Thea mit dem Bierwagen voller Kinder, die letzten Alten, die Baldric

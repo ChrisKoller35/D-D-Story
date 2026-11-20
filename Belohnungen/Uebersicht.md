@@ -53,7 +53,7 @@ in `Festpreise.md`.
   Rückweg aus dem Grauhorn, nach dem Sieg), einmal zu haben. Ein
   Mensch, eine Sache oder ein Augenblick. Früh genommen: ein toter
   Held zurück, oder die ganze Gruppe heil. Bis zum Schluss getragen:
-  **alle Toten von Sommerhall zurück**, das vollkommene Ende.
+  **alle Toten von Thalendor zurück**, das vollkommene Ende.
 - **Sternenglut** (Kapitel 6, gegen ein ehrliches Angebot,
   → `NPC/Phae/Faehigkeiten/Faehigkeiten.md`): ein Funke pro Held bis
   zum Ende der Kampagne. Vorteil gegen Furcht und Bezauberung; einmal
@@ -61,7 +61,7 @@ in `Festpreise.md`.
 
 ## Nach dem Finale
 
-- **Dank von Sommerhall:** je 250 Gold, Ehrenbürgerschaft, lebenslang
+- **Dank von Thalendor:** je 250 Gold, Ehrenbürgerschaft, lebenslang
   Kost & Logis in der „Sichel" – und das Fest heißt künftig „Fest
   der Vier Klingen".
 - **Phaes Abschied** (nur, wenn das Wunder schon verbraucht ist;

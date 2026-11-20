@@ -1,4 +1,4 @@
-# Gasthaus „Zur Sichel" (Sommerhall)
+# Gasthaus „Zur Sichel" (Thalendor)
 
 Quartier der Helden (Kost und Logis frei – Ehrengäste!). Geführt von
 Wirtin **Alma**.

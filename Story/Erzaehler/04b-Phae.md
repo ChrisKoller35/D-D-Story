@@ -48,7 +48,7 @@ endet. Das ist der Kern:
 |---|---|---|---|
 | **1. Lagerfeuer nach der Flucht** (dieses Kapitel) | Phaes erster Auftritt | **Nur die Helden.** Phae erwähnt es nur, wenn sie fragen, ob es ihnen „noch etwas mitgeben" kann | Einen toten Helden zurückholen. **Nicht:** die Leute in der Stadt (der Dämon ist dort) |
 | **2. Rückweg aus dem Grauhorn** (→ Kapitel 6, „Phaes zweites Erscheinen") | Erste Nacht nach der Tresorkammer | **Nur die Helden**, nachdem sie um Kraft verhandelt haben und **weiter fragen** | Wie 1. Die Stadt geht immer noch nicht |
-| **3. Nach dem Sieg** (→ Kapitel 7, „Phaes letztes Angebot") | Vorgazhul ist besiegt | **Phae selbst** fragt, ob sie es noch wollen | **Alle Toten von Sommerhall zurück.** Das vollkommene Ende |
+| **3. Nach dem Sieg** (→ Kapitel 7, „Phaes letztes Angebot") | Vorgazhul ist besiegt | **Phae selbst** fragt, ob sie es noch wollen | **Alle Toten von Thalendor zurück.** Das vollkommene Ende |
 
 **Die Regeln (gelten an allen drei Stellen):**
 
@@ -99,7 +99,7 @@ Fragt am Ende jemand „Hätten wir damit …?", antwortet Phae ehrlich.
 | Wunsch | Antwort |
 |---|---|
 | Einen toten Helden zurück | **Ja**, an jeder der drei Stellen (Regel 4). |
-| Die Toten von Sommerhall, die Gespiegelten, Mira, Baldric … | **Nein** bei 1 und 2 (Regel 3). **Ja** bei 3: alle auf einmal (→ Kapitel 7). |
+| Die Toten von Thalendor, die Gespiegelten, Mira, Baldric … | **Nein** bei 1 und 2 (Regel 3). **Ja** bei 3: alle auf einmal (→ Kapitel 7). |
 | „Heil uns alle vollständig" | **Ja**: alle TP, alle Zauberplätze, alle Zustände, Flüche und Stufen Erschöpfung der ganzen Gruppe, auf einmal. |
 | Eine Antwort auf eine Frage | **Ja**, vollständig und klar (die einzige gerade Antwort, die Phae je gibt). Zum Beispiel: „Wie besiegen wir ihn?" |
 | Einen verlorenen oder zerstörten Gegenstand zurück (auch eine der vier Reliquien) | **Ja.** |

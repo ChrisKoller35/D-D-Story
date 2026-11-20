@@ -220,7 +220,7 @@ in Kapitel 7 ein Verbündeter sein.
 Die Stadt ist leer und in Sicherheit. Die Helden gehen zurück in die
 Festhalle, „um es zu Ende zu bringen", greifen an, die Aufladungen
 laufen voll – und sie sterben. **Kein Traum mehr.** Das ist trotzdem
-ein gültiges Ende: **„Die Retter von Sommerhall"** – jeder Mensch der
+ein gültiges Ende: **„Die Retter von Thalendor"** – jeder Mensch der
 Stadt lebt, weil die Helden ihn gerettet haben
 (→ `Story/Story-Gesamt.md`, „Mögliche Enden"). Gib ihnen vorher alle
 Chancen: Vorgazhul selbst sagt „Ihr könnt mir nur ausweichen", die
@@ -244,7 +244,7 @@ Dann gab es keinen TPK und **keinen Traum**. Überspringe dieses
 Kapitel einfach – die Story funktioniert identisch weiter (Kapitel 4),
 und die Spieler haben sich die harte Lektion gespart. Fair ist fair.
 Der Preis: Sie haben **nur sich selbst gerettet**. Ohne Vorwissen
-und ohne den ganzen Festtag Zeit sterben die Leute von Sommerhall im
+und ohne den ganzen Festtag Zeit sterben die Leute von Thalendor im
 Weltenspiegel (bis auf die paar, die sie auf dem Weg hinaus
 mitgenommen haben). Das soll wehtun, aber es ist nicht endgültig:
 Phaes Wunder (→ Kapitel 4b) kann nach dem Sieg **alle Toten der

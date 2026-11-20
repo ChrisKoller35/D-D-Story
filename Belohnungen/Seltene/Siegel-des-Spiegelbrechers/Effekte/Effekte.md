@@ -21,7 +21,7 @@ Geschicklichkeit zum Fangen).
 - Nach der 3. Aktion: **Der Spiegelkern zerbricht dauerhaft.**
   Keine Regeneration, kein Zusammensetzen mehr. Phase 2 beginnt
   (→ `Feinde/Daemon-Vorgazhul/Stats/Stats.md`). Die Spiegelkuppel
-  über Sommerhall bekommt Risse.
+  über Thalendor bekommt Risse.
 
 *Gegen den frisch beschworenen Vorgazhul (Akt 2) spielt das Siegel
 keine Rolle – die Helden haben es dort noch nicht, es wurde vor dem

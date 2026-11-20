@@ -19,7 +19,7 @@ Spiegelbrut.
   zusammen). Erst das Siegel-Ritual macht ihn sterblich.
 - Warum vier Helden schaffen können, wofür es damals 200 Magier
   brauchte: Damals war er schon lange in der Welt und riesig
-  geworden. **Jetzt ist er frisch angekommen** und noch an Sommerhall
+  geworden. **Jetzt ist er frisch angekommen** und noch an Thalendor
   gebunden. Jede Woche, die die Helden trödeln, macht ihn stärker
   (die Kuppel wächst).
 
@@ -30,7 +30,7 @@ sagt: „Jetzt bin ich da. Jetzt darf ich zurückgeben." Und Neridas
 Satz von der Tafel: „Als sein Spiegel zerbrochen war, da war er nur
 noch ein Dämon – und Dämonen kann man bezwingen."
 
-## Rückkehr nach Sommerhall
+## Rückkehr nach Thalendor
 
 Die Spiegelkuppel ist gewachsen – verspiegelte Felder, in denen die
 Spiegelbilder der Reisenden eine Sekunde zu spät reagieren. Der
@@ -46,7 +46,7 @@ Baldric bittet: „Bringt uns unsere Stadt zurück." Haben die Helden
 niemanden gerettet, stehen hier nur ein paar Flüchtlinge aus den
 geschluckten Dörfern.
 
-**In der Kuppel:** Sommerhall ist still. Alle, die beim Weltenspiegel
+**In der Kuppel:** Thalendor ist still. Alle, die beim Weltenspiegel
 in der Stadt waren, stehen als **gläserne Gespiegelte** in den Straßen
 – mitten in der Bewegung erstarrt. Vorgazhul residiert in der
 Festhalle, „und er redet mit den Spiegeln".
@@ -188,7 +188,7 @@ Helden.
 
 ## Nach dem Sieg
 
-- Die Spiegelkuppel zerfällt wie Morgennebel; Sommerhall ist gezeichnet,
+- Die Spiegelkuppel zerfällt wie Morgennebel; Thalendor ist gezeichnet,
   aber frei. Die Gespiegelten bleiben Glas – wer gerettet wurde, kehrt
   aus dem Lager zurück. Das Fest wird neu gefeiert – diesmal zu Ehren
   der Helden. (Es sei denn, das Wunder ändert alles, → unten.)
@@ -217,7 +217,7 @@ Phae in Kapitel 4b angegriffen hat.
 > letzten Mal, und diesmal könnt ihr euch **alles** wünschen, was in
 > dieser Stadt ist: Was soll geschehen?"
 
-Wünschen sie, **dass die Toten von Sommerhall zurückkommen** (in
+Wünschen sie, **dass die Toten von Thalendor zurückkommen** (in
 welchen Worten auch immer: „alle zurück", „mach es ungeschehen",
 „die Gespiegelten sollen leben"), geschieht das **vollkommene Ende**:
 
@@ -239,10 +239,10 @@ des Weltenspiegels, die Gespiegelten in den Straßen, die Opfer der
 Glasdiener, die Gäste im Festsaal, Mira, Baldric, die Kultisten
 **nicht** (sie haben sich selbst geopfert; Phae: „Die haben sich ihm
 gegeben. Die hat er nicht genommen."), und auch **die Helden, die im
-Endkampf gefallen sind**, denn sie sind in Sommerhall gestorben.
+Endkampf gefallen sind**, denn sie sind in Thalendor gestorben.
 Alle erwachen gesund, mit allem, was sie am Festabend trugen, und
 erinnern sich an eine lange, kalte Nacht, mehr nicht.
-→ Ende **„Sommerhall erwacht"** (→ `Story/Story-Gesamt.md`,
+→ Ende **„Thalendor erwacht"** (→ `Story/Story-Gesamt.md`,
 „Mögliche Enden"). Die Stadt feiert das Fest zu Ende, mit allen.
 
 Wünschen sie sich etwas anderes (einen gefallenen Gefährten, eine

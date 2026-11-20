@@ -112,7 +112,7 @@ etwas aus (die Spieler dürfen gern eigene Ideen bringen):
 Wer durch den Spiegel geht, fühlt Kälte wie Wasser, einen Moment ohne
 Boden, dann warme Luft und Lärm.
 
-**Zeit:** In Sommerhall vergehen nur Minuten, egal wie lange die Gruppe
+**Zeit:** In Thalendor vergehen nur Minuten, egal wie lange die Gruppe
 drüben bleibt. Die Spieler verpassen nichts vom Fest. Zurück geht es
 jederzeit durch denselben Spiegel, der in der Arena im Vorraum steht.
 

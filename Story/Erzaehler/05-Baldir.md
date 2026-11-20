@@ -9,7 +9,7 @@
 
 Baldir: Möwen, Salzgeruch, windschiefe Häuser am Kliff, der große
 Gezeitenturm mit dem Archiv. Die Stimmung ist angespannt – Flüchtlinge
-aus Richtung Sommerhall treffen ein, Gerüchte über die „Spiegelkuppel"
+aus Richtung Thalendor treffen ein, Gerüchte über die „Spiegelkuppel"
 machen die Runde.
 
 ## Das Gezeitenarchiv
@@ -19,7 +19,7 @@ aber sie weiß **nicht sofort**, womit die Helden es zu tun haben.
 
 ### Schritt 1: Nerida muss erst nachschauen
 
-Die Helden beschreiben, was sie in Sommerhall erlebt haben. Nerida
+Die Helden beschreiben, was sie in Thalendor erlebt haben. Nerida
 hört zu, stellt präzise Fragen („Zehnmal geglüht, sagt ihr? Nicht
 neunmal?") und verschwindet dann zwischen den Regalen.
 
@@ -79,7 +79,7 @@ alten Flutkanal an vier Komplizen in einem Ruderboot hinaus.
 Zeugen sahen **graue Kutten mit tiefen Kapuzen und Sicheln aus Silber**.
 
 > **Aha-Moment für die Spieler:** Das sind die Kultisten aus
-> Sommerhall (→ `Feinde/Kultisten/`)! Der Kult hat die einzigen
+> Thalendor (→ `Feinde/Kultisten/`)! Der Kult hat die einzigen
 > Waffen gegen den Spiegelherrn gestohlen, *bevor* Malrik das Ritual
 > wirkte. Lass die Spieler das selbst zusammensetzen.
 
@@ -106,7 +106,7 @@ Seitdem wagt sich niemand mehr in den Berg.
 > „Ich habe kein Recht, euch darum zu bitten. Zwanzig gute Leute
 > sind dort unten geblieben. Aber ich bitte euch trotzdem: Holt die
 > Vier zurück. Nur mit ihnen habt ihr die Kraft, gegen dieses Wesen
-> zu bestehen. Meine Schwester lebt in Sommerhall."
+> zu bestehen. Meine Schwester lebt in Thalendor."
 
 → Quest: `Quests/Quest-Die-Hammerfeste.md`
 Sie gibt den alten **Festungsplan** der Hammerfeste aus den
@@ -139,7 +139,7 @@ fragt, bekommt nichts – und schafft den Dungeon trotzdem, nur härter.
 ### Szenario A · ⭐ Optimal: Sie gehen direkt ins Archiv
 
 Nerida ist zunächst reserviert („Das Archiv ist kein Ort für
-Schwertträger"), taut auf, sobald sie von Sommerhall hören – ihre
+Schwertträger"), taut auf, sobald sie von Thalendor hören – ihre
 Schwester lebt dort. Recherche (Schritt 1–2), Schock (Schritt 3),
 Quest (Schritt 4). Sauber → Kapitel 6.
 
@@ -172,7 +172,7 @@ Detektiv-Gruppen lieben das. Im **Gewölbe der Vier** (aufgebrochen)
 finden sie: die vier Steinbetten (Serenyas leer), vier leere
 Halterungen, Kratzspuren am Flutkanal, und unter einem Regal eine
 **abgebrochene Silbersichel** – exakt wie die, mit denen sich die
-Kultisten in Sommerhall geopfert haben (Bestätigung des Aha-Moments).
+Kultisten in Thalendor geopfert haben (Bestätigung des Aha-Moments).
 In Edriks Kammer: Sein Tagebuch endet mit „Der Meister in den
 Kornfeldern wird zufrieden sein. Die Vier gehen in den Berg, wo kein
 Licht hinkommt." Daneben abgezeichnet: der Festungsplan der

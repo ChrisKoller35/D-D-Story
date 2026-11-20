@@ -14,8 +14,8 @@
 
 ## Durch die Spiegelkuppel (Schlüsselfunktion fürs Finale)
 
-Die Spiegelkuppel um Sommerhall
-(→ `Stadt/Sommerhall/Beschreibung.md`) behandelt den Träger wie
+Die Spiegelkuppel um Thalendor
+(→ `Stadt/Thalendor/Beschreibung.md`) behandelt den Träger wie
 Wasser eine Strömung: Er kann hindurchgehen – und dabei **bis zu
 6 Kreaturen an den Händen haltend mitziehen** (Kette bilden, dauert
 1 Minute, fühlt sich an wie Tauchen durch kaltes Glas).

@@ -1,4 +1,4 @@
-# Die Große Festhalle (Sommerhall)
+# Die Große Festhalle (Thalendor)
 
 Schauplatz des Fests ab dem Abend (Akt 1; tagsüber wird draußen in der Stadt gefeiert, ab 17–18 Uhr zieht alles hier herein), Ritual im Festsaal (Akt 2) und
 Finale (Akt 7).

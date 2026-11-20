@@ -6,17 +6,19 @@ in Hirsefurt (→ `Story/Erzaehler/00-Vorspiel-Hirsefurt.md`).*
 
 **Zum Herzeigen am Tisch** (ausdrucken oder auf dem Bildschirm zeigen):
 
-![Der Fest-Flyer](Festflyer-Sommerhall.png)
+![Der Fest-Flyer](Festflyer-Thalendor.png)
 
-Datei: `Story/Spieler/Festflyer-Sommerhall.png`
+Datei: `Story/Spieler/Festflyer-Thalendor.png`
+
+*Hinweis für den SL: Das Bild zeigt noch den alten Schriftzug „Zu Sommerhall“, bis der Flyer mit „Zu Thalendor“ neu erzeugt ist.*
 
 ## Was auf dem Flyer steht
 
 Holzschnitt-Druck mit Ähren in den Ecken, in der Mitte ein tanzendes
-Paar vor den Fachwerkhäusern von Sommerhall, daneben ein Bierfass.
+Paar vor den Fachwerkhäusern von Thalendor, daneben ein Bierfass.
 
 > ### FEST DER GOLDENEN ÄHRE
-> **Zu Sommerhall · Am 12. Tag des Ährenmonds**
+> **Zu Thalendor · Am 12. Tag des Ährenmonds**
 >
 > Die Festspiele beginnen zur 10. Morgenstunde auf dem Marktplatz
 >

@@ -20,5 +20,5 @@ dass jemand ihn angreift (dann ist er weg).*
 fast nichts." DC 18 zeigt: „Er hat das alles schon gesehen. Oft."
 Höher gibt es nicht.
 
-**Nachforschung / Geschichte:** Kein Wurf hilft. Niemand in Sommerhall
+**Nachforschung / Geschichte:** Kein Wurf hilft. Niemand in Thalendor
 weiß mehr über ihn als Flimm.

@@ -1,6 +1,6 @@
 # Hauptquest: Der Spiegeldämon
 
-**Ziel:** Vorgazhul, den Spiegelherrn, besiegen und Sommerhall befreien.
+**Ziel:** Vorgazhul, den Spiegelherrn, besiegen und Thalendor befreien.
 
 ## Quest-Etappen (mit Verweisen)
 
@@ -32,7 +32,7 @@
 
 - Die vier seltenen Gegenstände (behalten die Helden!)
   → `Belohnungen/Seltene/`
-- Dank von Sommerhall → `Belohnungen/Uebersicht.md`
+- Dank von Thalendor → `Belohnungen/Uebersicht.md`
 - Level-Up auf 8 (Meilenstein), optional 9 nach Epilog
 
 ## Zeitdruck (sichtbar machen!)

@@ -1,4 +1,4 @@
-# Sommerhall
+# Thalendor
 
 Die Stadt des Fests (Akt 1–2) und Schauplatz des Finales (Akt 7).
 
@@ -9,7 +9,7 @@ Kornfeldern, bekannt für das jährliche **Fest der Goldenen Ähre**
 und das beste Dunkelbier des Nordens. Fachwerk, Lindenalleen, ein
 Flüsschen mit drei Mühlen.
 
-**Dunkles Detail (weiß niemand mehr):** Sommerhall wurde auf einem
+**Dunkles Detail (weiß niemand mehr):** Thalendor wurde auf einem
 **Leylinien-Knoten** erbaut – deshalb gedeiht hier alles. Genau hier
 wurde vor 5.000 Jahren Vorgazhul gebannt. Der Knoten liegt unter der
 Großen Festhalle und reicht bis unter den halben Marktplatz. Deshalb
@@ -25,7 +25,7 @@ Menschen beisammen sind.
 - **Brauerin Thea Glutfaust**, Brauerei im Westen der Stadt; ihr
   Jahrgangs-Dunkelbier („das gute Zeug") gibt es nur abends in der
   Festhalle. Mutter von **Mira** (7, Holzpferd „Hafer"), dem Kind aus
-  Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)
+  Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Thalendor.md`)
 - **„Eisenhand" Grom**, Schmied, ungeschlagen im Armdrücken
   (→ `Story/Spieler/Festspiele.md`)
 - Die **Weise Frau Henna**, Wahrsagerzelt am Markt – weiß mehr, als sie sagt
@@ -35,17 +35,17 @@ Menschen beisammen sind.
   **Berro** (→ `Story/Erzaehler/01b-Festspiele.md`); daneben das graue
   Zelt von **Valerian Quecks** (Spezial-Event „Die Arena von Rubian 5",
   → `Spezial-Event/Sci-Fi-Arena/`)
-- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller
+- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Thalendorer
 
 ## Orte
 
-→ Bildkarte der Stadt von oben: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png`
+→ Bildkarte der Stadt von oben: `Story/Erzaehler/Karten/Karte-Thalendor-KI.png`
 (mit Bildbeschreibung in Kapitel 1, `Story/Erzaehler/01-Das-Fest.md`)
 → `Orte/Festhalle.md` – Zentrum von Fest, Ritual und Finale
 → `Orte/Marktplatz.md`
 → `Orte/Gasthaus-Zur-Sichel.md`
 
-## Sommerhall unter dem Spiegel (ab Akt 2)
+## Thalendor unter dem Spiegel (ab Akt 2)
 
 Sobald Vorgazhul angekommen ist (Weltenspiegel, → Kapitel 2), liegt
 die Stadt unter der **Spiegelkuppel**: flirrendes, verkehrtes Licht;

@@ -12,8 +12,8 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 - **Story/** – Die Geschichte
   - `Story-Gesamt.md` – Die komplette Story mit Verweisen, welcher Block in welchem Ordner liegt
   - **Erzaehler/** – Kapitel für den Spielleiter (dich), je mit 3–4 Szenarien
-    - **Karten/** – Bildkarten zu den Kapiteln (Hirsefurt, Sommerhall) zum Herzeigen am Tisch
-  - **Spieler/** – Handouts und Elemente, die die Spieler bekommen/spielen (Fest-Flyer auch als Bild `Festflyer-Sommerhall.png`)
+    - **Karten/** – Bildkarten zu den Kapiteln (Hirsefurt, Thalendor) zum Herzeigen am Tisch
+  - **Spieler/** – Handouts und Elemente, die die Spieler bekommen/spielen (Fest-Flyer auch als Bild `Festflyer-Thalendor.png`)
 - **NPC/** – alle Nichtspielercharaktere (außer den Arena-Figuren), pro NPC ein Ordner mit `Beschreibung.md` und Bild `Bild.png`; Hauptfiguren zusätzlich mit
   - **Stats/** und **Faehigkeiten/**
   - **Uebersicht.md** – alle NPCs auf einen Blick: Bild, dann ein paar Sätze
@@ -22,7 +22,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 - **Dungeon/** – Der Dungeon „Hammerfeste im Grauhorn"
   - **Feinde/** – Dungeon-Gegner, gleiche Struktur wie oben
 - **Stadt/** – Die beiden Städte
-  - **Sommerhall/** – Stadt des Fests (mit Unterordner **Orte/**)
+  - **Thalendor/** – Stadt des Fests (mit Unterordner **Orte/**)
   - **Baldir/** – Stadt am Meer (mit Unterordner **Orte/**)
 - **Quests/** – Haupt- und Nebenquests
 - **Belohnungen/** – Belohnungen; seltene Gegenstände je mit Unterordner **Effekte/**
@@ -35,7 +35,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
 ## Die Story in einem Satz
 
 Die Helden, auf der Durchreise nach Süden einen Monat nach der
-Schlacht am Rabenpass, feiern auf einem großen Fest in Sommerhall, als ein Ritualist einen unbesiegbaren Dämon beschwört –
+Schlacht am Rabenpass, feiern auf einem großen Fest in Thalendor, als ein Ritualist einen unbesiegbaren Dämon beschwört –
 erst durch einen prophetischen Traum, einen Hinweis eines magischen
 Wesens und Ausrüstung aus der Hammerfeste im Grauhorn bei Baldir
 können sie ihn besiegen.
