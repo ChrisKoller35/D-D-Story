@@ -11,18 +11,6 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 **Moststand in Hirsefurt.** Die alte Mostfrau am Dorfplatz von Hirsefurt: ein Fass, ein Brett, zwei Kupfer der Becher. Erzählt gern, dass „die ganze Jugend nach Thalendor gelaufen ist, wegen dem Fest“, und dass sich der Umweg schon für das Dunkelbier lohnt. Bleibt selbst zu Hause, weil ihre Kinder Jorin und Liese das Korn einbringen und abends das Essen auf dem Tisch stehen muss. Weiß, dass die Räuber „im Wald hinter den Mühlen“ sitzen.
 
-### Jorin
-
-![Jorin](Jorin/Bild.png)
-
-**Oma Wenkes Sohn.** Ende dreißig, breite Schultern, Strohhut, redet wenig: drei Sätze, mehr gibt es nicht. Bringt mit zwei Knechten die Gerste auf den Feldern westlich von Hirsefurt ein und geht nicht zum Fest, „sonst frisst das Wetter die halbe Ernte“. Hat vorgestern vier Gestalten am Waldrand gesehen, der einzige echte Hinweis auf das Räuberlager.
-
-### Liese
-
-![Liese](Liese/Bild.png)
-
-**Oma Wenkes Tochter.** Ein paar Jahre jünger als Jorin und mit dem Mundwerk der Mutter: redet für zwei, winkt, wenn man winkt, und bestätigt alles, was Wenke sagt. Arbeitet mit dem Bruder auf dem Feld. Schickt die Helden lachend zum Fest: „Einer von uns muss schließlich wissen, wie das Freibier war, und Jorin erzählt ja nichts.“
-
 ### Tamo
 
 ![Tamo](Tamo/Bild.png)
