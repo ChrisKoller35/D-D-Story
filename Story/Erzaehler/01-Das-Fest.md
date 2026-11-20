@@ -7,8 +7,8 @@
 Die Helden sind über das Vorspiel und den Weg nach Sommerhall
 hierhergekommen (→ `00-Vorspiel-Hirsefurt.md`,
 `00b-Der-Weg-nach-Sommerhall.md`): Tamo hat ihnen in Hirsefurt einen
-Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Gesa**
-vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Gesas
+Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Thea**
+vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Theas
 Tochter **Mira**), die Torwachen haben sie durchgewinkt und hinauf zu
 Baldric geschickt, und der hat sie vor der Festhalle zu **Ehrengästen**
 gemacht. Sie
@@ -24,14 +24,14 @@ dieser Morgen kehrt in Kapitel 3 zurück.
 Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch).
 
 **Was auf dem Bild zu sehen ist:**
-- **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Gesa und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
+- **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Thea und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
 - **Treppe und Lindenallee** vom Tor hinunter zum Markt: tagsüber spielen hier die Musikanten.
-- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: tagsüber Spielstände und Festspiele (→ `Stadt/Sommerhall/Orte/Marktplatz.md`).
-- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Rund um die Halle läuft das Fassrollen-Rennen (→ `Stadt/Sommerhall/Orte/Festhalle.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
+- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Baldrics Abschluss der Spiele (→ `Stadt/Sommerhall/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
 - **Gasthaus „Zur Sichel“**: das große Fachwerkhaus mit dem Turm mitten in der Stadt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
 - **Tempel** oben links mit dem hohen Turm.
-- **Brauerei** links mit Kesseln, Fässern und Bierwagen: Brauerin Gesa, ihr Dunkelbier gibt es abends in der Festhalle.
-- **Festplatz** unten mit Bühne, Maibaum, Tischen und Zelten: der zweite große Platz für die Festspiele.
+- **Brauerei** links mit Kesseln, Fässern und Bierwagen: Brauerin Thea, ihr Dunkelbier gibt es abends in der Festhalle. Im Hof das erste Spiel des Tages, **„Der Anstich"**.
+- **Festplatz** unten mit Bühne, Maibaum, Tischen und Zelten: der zweite große Platz der Festspiele. Neben der Bühne steht **„Hau den Lukas"**, auf der Bühne läuft um 14 Uhr die **offene Bühne** mit Abstimmung, und das gelbe Zelt daneben gehört dem **Wanderzirkus Flimm** mit **„Zillis Seil"**.
 - **Fluss und Steinbrücke** unten links; flussaufwärts im Westen liegen die **drei Mühlen** des Mühlenviertels, dahinter der **Wald**: 2–3 Stunden hinein liegt das Räuberlager (→ Szenario E).
 - Außerhalb der Mauer Felder, Gehöfte und der Wald.
 
@@ -53,17 +53,27 @@ Sommerhall feiert auf den
 Straßen. Auf dem **Marktplatz** stehen Buden und Spielstände
 (→ `Stadt/Sommerhall/Orte/Marktplatz.md`), in den Lindenalleen spielen
 Musikanten, an jeder Ecke gibt es Braten, Honigkuchen und Festbier.
-Hier laufen die **Festspiele** (→ `Story/Spieler/Festspiele.md`):
-Axtwerfen, Fassrollen-Rennen um die Festhalle, Rätselzelt, Armdrücken.
-**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) begrüßt die
-Helden persönlich und schickt sie zu den Spielen.
+Hier laufen die **Festspiele** (Spielerfassung →
+`Story/Spieler/Festspiele.md`, Ablauf und Ergebnistabellen für dich →
+`01b-Festspiele.md`): **sechs Festorte** quer durch die Stadt, jedes
+Spiel ein einziger Wurf pro Person: der Anstich in der Brauerei, Hau
+den Lukas und die offene Bühne auf dem Festplatz, Zillis Seil beim
+Zirkus, die Ferkeljagd zwischen den Marktständen am Brunnen und zum
+Schluss das Tauziehen gegen die Stadtwache vor der Festhalle. Dazu
+das Hütchenspiel beim Flinken Pit am Brunnen.
+**Hauptmann Baldric** (→ `NPC/Hauptmann-Baldric/`) eröffnet das Fest
+um 10 Uhr am Erntealtar und begrüßt die Helden persönlich. Es geht
+um nichts: keine Einsätze, keine Pflichten, ein Fest, auf dem man
+Spaß hat. (Kleine Preise, falls du welche willst →
+`Belohnungen/Festpreise.md`.)
 
 **Ab 17–18 Uhr: drinnen in der Großen Festhalle.** Wenn die Sonne
 tief steht, läuten die Glocken, und das ganze Fest zieht in die
 **Große Festhalle** um (→ `Stadt/Sommerhall/Orte/Festhalle.md`):
 Lichterketten, Langtafeln, der Erntealtar, Musikanten auf der Empore,
-Tanzfläche. Hier finden Siegerehrung und Festtanz statt, und hier
-passiert später das Ritual (→ Kapitel 2).
+Tanzfläche. Hier laufen die Abendspiele (Axtwerfen auf der Bühne,
+Armdrücken gegen Grom, der Festtanz → `01b-Festspiele.md`), dann die
+Rede des Hauptmanns, und hier passiert später das Ritual (→ Kapitel 2).
 
 **Wichtig für dich:** Lass das Fest bewusst **lange gut laufen**. Die
 Spieler sollen sich sicher fühlen. Je schöner der Tag, desto härter
@@ -75,7 +85,7 @@ echte Spielzeit nur Fest und Spiele.
 Am Abend in der Halle läuft **Mira**, 7, mit ihrem Holzpferd „Hafer"
 zwischen den Tischen herum, klaut Honigkuchen und sucht gezielt die
 Helden: Sie kennt sie vom Überfall auf die Kutsche (→ Kapitel 0.5).
-Ihre Mutter, die **Brauerin Gesa**, steht am Ausschank und schenkt das
+Ihre Mutter, die **Brauerin Thea**, steht am Ausschank und schenkt das
 Jahrgangsbier aus, deshalb hat Mira den ganzen Abend freie Bahn. Lass
 sie den Spielern ans Herz wachsen – sie ist das Kind, das in Kapitel 2
 geopfert wird.
@@ -101,10 +111,11 @@ Dort steht ein Kapuzen-Kultist und murmelt. Das ist die Entdeckung
 
 ### Szenario A · ⭐ Optimal: Die Gruppe feiert einfach mit
 
-Sie machen bei den Spielen mit, trinken, gewinnen Preise. Perfekt –
-spiele die Festspiele aus, verteile kleine Preise
-(→ `Belohnungen/Uebersicht.md`, Abschnitt „Festpreise"). Gehe nach
-45–60 Minuten zu Kapitel 2 über.
+Sie machen bei den Spielen mit, trinken, lachen. Perfekt –
+spiele die Festspiele aus (→ `01b-Festspiele.md`, mit Tagesplan und
+einer Ergebnistabelle pro Spiel). Mira, Tamo,
+Thea und Grom tauchen an den Festorten auf, Malrik steht an jedem
+einmal still am Rand. Gehe nach 45–60 Minuten zu Kapitel 2 über.
 
 **➖ Leichte Abweichungen**
 

@@ -22,14 +22,19 @@ Menschen beisammen sind.
   Ausrichter des Fests → `NPC/Hauptmann-Baldric/`
 - Wirtin **Alma** vom Gasthaus „Zur Sichel" (Herz aus Gold, Arme wie
   ein Schmied)
-- **Brauerin Gesa Holler**, Brauerei im Westen der Stadt; ihr
+- **Brauerin Thea Glutfaust**, Brauerei im Westen der Stadt; ihr
   Jahrgangs-Dunkelbier („das gute Zeug") gibt es nur abends in der
   Festhalle. Mutter von **Mira** (7, Holzpferd „Hafer"), dem Kind aus
   Kapitel 2 (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`)
 - **„Eisenhand" Grom**, Schmied, ungeschlagen im Armdrücken
   (→ `Story/Spieler/Festspiele.md`)
-- Die **Weise Frau Henna**, Rätselzelt – weiß mehr, als sie sagt
+- Die **Weise Frau Henna**, Wahrsagerzelt am Markt – weiß mehr, als sie sagt
   (optionaler Hinweisgeber, wenn die Gruppe strauchelt)
+- **Wanderzirkus Flimm**, nur zum Fest in der Stadt: Direktor
+  **Ottokar Flimm**, Seiltänzerin **Zilli**, der stumme Messerwerfer
+  **Berro** (→ `Story/Erzaehler/01b-Festspiele.md`); daneben das graue
+  Zelt von **Valerian Quecks** (Bonus-Event „Die Arena", → `Bonus/`)
+- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller
 
 ## Orte
 

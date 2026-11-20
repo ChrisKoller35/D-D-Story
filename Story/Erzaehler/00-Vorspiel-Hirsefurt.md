@@ -145,7 +145,7 @@ einmal):**
 **Übergang:** Brechen die Helden auf, frag beiläufig, wohin: direkt
 nach Sommerhall oder erst zu den Räubern. Beides führt in
 **Kapitel 0.5** (→ `00b-Der-Weg-nach-Sommerhall.md`): Auf der Straße
-wird die Kutsche der Brauerin Gesa überfallen, die Helden retten Bier,
+wird die Kutsche der Brauerin Thea überfallen, die Helden retten Bier,
 Leute und ein kleines Mädchen mit Holzpferd, liefern die Räuber bei
 Baldric ab und werden dafür zu **Ehrengästen**. Sie übernachten im
 Gasthaus „Zur Sichel" und wachen am **Morgen des Fests** dort auf

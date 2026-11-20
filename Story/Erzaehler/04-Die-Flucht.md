@@ -22,7 +22,7 @@ fragen):**
 |---|---|
 | Raus aus der Festhalle | 1–3 Runden, **durch das große Portal hinaus auf den Festplatz und den Markt**. Das Portal bleibt immer offen (den Hauptweg versiegelt Vorgazhul nie, → `Stadt/Sommerhall/Orte/Festhalle.md`). |
 | Durch die Stadt, bis man **mehr als 1 km** von der Festhalle weg ist | ca. **20 Minuten** zu Fuß, **1 Stunde** im Strom der Flüchtenden oder mit Alten und Kindern |
-| Zeit, die Vorgazhul lässt | **10 Stunden** minus 1 Stunde pro Aufladung (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
+| Zeit, die Vorgazhul lässt | Solange Gäste im Saal sind: **+1 Aufladung pro Runde** (6 Marker à 50 Gäste, → Kapitel 2b). Danach **10 Stunden minus die bisherigen Aufladungen** (Hunger +1 pro Stunde, jeder Treffer +1, → Kapitel 2, Regel 3 und 4) |
 
 Alles dazwischen ist **Zeit zum Retten** (→ Kapitel 2b, `Story/Erzaehler/02b-Evakuierung.md`).
 Die eigentliche Entscheidung der Spieler lautet also nicht „Schaffen
@@ -116,7 +116,7 @@ Jeder Schlag verkürzt die Flucht.
 ### Szenario E · 🔀 Ganz anders: Sie nehmen den Kellerausgang statt des Portals
 
 Unwahrscheinlich, aber möglich: Jemand kennt die Kellertreppe am
-Ausschank (Baldric, Alma oder Gesa zeigen sie), oder die Gruppe hat den
+Ausschank (Baldric, Alma oder Thea zeigen sie), oder die Gruppe hat den
 Kultisten dort vor 0:00 zum Schweigen gebracht, sodass Vorgazhul diesen
 Weg nicht versiegeln kann. Durch den Bierkeller und die Rampe kommen
 die Helden auf den Hof hinter der Halle, am Gedränge vorbei. Das ist

@@ -132,11 +132,11 @@ den ganzen Festtag plus die Stunden nach dem Ritual.
 
 ### Szenario A · ⭐ Optimal: Sie evakuieren die ganze Stadt und lassen das Ritual laufen
 
-Die Königslösung. Spiele die Stadt-Evakuierung aus Kapitel 2b – im
-zweiten Durchlauf mit dem ganzen Tag Zeit, aber mit Widerstand:
-Baldric will sein Fest nicht absagen (Überzeugen DC 15, mit einer
-erfüllten Vorhersage DC 10), Hauptmann Rudger hält das für
-Abenteurer-Hysterie, manche Alte wollen ihre Höfe nicht verlassen.
+Die Königslösung. Spiele die Evakuierung aus Kapitel 2b (Halle mit
+6 Markern, Stadt mit einem Befehl) – im zweiten Durchlauf mit dem
+ganzen Tag Zeit, aber mit Widerstand: Baldric will sein Fest nicht
+absagen (Überzeugen DC 15, mit einer erfüllten Vorhersage DC 10), und
+vor dem violetten Licht hält die Wache alles für Abenteurer-Hysterie.
 Jede erfüllte Vorhersage der Erinnernden (Mira mit dem Holzpferd, der
 Umzug in die Festhalle um 17 Uhr, die Gewinner der Festspiele)
 senkt den SG für den Rest des Tages um 2. Gelingt es: Das Ritual

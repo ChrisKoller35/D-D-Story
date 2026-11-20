@@ -1,48 +1,83 @@
 # Die Festspiele der Goldenen Ähre
 
 **Spieler-Material** – diese Spiele könnt ihr auf dem Fest spielen.
-Jede Teilnahme kostet 1 Silber Einsatz. Preise → Siegerehrung!
-Die Spiele 1–4 laufen tagsüber draußen auf dem Marktplatz, los geht
-es zur 10. Morgenstunde; ab 17 Uhr zieht das Fest in die Große
-Festhalle um.
+Jedes Spiel: **ein einziger Wurf** pro Person, der Wurf sagt, wie gut
+es klappt. Es geht um nichts, außer um den Spaß und darum, wer heute
+Abend die beste Geschichte erzählt.
 
-## 1. Axtwerfen „Der Spalter"
-
-Drei Würfe auf Strohziele. Je Wurf: **Angriffswurf** (Wurfwaffen-
-Geschick zählt). AC 10 = Treffer (1 Punkt), AC 15 = Ring (2 Punkte),
-AC 20 = Zentrum (3 Punkte). 7+ Punkte: Tagessieger.
-
-## 2. Fassrollen-Rennen
-
-Ein Bierfass im Slalom um die Festhalle rollen: **3× Athletik DC 12**,
-bei Patzer (1) kullert das Fass in die Menge (Gelächter, -1 Versuch).
-Bestzeit = wenigste Fehlschläge.
-
-## 3. Das Rätselzelt der Weisen Frau
-
-Drei Rätsel der alten Henna. Pro Rätsel: erst echtes Rätselraten am
-Tisch (der Spieler darf raten!), als Rückfall **Intelligenz DC 13**.
-
-> „Ich habe Städte, aber keine Häuser. Wälder, aber keine Bäume.
-> Flüsse, aber kein Wasser. Was bin ich?" *(eine Landkarte)*
-
-> „Je mehr du von mir nimmst, desto größer werde ich." *(ein Loch)*
-
-> „Ich spreche ohne Mund und höre ohne Ohren. Was bin ich?"
-> *(ein Echo – Henna zwinkert dabei seltsam lange...)*
-
-## 4. Armdrücken gegen „Eisenhand" Grom
-
-Der Schmied von Sommerhall, ungeschlagen seit 12 Jahren.
-**Bestes-aus-drei Stärke-Wettstreit**; Grom hat +6. Wer gewinnt,
-bekommt seinen Ehrenkrug – und Groms ewige, laute Freundschaft.
-
-## 5. Der Große Festtanz (Abends)
-
-Kein Wettbewerb, aber: Wer mittanzt (Auftreten oder Akrobatik DC 10),
-hört zwischen den Liedern die besten Gerüchte des Abends...
+Zur **10. Morgenstunde** eröffnet Hauptmann Baldric Immergrün das Fest
+am Erntealtar auf dem Marktplatz. Reihenfolge egal; ab 17 Uhr zieht
+das Fest in die Große Festhalle um.
 
 ---
 
-*Siegerehrung am Abend in der Großen Festhalle. Der
-Hauptmann Baldric bittet alle Gewinner auf die Bühne.*
+## Tagsüber: sechs Festorte in der Stadt
+
+### 1. Brauerei (im Westen) · „Der Anstich" · Brauerin Thea Glutfaust und Fuhrknecht Ole
+
+Brauerin Thea Glutfaust stellt ein frisches Fass hin, der Hahn liegt
+daneben, der Holzhammer auch. Ein Schlag, und das Bier soll laufen.
+**Ein Wurf Geschicklichkeit.** Wer sauber ansticht, bekommt Freibier.
+
+### 2. Festplatz (unten) · „Hau den Lukas" · Schmied „Eisenhand" Grom
+
+Holzhammer, Klotz, Schiene, oben die Glocke. **Ein Wurf Stärke.**
+Wer bringt die Glocke zum Scheppern?
+
+### 3. Bühne auf dem Festplatz · „Die offene Bühne" · Spielmann Jost und die Musikanten
+
+Jeder darf hinauf: ein Lied, ein Witz, ein Kunststück, eine
+Geschichte, was ihr wollt. **Ein Wurf mit der Fertigkeit, die zu eurer
+Nummer passt** (Auftreten, Täuschung, Akrobatik, Geschichte …). Danach
+**stimmt das Publikum ab**: Wer die meisten Stimmen hat, ist der Star
+des Nachmittags.
+
+### 4. Zirkus (gelbes Zelt neben der Bühne) · „Zillis Seil" · Direktor Ottokar Flimm, Seiltänzerin Zilli, Messerwerfer Berro
+
+Wanderzirkus Flimm. Ein Seil zwischen zwei Masten, über den Köpfen
+der Menge, ein Netz darunter. Die Seiltänzerin Zilli zeigt, wie es
+geht, dann seid ihr dran. **Ein Wurf Akrobatik.**
+Neben dem großen Zelt steht noch ein kleines graues ohne Schild, mit
+einem hageren Mann im Zylinder davor, der nichts anpreist.
+
+### 5. Brunnen und Marktstände (Mitte) · „Die Ferkeljagd" · Hauptmann Baldric und ein Wachmann
+
+Hauptmann Baldric lässt ein eingefettetes Ferkel zwischen den Ständen
+los. Wer es fängt, behält es. **Ein Wurf Athletik oder Akrobatik**
+(ihr wählt).
+
+*Zugabe am Brunnen:* Der **Flinke Pit** spielt mit drei Bechern und einer
+Nuss. **Ein Wurf Wahrnehmung.**
+Und wer eine Münze in den Brunnen der Drei Mühlen wirft und dabei
+einen Wunsch flüstert, dessen Wunsch hört „die Stille", sagt man.
+
+### 6. Vor der Festhalle (oben rechts) · „Tauziehen gegen die Stadtwache" · Hauptmann Baldric und fünf Wachen
+
+Baldrics eigenes Spiel, immer kurz vor dem Umzug in die Halle: fünf
+Wachen in Festwesten auf der einen Seite, ihr auf der anderen.
+**Jeder von euch ein Wurf Athletik.** Zieht die Wache über die Linie!
+
+---
+
+## Abends in der Großen Festhalle
+
+### 7. Axtwerfen „Der Spalter" (auf der Bühne) · Hauptmann Baldric ruft auf
+
+Ein Strohziel auf der Bühne, ein Wurf, die ganze Halle schaut zu.
+**Ein Angriffswurf** mit der Wurfaxt.
+
+### 8. Armdrücken gegen „Eisenhand" Grom · am Ausschank bei Thea
+
+Der Schmied von Sommerhall, ungeschlagen seit 12 Jahren, sitzt an der
+Langtafel am Ausschank. **Ein Wurf Stärke** gegen seinen.
+
+### 9. Der Große Festtanz · Spielmann Jost und die Musikanten
+
+Kein Wettbewerb, aber: Wer mittanzt (**ein Wurf Auftreten oder
+Akrobatik**), hört zwischen den Liedern die besten Gerüchte des
+Abends...
+
+---
+
+*Am Abend in der Großen Festhalle bittet Hauptmann Baldric seine
+Ehrengäste auf die Bühne.*

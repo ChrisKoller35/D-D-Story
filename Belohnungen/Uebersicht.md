@@ -30,15 +30,11 @@ Geheimtüren), Steinhaut-Tränke (Steinschlag, Wyrm), Hakenseil
 fragen → `Spezialausruestung/Uebersicht.md` (je eigener Ordner mit
 `Effekte/`).
 
-## Festpreise (Akt 1, Festspiele)
+## Festpreise (Akt 1, optional)
 
-- **Axtwerfen:** die „Silberne Ähre" (Anstecknadel, 10 Gold wert,
-  in Sommerhall ein Türöffner)
-- **Fassrollen:** ein Fass Dunkelbier (ja, ein ganzes)
-- **Rätselzelt:** Hennas „Glücksknoten" (1× Vorteil auf einen
-  beliebigen Wurf, dann zerfällt er)
-- **Armdrücken:** Groms Ehrenkrug + seine laute, ewige Freundschaft
-  (in Sommerhall: kostenlose Reparaturen)
+Die Festspiele laufen ohne Einsätze und ohne Pflicht-Preise; wer
+trotzdem kleine Preise vergeben will, findet pro Spiel einen Vorschlag
+in `Festpreise.md`.
 
 ## Quest-Belohnungen
 

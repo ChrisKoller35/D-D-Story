@@ -56,11 +56,14 @@ des Opfers spricht die Beleidigung rückwärts, dann trifft der Schmerz.
 *(Das ist kein Angriff von ihm – es ist der Schild, der die Worte
 zurückwirft.)*
 
-**Regel 3 – Hunger des Spiegels:** Vergeht **eine volle Stunde ohne
-neue Aufladung**, erhält der Schild trotzdem **+1 Aufladung** – er
-zieht die Angst aller Lebenden im Umkreis ein. Dreh den Marker
-sichtbar „von selbst" um. Ohne jede Hilfe ist er also spätestens nach
-10 Stunden voll. *(Das ist die Evakuierungs-Uhr für Kapitel 2/3.)*
+**Regel 3 – Hunger des Spiegels:** Er zieht die Angst der Zeugen ein.
+Solange noch **Menschen im Festsaal** sind, erhält der Schild **+1
+Aufladung pro Runde** von selbst, zusätzlich zu den Treffern; dreh den
+Marker sichtbar „von selbst" um. Ist der **Saal leer**, wird er ruhig
+und hungert nur noch langsam: **+1 pro Stunde**. Die Halle muss also
+in unter 10 Runden leer sein, danach hat die Stadt bis zu 10 Stunden
+minus die bisherigen Aufladungen. *(Das ist die Evakuierungs-Uhr für
+Kapitel 2/3.)*
 
 **Regel 4 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
 → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`. Alles im
@@ -83,9 +86,9 @@ wieder zurück. Ab jetzt gilt Teil 2.
 | 9 | **Einsturz:** Ein Teil der Decke/Tribüne stürzt: 3-m-Bereich, 4W6 Wucht, GES DC 14 halbiert |
 | 10 | **Seelenriss:** Der Angreifer verliert 10 maximale TP bis zur nächsten langen Rast und sieht 1 Runde sein eigenes totes Spiegelbild (keine Aktion vor Schreck) |
 
-**Panik-Regel:** Jedes Ereignis, das NPCs sehen, lässt die Menge in
-Panik geraten: Bei einer laufenden Evakuierung geht in dieser Runde
-**1 Gruppe weniger** hinaus (→ `Story/Erzaehler/02b-Evakuierung.md`). Je mehr angegriffen wird, desto schlimmer wird alles.
+**Und die Menge** sieht jedes Ereignis: Je mehr angegriffen wird,
+desto lauter wird der Saal, und jede Runde Kampf ist eine Runde, in
+der niemand evakuiert (→ `Story/Erzaehler/02b-Evakuierung.md`).
 
 ### Was er in Akt 2 stattdessen tut (keine Angriffe!)
 

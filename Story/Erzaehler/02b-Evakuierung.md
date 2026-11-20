@@ -1,102 +1,103 @@
 # Kapitel 2b: Evakuierung (Zusatzkapitel)
 
-**Nur für den Erzähler.** Dieses Zusatzkapitel gehört zu Kapitel 2
-(→ `Story/Erzaehler/02-Ritual-und-Daemon.md`) und gilt immer dann,
-wenn die Helden Leute retten wollen: im 1. Durchlauf nach dem Ritual,
-im 2. Durchlauf (→ Kapitel 3) schon den ganzen Festtag über.
-
-Zwei Unterkapitel:
-1. **Die Festhalle** – 600 Gäste, Ausgänge, die zu Glas werden.
-2. **Die Stadt** – 3.000 Einwohner, 6 Viertel. *(Noch in Arbeit, siehe
-   dort.)*
+**Nur für den Erzähler.** Gehört zu Kapitel 2
+(→ `Story/Erzaehler/02-Ritual-und-Daemon.md`) und gilt immer, wenn die
+Helden Leute retten wollen: im 1. Durchlauf nach dem Ritual, im
+2. Durchlauf (→ Kapitel 3) von Anfang an. Die Regel ist absichtlich
+so einfach, dass die Gruppe sie **spontan** umsetzen kann.
 
 ---
 
-## Unterkapitel 1: Die Festhalle (600 Gäste = 12 Gruppen à 50)
+## Die Festhalle: 300 Gäste = 6 Marker
 
-Karte und Ausgänge → `Stadt/Sommerhall/Orte/Festhalle.md`.
+Leg **6 Marker** (je 50 Menschen) offen auf den Tisch, neben die
+10 Aufladungs-Münzen von Vorgazhul. Alle Gäste gehen durch das
+**große Portal** hinaus auf den Festplatz. Nebenausgänge spielen
+keine Rolle.
 
-**Der Standardweg nach draußen:** aus dem Festsaal durch das **große
-Doppelportal** (Haupteingang im Süden) hinaus auf den Festplatz und den
-Markt. So fliehen die Gäste, so fliehen normalerweise auch die Helden.
-Die Nebenausgänge (Dienstbotentür, Westfenster, Kellertreppe) sind
-Abkürzungen für Einzelne, nicht für 600 Menschen.
+**Jede Runde, jeder Held: eine Sache.**
 
-### Während der Opfer-Sequenz (bevor das Tor offen ist)
+- **Leute rausführen:** ein Wurf **Überzeugen, Einschüchtern,
+  Auftreten oder Athletik** (was zur Idee passt: brüllen, schieben,
+  vorsingen, Tische umwerfen) **gegen DC 12**.
+  Erfolg = **1 Marker raus**. Natürliche 20 = **2 Marker**.
+  Natürliche 1 = Gedränge, dieser Held schafft in dieser Runde
+  nichts.
+- **Oder etwas anderes:** kämpfen, Mira holen, Baldric vom Angriff
+  abhalten, einen Kultisten knebeln …
 
-- **Niemand flieht von selbst.** Alle Gäste erstarren vor Entsetzen
-  (→ Kapitel 2, Schritt 4), auch die in einer dunklen Ecke.
-- **Gäste raustreiben geht, und es ist sehr wichtig:** Pro Moment der
-  Sequenz kann jeder Held Gäste anschreien, schubsen, mitziehen
-  (Überzeugen, Einschüchtern oder Auftreten DC 12): Erfolg =
-  **2 Gruppen** raus, Misserfolg = 1 Gruppe. Noch ist kein Ausgang
-  versiegelt.
+**Verbündete geben einen Bonus.** Wer **Baldric, Thea oder Alma** (oder
+einen anderen Einheimischen mit Stimme) an seine Seite ruft, würfelt
+mit **Vorteil**. Ein Verbündeter hilft pro Runde einem Helden.
 
-### Sobald Vorgazhul da ist
+**Der Toten-Wurf (Ende jeder Runde):** Solange noch Marker im Saal
+liegen, würfeln **alle Helden gleichzeitig je einen W20** und zählen
+die Augen zusammen. **So viele Menschen sterben in dieser Runde.**
 
-- Die Starre löst sich, die echte Panik beginnt.
-- Pro Runde versiegelt Vorgazhul **einen Nebenausgang** (Reihenfolge:
-  Dienstbotentür → Westfenster → Kellertreppe). **Ausgänge in einer
-  dunklen Ecke** (Kultist vor 0:00 zum Schweigen gebracht) **kann er
-  nicht versiegeln** – sie bleiben offen, er überspringt sie. **Das
-  große Portal versiegelt er nie** – den Hauptweg lässt er immer
-  offen („Lauft ruhig. Durch die große Tür, damit euch alle sehen.
-  Erzählt von mir."). Wer fliehen will, kommt also immer raus; die
-  Frage ist nur, wie schnell die Menge durch diese eine Tür passt.
-- **Portal mit Held, der die Menge lenkt** (Aktion; Überzeugen,
-  Einschüchtern oder Auftreten DC 12): Erfolg = **2 Gruppen** raus,
-  Misserfolg = 1 Gruppe. Baldric, Alma oder die Brauerin Gesa zählen
-  wie ein Held (mit +4), wenn man sie darum bittet.
-- **Portal ohne Held:** Panik, Gedränge – nur **1 Gruppe alle
-  2 Runden**.
-- **Nebenausgänge** (solange offen): Dienstbotentür und Westfenster
-  höchstens **1 Gruppe pro Runde**, auch mit Held. Die **Kellertreppe**
-  (Bierkeller, Rampe zum Hof) kennen nur Einheimische (Baldric, Alma,
-  Gesa); sie ist schmal: ebenfalls höchstens 1 Gruppe pro Runde. Der
-  Keller ist der Weg für ein paar Leute, nie für die Menge.
+- Einer der Marker im Saal ist der **angebrochene Marker**. Schreib
+  daneben, wie viele Leute er noch hat (am Anfang 50).
+- Zieh die Toten davon ab. Bleibt etwas übrig (zum Beispiel 50 minus
+  38 = 12), bleibt der Marker stehen, nur die Zahl wird kleiner.
+- Fällt die Zahl auf 0 oder darunter, nimm den Marker weg. Was über
+  0 hinausgeht, zieht sofort vom nächsten Marker ab (12 Leute übrig,
+  47 gewürfelt: Marker weg, der nächste startet mit 15 statt 50).
+- Wird ein angebrochener Marker **gerettet** (Wurf DC 12), bringt der
+  Held nur die Leute hinaus, die noch draufstehen.
 
-### Die Panik-Regel
+Sag jede Runde in einem Satz, wie es passiert (ein Glaskeil fährt
+durch die Tanzfläche, die Empore bricht, eine Reihe Gäste wird zu
+Glas). Bei vier Helden sterben so im Schnitt gut 40 Menschen pro
+Runde, also etwa alle ein bis zwei Runden ein Marker. Der Toten-Wurf
+endet, sobald der Saal leer ist.
 
-Jedes Ultra-Schlimm-Ereignis (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`,
-W10-Tabelle), das die Gäste sehen, kostet in dieser Runde **1 Gruppe**
-(sie bleiben schreiend stehen). Je mehr die Helden angreifen, desto
-schlimmer wird es.
+**Die Uhr:** Solange Menschen im Saal sind, dreht Vorgazhul jede Runde
+eine Aufladungs-Münze um (Hunger), jeder Treffer eine weitere. Bei 10
+ist alles im Umkreis von 1 km tot. Vier Helden, die nur evakuieren,
+haben den Saal in 2 Runden leer und retten dabei um die 220
+Menschen; wer kämpft, verbrennt Runden, Münzen und Menschen.
+Das ist die ganze Lektion.
 
-### Das Dilemma: versiegelte Ausgänge zerschlagen
+**Gratis-Marker:** Ein Kultist, der vor 0:00 **geknebelt oder
+bewusstlos** war, lässt seine Ecke des Siegels dunkel: Die Gäste dort
+erstarren nicht und laufen von selbst hinaus, **1 Marker** ohne Wurf.
 
-Ein versiegelter Ausgang lässt sich zerschlagen (RK 10) – aber das
-Glas ist ein Teil von ihm: Es **zählt als Treffer** (+1 Aufladung,
-W10-Tabelle). Ein echtes Dilemma: Eine Tür für 100 Menschen gegen eine
-Aufladung.
+**Was übrig bleibt:** Jeder Marker, der beim Weltenspiegel noch im
+Saal liegt, sind 50 Tote (der angebrochene so viele, wie noch
+draufstehen), dazu alle Toten aus den Toten-Würfen.
 
 ---
 
-## Unterkapitel 2: Die Stadt (ca. 3.000 Einwohner, 6 Viertel)
+## Die Stadt: ein Befehl
 
-> **Noch in Arbeit:** Christoph will diesen Teil noch einmal
-> durchdenken, die ganze Stadt zu retten ist etwas komplex. Bis dahin
-> gilt der bisherige Entwurf unten.
+Die Stadt wird **nicht ausgespielt**. Sobald die Helden draußen sind,
+geben sie **einen Befehl**: „Alle raus aus der Stadt, sofort!" an
+Baldric oder die nächste Wache.
 
-Wer weiter als 1 km weg ist, überlebt den Weltenspiegel. **Verstecken
-in Kellern rettet niemanden.**
-Viertel: Marktviertel, Mühlenviertel, Lindenallee, Gerbergasse,
-Unterstadt, Höfe am Stadtrand.
+- **Lebt Baldric:** Er braucht keinen Wurf. Er hat das violette Licht
+  über der Halle gesehen, pfeift, und die Stadtwache läutet die
+  Glocken.
+- **Ist Baldric tot:** Ein Wurf **Überzeugen oder Einschüchtern DC 10**
+  bei der nächsten Wache (das violette Licht über der Festhalle reicht
+  als Beweis). Wer Baldrics Wachabzeichen trägt
+  (→ `Belohnungen/Festpreise.md`), braucht keinen Wurf.
 
-- Pro Stunde kann jeder Held **ein Viertel** zum Aufbruch bringen
-  (Überzeugen oder Einschüchtern DC 13; DC 10, wenn man auf das
-  violette Licht über der Festhalle zeigen kann). Misserfolg: Das
-  halbe Viertel geht.
-- Glocke läuten, Stadtwache überzeugen (Hauptmann **Rudger**, skeptisch,
-  aber ehrlich): Danach gehen alle Viertel ohne Held in 2 Stunden
-  von selbst.
-- Ohne jede Hilfe flieht pro Stunde etwa ein halbes Viertel von selbst
-  (Gerüchte, Schreie).
+Danach räumt Sommerhall sich selbst in der Zeit, die noch bleibt:
+**10 Stunden minus die verbrauchten Aufladungen** (ab jetzt Hunger +1
+pro Stunde). Du erzählst nur noch: Glocken, Wagen auf der Lindenallee,
+Thea mit dem Bierwagen voller Kinder, die letzten Alten, die Baldric
+aus den Häusern holt. Die Helden müssen selbst mehr als 1 km weit
+weg sein, bevor die zehnte Münze fällt (→ Kapitel 4).
+
+Scheitert der Befehl (niemand hört zu, alle Wachen tot), flieht die
+Stadt trotzdem, nur langsam: Die Hälfte kommt raus, die andere Hälfte
+nicht.
 
 ---
 
 ## Die Toten zählen
 
-**Notiere, wie viele Menschen sterben.** Das zählt später: Im Finale
-erweckt Vorgazhul pro 100 Tote einen Glasdiener
+**Notiere, wie viele Menschen sterben** (Marker in der Halle × 50,
+dazu die Stadt). Das zählt später: Im Finale erweckt Vorgazhul pro
+100 Tote einen Glasdiener
 (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`, Teil 2), und
 wer gerettet wurde, wartet in Akt 7 im Lager vor der Kuppel.

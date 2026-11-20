@@ -5,7 +5,7 @@ Finale (Akt 7).
 
 ## Obergeschoss / Hauptsaal
 
-Riesiger Fachwerksaal für 600 Gäste, ca. 60 × 30 m: vorne (Norden) die
+Riesiger Fachwerksaal für 300 Gäste (zum Fest voll), ca. 60 × 30 m: vorne (Norden) die
 Bühne, in der Mitte die Tanzfläche, an West- und Ostseite Langtafeln,
 im Osten der Ausschank mit der Kellertreppe, hinten (Süden) das große
 Portal mit Garderobe, in der Nordostecke die Musikanten-Empore, dazu
@@ -21,7 +21,7 @@ fallen – W10-Tabelle Ereignis 9 lässt grüßen). Festschmuck aus
 2. Dienstbotentür hinter der Bühne → Gasse – wird zuerst versiegelt
 3. Fensterreihe Westseite (1,5 m Höhe, Akrobatik DC 10)
 4. Kellertreppe am Ausschank → Bierkeller → Rampe zum Hof (den kennen
-   nur Einheimische – Baldric, Alma oder die Brauerin Gesa, die ihre
+   nur Einheimische – Baldric, Alma oder die Brauerin Thea, die ihre
    Fässer über diese Rampe anliefert, können ihn zeigen) – schmal,
    nur für Einzelne, wird zuletzt versiegelt
 
