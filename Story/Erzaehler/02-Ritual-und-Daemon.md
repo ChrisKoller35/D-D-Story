@@ -322,7 +322,10 @@ Stunden.
 
 Ganz einfach gehalten, damit die Gruppe es spontan spielen kann:
 **300 Gäste = 6 Marker**, jeder Held pro Runde ein Wurf DC 12 = ein
-Marker raus durchs Portal, Verbündete geben Vorteil; draußen reicht
+Marker raus durchs Portal, Verbündete geben Vorteil. Am Ende jeder
+Runde würfeln alle Helden einen W20 und zählen zusammen (Toten-Wurf):
+so viele Menschen sterben, abgezogen vom angebrochenen Marker, bei 0
+ist er weg. Draußen reicht
 **ein Befehl**, um die Stadt zu räumen. Die ganze Regel auf einer
 Seite: **`Story/Erzaehler/02b-Evakuierung.md`**.
 
