@@ -287,17 +287,32 @@ angreift**.
 **Die eisernen Regeln (für dich als Erzähler):**
 
 1. **Jeder Treffer auf Vorgazhul** (von Helden, NPCs, Kultisten) →
-   Schaden wird auf den Angreifer reflektiert, der Spiegelschild erhält
-   **+1 Aufladung**, und du würfelst auf der **W10-Tabelle
-   „Ultra-Schlimm"**. Feindliche Zauber ohne Schaden (Verbannung,
-   Festhalten …) werden genauso gespiegelt.
-2. **Jede Beleidigung** → sofort **10W10 psychischer Schaden** auf den
-   Beleidiger (WEI-Rettungswurf DC 18 halbiert). Keine Aufladung.
+   Schaden wird auf den Angreifer reflektiert, und zwar **mal W4**
+   (ein Wurf: 30 Schaden kommen als 30 bis 120 zurück), der
+   Spiegelschild erhält **+1 Aufladung**, und du würfelst auf der
+   **W10-Tabelle „Ultra-Schlimm"**. Feindliche Zauber ohne Schaden
+   (Verbannung, Festhalten …) werden genauso gespiegelt.
+2. **Zauber auf andere:** Auf sich selbst geht alles normal.
+   **Heilung auf einen Freund** kommt nur zur **Hälfte** an, und der
+   Heiler nimmt den **gewürfelten Heilwert mal W4** als psychischen
+   Schaden. **Stärkung auf einen Freund** (Segnen, Hast …) bekommt
+   Vorgazhul auch, solange sie läuft. Beleidigungen lächelt er weg
+   (der alte Beleidigungs-Schaden ist gestrichen).
 3. **Hunger:** Solange noch **Menschen im Festsaal** sind, bekommt er
    **+1 Aufladung pro Runde** von selbst: Er zehrt von den Zeugen. Ist
    der Saal leer, wird er ruhig und hungert nur noch langsam:
    **+1 pro Stunde**.
-4. **Bei 10 Aufladungen** → **„Weltenspiegel"**: Alles im Umkreis von
+4. **Spiegelbrut:** Bei der **4. Aufladung** zieht er den
+   **Knochensichler** aus seiner Aura, bei der **8.** den
+   **Glutherold** (→ `Feinde/Knochensichler/`, `Feinde/Glutherold/`).
+   Treffer auf die beiden werden **nicht** gespiegelt und geben keine
+   Aufladung. Der Knochensichler geht immer auf den am schlimmsten
+   verwundeten Helden los und bleibt im Saal (draußen ist man vor
+   ihm sicher), der Glutherold jagt den Helden, der Vorgazhul zuletzt
+   getroffen hat.
+   Beide zerfallen, sobald Vorgazhul die Halle verlässt oder der
+   Weltenspiegel kommt.
+5. **Bei 10 Aufladungen** → **„Weltenspiegel"**: Alles im Umkreis von
    **1 km stirbt**, Vorgazhul ist **angekommen**. (Beim ersten
    Durchlauf mit Helden im Umkreis führt das zu Kapitel 3 – dem
    Erwachen.)
@@ -363,8 +378,9 @@ gedacht. Alles andere steht in den Szenarien unten.
 Die erwartete Reaktion auf Szenario A: Sie greifen an, lernen die
 Regeln auf die harte Tour und wachen in Kapitel 3 wieder auf.
 
-Lass es eskalieren: 1. Treffer → Reflexion + Ultra-Schlimm-Ereignis.
-Spätestens nach 3–4 Treffern begreifen sie das Muster. Beschreibe die
+Lass es eskalieren: 1. Treffer → Reflexion (mal W4) + Ultra-Schlimm-
+Ereignis. Bei der 4. Aufladung springt der Knochensichler aus der Aura,
+bei der 8. der Glutherold. Spätestens dann begreifen sie das Muster. Beschreibe die
 Aufladungen deutlich, und **betone, dass er nie zurückschlägt** („Er
 hebt nicht einmal die Hand. Er lächelt nur."). Wenn sie nicht
 aufhören → 10 Aufladungen → Weltenspiegel → **alle tot** → Kapitel 3
@@ -373,8 +389,9 @@ aufhören → 10 Aufladungen → Weltenspiegel → **alle tot** → Kapitel 3
 ### Szenario C · ➖ Leichte Abweichung: Sie verhandeln oder beleidigen ihn
 
 Vorgazhul **redet gern** – arrogant, höflich, grausam. Er beantwortet
-sogar Fragen (wahrheitsgemäß, aber verdreht). Eine Beleidigung →
-Regel 2, sofort. Verhandlung bringt keine Rettung, aber Infos: Er
+sogar Fragen (wahrheitsgemäß, aber verdreht). Eine Beleidigung
+lächelt er weg („Ich habe schon Schlimmeres über mich gehört. Von
+euch."). Verhandlung bringt keine Rettung, aber Infos: Er
 nennt sich „der Spiegel eurer Taten" und sagt Sätze wie „Ihr könnt
 mich nicht schlagen. Ihr könnt mir nur ausweichen." (Hinweis auf
 Flucht!) oder „Ich tue euch nichts. Ich muss euch nichts tun."
@@ -501,7 +518,10 @@ Dämon. Jetzt müssen sie noch begreifen, dass auch sie fliehen müssen:
 | Einem Kultisten die Sichel wegnehmen | Er stirbt bei 0:00 trotzdem: Er beißt sich die Zunge durch, oder sein Herz bleibt einfach stehen. Die Sichel ist nur Show. |
 | Die Formel stören, laut dagegen singen (Auftreten) | Lustig, aber zu schwach. Die Kultisten hören nur sich selbst. Kostet 30 Sekunden. |
 | *Verbannung* / *Magie bannen* auf ihn | Gespiegelt: Der Wirker wird 1 Minute in eine Spiegelwelt verbannt, +1 Aufladung, W10 |
-| Ihn heilen, segnen, *Schutz vor Gut und Böse* auf Verbündete | Nichts Feindliches → nichts passiert. Er bedankt sich höflich. |
+| Einen Freund heilen | Der Freund bekommt die Hälfte, der Heiler nimmt Heilwert mal W4 als psychischen Schaden. Sich selbst heilen geht normal. |
+| Einen Freund segnen, hasten, stärken | Wirkt – und Vorgazhul hat denselben Effekt, solange der Zauber läuft. Sein Spiegelbild leuchtet mit. |
+| Ihn selbst heilen oder segnen | Nichts Feindliches → nichts passiert. Er bedankt sich höflich. |
+| Den Knochensichler oder Glutherold angreifen | Geht ganz normal: kein Spiegel, keine Aufladung. Aber jede Runde Kampf dreht einen Marker um. |
 | Ihn einmauern, Türen verbarrikadieren | Kein Angriff → keine Aufladung, aber nutzlos: Er gleitet durch jede Glasfläche. |
 | Ihm einen Spiegel vorhalten | Er betrachtet sich entzückt und hält einen Monolog – 1 Runde versiegelt er keinen Ausgang. Kleiner Bonus für Kreativität. |
 | Die Festhalle anzünden | Feuer auf ihn = Treffer (+1 Aufladung). Und 300 Gäste in einer brennenden Halle. Sehr schlechte Idee. |

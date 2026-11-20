@@ -31,8 +31,11 @@ mit, erst im 2. Durchlauf liegen 10 Marker offen auf dem Tisch.
 Quelle):
 
 1. Vorgazhul nimmt **keinen Schaden**.
-2. Der volle Schaden trifft stattdessen den **Verursacher**
-   (gleicher Typ, kein Rettungswurf – es ist der eigene Treffer).
+2. Würfle **1W4**. Der Verursacher erleidet den verursachten Schaden
+   **mal W4** (gleicher Typ, kein Rettungswurf – es ist der eigene
+   Treffer, nur größer). 30 Schaden können also 30, 60, 90 oder 120
+   zurückkommen. *(Die Gruppe spielt mit über 100 TP pro Held, darum
+   so hart.)*
 3. Der Schild erhält **+1 Aufladung**.
 4. Würfle **W10 auf der Ultra-Schlimm-Tabelle** (unten).
 
@@ -47,14 +50,26 @@ selbst sieht – tausendfach.
 Nicht-feindliche Dinge (reden, beobachten, *Magie entdecken*, ihn
 umgehen, Türen verbarrikadieren) lösen nichts aus.
 
-**Regel 2 – Beleidigung:** Beleidigt jemand Vorgazhul (auch
-„kreativ"), erleidet der Beleidiger sofort **10W10 psychischen
-Schaden** (WEI-Rettungswurf DC 18 für die Hälfte). Keine Aufladung –
-aber bei Level 7 (ca. 50–65 TP) kann das allein fast töten. Kündige
-die Regel nach dem ERSTEN Mal über die Fiktion an: Das Spiegelbild
-des Opfers spricht die Beleidigung rückwärts, dann trifft der Schmerz.
-*(Das ist kein Angriff von ihm – es ist der Schild, der die Worte
-zurückwirft.)*
+**Regel 2 – Zauber auf andere (Heilen und Stärken):** Der Spiegel
+sieht alles, was im Saal gegeben wird, und gibt es zurück.
+
+- **Zauber auf sich selbst** (sich selbst heilen, *Schild*, *Zweite
+  Haut* …) funktionieren **ganz normal**.
+- **Heilzauber auf einen Verbündeten:** Der Verbündete bekommt nur die
+  **Hälfte** der Heilung. Der Heiler würfelt **1W4** und erleidet den
+  **gewürfelten Heilwert mal W4** als psychischen Schaden (die Hälfte,
+  die „fehlt", holt sich der Spiegel aus ihm). Keine Aufladung, kein
+  W10. *(Im Saal heilt man am besten nur sich selbst – oder gar nicht,
+  sondern geht.)*
+- **Stärkungszauber auf einen Verbündeten** (*Segnen*, *Hast*,
+  *Heldenmut* …): Der Zauber wirkt normal – aber **Vorgazhul hat
+  denselben Effekt auch**, solange der Held ihn aufrechterhält. Sein
+  Spiegelbild leuchtet mit demselben Segen. Keine Aufladung.
+- **Zauber auf Vorgazhul** (Schaden oder feindliche Effekte): Regel 1
+  und 1b, gespiegelt mal W4.
+
+Beleidigungen prallen in Akt 2 ab: Er lächelt nur. Der alte
+Beleidigungs-Schaden ist gestrichen.
 
 **Regel 3 – Hunger des Spiegels:** Er zieht die Angst der Zeugen ein.
 Solange noch **Menschen im Festsaal** sind, erhält der Schild **+1
@@ -65,7 +80,23 @@ in unter 10 Runden leer sein, danach hat die Stadt bis zu 10 Stunden
 minus die bisherigen Aufladungen. *(Das ist die Evakuierungs-Uhr für
 Kapitel 2/3.)*
 
-**Regel 4 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
+**Regel 4 – Spiegelbrut (bei 4 und 8 Aufladungen):** Vorgazhul
+greift selbst nie an, aber seine Aura schon. Sobald der Schild die
+**4. Aufladung** erhält, greift er in den dunklen Schimmer um sich und
+zieht den **Knochensichler** heraus (→ `Feinde/Knochensichler/`):
+„Ich tue euch nichts. Aber meine Kinder sind nicht so geduldig." Bei
+der **8. Aufladung** folgt der **Glutherold** (→ `Feinde/Glutherold/`).
+Beide erscheinen in 3 m um Vorgazhul und handeln direkt nach ihm.
+Treffer auf die beiden werden **nicht** gespiegelt und geben **keine
+Aufladung**: Sie sind die Gegner, auf die man hauen darf. Der
+Knochensichler geht immer auf den am schlimmsten verwundeten Helden
+los und bleibt im Saal, der Glutherold jagt den Helden, der Vorgazhul
+zuletzt getroffen hat.
+Verlässt Vorgazhul die Halle oder kommt der Weltenspiegel, zerfallen
+beide. Egal ob durch Treffer oder Hunger: Wer nach 4 Runden noch im
+Saal ist, bekommt das erste Kind, nach 8 Runden das zweite.
+
+**Regel 5 – 10 Aufladungen: Ankunft.** Ultimative **„Weltenspiegel"**
 → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`. Alles im
 Umkreis von 1 km stirbt – und Vorgazhul ist **ganz in der Welt
 angekommen**. Der Spiegelschild ist damit verbraucht und kehrt nie
@@ -119,8 +150,8 @@ Gegner, er greift nicht an) – sie muss nur rechtzeitig passieren
 ## Teil 2: Angekommen (Akt 7 – Finale)
 
 Der Spiegelschild ist weg. Reflexion, Aufladungen, Ultra-Schlimm-
-Tabelle und Beleidigungs-Schaden **gelten nicht mehr**. Dafür kann er
-jetzt angreifen – und das tut er.
+Tabelle, Heil-Strafe und Spiegelbrut **gelten nicht mehr**. Dafür kann
+er jetzt angreifen – und das tut er.
 
 ### Spiegelkern (Kernmechanik des Finales)
 
@@ -139,8 +170,8 @@ sterben:
   (keine Regeneration, kein Zusammensetzen mehr, er kann sterben).
   → `Belohnungen/Seltene/Siegel-des-Spiegelbrechers/Effekte/`
 
-**Beleidigungen im Finale:** Kein Schaden mehr, aber er verliert die
-Fassung: Er muss seinen nächsten Zug gegen den Beleidiger richten
+**Beleidigungen im Finale:** Im Festsaal hat er sie weggelächelt,
+jetzt verliert er die Fassung: Er muss seinen nächsten Zug gegen den Beleidiger richten
 (WEI DC 15 für ihn, um zu widerstehen). Taktisch nutzbar – damit kann
 man ihn vom Siegelträger weglocken!
 

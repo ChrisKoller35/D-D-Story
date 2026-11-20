@@ -10,7 +10,8 @@ alles im Umkreis von 1 km getötet – **er ist in der Welt
 angekommen**. Damit gilt:
 
 - **Der Spiegelschild wirkt nicht mehr.** Keine Reflexion, keine
-  Aufladungen, keine Ultra-Schlimm-Tabelle, kein Beleidigungs-Schaden.
+  Aufladungen, keine Ultra-Schlimm-Tabelle, keine Heil-Strafe, keine
+Spiegelbrut.
 - **Er greift jetzt an** – mit neuen, starken Angriffen
   (→ `Feinde/Daemon-Vorgazhul/Faehigkeiten/Faehigkeiten.md`, Teil 2).
 - **Er ist verwundbar, aber nicht sterblich**, solange sein

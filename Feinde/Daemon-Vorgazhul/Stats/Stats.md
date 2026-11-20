@@ -29,9 +29,13 @@ wartet, bis der Schild 10 Aufladungen hat.*
 Leylinien-Knoten unter der Festhalle bzw. dort, wo das Ritual stattfand)
 gebunden; max. 150 m Entfernung.
 
-**Spiegelschild (Kernmechanik):** 10 Aufladungen, Reflexion, Hunger
-(+1 pro Runde, solange Menschen im Saal sind; danach +1 pro Stunde). Details →
-`../Faehigkeiten/Faehigkeiten.md`, Teil 1. Bei 10 Aufladungen:
+**Spiegelschild (Kernmechanik):** 10 Aufladungen, Reflexion (Schaden
+mal W4 zurück), Heil-Strafe (Heilung auf andere halbiert, Heiler nimmt
+Heilwert mal W4), Hunger (+1 pro Runde, solange Menschen im Saal sind;
+danach +1 pro Stunde), Spiegelbrut (bei 4 Aufladungen der
+Knochensichler, bei 8 der Glutherold, → `Feinde/Knochensichler/`,
+`Feinde/Glutherold/`). Details → `../Faehigkeiten/Faehigkeiten.md`,
+Teil 1. Bei 10 Aufladungen:
 **Weltenspiegel** → `../Ultimative-Faehigkeiten/Ultimative-Faehigkeiten.md`
 – danach ist er **angekommen**.
 

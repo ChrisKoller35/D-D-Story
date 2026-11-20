@@ -72,9 +72,14 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
 
 - **Er greift nicht an.** Er ist noch nicht ganz in der Welt
   angekommen und wartet.
-- Jeder Angriff auf ihn (auch von NPCs) wird **reflektiert** und löst
-  ein zufälliges Ultra-Schlimm-Ereignis aus (W10-Tabelle).
-- Jede **Beleidigung** verursacht sofort massiven Schaden.
+- Jeder Angriff auf ihn (auch von NPCs) wird **reflektiert** (Schaden
+  mal W4) und löst ein zufälliges Ultra-Schlimm-Ereignis aus
+  (W10-Tabelle). Heilung auf Freunde kommt nur halb an und trifft den
+  Heiler (Heilwert mal W4), Stärkungen auf Freunde bekommt er auch.
+- Bei **4 und 8 Aufladungen** ruft er seine „Kinder" aus der Aura: den
+  **Knochensichler** (HG 6, geht auf den Verwundetsten los, bleibt im Saal) und den
+  **Glutherold** (HG 9, jagt Helden). Treffer auf die beiden werden
+  nicht gespiegelt.
 - Der Schild hat **10 Aufladungen**; jeder Treffer lädt ihn um 1 auf,
   dazu Hunger (+1 pro Runde, solange Menschen im Saal sind; danach
   +1 pro Stunde).
@@ -88,6 +93,7 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
 - Dämon: `Feinde/Daemon-Vorgazhul/` (Stats, Faehigkeiten, Ultimative-Faehigkeiten)
 - Ritualist: `Feinde/Ritualist-Malrik/` (Stats, Faehigkeiten)
 - Kultisten (Handlanger): `Feinde/Kultisten/`
+- Spiegelbrut (Begleiter im Festsaal): `Feinde/Knochensichler/`, `Feinde/Glutherold/`
 
 ## Akt 3: Der Traum und das Erwachen
 

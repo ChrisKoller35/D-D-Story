@@ -26,6 +26,14 @@ keine Rolle.
 - **Oder etwas anderes:** kämpfen, Mira holen, Baldric vom Angriff
   abhalten, einen Kultisten knebeln …
 
+**Die Spiegelbrut (ab der 4. und 8. Aufladung):** Vorgazhuls
+„Kinder" (→ `Feinde/Knochensichler/`, `Feinde/Glutherold/`) stören
+die Marker nicht direkt, aber sie zwingen die Helden zu wählen: Der
+Knochensichler geht auf den am schlimmsten verwundeten Helden los und
+bleibt im Saal, der Glutherold jagt den, der Vorgazhul zuletzt
+getroffen hat. Wer sich mit ihnen prügelt, bringt in dieser Runde
+keinen Marker raus.
+
 **Verbündete geben einen Bonus.** Wer **Baldric, Thea oder Alma** (oder
 einen anderen Einheimischen mit Stimme) an seine Seite ruft, würfelt
 mit **Vorteil**. Ein Verbündeter hilft pro Runde einem Helden.
