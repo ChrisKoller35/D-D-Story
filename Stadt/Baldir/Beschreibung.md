@@ -10,7 +10,7 @@ Teer und gebratenem Fisch. Über allem: der **Gezeitenturm** mit dem
 berühmten Archiv. Die Stadt lebt vom Fischfang, vom Handel – und
 davon, dass sie sich an alles erinnert, was das Meer je angespült hat.
 
-**Aktuelle Lage:** Flüchtlinge aus Richtung Sommerhall treffen ein.
+**Aktuelle Lage:** Flüchtlinge aus Richtung Thalendor treffen ein.
 Gerüchte über die „Spiegelkuppel" machen die Runde, die Preise für
 Salz und Schiffspassagen steigen. Stimmung: nervös, aber nicht
 panisch – noch.

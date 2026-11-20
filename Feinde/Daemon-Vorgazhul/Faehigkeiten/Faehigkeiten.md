@@ -130,7 +130,7 @@ der niemand evakuiert (→ `Story/Erzaehler/02b-Evakuierung.md`).
   festhält. Wahr, aber verdreht.
 - **Versiegeln:** Pro Runde verwandelt er einen Nebenausgang der
   Festhalle in Spiegelglas (Dienstbotentür, Westfenster, Kellertreppe,
-  → `Stadt/Sommerhall/Orte/Festhalle.md`) – nie das **große Portal**:
+  → `Stadt/Thalendor/Orte/Festhalle.md`) – nie das **große Portal**:
   Den Hauptweg auf den Markt lässt er immer offen. Ein
   versiegelter Ausgang lässt sich zerschlagen – aber das Glas ist ein
   Teil von ihm: **Zerschlagen zählt als Treffer** (Regel 1).
@@ -201,7 +201,7 @@ man ihn vom Siegelträger weglocken!
   zerschlagen, hat er weniger Ziele!)*
 - **Glasdiener erwecken (1× pro Kampf):** Die gläsernen Gespiegelten
   (die Menschen, die beim Weltenspiegel starben) erwachen:
-  **1 Glasdiener pro 100 Toten in Sommerhall, mindestens 1,
+  **1 Glasdiener pro 100 Toten in Thalendor, mindestens 1,
   höchstens 6.** Je mehr Menschen die Helden in Akt 2/3 gerettet
   haben, desto weniger Diener! Werte: RK 13, TP 15, Bewegung 9 m,
   Schlag +6, 8 (1W10+3) Hieb. Beim Tod zerspringen sie: 3 m,

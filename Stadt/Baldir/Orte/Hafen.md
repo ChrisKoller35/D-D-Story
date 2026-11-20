@@ -5,7 +5,7 @@ Möwengeschrei. Morgens Fischmarkt (laut, glitschig, großartig).
 
 - **Hafenmeisterin Brenka**: Amtsstube am Kai; weiß, welche Schiffe
   wann fahren – und wer mit wem Ärger hat.
-- **Flüchtlingslager** am Nordkai: Ankommende aus Richtung Sommerhall.
+- **Flüchtlingslager** am Nordkai: Ankommende aus Richtung Thalendor.
   Hier können die Helden Berichte über die wachsende Spiegelkuppel
   hören (Stimmungs- und Dringlichkeits-Barometer; auch Startpunkt für
   `Quests/Nebenquest-Die-Gespiegelte.md`).

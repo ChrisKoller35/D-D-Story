@@ -4,30 +4,30 @@
 
 ## Ausgangslage
 
-Die Helden sind über das Vorspiel und den Weg nach Sommerhall
+Die Helden sind über das Vorspiel und den Weg nach Thalendor
 hierhergekommen (→ `00-Vorspiel-Hirsefurt.md`,
-`00b-Der-Weg-nach-Sommerhall.md`): Tamo hat ihnen in Hirsefurt einen
+`00b-Der-Weg-nach-Thalendor.md`): Tamo hat ihnen in Hirsefurt einen
 Flyer gegeben, unterwegs haben sie die Kutsche der **Brauerin Thea**
 vor Räubern gerettet (mit dem Jahrgangsbier für die Halle und Theas
 Tochter **Mira**), die Torwachen haben sie durchgewinkt und hinauf zu
 Baldric geschickt, und der hat sie vor der Festhalle zu **Ehrengästen**
 gemacht. Sie
 wachen am **Morgen des Fests** im Gasthaus „Zur Sichel" auf
-(→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`).
+(→ `Stadt/Thalendor/Orte/Gasthaus-Zur-Sichel.md`).
 Beschreibe diesen Morgen liebevoll und merke dir deine Worte: Genau
 dieser Morgen kehrt in Kapitel 3 zurück.
 
-## Karte: Sommerhall von oben
+## Karte: Thalendor von oben
 
-![Sommerhall](Karten/Karte-Sommerhall-KI.png)
+![Thalendor](Karten/Karte-Thalendor-KI.png)
 
-Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch).
+Datei: `Story/Erzaehler/Karten/Karte-Thalendor-KI.png` (zum Herzeigen am Tisch).
 
 **Was auf dem Bild zu sehen ist:**
 - **Haupttor** oben mit zwei Rundtürmen, Straße nach Hirsefurt: Die Torwachen kennen Thea und schicken die Kutsche am Abend vor dem Fest die Lindenallee hinauf zu Baldric vor der Festhalle (→ Kapitel 0.5).
 - **Treppe und Lindenallee** vom Tor hinunter zum Markt: tagsüber spielen hier die Musikanten.
-- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel (→ `Stadt/Sommerhall/Orte/Marktplatz.md`, `01b-Festspiele.md`).
-- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Baldrics Abschluss der Spiele (→ `Stadt/Sommerhall/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
+- **Marktplatz** in der Mitte mit dem Brunnen der Drei Mühlen, dem Erntealtar am Nordrand und den Buden rundherum: Hier eröffnet Baldric um 10 Uhr die Festspiele, hier läuft die **Ferkeljagd** zwischen den Ständen, dazu der Flinke Pit mit dem Hütchenspiel (→ `Stadt/Thalendor/Orte/Marktplatz.md`, `01b-Festspiele.md`).
+- **Große Festhalle** oben rechts, das größte Gebäude der Stadt, mit dem Festplatz davor (ab 17–18 Uhr): Bühne im Norden, großes Portal im Süden, Fensterreihe nach Westen, Dienstbotentür hinter der Bühne in die Gasse. Auf dem Festplatz vor dem Portal findet um 16 Uhr das **Tauziehen gegen die Stadtwache** statt, Baldrics Abschluss der Spiele (→ `Stadt/Thalendor/Orte/Festhalle.md`, `01b-Festspiele.md`). Hinter der Halle der **Hof mit Kellerrampe und Scheune**: Hier kommt der Kellerausgang heraus, den Vorgazhul nie versiegelt (→ Kapitel 2b).
 - **Gasthaus „Zur Sichel“**: das große Fachwerkhaus mit dem Turm mitten in der Stadt, Ecke Lindenallee: Quartier der Helden, Malrik wohnt in Zimmer 4.
 - **Tempel** oben links mit dem hohen Turm.
 - **Brauerei** links mit Kesseln, Fässern und Bierwagen: Brauerin Thea, ihr Dunkelbier gibt es abends in der Festhalle. Im Hof das erste Spiel des Tages, **„Der Anstich"**.
@@ -36,7 +36,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` (zum Herzeigen am Tisch)
 - Außerhalb der Mauer Felder, Gehöfte und der Wald.
 
 **Nur für dich:** Der Leylinien-Knoten liegt tief unter Festhalle und halbem
-Marktplatz; er ist auf dem Bild nicht markiert, und niemand in Sommerhall
+Marktplatz; er ist auf dem Bild nicht markiert, und niemand in Thalendor
 weiß davon. Die sechs Viertel (Lindenallee, Marktviertel, Mühlenviertel,
 Gerbergasse, Unterstadt, Höfe am Stadtrand) zählen bei der Evakuierung der
 Stadt (→ `Story/Erzaehler/02b-Evakuierung.md`).
@@ -49,9 +49,9 @@ Das Fest hat zwei Hälften:
 10. Morgenstunde auf dem Marktplatz** (so steht es auf dem Flyer;
 → `Story/Spieler/Handout-Fest-Einladung.md`); bis dahin bleibt Zeit
 für das Frühstück in der Sichel und einen Bummel durch die Buden. Ganz
-Sommerhall feiert auf den
+Thalendor feiert auf den
 Straßen. Auf dem **Marktplatz** stehen Buden und Spielstände
-(→ `Stadt/Sommerhall/Orte/Marktplatz.md`), in den Lindenalleen spielen
+(→ `Stadt/Thalendor/Orte/Marktplatz.md`), in den Lindenalleen spielen
 Musikanten, an jeder Ecke gibt es Braten, Honigkuchen und Festbier.
 Hier laufen die **Festspiele** (Spielerfassung →
 `Story/Spieler/Festspiele.md`, Ablauf und Ergebnistabellen für dich →
@@ -69,7 +69,7 @@ Spaß hat. (Kleine Preise, falls du welche willst →
 
 **Ab 17–18 Uhr: drinnen in der Großen Festhalle.** Wenn die Sonne
 tief steht, läuten die Glocken, und das ganze Fest zieht in die
-**Große Festhalle** um (→ `Stadt/Sommerhall/Orte/Festhalle.md`):
+**Große Festhalle** um (→ `Stadt/Thalendor/Orte/Festhalle.md`):
 Lichterketten, Langtafeln, der Erntealtar, Musikanten auf der Empore,
 Tanzfläche. Hier laufen die Abendspiele (Axtwerfen auf der Bühne,
 Armdrücken gegen Grom, der Festtanz → `01b-Festspiele.md`), dann die
@@ -123,7 +123,7 @@ einmal still am Rand. Gehe nach 45–60 Minuten zu Kapitel 2 über.
 
 Abenteurer-Paranoia. Gib ihnen etwas zu finden, aber nicht zu viel:
 Bei DC 15 Nachforschung erfahren sie: In den letzten
-Wochen sind in Sommerhall **Kerzen, Salz und eine Ziege** gestohlen
+Wochen sind in Thalendor **Kerzen, Salz und eine Ziege** gestohlen
 worden. Das führt zu Szenario D – aber Malrik lässt sich nicht vor
 seiner Zeit erwischen: Falls sie ihm zu früh zu nahe kommen, nutzt er
 `Aschengestalt` (→ `Feinde/Ritualist-Malrik/Faehigkeiten/`) und taucht
@@ -135,7 +135,7 @@ Kein Problem: Das Ritual betrifft die ganze Stadt. Wer draußen ist,
 hört die Schreie aus der Festhalle und sieht violettes Licht aus den
 Fenstern, und die ersten Gäste stürzen durch das große Portal auf den
 Festplatz. Vorgazhul **versiegelt die Nebenausgänge** einen pro Runde
-(→ `Stadt/Sommerhall/Orte/Festhalle.md`) – das große Portal lässt er
+(→ `Stadt/Thalendor/Orte/Festhalle.md`) – das große Portal lässt er
 offen. Wer schnell ist, kommt gegen den Strom noch rein (und raus kommt
 man immer).
 Hinweis für später: Dass „draußen sein" sich richtig anfühlt, ist ein
@@ -164,7 +164,7 @@ zu feiern. Lass sie: Die Räuber gibt es wirklich. (Haben sie das Lager
 schon in Kapitel 0.5 ausgehoben, Szenario C oder D, entfällt dieses
 Szenario.)
 
-**Die Spur:** Wer in Sommerhall herumfragt (Stadtwache, Marktleute,
+**Die Spur:** Wer in Thalendor herumfragt (Stadtwache, Marktleute,
 Alma), hört von Überfällen im **Wald hinter den Mühlen**. Überlebens-
 oder Nachforschungsprobe DC 12 findet Trampelpfade, einen verlorenen
 Geldbeutel, Lagerfeuerrauch. Nach 2–3 Stunden stehen sie vor dem Lager.
@@ -195,7 +195,7 @@ gegangen sind.
   Albträume von Spiegeln. (→ Malrik)
 
 **Zurück zum Fest:** Bringen die Helden die Räuber (oder das
-Diebesgut) nach Sommerhall, sind sie am Abend die Stars: Baldric lässt
+Diebesgut) nach Thalendor, sind sie am Abend die Stars: Baldric lässt
 sie bei der Siegerehrung auf die Bühne rufen. Das führt direkt in
 Kapitel 2 (Sicherheitsnetz: Auf dem Weg zur Bühne gehen sie an Malrik
 vorbei). Bleiben sie zu lange im Wald, erleben sie das Ritual von

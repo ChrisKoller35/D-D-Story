@@ -17,13 +17,13 @@ sieht nur einen lautlosen violetten Blitz am Horizont. (Malrik ist zu
 diesem Zeitpunkt schon tot: Er war das letzte Opfer des Rituals.)
 
 **Danach ist Vorgazhul in der Welt angekommen.** Der Spiegelschild
-ist verbraucht und kommt nie wieder. Über Sommerhall bildet sich die
+ist verbraucht und kommt nie wieder. Über Thalendor bildet sich die
 **Spiegelkuppel**, sein Reich, das wächst (ein Dorf pro Woche).
 
 - **Erster Durchlauf, Helden im Umkreis:** → `Story/Erzaehler/03-Traum-und-Neustart.md`
   (Erwachen aus dem Traum).
 - **Zweiter Durchlauf, Helden im Umkreis:** Es gibt keinen Traum mehr
-  → Ende „Die Retter von Sommerhall" (Stadt evakuiert) bzw. „Der
+  → Ende „Die Retter von Thalendor" (Stadt evakuiert) bzw. „Der
   Spiegel gewinnt" (→ `Story/Story-Gesamt.md`, „Mögliche Enden").
 - **Helden sind geflohen (> 1 km):** Sie sehen den Blitz aus der
   Ferne. → `Story/Erzaehler/04-Die-Flucht.md`.

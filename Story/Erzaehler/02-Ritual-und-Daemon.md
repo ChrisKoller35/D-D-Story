@@ -41,7 +41,7 @@ wie viele Menschen danach noch rauskommen – aber nicht, *ob*.
 ## Schritt 1: Der Festsaal und die Aufstellung
 
 Der große Festsaal ist **riesig** (ca. 60 × 30 m, 300 Gäste,
-→ `Stadt/Sommerhall/Orte/Festhalle.md`). Musik, Lachen, Gedränge: Wer
+→ `Stadt/Thalendor/Orte/Festhalle.md`). Musik, Lachen, Gedränge: Wer
 nicht direkt neben einem Kultisten steht, hört und sieht nichts.
 
 | Wer | Wo | Nächster Ausgang |
@@ -54,7 +54,7 @@ nicht direkt neben einem Kultisten steht, hört und sieht nichts.
 
 Der Weg nach draußen ist für alle derselbe: das **große Doppelportal**
 hinten im Süden, hinaus auf den Festplatz und den Markt. Es wird nie
-versiegelt (→ `Stadt/Sommerhall/Orte/Festhalle.md`). Die anderen
+versiegelt (→ `Stadt/Thalendor/Orte/Festhalle.md`). Die anderen
 Ausgänge sind Nebenwege.
 
 Die Kultisten tragen **graue Umhänge mit tiefen Kapuzen** (keine
@@ -469,7 +469,7 @@ kein Kampf: Vorgazhul kann in diesem Zustand nicht angreifen, er
 verfolgt sie nicht und ist an den Ritualort gebunden. Die
 Nebenausgänge werden nacheinander zu Glas, aber das **große Portal
 bleibt immer offen**: Die Helden laufen mit dem Strom der Gäste durch
-die Halle hinaus auf den Markt (→ `Stadt/Sommerhall/Orte/Festhalle.md`).
+die Halle hinaus auf den Markt (→ `Stadt/Thalendor/Orte/Festhalle.md`).
 Es geht
 nur darum, dass es **zeitlich aufgeht**: Raus aus der Halle reicht
 nicht – **raus aus der Stadt** (1 km), bevor der Schild 10 Aufladungen
@@ -538,5 +538,5 @@ Alle Helden tot (1. Durchlauf) → **Kapitel 3: Traum und Neustart**.
 Flucht gelungen (komplette Gruppe) → **Kapitel 4** (dann gab es keinen
 Traum – siehe Kapitel 3, Kasten „Was, wenn sie sofort fliehen?").
 Alle Helden tot im **2. Durchlauf** → kein Traum mehr: Ende „Die Retter
-von Sommerhall" (wenn sie die Stadt evakuiert haben) oder „Der Spiegel
+von Thalendor" (wenn sie die Stadt evakuiert haben) oder „Der Spiegel
 gewinnt" (→ `Story/Story-Gesamt.md`, „Mögliche Enden").

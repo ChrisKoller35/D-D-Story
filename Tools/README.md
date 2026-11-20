@@ -1,11 +1,11 @@
 # Tools
 
-## karten_generieren.py – KI-Bildkarten (Hirsefurt, Sommerhall)
+## karten_generieren.py – KI-Bildkarten (Hirsefurt, Thalendor)
 
 Erzeugt mit Googles Bildmodellen (Gemini-Image, Fallback Imagen) je eine
 Karte im D&D-Pergament-Stil und legt sie als
 `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png` und
-`Story/Erzaehler/Karten/Karte-Sommerhall-KI.png` ab. Die Prompts beschreiben die
+`Story/Erzaehler/Karten/Karte-Thalendor-KI.png` ab. Die Prompts beschreiben die
 Orte aus Kapitel 00 und 01.
 
 Braucht nur Python 3, keine zusätzlichen Pakete.
@@ -18,12 +18,12 @@ Braucht nur Python 3, keine zusätzlichen Pakete.
 
 ```bash
 python3 Tools/karten_generieren.py              # beide Karten
-python3 Tools/karten_generieren.py hirsefurt    # nur eine Karte (oder: sommerhall)
+python3 Tools/karten_generieren.py hirsefurt    # nur eine Karte (oder: thalendor)
 ```
 
 Weitere Optionen: `--modell imagen` (direkt Imagen statt Gemini),
 `--prompt-anzeigen` (nur die Prompts ausgeben).
 
-**Hinweis:** Die eingecheckten `Karte-Hirsefurt-KI.png` und `Karte-Sommerhall-KI.png`
+**Hinweis:** Die eingecheckten `Karte-Hirsefurt-KI.png` und `Karte-Thalendor-KI.png`
 sind eigene, extern erzeugte Bilder von Christoph (Stand 17.10.2026). Das Skript
 überschreibt sie beim Lauf; nur ausführen, wenn neue Varianten gewünscht sind.

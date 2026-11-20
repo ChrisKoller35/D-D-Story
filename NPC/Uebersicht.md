@@ -9,7 +9,7 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Oma Wenke](Oma-Wenke/Bild.png)
 
-**Moststand in Hirsefurt.** Die alte Mostfrau am Dorfplatz von Hirsefurt: ein Fass, ein Brett, zwei Kupfer der Becher. Erzählt gern, dass „die ganze Jugend nach Sommerhall gelaufen ist, wegen dem Fest“, und dass sich der Umweg schon für das Dunkelbier lohnt. Bleibt selbst zu Hause, weil ihre Kinder Jorin und Liese das Korn einbringen und abends das Essen auf dem Tisch stehen muss. Weiß, dass die Räuber „im Wald hinter den Mühlen“ sitzen.
+**Moststand in Hirsefurt.** Die alte Mostfrau am Dorfplatz von Hirsefurt: ein Fass, ein Brett, zwei Kupfer der Becher. Erzählt gern, dass „die ganze Jugend nach Thalendor gelaufen ist, wegen dem Fest“, und dass sich der Umweg schon für das Dunkelbier lohnt. Bleibt selbst zu Hause, weil ihre Kinder Jorin und Liese das Korn einbringen und abends das Essen auf dem Tisch stehen muss. Weiß, dass die Räuber „im Wald hinter den Mühlen“ sitzen.
 
 ### Jorin
 
@@ -27,28 +27,28 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Tamo](Tamo/Bild.png)
 
-**Baldrics Neffe, der Flyer-Bote.** Ende zwanzig, schlaksig, Sommersprossen, eine viel zu große Mütze, mehr Begeisterung als Würde, unterwegs auf einem Esel mit zwei Satteltaschen voller Festflyer. Verteilt seit Tagen in allen Dörfern rund um Sommerhall die Einladung zum Fest der Goldenen Ähre und ist mächtig stolz darauf; wer „Rabenpass“ sagt, hat ihn für immer als Fan. Schreibt den Helden in Hirsefurt eine Notiz für Tante Alma auf den Flyer („Bett in der Sichel!“) und sitzt am Festnachmittag vorne an der Bühne auf seinem Esel.
+**Baldrics Neffe, der Flyer-Bote.** Ende zwanzig, schlaksig, Sommersprossen, eine viel zu große Mütze, mehr Begeisterung als Würde, unterwegs auf einem Esel mit zwei Satteltaschen voller Festflyer. Verteilt seit Tagen in allen Dörfern rund um Thalendor die Einladung zum Fest der Goldenen Ähre und ist mächtig stolz darauf; wer „Rabenpass“ sagt, hat ihn für immer als Fan. Schreibt den Helden in Hirsefurt eine Notiz für Tante Alma auf den Flyer („Bett in der Sichel!“) und sitzt am Festnachmittag vorne an der Bühne auf seinem Esel.
 
 
-## Sommerhall
+## Thalendor
 
 ### Hauptmann Baldric Immergrün
 
 ![Hauptmann Baldric Immergrün](Hauptmann-Baldric/Bild.png)
 
-**Hauptmann der Stadtwache von Sommerhall und Ausrichter des Fests.** Rundlich, rotwangig, Weste voller Ehrennadeln, dröhnendes Lachen; führt seit zwanzig Jahren mit Stimme und Listen statt mit dem Schwert und kennt jeden Namen in der Stadt. Macht die Helden zu Ehrengästen, eröffnet die Festspiele, und greift beim Ritual den Dämon ohne Rüstung an, um Gäste zu schützen: Er stirbt an seinem eigenen, reflektierten Schlag. Im zweiten Durchlauf der wichtigste Verbündete für die Evakuierung.
+**Hauptmann der Stadtwache von Thalendor und Ausrichter des Fests.** Rundlich, rotwangig, Weste voller Ehrennadeln, dröhnendes Lachen; führt seit zwanzig Jahren mit Stimme und Listen statt mit dem Schwert und kennt jeden Namen in der Stadt. Macht die Helden zu Ehrengästen, eröffnet die Festspiele, und greift beim Ritual den Dämon ohne Rüstung an, um Gäste zu schützen: Er stirbt an seinem eigenen, reflektierten Schlag. Im zweiten Durchlauf der wichtigste Verbündete für die Evakuierung.
 
 ### Wirtin Alma
 
 ![Wirtin Alma](Wirtin-Alma/Bild.png)
 
-**Gasthaus „Zur Sichel“, Sommerhall.** Mütterlich und resolut, Herz aus Gold, Arme wie ein Schmied; nennt alle „Kind“, auch den Barbaren. Führt das Gasthaus „Zur Sichel“, in dem die Helden als Ehrengäste schlafen und nach dem Traum wieder aufwachen. Ist Tamos Tante und weiß, dass der graue Pilger in Zimmer 4 nie isst. Stirbt Baldric, übernimmt sie seine Rolle als Anführerin der Geflüchteten vor der Kuppel.
+**Gasthaus „Zur Sichel“, Thalendor.** Mütterlich und resolut, Herz aus Gold, Arme wie ein Schmied; nennt alle „Kind“, auch den Barbaren. Führt das Gasthaus „Zur Sichel“, in dem die Helden als Ehrengäste schlafen und nach dem Traum wieder aufwachen. Ist Tamos Tante und weiß, dass der graue Pilger in Zimmer 4 nie isst. Stirbt Baldric, übernimmt sie seine Rolle als Anführerin der Geflüchteten vor der Kuppel.
 
 ### Brauerin Thea Glutfaust
 
 ![Brauerin Thea Glutfaust](Brauerin-Thea-Glutfaust/Bild.png)
 
-**Brauerei im Westen von Sommerhall.** Mitte vierzig, Arme wie Fässer, Stimme wie ein Zapfhahn, lacht laut und flucht lauter. Ihr gehört die Brauerei; ihr Jahrgangs-Dunkelbier („das gute Zeug“) gibt es nur abends in der Festhalle, und die Helden retten es auf dem Weg nach Sommerhall vor Räubern. Haut im Kampf selbst mit (Schlegel +4, 1W8+2). Steht am Festabend am Ausschank, schlägt beim „Anstich“ das erste Fass an und zeigt dem besten Werfer die Kellertreppe hinter dem Ausschank. Mutter von Mira; bei der Evakuierung ein Verbündeter mit Stimme.
+**Brauerei im Westen von Thalendor.** Mitte vierzig, Arme wie Fässer, Stimme wie ein Zapfhahn, lacht laut und flucht lauter. Ihr gehört die Brauerei; ihr Jahrgangs-Dunkelbier („das gute Zeug“) gibt es nur abends in der Festhalle, und die Helden retten es auf dem Weg nach Thalendor vor Räubern. Haut im Kampf selbst mit (Schlegel +4, 1W8+2). Steht am Festabend am Ausschank, schlägt beim „Anstich“ das erste Fass an und zeigt dem besten Werfer die Kellertreppe hinter dem Ausschank. Mutter von Mira; bei der Evakuierung ein Verbündeter mit Stimme.
 
 ### Mira
 
@@ -66,7 +66,7 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![„Eisenhand“ Grom](Eisenhand-Grom/Bild.png)
 
-**Schmied von Sommerhall.** Der Schmied der Stadt, ungeschlagen im Armdrücken (würfelt mit +6), Hände wie Schraubstöcke. Steht beim „Hau den Lukas“ mit verschränkten Armen und kommentiert knapp („Beinahe. Beinahe ist gut.“), brummt auf der Bühne eine Strophe Schmiedelied. Wer ihn am Abend im Armdrücken schlägt, hat einen Freund fürs Leben. Beim Ritual schwingt er seinen Hammer gegen den Dämon, wenn ihn niemand abhält; fehlt Baldric, ist er der heldenhafte Angreifer, der an seinem eigenen Schlag stirbt.
+**Schmied von Thalendor.** Der Schmied der Stadt, ungeschlagen im Armdrücken (würfelt mit +6), Hände wie Schraubstöcke. Steht beim „Hau den Lukas“ mit verschränkten Armen und kommentiert knapp („Beinahe. Beinahe ist gut.“), brummt auf der Bühne eine Strophe Schmiedelied. Wer ihn am Abend im Armdrücken schlägt, hat einen Freund fürs Leben. Beim Ritual schwingt er seinen Hammer gegen den Dämon, wenn ihn niemand abhält; fehlt Baldric, ist er der heldenhafte Angreifer, der an seinem eigenen Schlag stirbt.
 
 ### Spielmann Jost
 
@@ -84,7 +84,7 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Der Flinke Pit](Der-Flinke-Pit/Bild.png)
 
-**Hütchenspieler am Brunnen.** Kein Sommerhaller, nur zum Fest in der Stadt: ein Klapptisch am Brunnenrand, drei Becher, eine Nuss, ein Silber Einsatz. Schiebt die Nuss in den Ärmel und klaut bei schlechten Würfen gleich noch den Geldbeutel. Wer ihn erwischt, bekommt von Baldric lachend seinen Hut mit 15 Gold Kleingeld, den Einsätzen des Tages.
+**Hütchenspieler am Brunnen.** Kein Thalendorer, nur zum Fest in der Stadt: ein Klapptisch am Brunnenrand, drei Becher, eine Nuss, ein Silber Einsatz. Schiebt die Nuss in den Ärmel und klaut bei schlechten Würfen gleich noch den Geldbeutel. Wer ihn erwischt, bekommt von Baldric lachend seinen Hut mit 15 Gold Kleingeld, den Einsätzen des Tages.
 
 ### Direktor Ottokar Flimm
 
@@ -126,7 +126,7 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Archivarin Nerida](Archivarin-Nerida/Bild.png)
 
-**Hüterin der Gezeitenarchive von Baldir, Questgeberin.** Mitte fünfzig, salzgraues Haar streng geflochten, Tintenflecken bis zum Ellbogen, Lesesteine an einer Kette. Leise, präzise, streng; ihre Schwester lebt in Sommerhall. Muss erst einen halben Tag recherchieren, findet die 5.000 Jahre alten Steintafeln und begreift, dass die vor sechs Wochen gestohlenen Reliquien die einzigen Waffen gegen den Spiegelherrn sind. Gibt Festungsplan, Küstenkarte und auf hartnäckiges Nachfragen Runenlaterne und Steinhaut-Tränke.
+**Hüterin der Gezeitenarchive von Baldir, Questgeberin.** Mitte fünfzig, salzgraues Haar streng geflochten, Tintenflecken bis zum Ellbogen, Lesesteine an einer Kette. Leise, präzise, streng; ihre Schwester lebt in Thalendor. Muss erst einen halben Tag recherchieren, findet die 5.000 Jahre alten Steintafeln und begreift, dass die vor sechs Wochen gestohlenen Reliquien die einzigen Waffen gegen den Spiegelherrn sind. Gibt Festungsplan, Küstenkarte und auf hartnäckiges Nachfragen Runenlaterne und Steinhaut-Tränke.
 
 ### Fischer Grim
 
@@ -144,7 +144,7 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Jola, die Gespiegelte](Jola-die-Gespiegelte/Bild.png)
 
-**Flüchtlingsfrau im Lager am Nordkai.** Aus einem Dorf nahe Sommerhall; hat die wachsende Kuppel berührt und überlebt, mit einer spiegelglatten Brandnarbe am Arm. Abergläubische wollen sie aus Baldir werfen. Die Narbe ist harmlos, aber bei Kerzenlicht sieht man darin einen Wimpernschlag lang die Festhalle von Sommerhall, von innen, heute: ein Fenster auf Vorgazhul, einmal nutzbar vor dem Finale.
+**Flüchtlingsfrau im Lager am Nordkai.** Aus einem Dorf nahe Thalendor; hat die wachsende Kuppel berührt und überlebt, mit einer spiegelglatten Brandnarbe am Arm. Abergläubische wollen sie aus Baldir werfen. Die Narbe ist harmlos, aber bei Kerzenlicht sieht man darin einen Wimpernschlag lang die Festhalle von Thalendor, von innen, heute: ein Fenster auf Vorgazhul, einmal nutzbar vor dem Finale.
 
 ### „Aal-Lene“
 

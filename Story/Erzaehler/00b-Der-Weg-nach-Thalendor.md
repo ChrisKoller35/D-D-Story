@@ -1,4 +1,4 @@
-# Kapitel 0.5: Der Weg nach Sommerhall
+# Kapitel 0.5: Der Weg nach Thalendor
 
 **Nur für den Erzähler.** Zwischenkapitel zwischen dem Vorspiel in
 Hirsefurt (→ `00-Vorspiel-Hirsefurt.md`) und dem Fest (→ Kapitel 1).
@@ -6,7 +6,7 @@ Hirsefurt (→ `00-Vorspiel-Hirsefurt.md`) und dem Fest (→ Kapitel 1).
 ## Ausgangslage
 
 Die Helden haben den Flyer in der Hand und brechen am frühen Nachmittag
-in Hirsefurt auf. Bis Sommerhall ist es ein halber Tag zu Fuß, zu Pferd
+in Hirsefurt auf. Bis Thalendor ist es ein halber Tag zu Fuß, zu Pferd
 ein paar Stunden. Tamo reitet **nicht** mit und ist auch **nicht**
 schneller als sie: Er hat noch zwei Dörfer auf seiner Runde („Eschenbrück
 und Kohlwinkel, sonst kriege ich Ärger"). Stattdessen hat er jedem Helden
@@ -22,7 +22,7 @@ das Bier gerettet haben". Außerdem lernen sie **Mira** kennen, bevor sie
 ihr in der Festhalle wieder begegnen. Richtwert: 20–30 Minuten.
 
 **Die Weiche:** Frag beim Aufbruch beiläufig, wohin sie wollen.
-- **Direkt nach Sommerhall** → der Überfall auf die Kutsche (Szene 1),
+- **Direkt nach Thalendor** → der Überfall auf die Kutsche (Szene 1),
   dann durchs Tor zu Baldric (Szene 2). Das ist der ⭐ optimale Weg.
 - **Zuerst zu den Räubern** (sie folgen Jorins Hinweis vom Waldrand)
   → **kein Überfall.** Die ganze Bande sitzt im Lager, Theas Kutsche
@@ -35,7 +35,7 @@ entscheidet.
 
 - **Brauerin Thea Glutfaust** (Mitte vierzig, Arme wie Fässer, Stimme wie
   ein Zapfhahn, lacht laut und flucht lauter). Ihr gehört die Brauerei
-  im Westen von Sommerhall. Das Fass-Freibier auf dem Markt kommt aus
+  im Westen von Thalendor. Das Fass-Freibier auf dem Markt kommt aus
   der Stadt; **das gute Zeug für die Festhalle am Abend**, ihr
   Jahrgangs-Dunkelbier, reift im kühlen Felsenkeller ihres Hofs, zwei
   Stunden nördlich der Stadt. Das holt sie jedes Jahr am Tag vor dem
@@ -55,7 +55,7 @@ entscheidet.
 
 ## Szene 1: Der Überfall
 
-Etwa eine Stunde vor Sommerhall führt die Straße am Rand des
+Etwa eine Stunde vor Thalendor führt die Straße am Rand des
 **Mühlenwalds** entlang, dort wo die Bäume bis an den Graben reichen.
 Die Sonne steht schon tief.
 
@@ -98,12 +98,12 @@ schaut zwischen den Speichen hindurch zu.
 
 **Was nun?** Die Spieler entscheiden. Der Normalfall: Räuber fesseln,
 auf die Kutsche setzen (zwischen die Fässer, Thea besteht darauf, dass
-sie die Fässer nicht anfassen) und mit nach Sommerhall → Szene 2.
+sie die Fässer nicht anfassen) und mit nach Thalendor → Szene 2.
 Andere Wege stehen unten bei den Szenarien.
 
 ## Szene 2: Durchs Tor zu Baldric
 
-Es dämmert, als die Kutsche das **Nordtor** von Sommerhall erreicht
+Es dämmert, als die Kutsche das **Nordtor** von Thalendor erreicht
 (→ Kapitel 1, Karte, Nr. 1). Am Tor herrscht Betrieb: Fackeln werden
 gesteckt, Lichterketten gespannt, Bauernwagen mit Ähren und Kürbissen
 stauen sich.
@@ -121,7 +121,7 @@ stauen sich.
 > die hier." Einer nickt zu den Räubern.
 
 Die Torwachen sind einfache Stadtwächter, die Thea seit Jahren kennen
-(jeder in Sommerhall kennt Thea). Sie stellen keine Fragen, die Thea
+(jeder in Thalendor kennt Thea). Sie stellen keine Fragen, die Thea
 nicht schon lauter beantwortet hat, und schicken die Kutsche samt
 Gefangenen die **Lindenallee hinauf**. Fragt man sie nach den Räubern:
 „Seit dem Sommer. Börsen, Würste, eine Kiste Nägel. Für den Wald haben
@@ -152,7 +152,7 @@ knappes Nicken. Mehr zu Baldric → `NPC/Hauptmann-Baldric/`.
 lässt einen Krug vom guten Zeug hinüberbringen. Sie übernachten in der
 Sichel und wachen am **Morgen des Fests** dort auf. **Beschreibe diesen
 Morgen liebevoll und merke dir deine Worte**
-(→ `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`): Genau dieser
+(→ `Stadt/Thalendor/Orte/Gasthaus-Zur-Sichel.md`): Genau dieser
 Morgen kehrt in Kapitel 3 zurück. → Kapitel 1.
 
 **Mira am Fest:** Am Abend steht Thea in der Festhalle am Ausschank und

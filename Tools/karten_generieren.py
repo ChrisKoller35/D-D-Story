@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-KI-Bildkarten im D&D-Stil für Hirsefurt (Kapitel 00) und Sommerhall (Kapitel 01).
+KI-Bildkarten im D&D-Stil für Hirsefurt (Kapitel 00) und Thalendor (Kapitel 01).
 
 Liest den Google-API-Key aus der Umgebungsvariable GOOGLE_API_KEY (oder aus
 einer lokalen Datei Tools/.env mit der Zeile GOOGLE_API_KEY=...; diese Datei
@@ -15,7 +15,7 @@ Benötigt nur die Python-Standardbibliothek (kein pip install).
 Beispiele:
     python3 Tools/karten_generieren.py                 # beide Karten
     python3 Tools/karten_generieren.py hirsefurt       # nur Hirsefurt
-    python3 Tools/karten_generieren.py sommerhall --modell imagen
+    python3 Tools/karten_generieren.py thalendor --modell imagen
 """
 
 import argparse
@@ -61,10 +61,10 @@ KARTEN = {
         "the road coming in from the north over a low hill; the apple orchards. Rolling "
         "summer meadows, nothing else: this village is deliberately small and quiet.",
     },
-    "sommerhall": {
-        "datei": "Karte-Sommerhall-KI.png",
+    "thalendor": {
+        "datei": "Karte-Thalendor-KI.png",
         "prompt": STIL + " "
-        "Subject: SOMMERHALL, a LARGE, wealthy walled medieval city (over ten thousand "
+        "Subject: THALENDOR, a LARGE, wealthy walled medieval city (over ten thousand "
         "inhabitants). Zoomed far out: the whole city with its wall, the surrounding farmland, "
         "the river and the forest fit inside the frame with generous open countryside around "
         "the wall, so the city itself is small enough that all of it is visible. It must look like "
@@ -190,7 +190,7 @@ def erzeuge(name: str, args, key: str) -> Path:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("karten", nargs="*", choices=[*KARTEN, []], help="hirsefurt, sommerhall (leer = beide)")
+    parser.add_argument("karten", nargs="*", choices=[*KARTEN, []], help="hirsefurt, thalendor (leer = beide)")
     parser.add_argument("--modell", choices=["gemini", "imagen"], default="gemini",
                         help="gemini (Standard, mit Imagen-Fallback) oder imagen")
     parser.add_argument("--gemini-modell", default=GEMINI_MODELL)

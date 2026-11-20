@@ -63,7 +63,7 @@ durch einen Treffer der Klinge der Stille). Bei 0 TP zerspringt er und
 setzt sich am Ende der nächsten Runde mit 95 TP an einem Spiegel neu
 zusammen. Endet erst durch das Siegel-Ritual.
 
-**Leylinien-Anker:** Gebunden an Sommerhall (die Spiegelkuppel ist
+**Leylinien-Anker:** Gebunden an Thalendor (die Spiegelkuppel ist
 sein Reich). Wird der Kristallsplitter im Bühnenboden zerstört (→ Finale,
 Szenario G), verliert er Wahre Sicht und die Rettungswurf-Boni
 (alle Rettungswürfe nur noch mit Attributsmodifikator).

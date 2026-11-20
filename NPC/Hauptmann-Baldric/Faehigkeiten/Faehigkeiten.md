@@ -10,7 +10,7 @@ entkommen 2W6 zusätzliche Festgäste.
 
 ## Jeder-kennt-Baldric
 
-Bei sozialen Proben in Sommerhall kann Baldric den Helden Vorteil
+Bei sozialen Proben in Thalendor kann Baldric den Helden Vorteil
 verschaffen, wenn er sie begleitet oder empfiehlt.
 
 ## Der Hauptmann weicht nicht (Story-Fähigkeit)

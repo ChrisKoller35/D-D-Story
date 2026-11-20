@@ -19,7 +19,7 @@ und die Tabelle, was geht und was nicht, stehen in
 |---|---|
 | Lagerfeuer nach der Flucht (Kap. 4b) | Nur wenn die Helden fragen. Toter Held: ja. Die Leute in der Stadt: nein (der Dämon ist dort). |
 | Rückweg aus dem Grauhorn (Kap. 6) | Nur wenn sie nach der Sternenglut weiter fragen. Gleiche Grenzen. |
-| Nach dem Sieg (Kap. 7) | Phae fragt selbst. Jetzt gehen **alle Toten von Sommerhall** auf einmal: das vollkommene Ende. |
+| Nach dem Sieg (Kap. 7) | Phae fragt selbst. Jetzt gehen **alle Toten von Thalendor** auf einmal: das vollkommene Ende. |
 
 Ein zurückgeholter Held kommt mit vollen TP, seiner Ausrüstung und
 ohne Erschöpfung, egal wo sein Körper liegt („Wen ich gesehen habe,

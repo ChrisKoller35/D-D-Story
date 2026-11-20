@@ -69,7 +69,7 @@ Ein Strohziel auf der Bühne, ein Wurf, die ganze Halle schaut zu.
 
 ### 8. Armdrücken gegen „Eisenhand" Grom · am Ausschank bei Thea
 
-Der Schmied von Sommerhall, ungeschlagen seit 12 Jahren, sitzt an der
+Der Schmied von Thalendor, ungeschlagen seit 12 Jahren, sitzt an der
 Langtafel am Ausschank. **Ein Wurf Stärke** gegen seinen.
 
 ### 9. Der Große Festtanz · Spielmann Jost und die Musikanten

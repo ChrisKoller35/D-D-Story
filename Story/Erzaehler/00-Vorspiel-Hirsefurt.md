@@ -1,7 +1,7 @@
 # Vorspiel: Rast in Hirsefurt
 
 **Nur für den Erzähler.** Der Einstieg in die Kampagne, noch vor dem
-Fest (→ danach Kapitel 0.5, der Weg nach Sommerhall, dann Kapitel 1).
+Fest (→ danach Kapitel 0.5, der Weg nach Thalendor, dann Kapitel 1).
 
 ## Ausgangslage
 
@@ -23,10 +23,10 @@ Häfen nach Seranth liegt noch gut zwei Wochen südlich.
 
 Dieser Monat war ihre Pause. Sie sind **vollständig erholt**: volle
 HP, alle Zauberslots, Zustände geheilt, plus **1 Inspiration** pro
-Spieler als „Erholungsbonus". Vom Fest in **Sommerhall** haben sie
+Spieler als „Erholungsbonus". Vom Fest in **Thalendor** haben sie
 noch nichts gehört; davon erfahren sie erst hier, in einem kleinen
 Dorf am Wegrand (Handout: `Story/Spieler/Handout-Fest-Einladung.md`,
-der Flyer als Bild zum Herzeigen: `Story/Spieler/Festflyer-Sommerhall.png`).
+der Flyer als Bild zum Herzeigen: `Story/Spieler/Festflyer-Thalendor.png`).
 
 **Ziel der Szene:** Die Spieler sollen das Gefühl haben, **selbst
 entschieden** zu haben, zum Fest zu gehen. Keine Einladung, kein
@@ -35,7 +35,7 @@ Minuten.
 
 **Ort:** **Hirsefurt**, ein Dorf mit zwölf Häusern, einer Furt über
 den Bach und einem Brunnen unter einer alten Linde. Ein halber Tag
-Fußweg (zu Pferd: ein paar Stunden) nördlich von Sommerhall. Es ist
+Fußweg (zu Pferd: ein paar Stunden) nördlich von Thalendor. Es ist
 der **Tag vor dem Fest**, der 11. Tag des Ährenmonds, früher Nachmittag.
 (Das Fest ist am **12. Tag des Ährenmonds**, so steht es auf dem Flyer.)
 
@@ -49,7 +49,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png` (zum Herzeigen am Tisch).
 - **Dorfplatz** in der Mitte: die alte Linde, davor der Brunnen und eine Bank. Hier rasten die Helden.
 - **Oma Wenkes Moststand**: das Haus mit dem Wirtsschild und den Tischen davor, rechts der Linde. Ein Fass, ein Brett, zwei Kupfer der Becher.
 - **Der Bach** unten im Bild mit der kleinen Steinbrücke; direkt daneben die **Furt** mit flachen Steinen, über die man trockenen Fußes kommt.
-- **Straße nach Sommerhall**: über Furt und Brücke nach Süden (unten aus dem Bild), ein halber Tag zu Fuß.
+- **Straße nach Thalendor**: über Furt und Brücke nach Süden (unten aus dem Bild), ein halber Tag zu Fuß.
 - **Straße aus dem Norden**: oben rechts über die Hügel ins Dorf. Hier kommen die Helden an, und hier klappert Tamos Esel entlang.
 - **Höfe und Obstgärten**: ein Dutzend Höfe mit Gärten, Hühnern, Kühen und einem Stall mit Pferd; Apfelbäume (daher der Most) und Kornfelder rundherum. Mehr gibt es in Hirsefurt nicht, und genau das ist der Punkt.
 
@@ -71,7 +71,7 @@ Datei: `Story/Erzaehler/Karten/Karte-Hirsefurt-KI.png` (zum Herzeigen am Tisch).
 
 Lass die Spieler ankommen: Most kaufen, Pferde tränken, sich
 unterhalten. Die Mostfrau heißt **Oma Wenke** und erzählt gern, dass
-„die ganze Jugend nach Sommerhall gelaufen ist, wegen dem Fest".
+„die ganze Jugend nach Thalendor gelaufen ist, wegen dem Fest".
 
 Ganz leer ist das Dorf aber nicht. Wenkes Kinder sind längst erwachsen
 und stehen draußen auf den Feldern im Westen: Ihr Sohn **Jorin** (Ende
@@ -97,15 +97,15 @@ Fest, „sonst frisst das Wetter die halbe Ernte, und Mutter bringt uns um".
 > Mütze. Er springt
 > ab, bevor der Esel steht, reißt eine Tasche auf und wedelt mit einem
 > Stapel bunter Zettel. „Fest der Goldenen Ähre! Morgen in
-> Sommerhall! Freibier, Festspiele, Preise in Gold!" Dann sieht er
+> Thalendor! Freibier, Festspiele, Preise in Gold!" Dann sieht er
 > eure Waffen, eure Rüstungen, eure Narben – und bleibt wie
 > angewurzelt stehen. „Seid… seid ihr etwa Abenteurer? Echte?"
 
 Der junge Mann ist **Tamo**, Neffe von Hauptmann Baldric
 (→ `NPC/Hauptmann-Baldric/`). Er verteilt seit drei Tagen Flyer in
-allen Dörfern rund um Sommerhall und ist stolz darauf. Er drückt jedem
+allen Dörfern rund um Thalendor und ist stolz darauf. Er drückt jedem
 Helden einen Flyer in die Hand (→ **Handout**, zeig den Spielern das
-Bild `Story/Spieler/Festflyer-Sommerhall.png`). Bevor er weiterzieht
+Bild `Story/Spieler/Festflyer-Thalendor.png`). Bevor er weiterzieht
 (er hat noch zwei Dörfer vor sich, Eschenbrück und Kohlwinkel, und ist
 deshalb **nicht** vor den Helden in der Stadt), kritzelt er jedem auf
 die Rückseite eine Notiz für seine Tante: *„Tante Alma, das sind echte
@@ -124,7 +124,7 @@ mehr nicht; den Ehrenplatz verdienen sie sich unterwegs (→ Kapitel 0.5).
   einen Dolch gewonnen, der im Dunkeln leuchtet!"
 - „Im Gasthaus ‚Zur Sichel' gibt's die weichsten Betten der Welt.
   Sagt meine Tante. Die ist die Wirtin." (Gemeint ist Alma,
-  → `Stadt/Sommerhall/Orte/Gasthaus-Zur-Sichel.md`.)
+  → `Stadt/Thalendor/Orte/Gasthaus-Zur-Sichel.md`.)
 - Leiser, wenn man ihn fragt, ob alles in Ordnung ist: „Na ja… in
   letzter Zeit gibt's kleine Überfälle. Auf der Straße, im Wald
   hinter den Mühlen. Die nehmen einem die Börse ab und rennen weg.
@@ -138,14 +138,14 @@ einmal):**
   `Belohnungen/Uebersicht.md`, „Festpreise").
 - Sie haben es nicht eilig. Seranth läuft nicht weg, und genau solche
   Feste sind der Grund, warum sie langsam reisen.
-- Oma Wenke: „Das Dunkelbier in Sommerhall, Kinder. Dafür lohnt sich
+- Oma Wenke: „Das Dunkelbier in Thalendor, Kinder. Dafür lohnt sich
   der Umweg, und es ist nicht mal einer."
 - Liese, vom Feld herüber: „Geht nur. Einer von uns muss schließlich
   wissen, wie das Freibier war, und Jorin erzählt ja nichts."
 
 **Übergang:** Brechen die Helden auf, frag beiläufig, wohin: direkt
-nach Sommerhall oder erst zu den Räubern. Beides führt in
-**Kapitel 0.5** (→ `00b-Der-Weg-nach-Sommerhall.md`): Auf der Straße
+nach Thalendor oder erst zu den Räubern. Beides führt in
+**Kapitel 0.5** (→ `00b-Der-Weg-nach-Thalendor.md`): Auf der Straße
 wird die Kutsche der Brauerin Thea überfallen, die Helden retten Bier,
 Leute und ein kleines Mädchen mit Holzpferd, liefern die Räuber bei
 Baldric ab und werden dafür zu **Ehrengästen**. Sie übernachten im
@@ -178,7 +178,7 @@ Nägel?" Jorin auf dem Feld hat mehr gesehen, wenn man ihn fragt:
 stehen geblieben." Mehr sagt er nicht, aber es stimmt. Wollen sie
 sofort los, greift die Weiche aus Kapitel 0.5: Wer zuerst zu den
 Räubern will, erlebt keinen Überfall, sondern findet das Lager einen
-Tag früher (→ `00b-Der-Weg-nach-Sommerhall.md`, Szenario D). Wollen
+Tag früher (→ `00b-Der-Weg-nach-Thalendor.md`, Szenario D). Wollen
 sie erst in die Stadt, kommt der Überfall auf der Straße (Szenario A
 dort), und das Lager bleibt für den Festtag (→ Kapitel 1, Szenario E).
 
@@ -189,13 +189,13 @@ dort), und das Lager bleibt für den Festtag (→ Kapitel 1, Szenario E).
 Die Spieler haben die Wahl, also dürfen sie auch Nein sagen. Zwing
 sie nicht, sondern lass die Welt ziehen:
 - **Das Wetter:** Gegen Abend zieht ein Gewitter auf, kalt und
-  stundenlang. Das nächste Dach mit freien Betten ist Sommerhall (in
+  stundenlang. Das nächste Dach mit freien Betten ist Thalendor (in
   Hirsefurt ist alles voll mit Verwandtschaft, die morgen zum Fest
   will).
 - **Tamo:** Sein Esel lahmt auf halbem Weg, Tamo sitzt allein
   am Straßenrand mit zwei Taschen Flyer. Wer ihn nach Hause bringt,
   steht vor Baldric, und der lässt keine Helden einfach wieder gehen.
-- **Der Weg:** Sommerhall liegt ohnehin an ihrer Route nach Süden;
+- **Der Weg:** Thalendor liegt ohnehin an ihrer Route nach Süden;
   wer die Stadt umgehen will, braucht einen Tag länger durch die
   Mühlenwälder, in denen die Räuber sitzen.
 

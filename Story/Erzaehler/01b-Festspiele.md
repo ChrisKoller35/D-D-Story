@@ -48,7 +48,7 @@ Brunnen mit den Marktständen in der Mitte, Festhalle oben rechts.
   Schnauzbart, redet ohne Punkt und Komma), Seiltänzerin **Zilli**
   (schmal, barfuß, sagt wenig und grinst viel), der stumme
   Messerwerfer **Berro** (groß, Narbe, spricht nur mit den Händen).
-- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Sommerhaller.
+- **Der Flinke Pit**, Hütchenspieler am Brunnen, kein Thalendorer.
 - **Spielmann Jost**, Anführer der Musikanten, ruft an der Bühne die
   Nummern aus und spielt abends zum Tanz.
 - **Hauptmann Baldric Immergrün** eröffnet, ist den Tag über überall
@@ -89,7 +89,7 @@ hin. Ole stellt Krüge bereit.
 dabei die Kellertreppe hinter dem Ausschank und erzählt von der Rampe
 zum Hof, über die sie ihre Fässer anliefert. So kennt mindestens ein
 Held den **Kellerausgang**, bevor das Ritual beginnt
-(→ `Stadt/Sommerhall/Orte/Festhalle.md`, Fluchtweg 4). Hat niemand
+(→ `Stadt/Thalendor/Orte/Festhalle.md`, Fluchtweg 4). Hat niemand
 die 20 geschafft, kann Thea das auch dem besten Wurf anbieten.
 
 ## 2. Festplatz · „Hau den Lukas" (Stärke) · Grom
@@ -121,7 +121,7 @@ Geschichte für eine wahre Heldentat, du entscheidest).
 | 2–7 | Höfliches Klatschen, jemand hustet. Der Musikant spielt den Helden freundlich von der Bühne. |
 | 8–14 | Lachen und Jubel, ein paar Leute stehen auf. Solide Nummer. |
 | 15–19 | Zugabe-Rufe, Mira trommelt auf der Bank, Jost spielt dazu. Die Nummer ist das Gespräch des Nachmittags. |
-| 20+ | **Der ganze Platz singt mit** (oder lacht, oder hält den Atem an). Tamo steht auf dem Esel. Danach kennt jeder in Sommerhall den Namen des Helden. |
+| 20+ | **Der ganze Platz singt mit** (oder lacht, oder hält den Atem an). Tamo steht auf dem Esel. Danach kennt jeder in Thalendor den Namen des Helden. |
 
 **Die Abstimmung:** Nach allen Nummern stimmt das Publikum ab.
 **Jeder am Tisch hat eine Stimme** (auch die, die aufgetreten sind,
@@ -216,10 +216,10 @@ Wahrnehmung:
 | 20+ | Der Held packt Pits Handgelenk, die Nuss fällt aus dem Ärmel. Zwei Wachen führen Pit ab, Baldric reicht dem Helden lachend Pits Hut: **15 Gold in Kleingeld**, die Einsätze des Tages. |
 
 **Der Brunnen.** Wer eine Münze hineinwirft und einen Wunsch
-flüstert, dessen Wunsch hört „die Stille", sagt man in Sommerhall.
+flüstert, dessen Wunsch hört „die Stille", sagt man in Thalendor.
 Kein Wurf, nur Stimmung. Merke dir, was die Helden flüstern: Das
 kann in Kapitel 7 oder im Ende wieder auftauchen
-(→ `Stadt/Sommerhall/Orte/Marktplatz.md`). Und hier steht Malrik am
+(→ `Stadt/Thalendor/Orte/Marktplatz.md`). Und hier steht Malrik am
 längsten.
 
 ## 6. Vor der Festhalle · „Tauziehen gegen die Stadtwache" (Athletik) · Baldric und fünf Wachen
@@ -227,7 +227,7 @@ längsten.
 **Szene:** 16 Uhr, der Festplatz vor dem großen Portal. Ein dickes
 Tau, ein Kreidestrich, auf der einen Seite **fünf Wachen in
 Festwesten** (ohne Rüstung, mit Bier), auf der anderen die Helden.
-Baldric steht am Strich mit seiner Liste und pfeift. Halb Sommerhall
+Baldric steht am Strich mit seiner Liste und pfeift. Halb Thalendor
 schaut zu. Sind es weniger als vier Helden, holt Baldric Thea oder
 Grom auf ihre Seite („Ausgleich. Steht so in der Liste.").
 

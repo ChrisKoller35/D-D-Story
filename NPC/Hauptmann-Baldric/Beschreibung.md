@@ -2,17 +2,17 @@
 
 ![Hauptmann Baldric Immergrün](Bild.png)
 
-Hauptmann der Stadtwache von Sommerhall und Ausrichter des Fests der
+Hauptmann der Stadtwache von Thalendor und Ausrichter des Fests der
 Goldenen Ähre (→ `Story/Erzaehler/01-Das-Fest.md`). Am Abend vor dem
 Fest koordiniert er vor der Festhalle Wachen und Helfer und macht die
-Helden zu Ehrengästen (→ `Story/Erzaehler/00b-Der-Weg-nach-Sommerhall.md`).
+Helden zu Ehrengästen (→ `Story/Erzaehler/00b-Der-Weg-nach-Thalendor.md`).
 
 ## Erscheinung & Wesen
 
 Rundlich, rotwangig, Weste voller Ehrennadeln vergangener Feste,
 dröhnendes Lachen. Hauptmann der Stadtwache seit zwanzig Jahren, hat
 aber länger keine Klinge mehr gezogen als jeder seiner Wachleute; er
-führt mit Stimme und Listen, nicht mit dem Schwert. Kennt jeden Namen in Sommerhall und zwei Drittel
+führt mit Stimme und Listen, nicht mit dem Schwert. Kennt jeden Namen in Thalendor und zwei Drittel
 aller Geburtstage. Hinter der Jovialität: echter Mut und echte Liebe
 zu seiner Stadt – Baldric ist der NPC, der im Chaos von Kapitel 2
 Gäste beschützt, statt zu fliehen.

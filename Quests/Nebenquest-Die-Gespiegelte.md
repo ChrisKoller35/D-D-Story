@@ -5,13 +5,13 @@ oder als Mob-Szene in der Stadt (→ `Story/Erzaehler/05-Baldir.md`,
 Szenario C).
 
 **Situation:** Die Flüchtlingsfrau **Jola** aus einem Dorf nahe
-Sommerhall hat eine spiegelglatte Brandnarbe am Arm – sie hat die
+Thalendor hat eine spiegelglatte Brandnarbe am Arm – sie hat die
 wachsende Kuppel berührt und überlebt. Abergläubische nennen sie
 „die Gespiegelte" und wollen sie aus der Stadt werfen: „Sie bringt
 den Spiegel her!"
 
 **Wahrheit:** Die Narbe ist harmlos – ABER: In ihr sieht man bei
-Kerzenlicht einen Wimpernschlag lang **die Festhalle von Sommerhall,
+Kerzenlicht einen Wimpernschlag lang **die Festhalle von Thalendor,
 von innen, heute**. Jola ist ein unfreiwilliges Fenster. Die Helden
 können darin vor dem Finale einen Blick auf Vorgazhuls aktuelle
 Position werfen (1× nutzbar, Arkana DC 13 zum Deuten).

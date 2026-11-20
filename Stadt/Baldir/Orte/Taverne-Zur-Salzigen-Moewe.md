@@ -18,5 +18,5 @@ die Theke ist ein echter Kiel. Voll ab Sonnenuntergang.
 
 **Quartier:** Zimmer für 5 Silber die Nacht, Frühstück mit dem besten
 Blick der Stadt – bei klarem Wetter sieht man am Horizont ein
-Flirren, wo Sommerhall liegt. Niemand in der Taverne spricht gern
+Flirren, wo Thalendor liegt. Niemand in der Taverne spricht gern
 darüber.
