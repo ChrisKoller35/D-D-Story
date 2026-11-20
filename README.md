@@ -14,6 +14,7 @@ Kampagnen-Projekt für Dungeons & Dragons. Synchronisiert über GitHub
   - **Erzaehler/** – Kapitel für den Spielleiter (dich), je mit 3–4 Szenarien
     - **Karten/** – Bildkarten zu den Kapiteln (Hirsefurt, Thalendor) zum Herzeigen am Tisch
   - **Spieler/** – Handouts und Elemente, die die Spieler bekommen/spielen (Fest-Flyer auch als Bild `Festflyer-Thalendor.png`)
+- **Landkarte/** – Übersichtskarte des Landes Valdoren (`Landkarte-Valdoren.png`, Legende und Entfernungen in `Landkarte.md`)
 - **NPC/** – alle Nichtspielercharaktere (außer den Arena-Figuren), pro NPC ein Ordner mit `Beschreibung.md` und Bild `Bild.png`; Hauptfiguren zusätzlich mit
   - **Stats/** und **Faehigkeiten/**
   - **Uebersicht.md** – alle NPCs auf einen Blick: Bild, dann ein paar Sätze
