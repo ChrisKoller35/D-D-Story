@@ -1,5 +1,7 @@
 # TITAN-0 „GOLIATH" – Statistiken
 
+![TITAN-0 „GOLIATH"](../Bild.png)
+
 Der **Champion** der Arena „Magnetron" (→ `../../Uebersicht.md`). Ein
 Kampfroboter aus einem Krieg, den niemand mehr erklärt: 4 m hoch,
 gepanzert wie ein Turm, zwei Arme wie Rammböcke, ein Kopf mit einem

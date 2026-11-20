@@ -1,5 +1,7 @@
 # BOLZEN – Statistiken
 
+![BOLZEN](../Bild.png)
+
 Der **Einsteiger-Kämpfer** der Arena „Magnetron"
 (→ `../../Uebersicht.md`). Ein Schrottroboter, zusammengeschweißt
 aus Hafenkränen, Kühlschränken und einer Hydraulikpresse, zwei Meter

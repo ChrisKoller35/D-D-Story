@@ -24,14 +24,14 @@ hinein. Wer es nicht findet, verpasst nichts von der Story.
 | **Lix Tarenko** | Buchmacherin, nimmt Wetten an | `NPC/Buchmacherin-Lix-Tarenko/` |
 | **BLECH-7** | Service-Roboter mit Tablett und Luftballons | (nur in der Beschreibung) |
 | **BOLZEN** | Kämpfer 1, Schrottroboter | `Kaempfer/BOLZEN/` |
-| **Sska Vireen** | Kämpferin 2, Echsen-Duellantin | `Kaempfer/Sska-Vireen/` |
+| **Gnash Dreizahn** | Kämpfer 2, Krokodil-Gladiator in Panzerrüstung | `Kaempfer/Gnash-Dreizahn/` |
 | **Mack „Der Hammer" Dorrigan** | Kämpfer 3, Cyborg-Boxer | `Kaempfer/Mack-Dorrigan/` |
-| **Xil'tharr** | Kämpfer 4, Insektoid-Psioniker | `Kaempfer/Xiltharr/` |
+| **Serrak Goldmähne** | Kämpfer 4, Katzenkrieger mit Energiespeer | `Kaempfer/Serrak-Goldmaehne/` |
 | **TITAN-0 „GOLIATH"** | Kämpfer 5, der Champion | `Kaempfer/TITAN-0-GOLIATH/` |
 
 - Zugang: Fest der Goldenen Ähre, Zirkus (→ `Story/Erzaehler/01b-Festspiele.md`, Abschnitt Zirkus)
 - Figuren: `NPC/` (in diesem Ordner)
-- Die fünf Kämpfer: `Kaempfer/` (in diesem Ordner, je `Stats/` und `Faehigkeiten/`)
+- Die fünf Kämpfer: `Kaempfer/` (in diesem Ordner, je `Stats/`, `Faehigkeiten/` und ein Bild `Bild.png`)
 - Für 4 Helden der Stufe 7; Kämpfe sind 1 gegen 1.
 
 ---
@@ -179,7 +179,7 @@ an. Er lässt sich nicht vom Gegenteil überzeugen.
 1. **Ankommen** (Vorraum, Stadt kurz zeigen, Übersetzer-Chip).
 2. **Gold tauschen** bei Nubbo.
 3. **Schaukampf ansehen:** Bevor ein Held antritt, läuft ein Kampf
-   zwischen zwei Arena-Kämpfern (z. B. Sska Vireen gegen BOLZEN). Lix
+   zwischen zwei Arena-Kämpfern (z. B. Serrak Goldmähne gegen BOLZEN). Lix
    nimmt Wetten an, die Spieler würfeln die Quote aus (W6: 1–3 der
    Favorit gewinnt, 4–6 der Außenseiter). So lernt die Gruppe das
    System ohne Risiko.
@@ -220,9 +220,9 @@ findet, der zu ihm passt. Werte und Fähigkeiten unter `Kaempfer/`.
 | Nr. | Kämpfer | Stil | Preisgeld | Quote bei Lix |
 |---|---|---|---|---|
 | 1 | **BOLZEN**, Schrottroboter | Langsamer Tank, Einsteiger | 150 Cr | 1:1 |
-| 2 | **Sska Vireen**, Echsen-Duellantin | Schnell, zwei Plasmaklingen | 250 Cr | 2:1 |
+| 2 | **Gnash Dreizahn**, Krokodil-Gladiator | Panzer auf zwei Beinen, Biss und Todesrolle | 250 Cr | 2:1 |
 | 3 | **Mack „Der Hammer" Dorrigan**, Cyborg-Boxer | Nahkampf-Brawler, fällt auf Finten rein | 300 Cr | 3:1 |
-| 4 | **Xil'tharr**, Insektoid-Psioniker | Trickreich, gegen Zauberer gedacht | 400 Cr | 3:1 |
+| 4 | **Serrak Goldmähne**, Katzenkrieger | Schnell, Energiespeer, stolz | 250 Cr | 2:1 |
 | 5 | **TITAN-0 „GOLIATH"**, Champion | Großer Kampfroboter, nur für Mutige | 1.000 Cr + Champion-Gürtel | 6:1 |
 
 Übersicht mit Kurzwerten: `Kaempfer/Uebersicht.md`.

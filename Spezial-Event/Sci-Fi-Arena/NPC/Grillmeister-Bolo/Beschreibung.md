@@ -25,9 +25,9 @@ ungefragt, wie man sie schlägt (→ „Bolos Tipps" unten).
 ## Bolos Tipps (gratis, wenn man dreimal bei ihm isst oder ihn ernsthaft lobt)
 
 - „BOLZEN? Blitz. Irgendwas mit Blitz. Dann steht er da wie ein Kühlschrank."
-- „Die Echse? Lass sie kommen. Sie pariert alles, was sie sieht. Also lass sie nichts sehen."
+- „Gnash? Kleine Schläge prallen ab. Hau EINMAL richtig. Oder wirf ihn um, der Bauch ist weich. Sag ihm nicht, dass ich das gesagt habe."
 - „Mack? Mack ist mein Freund. Mack ist dumm. Täusch ihn an, er beißt an. Sag ihm nicht, dass ich das gesagt habe."
-- „Der Käfer da oben? Schalt den Kopf aus. Ohrenstöpsel, Lärm, Wut, egal. Er mag keine Leute, die nicht denken."
+- „Die Katze? Lob sie nicht. Oder doch, einmal. Und dann beleidige sie. Dann vergisst sie den Speer."
 - „GOLIATH? Hinten. Drei Kerne. Keiner kommt hinten dran. Du vielleicht."
 
 **Bolos Freundschaft:** Wer dreimal isst, bekommt beim Abschied einen

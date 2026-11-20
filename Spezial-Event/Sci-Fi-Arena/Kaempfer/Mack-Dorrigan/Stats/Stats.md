@@ -1,8 +1,11 @@
 # Mack „Der Hammer" Dorrigan – Statistiken
 
+![Mack „Der Hammer" Dorrigan](../Bild.png)
+
 Der **Brawler** der Arena „Magnetron" (→ `../../Uebersicht.md`). Ein
 Mensch, oder war es mal: 2,10 m, Boxer von einer Minenwelt, beide
-Arme bis zur Schulter durch Hydraulik ersetzt, dazu eine Stahlplatte
+Arme bis zur Schulter durch dampfbetriebene Messing-Hydraulikfäuste
+mit blau glimmenden Energiekammern ersetzt, dazu eine Stahlplatte
 im Kiefer, die er beim Grinsen zeigt. Mack ist laut, herzlich, dumm
 wie ein Amboss und der beliebteste Kämpfer im Haus. Er umarmt jeden
 Gegner, vorher und nachher.
