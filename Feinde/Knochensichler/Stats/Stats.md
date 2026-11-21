@@ -17,22 +17,23 @@ Er **bleibt im Festsaal**: Wer durch das große Portal hinaus ist, ist
 vor ihm sicher. Er verfolgt niemanden nach draußen.
 
 Balanciert für **4 Helden, Stufe 7, mit über 100 TP** (die Gruppe
-spielt bewusst stark).
+spielt bewusst stark). HG 11 ist Absicht: Er soll Druck machen, nicht
+fair sein.
 
 | | |
 |---|---|
 | Typ | Untot, Groß |
-| RK | 16 (Knochenpanzer) |
-| TP | 115 |
+| RK | 17 (Knochenpanzer) |
+| TP | 228 (24W10+96) |
 | Bewegung | 12 m, Klettern 9 m |
-| STR 20 (+5) | GES 16 (+3) |
+| STR 22 (+6) | GES 16 (+3) |
 | KON 18 (+4) | INT 4 (−3) |
 | WEI 12 (+1) | CHA 6 (−2) |
-| Rettungswürfe | GES +6, KON +7 |
-| Immunitäten | Gift, Erschöpfung, Bezauberung, Furcht |
+| Rettungswürfe | GES +7, KON +8, WEI +5 |
+| Immunitäten | Gift, nekrotisch; Erschöpfung, Bezauberung, Furcht, Vergiftet |
 | Resistenzen | Hieb und Stich aus nicht-magischen Angriffen |
 | Sinne | Dunkelsicht 18 m |
-| HG | 6 (2.300 XP) |
+| HG | 11 (7.200 XP) |
 
 **Kein Spiegel:** Treffer auf den Knochensichler werden **nicht**
 reflektiert und geben **keine Aufladung**. Er ist der Gegner, auf den

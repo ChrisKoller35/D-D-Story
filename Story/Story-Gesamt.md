@@ -77,8 +77,8 @@ Spiegelherr** erscheint – **unendlich stark** und geschützt durch den
   (W10-Tabelle). Heilung auf Freunde kommt nur halb an und trifft den
   Heiler (Heilwert mal W4), Stärkungen auf Freunde bekommt er auch.
 - Bei **4 und 8 Aufladungen** ruft er seine „Kinder" aus der Aura: den
-  **Knochensichler** (HG 6, geht auf den Verwundetsten los, bleibt im Saal) und den
-  **Glutherold** (HG 9, jagt Helden). Treffer auf die beiden werden
+  **Knochensichler** (HG 11, geht auf den Verwundetsten los, bleibt im Saal) und den
+  **Glutherold** (HG 14, jagt Helden). Treffer auf die beiden werden
   nicht gespiegelt.
 - Der Schild hat **10 Aufladungen**; jeder Treffer lädt ihn um 1 auf,
   dazu Hunger (+1 pro Runde, solange Menschen im Saal sind; danach
