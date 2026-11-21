@@ -45,8 +45,9 @@ entscheidet.
   dem Kutschbock und hält ein **Holzpferd** fest, das sie „Hafer" nennt.
   Sie ist das Kind, das in Kapitel 2 geopfert wird. Je mehr die Spieler
   sie hier mögen, desto härter trifft es sie dort.
-- **Ole**, Fuhrknecht, 19, hat zum ersten Mal die Zügel und sieht nach
-  dem Überfall aus, als würde er sie nie wieder anfassen.
+- **Ole**, Theas Sohn, 19, Miras großer Bruder, hat zum ersten Mal die
+  Zügel und sieht nach dem Überfall aus, als würde er sie nie wieder
+  anfassen.
 - **Die Räuber:** sechs Mann aus Hannes Bande (→ Kapitel 1, Szenario E),
   Tagelöhner aus dem Nachbartal, keine Mörder. Vier mit Knüppeln auf
   der Straße, zwei mit Kurzbögen im Gebüsch. **Werte:** RK 12, TP 11,
