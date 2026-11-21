@@ -2,18 +2,18 @@
 
 ## Mehrfachangriff
 
-Zwei Angriffe mit den **Sichelklauen**.
+Drei Angriffe mit den **Sichelklauen**.
 
 ## Sichelklaue (Angriff)
 
-Nahkampf +8, Reichweite 3 m, ein Ziel: 14 (2W8+5) Hiebschaden.
-Trifft er dasselbe Ziel in einer Runde zweimal, blutet es: 7 (2W6)
+Nahkampf +10, Reichweite 3 m, ein Ziel: 19 (3W8+6) Hiebschaden.
+Trifft er dasselbe Ziel in einer Runde zweimal, blutet es: 11 (2W10)
 zusätzlicher Schaden zu Beginn seines nächsten Zuges.
 
 ## Sensenschnitt (Nachladen 5–6)
 
-Er wirbelt beide Klauen im Kreis. Jede Kreatur in 3 m: GES DC 15
-oder 22 (5W8) Hiebschaden und liegend. Bei Erfolg halber Schaden und
+Er wirbelt beide Klauen im Kreis. Jede Kreatur in 3 m: GES DC 17
+oder 36 (8W8) Hiebschaden und liegend. Bei Erfolg halber Schaden und
 nicht liegend. Gäste in diesem Bereich sterben ohne Wurf (sie zählen
 zum Toten-Wurf dieser Runde dazu, → `Story/Erzaehler/02b-Evakuierung.md`).
 
@@ -34,13 +34,13 @@ Extra – aber beschreibe das Gedränge.
 
 ## Sprung der Gebeine (Bonusaktion)
 
-Er springt bis zu 9 m weit über Tische, Gäste und Trümmer, ohne
+Er springt bis zu 12 m weit über Tische, Gäste und Trümmer, ohne
 Gelegenheitsangriffe auszulösen. So kommt er in einer Runde vom
 Dämon zum Verwundeten.
 
 ## Zerspringen (bei 0 TP)
 
-Die Knochen fliegen auseinander: Jede Kreatur in 3 m GES DC 12 oder
-5 (2W4) Stichschaden. Der silberne Glanz in den Augenhöhlen erlischt,
+Die Knochen fliegen auseinander: Jede Kreatur in 3 m GES DC 15 oder
+9 (4W4) Stichschaden. Der silberne Glanz in den Augenhöhlen erlischt,
 und Vorgazhul kommentiert es höflich: „Schade. Es war ein schönes
 Kind."
