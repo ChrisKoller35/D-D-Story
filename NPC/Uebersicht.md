@@ -36,19 +36,19 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 ![Brauerin Thea Glutfaust](Brauerin-Thea-Glutfaust/Bild.png)
 
-**Brauerei im Westen von Thalendor.** Mitte vierzig, Arme wie Fässer, Stimme wie ein Zapfhahn, lacht laut und flucht lauter. Ihr gehört die Brauerei; ihr Jahrgangs-Dunkelbier („das gute Zeug“) gibt es nur abends in der Festhalle, und die Helden retten es auf dem Weg nach Thalendor vor Räubern. Haut im Kampf selbst mit (Schlegel +4, 1W8+2). Steht am Festabend am Ausschank, schlägt beim „Anstich“ das erste Fass an und zeigt dem besten Werfer die Kellertreppe hinter dem Ausschank. Mutter von Mira; bei der Evakuierung ein Verbündeter mit Stimme.
+**Brauerei im Westen von Thalendor.** Mitte vierzig, Arme wie Fässer, Stimme wie ein Zapfhahn, lacht laut und flucht lauter. Ihr gehört die Brauerei; ihr Jahrgangs-Dunkelbier („das gute Zeug“) gibt es nur abends in der Festhalle, und die Helden retten es auf dem Weg nach Thalendor vor Räubern. Haut im Kampf selbst mit (Schlegel +4, 1W8+2). Steht am Festabend am Ausschank, schlägt beim „Anstich“ das erste Fass an und zeigt dem besten Werfer die Kellertreppe hinter dem Ausschank. Mutter von Ole und Mira; bei der Evakuierung ein Verbündeter mit Stimme.
 
 ### Mira
 
 ![Mira](Mira/Bild.png)
 
-**Theas Tochter, das Mädchen mit dem Holzpferd.** Sieben Jahre alt, Sommersprossen, Zahnlücke, und ein Holzpferd namens „Hafer“, das sie nie loslässt. Sitzt beim Überfall auf dem Kutschbock, schreit nicht, starrt nur, und hält den Helden danach das Pferd hin: „Hafer hatte keine Angst.“ Läuft den Helden den ganzen Festtag hinterher und abends allein zwischen den Tischen herum, weil die Mutter ausschenkt. Sie ist das Kind, das Malrik im Ritual opfert. Je mehr die Spieler sie mögen, desto härter trifft es sie. Flüstert, wenn niemand den Kultisten findet: „Der Mann in Grau hat gar kein Gesicht.“
+**Theas Tochter, das Mädchen mit dem Holzpferd.** Sieben Jahre alt, Sommersprossen, Zahnlücke, und ein Holzpferd namens „Hafer“, das sie nie loslässt; ihr großer Bruder ist Ole. Sitzt beim Überfall auf dem Kutschbock, schreit nicht, starrt nur, und hält den Helden danach das Pferd hin: „Hafer hatte keine Angst.“ Läuft den Helden den ganzen Festtag hinterher und abends allein zwischen den Tischen herum, weil die Mutter ausschenkt. Sie ist das Kind, das Malrik im Ritual opfert. Je mehr die Spieler sie mögen, desto härter trifft es sie. Flüstert, wenn niemand den Kultisten findet: „Der Mann in Grau hat gar kein Gesicht.“
 
 ### Ole
 
 ![Ole](Ole/Bild.png)
 
-**Theas Fuhrknecht.** Neunzehn, hat zum ersten Mal die Zügel von Theas Bierkutsche und sieht nach dem Überfall aus, als würde er sie nie wieder anfassen. Steht beim Fest mit Thea an der Brauerei und stellt Krüge bereit; auf der offenen Bühne jongliert er mit drei Krügen und lässt einen fallen.
+**Theas Sohn.** Neunzehn, Miras großer Bruder, hat zum ersten Mal die Zügel der Bierkutsche seiner Mutter und sieht nach dem Überfall aus, als würde er sie nie wieder anfassen. Steht beim Fest mit Thea an der Brauerei und stellt Krüge bereit; auf der offenen Bühne jongliert er mit drei Krügen und lässt einen fallen.
 
 ### „Eisenhand“ Grom
 
@@ -62,12 +62,6 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 
 **Anführer der Musikanten.** Spielt mit seinen Musikanten tagsüber in den Lindenalleen, ruft um 14 Uhr an der Bühne auf dem Festplatz die Nummern aus und spielt abends in der Festhalle zum Großen Festtanz. Freundlich, laut, spielt jeden, der auf der Bühne scheitert, höflich wieder hinunter. Während des Tanzes hört man zwischen seinen Liedern den Dorfklatsch, auch über den grauen Pilger in Zimmer 4.
 
-### Die Weise Frau Henna
-
-![Die Weise Frau Henna](Weise-Frau-Henna/Bild.png)
-
-**Wahrsagerin am Markt.** Sitzt in ihrem Wahrsagerzelt zwischen den Ständen am Brunnen und weiß mehr, als sie sagt. Kein Spiel, kein Wurf: nur eine Stimme für Gruppen, die straucheln. Im zweiten Durchlauf sagt sie der erinnernden Person: „Ein Traum kommt nie zweimal durch dieselbe Tür.“
-
 ### Der Flinke Pit
 
 ![Der Flinke Pit](Der-Flinke-Pit/Bild.png)
@@ -79,18 +73,6 @@ Alle Nichtspielercharaktere der Kampagne, in der Reihenfolge, in der die Helden 
 ![Direktor Ottokar Flimm](Direktor-Ottokar-Flimm/Bild.png)
 
 **Wanderzirkus Flimm.** Zylinder, Schnauzbart, redet ohne Punkt und Komma. Sein gelbes Zirkuszelt steht beim Fest auf dem Festplatz, davor das Seil für „Zillis Seil“. Trommelt Gäste zusammen und feiert jeden Mutigen („Ein Applaus für den Mut!“). Nimmt Valerian Quecks seit zwölf Jahren mit, „weil er pünktlich zahlt“. Der Zirkus reist am Morgen nach dem Fest ab; im zweiten Durchlauf können seine Wagen bei der Evakuierung Dutzende Menschen mitnehmen.
-
-### Seiltänzerin Zilli
-
-![Seiltänzerin Zilli](Seiltaenzerin-Zilli/Bild.png)
-
-**Wanderzirkus Flimm.** Schmal, barfuß, sagt wenig und grinst viel. Tanzt zur Vorführung über das Seil in vier Metern Höhe, als sei es ein Gehweg, und hilft jedem aus dem Netz, der es nicht schafft. Wer mit einem Salto vom Seil kommt, bekommt von ihr ernsthaft eine Anstellung angeboten: „Wir brechen morgen früh auf.“
-
-### Messerwerfer Berro
-
-![Messerwerfer Berro](Messerwerfer-Berro/Bild.png)
-
-**Wanderzirkus Flimm.** Groß, Narbe im Gesicht, stumm: spricht nur mit den Händen. Hält bei „Zillis Seil“ die Leiter und wirft in der Vorstellung Messer. Ein ruhiger Riese, der nichts erklärt und alles mitbekommt.
 
 ### Hanne „Krähe“
 

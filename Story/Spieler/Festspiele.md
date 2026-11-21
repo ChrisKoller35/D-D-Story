@@ -13,7 +13,7 @@ das Fest in die Große Festhalle um.
 
 ## Tagsüber: sechs Festorte in der Stadt
 
-### 1. Brauerei (im Westen) · „Der Anstich" · Brauerin Thea Glutfaust und Fuhrknecht Ole
+### 1. Brauerei (im Westen) · „Der Anstich" · Brauerin Thea Glutfaust und ihr Sohn Ole
 
 Brauerin Thea Glutfaust stellt ein frisches Fass hin, der Hahn liegt
 daneben, der Holzhammer auch. Ein Schlag, und das Bier soll laufen.

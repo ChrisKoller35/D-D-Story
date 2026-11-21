@@ -37,7 +37,7 @@ Brunnen mit den Marktständen in der Mitte, Festhalle oben rechts.
 
 ## Figuren an den Festorten
 
-- **Brauerin Thea Glutfaust** mit Fuhrknecht **Ole** an der Brauerei.
+- **Brauerin Thea Glutfaust** mit ihrem Sohn **Ole** an der Brauerei.
   Thea kennt die Helden vom Überfall (→ Kapitel 0.5).
 - **Mira** (7, Holzpferd „Hafer") läuft den Helden den ganzen Tag
   hinterher, besonders beim Lukas und an der Bühne. Sie ist das Kind
@@ -132,7 +132,7 @@ mitmachen, die auch Stimmen holen:
   Lachen, aber lieb gemeint).
 - **Grom** brummt ein Schmiedelied, eine Strophe, dann hat er genug
   (Wurf 12: die Männer grölen mit).
-- **Ole**, Theas Fuhrknecht, jongliert mit drei Krügen und lässt
+- **Ole**, Theas Sohn, jongliert mit drei Krügen und lässt
   einen fallen (Wurf 6).
 
 Bei Gleichstand entscheidet der höhere Wurf. Der Sieger ist der Star
